@@ -10,5 +10,6 @@ dataset (no chunks).
 - `agent-details.json` — per-agent detail records, keyed by slug
 - `companies.json` / `companyDetails.json` — 24 company profiles
 - `tutorials.json` — 10 tutorials (full markdown in `content`)
+- `tool-videos.json` — community YouTube tutorials embedded on tool pages
 - `launches.json` — launch entries (empty until launch dates exist)
 - `navigation.json` — header nav + footer columns

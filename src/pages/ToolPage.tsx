@@ -16,6 +16,7 @@ import { categoryBySlug, companyByName, normalizeCompanyName, toolBySlug } from 
 import { siteUrl } from '../data/site'
 import { toolDetails } from '../data/toolDetails'
 import { tutorials } from '../data/tutorials'
+import { toolVideoBySlug } from '../data/toolVideos'
 import { getCategoryTools, PRICING_LABELS, sortTools } from '../features/category/listing'
 import { usePageMeta } from '../features/seo/usePageMeta'
 import type { ToolSlug } from '../types'
@@ -89,6 +90,7 @@ export default function ToolPage() {
     () => (tool ? tutorials.find((item) => item.toolsUsed.includes(tool.slug)) : undefined),
     [tool],
   )
+  const toolVideo = tool ? toolVideoBySlug.get(tool.slug) : undefined
   const related = useMemo(() => {
     if (!tool || !category) return []
     return sortTools(
@@ -424,6 +426,23 @@ export default function ToolPage() {
 
           <section id="tutorial" className={css.section}>
             <h2>Tutorial</h2>
+            {toolVideo ? (
+              <div className={css.videoEmbed}>
+                <div className={css.videoFrame}>
+                  <iframe
+                    src={`https://www.youtube-nocookie.com/embed/${toolVideo.youtubeId}`}
+                    title={`${toolVideo.title} — YouTube tutorial`}
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  />
+                </div>
+                <p className={css.videoCaption}>
+                  {toolVideo.title}
+                  {toolVideo.channel ? ` — by ${toolVideo.channel} on YouTube` : ' — on YouTube'}
+                </p>
+              </div>
+            ) : null}
             <div className={css.video}>
               <div className={css.videoPlaceholder} aria-hidden="true">
                 <PlayCircle size={48} />
