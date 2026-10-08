@@ -189,8 +189,8 @@
   --radius-sm: 8px;
   --radius-logo: 7px;
 
-  --section-pad: 72px;
-  --section-intro-gap: 40px;
+  --section-pad: 48px;
+  --section-intro-gap: 24px;
   --content-max: 1180px;
   --container-wide: 1440px;
   --intro-max: 640px;
@@ -240,8 +240,8 @@
     --text-card: 18px;
     --text-lead: 18px;
 
-    --section-pad: 112px;
-    --section-intro-gap: 64px;
+    --section-pad: 64px;
+    --section-intro-gap: 40px;
     --intro-max: 720px;
   }
 }
