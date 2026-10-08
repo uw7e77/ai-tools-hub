@@ -5,13 +5,14 @@ import { ToolCard } from '../components/cards/ToolCard'
 import { FilterSheet } from '../components/category/FilterSheet'
 import { NewsletterCTA } from '../components/home/NewsletterCTA'
 import { ToolsFilterSidebar } from '../components/tools/ToolsFilterSidebar'
-import { Breadcrumbs } from '../components/ui/Breadcrumbs'
 import { Button } from '../components/ui/Button'
 import { CardGrid } from '../components/ui/CardGrid'
 import { EmptyState } from '../components/ui/EmptyState'
 import { Pagination } from '../components/ui/Pagination'
 import { SortDropdown } from '../components/ui/SortDropdown'
 import { usePageMeta } from '../features/seo/usePageMeta'
+import { tools } from '../data/tools'
+import { categories } from '../data/categories'
 import type { CategorySlug, PricingType } from '../types'
 import {
   buildToolsSearch,
@@ -30,10 +31,21 @@ export default function ToolsPage() {
   const listingState = useMemo(() => parseToolsParams(searchParams), [searchParams])
   const listing = useMemo(() => deriveToolsListing(listingState), [listingState])
 
+  const stats = useMemo(() => {
+    const freeCount = tools.filter(
+      (tool) => tool.pricing === 'free' || tool.pricing === 'freemium',
+    ).length
+    return [
+      { value: tools.length.toLocaleString(), label: 'AI tools' },
+      { value: String(categories.length), label: 'Categories' },
+      { value: freeCount.toLocaleString(), label: 'Free to try' },
+    ]
+  }, [])
+
   usePageMeta({
-    title: 'All AI Tools | AIToolsHub',
-    description: `Browse all ${listing.totalCount} AI tools in the AIToolsHub directory. Filter by category and pricing, sort, and find the right tool.`,
-    path: '/tools',
+    title: 'AIToolsHub — Discover the Best AI Tools',
+    description: `Browse all ${listing.totalCount} AI tools in the AIToolsHub directory. Filter by category and pricing, sort, and find the right tool for the job.`,
+    path: '/',
   })
 
   const updateListing = useCallback(
@@ -95,7 +107,7 @@ export default function ToolsPage() {
 
   const toPage = (page: number) => {
     const query = buildToolsSearch({ ...listingState, page }).toString()
-    return query ? `/tools?${query}` : '/tools'
+    return query ? `/?${query}` : '/'
   }
 
   const sidebarProps = {
@@ -113,17 +125,27 @@ export default function ToolsPage() {
 
   return (
     <>
+      <section className={css.banner}>
+        <div className="container">
+          <p className={css.eyebrow}>The AI tools directory</p>
+          <h1 className={css.title}>Find the right AI tool for the job</h1>
+          <p className={css.subtitle}>
+            Every tool catalogued in one place — {listing.totalCount.toLocaleString()} and
+            counting. Filter by category or pricing to narrow it down.
+          </p>
+          <dl className={css.stats}>
+            {stats.map((stat) => (
+              <div key={stat.label} className={css.stat}>
+                <dt className={css.statLabel}>{stat.label}</dt>
+                <dd className={css.statValue}>{stat.value}</dd>
+              </div>
+            ))}
+          </dl>
+        </div>
+      </section>
+
       <section className="section">
         <div className="container">
-          <Breadcrumbs items={[{ label: 'Home', to: '/' }, { label: 'All Tools' }]} />
-          <div className={css.hero}>
-            <h1 className={css.title}>All AI Tools</h1>
-            <p className={css.subtitle}>
-              Every tool in the directory — {listing.totalCount.toLocaleString()} and counting.
-              Filter by category or pricing to narrow it down.
-            </p>
-          </div>
-
           <div className={css.listing} id="tool-list">
             <aside className={css.sidebar}>
               <ToolsFilterSidebar {...sidebarProps} />

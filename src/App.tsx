@@ -1,5 +1,5 @@
 import { lazy, Suspense, useEffect, useState } from 'react'
-import { Route, Routes, useLocation, useParams } from 'react-router-dom'
+import { Navigate, Route, Routes, useLocation, useParams } from 'react-router-dom'
 import { AgentsSkeleton } from './components/agents/AgentsSkeleton'
 import { CategoriesSkeleton } from './components/categories/CategoriesSkeleton'
 import { CategorySkeleton } from './components/category/CategorySkeleton'
@@ -9,7 +9,6 @@ import { Header } from './components/layout/Header'
 import { ToolSkeleton } from './components/tool/ToolSkeleton'
 import { TutorialDetailSkeleton } from './components/tutorial/TutorialDetailSkeleton'
 import { ErrorBoundary } from './features/errors/ErrorBoundary'
-import { HomePage } from './pages/HomePage'
 import { NotFound } from './pages/NotFound'
 
 const CategoriesPage = lazy(() => import('./pages/CategoriesPage'))
@@ -140,7 +139,15 @@ function App() {
       <Header />
       <main id="main">
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route
+            path="/"
+            element={
+              <Suspense fallback={<CategoriesSkeleton />}>
+                <ToolsPage />
+              </Suspense>
+            }
+          />
+          <Route path="/tools" element={<Navigate to="/" replace />} />
           <Route
             path="/categories"
             element={
@@ -149,14 +156,7 @@ function App() {
               </Suspense>
             }
           />
-          <Route
-            path="/tools"
-            element={
-              <Suspense fallback={<CategoriesSkeleton />}>
-                <ToolsPage />
-              </Suspense>
-            }
-          />
+          <Route path="/tools" element={<Navigate to="/" replace />} />
           <Route path="/category/:slug" element={<CategoryRoute />} />
           <Route path="/tool/:slug" element={<ToolRoute />} />
           <Route path="/agents" element={<AgentsRoute />} />
