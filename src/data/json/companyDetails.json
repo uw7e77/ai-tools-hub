@@ -1,0 +1,1073 @@
+{
+ "01-ai": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "Last known: $1B+ (November 2023)",
+   "funding": "unverified (Pre-IPO financing, Mid-2026)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Incubation / seed round — unverified — led by Sinovation Ventures (incubator; Lee reportedly borrowed from the fund for early "
+   },
+   {
+    "year": 2023,
+    "event": "Venture round round — unverified (valuation $1B+) — led by Participants incl. Alibaba Cloud — exact amount undisclosed"
+   },
+   {
+    "year": 2026,
+    "event": "Pre-IPO financing round — unverified — led by Sought per Bloomberg/WAIC reporting; not confirmed closed"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-05-28",
+    "title": "2027 IPO plan announced (May 28, 2026)",
+    "summary": "Lee announced the 2027 IPO and 2026 profitability target; >RMB 1.5B in orders as of May; 20M additional stock options issued to staff as the company shifts to industrial AI applications.",
+    "source": "KrASIA"
+   }
+  ],
+  "relatedCompanies": [
+   "moonshot-ai",
+   "zhipu-ai",
+   "deepseek",
+   "alibaba-qwen",
+   "minimax"
+  ]
+ },
+ "alibaba-qwen": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "~$263 billion — parent-company market cap (NOT a standalone Qwen valuation).",
+   "funding": null
+  },
+  "timeline": [],
+  "news": [
+   {
+    "date": "2026-09-23",
+    "title": "Qwen-Audio-3.1 released (Sept 23, 2026)",
+    "summary": "five-model audio family (ASR, TTS, realtime voice interaction) with steep API price cuts, up to 95% on ASR.",
+    "source": "TPS Report"
+   },
+   {
+    "date": "2026-09-20",
+    "title": "Qwen-Image-2.1 released (Sept 20, 2026)",
+    "summary": "7B-parameter open-weight image generation/editing model with native transparency and 10-reference-image support.",
+    "source": "Gadgets Now"
+   }
+  ],
+  "relatedCompanies": [
+   "deepseek",
+   "moonshot-ai",
+   "zhipu-ai",
+   "minimax",
+   "openai"
+  ]
+ },
+ "anthropic": {
+  "focus": null,
+  "stats": {
+   "employees": "~2,500 (2026)",
+   "valuation": "$965B post-money",
+   "funding": "$65B (at $965B) (Series H, May 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2021,
+    "event": "Series A round — $124M — led by Jaan Tallinn"
+   },
+   {
+    "year": 2022,
+    "event": "Series B round — $580M — led by (undisclosed lead)"
+   },
+   {
+    "year": 2023,
+    "event": "Series C round — $450M — led by Google, Spark Capital"
+   },
+   {
+    "year": 2023,
+    "event": "Strategic (Amazon) round — Up to $4B — led by Amazon"
+   },
+   {
+    "year": 2023,
+    "event": "Strategic (Google) round — Up to $2B — led by Google"
+   },
+   {
+    "year": 2024,
+    "event": "Strategic (Amazon) round — $4B — led by Amazon"
+   },
+   {
+    "year": 2025,
+    "event": "Series E round — $3.5B (at $61.5B) — led by Lightspeed"
+   },
+   {
+    "year": 2025,
+    "event": "Debt round — $2.5B — led by JPMorgan, Goldman Sachs, Barclays, others"
+   },
+   {
+    "year": 2025,
+    "event": "Series F round — $13B (at $183B) — led by ICONIQ, Fidelity, Lightspeed"
+   },
+   {
+    "year": 2026,
+    "event": "Series F extension round — $10B (at $350B) — led by GIC, Coatue"
+   },
+   {
+    "year": 2026,
+    "event": "Series G round — $30B (at $380B) — led by GIC, Coatue, Fidelity, ICONIQ"
+   },
+   {
+    "year": 2026,
+    "event": "Series H round — $65B (at $965B) — led by Altimeter, Dragoneer, Sequoia"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-10-02",
+    "title": "Anthropic warns of AI \"existential risks\" and government-attitude risks in IPO prospectus",
+    "summary": "(Reuters, Oct 2, 2026).",
+    "source": "Reuters"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "google-deepmind",
+   "xai",
+   "meta-ai",
+   "mistral-ai"
+  ]
+ },
+ "character-ai": {
+  "focus": null,
+  "stats": {
+   "employees": "null (unverified; ~20% of staff moved to Google in Aug 2024)",
+   "valuation": "Last marked: ~$2.5B (August 2024)",
+   "funding": "~$2.7B (Technology licensing deal (not an equity round), Aug 2024)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Series A round — $150M — led by a16z (Andreessen Horowitz) — Nat Friedman, Elad Gil, SV Angel, A Capital partici"
+   },
+   {
+    "year": 2024,
+    "event": "Technology licensing deal (not an equity round) round — ~$2.7B — led by Google (non-exclusive license + investor-share buyout; ~$2.5B effective valuatio"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-18",
+    "title": "Disney hired CEO Karandeep Anand as its first-ever CTO (Sept 18, 2026)",
+    "summary": "starts Oct 2, reporting to Disney CEO Josh D'Amaro; a number of Character.AI's technical staff expected to follow; no successor named at Character.AI.",
+    "source": "WSJ"
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Character.AI + Google settled family lawsuits (Jan 2026)",
+    "summary": "settlements in suits accusing AI companions of contributing to teens' mental-health crises and a Florida teen's suicide; terms undisclosed, no liability admitted; under-18 open chat was shut down Nov 25, 2025 with age checks added.",
+    "source": "Eastern Herald"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "meta-ai",
+   "xai",
+   "minimax"
+  ]
+ },
+ "cohere": {
+  "focus": null,
+  "stats": {
+   "employees": "null",
+   "valuation": "$6.8B",
+   "funding": "$500M (Growth, 2025)"
+  },
+  "timeline": [
+   {
+    "year": 2021,
+    "event": "Series A round — $40M — led by unverified (reported by The Globe and Mail)"
+   },
+   {
+    "year": 2022,
+    "event": "Series B round — $125M — led by Tiger Global"
+   },
+   {
+    "year": 2023,
+    "event": "Series C round — $270M — led by Inovia Capital ($2.2B valuation)"
+   },
+   {
+    "year": 2024,
+    "event": "Series D round — $500M — led by PSP Investments; participants: Cisco, AMD Ventures, Fujitsu, EDC, Nvidia, Salesf"
+   },
+   {
+    "year": 2025,
+    "event": "Growth round — $500M — led by Radical Ventures, Inovia Capital ($6.8B valuation)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-04-24",
+    "title": "Cohere–Aleph Alpha merger announced (Apr 24, 2026)",
+    "summary": "~$20B combined entity with €500M (~$600M) new financing commitment from Schwarz Group (parent of Lidl/Kaufland); positioned as a transatlantic sovereign-AI champion; expected to close by year-end 2026 pending regulatory clearance.",
+    "source": "SiliconANGLE"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "Command A+ under Apache 2.0 (May 2026) and Embed 5 (Sept 30, 2026)",
+    "summary": "the fully permissive licensing of a 218B MoE model plus new Pro/Fast embedding tiers ($0.12/$0.08 per 1M text tokens) sharpened its open-enterprise pitch.",
+    "source": "Cohere research brief"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "mistral-ai",
+   "alibaba-qwen",
+   "zhipu-ai"
+  ]
+ },
+ "deepseek": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "Over $50 billion — reported, NOT officially confirmed.",
+   "funding": "~$1.5–7.4B reported (Follow-on round, Jul–Sep 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2026,
+    "event": "First outside round round — ~CNY 50B (~$7.4B) — led by Not disclosed — at >$50B valuation (reported by The Information / ChainCatcher —"
+   },
+   {
+    "year": 2026,
+    "event": "Follow-on round round — ~$1.5–7.4B reported — led by At $71–74B reported valuations (talks reported by CaproAsia — unconfirmed)"
+   }
+  ],
+  "news": [],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "moonshot-ai",
+   "alibaba-qwen",
+   "zhipu-ai"
+  ]
+ },
+ "elevenlabs": {
+  "focus": null,
+  "stats": {
+   "employees": "~300–400 (2026)",
+   "valuation": "$22B",
+   "funding": "$11.5M (Series D extension, Jun 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Seed round — $2M — led by Credo Ventures"
+   },
+   {
+    "year": 2023,
+    "event": "Series A round — $19M (~$100M val) — led by Andreessen Horowitz; Nat Friedman, Daniel Gross"
+   },
+   {
+    "year": 2024,
+    "event": "Series B round — $80M (~$1.1B val) — led by Andreessen Horowitz; Nat Friedman, Daniel Gross"
+   },
+   {
+    "year": 2025,
+    "event": "Series C round — $180M ($3.3B val) — led by ICONIQ Growth, Andreessen Horowitz"
+   },
+   {
+    "year": 2025,
+    "event": "Employee tender (secondary) round — $100M ($6.6B val) — led by Sequoia, ICONIQ"
+   },
+   {
+    "year": 2026,
+    "event": "Series D round — $500M ($11B val) — led by Sequoia (Andrew Reed joined board); Andreessen Horowitz, ICONIQ, Lightspeed, Eva"
+   },
+   {
+    "year": 2026,
+    "event": "Series D extension round — $20M — led by Robinhood (per Tracxn — unverified in press coverage)"
+   },
+   {
+    "year": 2026,
+    "event": "Series D extension round — $11.5M — led by Vinci (per Tracxn — unverified in press coverage)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-30",
+    "title": "Eleven v4 launched ~Sept 30, 2026",
+    "summary": "(acting-style voices, sub-150ms Turbo, 90+ languages, 10-second cloning).",
+    "source": "Tech Times"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "$300M employee tender offer at $22B valuation",
+    "summary": "(Sept 30, 2026; led by Wellington and T. Rowe Price).",
+    "source": "MetirAI"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "google-deepmind",
+   "meta-ai",
+   "character-ai"
+  ]
+ },
+ "google-deepmind": {
+  "focus": null,
+  "stats": {
+   "employees": "Roughly 4,000 researchers (analyst estimates)",
+   "valuation": "null — not applicable.",
+   "funding": "n/a (all-internal) (Merger, Apr 2023)"
+  },
+  "timeline": [
+   {
+    "year": 2010,
+    "event": "Private VC backing round — ~$50M (reported) — led by Horizons Ventures, Founders Fund; backers incl. Jaan Tallinn, Elon Musk, Peter T"
+   },
+   {
+    "year": 2014,
+    "event": "Acquisition round — $400M–$650M (reported; terms undisclosed) — led by Google (largest European acquisition by Google at the time)"
+   },
+   {
+    "year": 2023,
+    "event": "Merger round — n/a (all-internal) — led by Google Brain merged with DeepMind to form Google DeepMind"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-23",
+    "title": "Gemini 4 in post-training, launch promised \"much earlier\" than year-end",
+    "summary": "new DeepMind chief Koray Kavukcuoglu, Sept 23, 2026.",
+    "source": "WebProNews"
+   },
+   {
+    "date": "2026-10-04",
+    "title": "Gemini free tier cut to Flash-Lite; AI Plus loses Pro access",
+    "summary": "(Oct 4, 2026).",
+    "source": "TPSReport"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "meta-ai",
+   "xai",
+   "alibaba-qwen"
+  ]
+ },
+ "google": {
+  "focus": null,
+  "stats": {
+   "employees": "null (not publicly broken out for Google vs. Alphabet; no current 2026 figure confirmed)",
+   "valuation": "~$4.2 trillion as of October 5, 2026",
+   "funding": null
+  },
+  "timeline": [],
+  "news": [
+   {
+    "date": "2026-10-09",
+    "title": "Gemini free-tier cut (Oct 9, 2026)",
+    "summary": "free Gemini app users limited to Flash-Lite; AI Plus loses Pro access; AI Pro gains Deep Think as the mid-tier lure.",
+    "source": "Tech Insider"
+   },
+   {
+    "date": "2026-10-03",
+    "title": "Antigravity adds Claude Opus 5.5 and Sonnet 5.5 (Oct 3, 2026)",
+    "summary": "Anthropic's flagship models land in Google's coding workspace for Google AI Pro/Ultra subscribers.",
+    "source": "PC-Tablet"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "microsoft",
+   "meta-ai",
+   "xai"
+  ]
+ },
+ "groq": {
+  "focus": null,
+  "stats": {
+   "employees": "null (unverified; ~200 core engineers moved to NVIDIA in the Dec 2025 deal)",
+   "valuation": "Last known: $3.5B (August 2026)",
+   "funding": "$350M (Venture round, Aug 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2021,
+    "event": "Series C round — $300M — led by Tiger Global, D1 Capital (~$1B valuation)"
+   },
+   {
+    "year": 2024,
+    "event": "Series D round — $640M — led by BlackRock Private Equity Partners; Cisco Investments, Samsung Catalyst Fund, Neu"
+   },
+   {
+    "year": 2025,
+    "event": "Venture round round — $750M — led by Disruptive ($6.9B valuation; BlackRock, Samsung, Cisco participating)"
+   },
+   {
+    "year": 2026,
+    "event": "Venture round round — $650M — led by Disruptive (with Infinitum)"
+   },
+   {
+    "year": 2026,
+    "event": "Venture round round — $350M — led by Disruptive (Nvidia planned to participate; $3.5B valuation)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-08-17",
+    "title": "$350M raise at $3.5B valuation (Aug 17, 2026)",
+    "summary": "led by Disruptive with planned NVIDIA participation, two months after a $650M round; funds target NVIDIA-cluster demand and scaling to 200+ MW.",
+    "source": "TechCrunch"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "mistral-ai",
+   "deepseek",
+   "cohere"
+  ]
+ },
+ "hugging-face": {
+  "focus": null,
+  "stats": {
+   "employees": "~250 reported in 2025",
+   "valuation": "$12.93B",
+   "funding": "~$51M (Extension (D2), Jan 2025)"
+  },
+  "timeline": [
+   {
+    "year": 2018,
+    "event": "Seed round — $4M — led by unverified (low-reliability source)"
+   },
+   {
+    "year": 2019,
+    "event": "Series A round — $15M — led by unverified (low-reliability source)"
+   },
+   {
+    "year": 2021,
+    "event": "Series B round — $40M — led by unverified"
+   },
+   {
+    "year": 2022,
+    "event": "Series C round — ~$100M — led by unverified (~$2B valuation)"
+   },
+   {
+    "year": 2023,
+    "event": "Series D round — $235M — led by Salesforce Ventures ($4.5B valuation; participants: Google, Amazon, Nvidia, Inte"
+   },
+   {
+    "year": 2025,
+    "event": "Extension (D2) round — ~$51M — led by unverified (~$400M total raised)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-03",
+    "title": "Nvidia agrees to acquire Hugging Face for $12.93B (Sept 3, 2026)",
+    "summary": "$11.9B to shareholders plus up to $1B in employee retention equity; ~86× annualized revenue; Jensen Huang promised the platform stays open and hardware-agnostic.",
+    "source": "The National (Reuters)"
+   }
+  ],
+  "relatedCompanies": [
+   "meta-ai",
+   "google",
+   "openai",
+   "mistral-ai",
+   "groq"
+  ]
+ },
+ "meta-ai": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "null — not applicable.",
+   "funding": "~$72B (2025); up to ~$135B projected (2026) (Internal AI capex, 2025–2026)"
+  },
+  "timeline": [
+   {
+    "year": 2025,
+    "event": "Scale AI minority stake (strategic) round — $14.3B — led by Meta (brought Alexandr Wang + Scale AI staff in-house)"
+   },
+   {
+    "year": 2025,
+    "event": "Internal AI capex round — ~$72B (2025); up to ~$135B projected (2026) — led by Internal — not a funding round"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-08",
+    "title": "Muse personal agent launched Sept 8, 2026",
+    "summary": "(free / $20 / $100 tiers; Secure VM + Sentinel design); extended to small businesses Sept 29 with Shopify/Stripe/QuickBooks/Slack/Notion connectors.",
+    "source": "AIStockWire"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "JPMorgan bullish — Meta stock rallied >30% in a month on Muse momentum",
+    "summary": "(Sept 30, 2026).",
+    "source": "The Motley Fool"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "google-deepmind",
+   "xai",
+   "alibaba-qwen"
+  ]
+ },
+ "microsoft": {
+  "focus": null,
+  "stats": {
+   "employees": "null (no current 2026 figure publicly confirmed)",
+   "valuation": "~$3.9 trillion as of October 5, 2026",
+   "funding": null
+  },
+  "timeline": [],
+  "news": [
+   {
+    "date": "2026-06-01",
+    "title": "GitHub Copilot moves to token-based AI Credits billing (June 1, 2026)",
+    "summary": "premium requests replaced by usage metered per model; completions stay unlimited; promo credit boosts for business/enterprise through August.",
+    "source": "MLQ"
+   }
+  ],
+  "relatedCompanies": [
+   "google",
+   "anthropic",
+   "openai",
+   "meta-ai",
+   "google-deepmind"
+  ]
+ },
+ "midjourney": {
+  "focus": null,
+  "stats": {
+   "employees": "~163 (May 2025, Sacra/LinkedIn-derived counts)",
+   "valuation": "null — unverified.",
+   "funding": null
+  },
+  "timeline": [],
+  "news": [
+   {
+    "date": "2026-07-24",
+    "title": "V8.2 becomes default (July 24, 2026)",
+    "summary": "shipping smarter prompt handling, better text rendering, and native 2K HD output via --hd; the V8 Edit Model replaced V7's Omni/Character Reference workflow.",
+    "source": "Tech Insider"
+   }
+  ],
+  "relatedCompanies": [
+   "stability-ai",
+   "openai",
+   "google",
+   "meta-ai",
+   "elevenlabs"
+  ]
+ },
+ "minimax": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "~$6.5B at the January 2026 IPO pricing",
+   "funding": "~HK$14.5B–16B (~$2B) (Follow-on placement + convertibles, Jul 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2022,
+    "event": "Angel round — unverified — led by —"
+   },
+   {
+    "year": 2022,
+    "event": "Pre-A round — unverified — led by MiHoYo, IDG Capital"
+   },
+   {
+    "year": 2023,
+    "event": "Venture round round — $250M — led by unverified (Reuters: valuation >$1.2B)"
+   },
+   {
+    "year": 2024,
+    "event": "Venture round round — $600M+ — led by Alibaba (valuation ~$2.5B)"
+   },
+   {
+    "year": 2025,
+    "event": "Extension round — ~$300M — led by unverified (press: valuation ~$4B)"
+   },
+   {
+    "year": 2026,
+    "event": "HK IPO (SEHK: 100) round — HK$4.82B (~$618M) — led by — (priced at HK$165, top of range)"
+   },
+   {
+    "year": 2026,
+    "event": "Follow-on placement + convertibles round — ~HK$14.5B–16B (~$2B) — led by — (announced; exact figure varies by source)"
+   }
+  ],
+  "news": [],
+  "relatedCompanies": [
+   "moonshot-ai",
+   "zhipu-ai",
+   "deepseek",
+   "alibaba-qwen",
+   "stability-ai",
+   "midjourney"
+  ]
+ },
+ "mistral-ai": {
+  "focus": null,
+  "stats": {
+   "employees": "~1,000 (reported Sept 2026)",
+   "valuation": "above €21B (~$24B) post-money",
+   "funding": "€3B (Series D, Sept 8, 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Seed round — €105M — led by unverified"
+   },
+   {
+    "year": 2023,
+    "event": "Series A round — €385M — led by unverified (~$2B valuation)"
+   },
+   {
+    "year": 2024,
+    "event": "Series B round — €600M — led by unverified (~€5.8B valuation)"
+   },
+   {
+    "year": 2025,
+    "event": "Series C round — €1.7B — led by ASML (€11.7B post-money; participants incl. DST Global, a16z, Nvidia, Bpifrance)"
+   },
+   {
+    "year": 2026,
+    "event": "Debt round — $830M (~€723M) — led by earmarked for data-center buildout"
+   },
+   {
+    "year": 2026,
+    "event": "Series D round — €3B — led by Samsung Electronics (lead); co-leads EQT's Scaleup Europe Fund, PSG Equity; retu"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-08",
+    "title": "€3B Series D at >€21B valuation (Sept 8, 2026)",
+    "summary": "led by Samsung; CEO Arthur Mensch said Mistral is on track to pass $1B in annual recurring revenue before year-end.",
+    "source": "Le Figaro"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "deepseek",
+   "moonshot-ai",
+   "meta-ai"
+  ]
+ },
+ "moonshot-ai": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "$35 billion",
+   "funding": "$3.5B (Round, Jul 30, 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Initial round — $60M — led by Lead undisclosed — at ~$300M valuation (40 employees)"
+   },
+   {
+    "year": 2024,
+    "event": "Round round — $1B — led by Alibaba Group ($0.8B, ~36% stake) — at $2.5B valuation (Bloomberg/TechCrunch)"
+   },
+   {
+    "year": 2024,
+    "event": "Round round — $300M — led by Tencent, Gaorong Capital — at $3.3B valuation"
+   },
+   {
+    "year": 2025,
+    "event": "Round round — ~$600M — led by IDG Capital (reported; with Tencent) — at $3.8B pre-money — unconfirmed"
+   },
+   {
+    "year": 2025,
+    "event": "Series C round — ~$500M — led by undisclosed — at $4.3B valuation — unconfirmed (CaproAsia/AInvest reports)"
+   },
+   {
+    "year": 2026,
+    "event": "Round round — ~$2B — led by Meituan's Long-Z — at ~$20B valuation"
+   },
+   {
+    "year": 2026,
+    "event": "Round round — $3.5B — led by National AI Industry Investment Fund — at $35B valuation (Bloomberg)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-07-29",
+    "title": "$3.5B round closed at $35B valuation (July 29, 2026)",
+    "summary": "Bloomberg reported the round opened at $31.5B pre-money with the National AI Industry Investment Fund among leads; Moonshot is already pitching a follow-on at a $50B pre-money ahead of a planned Hong Kong IPO.",
+    "source": "Unite.AI"
+   },
+   {
+    "date": "2026-09-11",
+    "title": "Kimi K2.8 Preview launched (Sept 11, 2026)",
+    "summary": "closed mid-tier model between K2.7 Code and K3 with 1M context for all membership tiers and multimodal input, live inside Kimi Code and Kimi Work the same day.",
+    "source": "FrontierNews.ai"
+   }
+  ],
+  "relatedCompanies": [
+   "deepseek",
+   "zhipu-ai",
+   "minimax",
+   "alibaba-qwen",
+   "openai"
+  ]
+ },
+ "openai": {
+  "focus": null,
+  "stats": {
+   "employees": "~4,500 reported Jan 2025; no current 2026 figure publicly confirmed",
+   "valuation": "$852B post-money",
+   "funding": "$122B (Series F, Feb–Mar 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2016,
+    "event": "Seed round — led by Y Combinator"
+   },
+   {
+    "year": 2019,
+    "event": "Series A round — $50M — led by Khosla Ventures"
+   },
+   {
+    "year": 2019,
+    "event": "Series B round — $1B — led by Microsoft"
+   },
+   {
+    "year": 2023,
+    "event": "Series C round — $10B — led by Microsoft"
+   },
+   {
+    "year": 2023,
+    "event": "Series C extension round — $300M — led by Sequoia, Andreessen Horowitz, Thrive Capital, Founders Fund"
+   },
+   {
+    "year": 2024,
+    "event": "Series D round — $6.6B — led by Thrive Capital (Microsoft, NVIDIA, SoftBank participating)"
+   },
+   {
+    "year": 2024,
+    "event": "Debt facility round — $4B — led by Bank consortium (JPMorgan, Goldman Sachs, Citi, others)"
+   },
+   {
+    "year": 2025,
+    "event": "Series E round — $40B — led by SoftBank, Dragoneer"
+   },
+   {
+    "year": 2026,
+    "event": "Series F round — $122B — led by SoftBank (Amazon, NVIDIA, Microsoft, Thrive participating)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-29",
+    "title": "DevDay 2026 (Sept 29, San Francisco)",
+    "summary": "launched Dots always-on agents, GPT-6.1 Sol, ChatGPT Space, Agents API beta, and the OpenAI Marketplace; reported ~$70B revenue run rate.",
+    "source": "TechCrunch"
+   },
+   {
+    "date": "2026-09-29",
+    "title": "$30B bridge raise at ~$1.4T valuation",
+    "summary": "in early talks (Bloomberg, Sept 29, 2026); Altman ruled out a 2026 IPO.",
+    "source": "InsiderFinance"
+   }
+  ],
+  "relatedCompanies": [
+   "anthropic",
+   "google-deepmind",
+   "xai",
+   "meta-ai",
+   "mistral-ai"
+  ]
+ },
+ "perplexity": {
+  "focus": null,
+  "stats": {
+   "employees": "~400 (reported June 2026)",
+   "valuation": "$22.6B (Jan 2026)",
+   "funding": "$100M (Growth, 2025)"
+  },
+  "timeline": [
+   {
+    "year": 2024,
+    "event": "Series B round — $73.6M — led by IVP (~$520M valuation; participants incl. Nvidia, Jeff Bezos)"
+   },
+   {
+    "year": 2024,
+    "event": "Growth round — $62.7M — led by unverified (~$1.04B valuation, unicorn round)"
+   },
+   {
+    "year": 2024,
+    "event": "Series C round — amount unverified — led by SoftBank (~$3B valuation)"
+   },
+   {
+    "year": 2024,
+    "event": "Series D round — $500M — led by IVP ($9B valuation; reported by Reuters/WSJ)"
+   },
+   {
+    "year": 2025,
+    "event": "Growth round — $100M — led by Nvidia, SoftBank Vision Fund 2 (~$18B valuation; an earlier 2025 round reported "
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-08-23",
+    "title": "Nvidia in talks to invest at above $30B valuation (Aug 23, 2026, The Information)",
+    "summary": "a multi-billion-dollar equity round, unconfirmed by either side; talks followed Nvidia's earlier consideration of a licensing-and-hiring deal.",
+    "source": "Intelligent Living"
+   }
+  ],
+  "relatedCompanies": [
+   "google",
+   "openai",
+   "anthropic",
+   "xai",
+   "meta-ai"
+  ]
+ },
+ "safe-superintelligence": {
+  "focus": null,
+  "stats": {
+   "employees": "~50 (2026; roughly 20 in early 2025)",
+   "valuation": "$32B (July 2026)",
+   "funding": "$5B (Strategic investment, Jul 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2024,
+    "event": "Venture round round — $1B — led by a16z, Sequoia, NFDG, DST Global, SV Angel ($5B valuation; announced on the compa"
+   },
+   {
+    "year": 2025,
+    "event": "Venture round round — $2B — led by Greenoaks ($32B valuation; participants incl. a16z, Lightspeed, DST Global)"
+   },
+   {
+    "year": 2026,
+    "event": "Strategic investment round — $5B — led by Nvidia ($32B valuation; includes priority access to the Vera Rubin compute platf"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-07-27",
+    "title": "Nvidia announced a $5B investment in SSI (July 27, 2026)",
+    "summary": "confirmed by Nvidia's newsroom; SSI gains priority access to the Vera Rubin GPU platform with compute increasing \"by an order of magnitude,\" while Nvidia gets rare access to SSI's closely guarded research. Sutskever: \"We have research that is worthy of scaling up.\"",
+    "source": "Eastern Herald (on Nvidia announcement)"
+   },
+   {
+    "date": "2026-09-25",
+    "title": "FT: AI \"neolabs\" raised $24B in two quarters (Sept 25, 2026)",
+    "summary": "per Radical Ventures data, SSI, Thinking Machines, World Labs, and Reflection raised in two quarters nearly 5× the $5.3B OpenAI and Anthropic raised across seven pre-ChatGPT years.",
+    "source": "Temperature2 (summarizing FT)"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "google-deepmind",
+   "xai",
+   "meta-ai"
+  ]
+ },
+ "stability-ai": {
+  "focus": null,
+  "stats": {
+   "employees": "null — no public 2026 figure",
+   "valuation": "~$1 billion",
+   "funding": "$76M (Series B, Aug 26, 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2022,
+    "event": "Seed round — $101M — led by Coatue Management, Lightspeed Venture Partners (with O'Shaughnessy Ventures) — a"
+   },
+   {
+    "year": 2024,
+    "event": "Rescue / re-capitalization round — ~$80M — led by Sean Parker-led group: Coatue, Lightspeed, Greycroft, Sound Ventures, O'Shaughne"
+   },
+   {
+    "year": 2026,
+    "event": "Series B round — $76M — led by EA, Sony Music Group, Universal Music Group, Warner Music Group, AMD Ventures, P"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-08-26",
+    "title": "$76M raise and music pivot (Aug 26, 2026)",
+    "summary": "backed by Sony, Warner, Universal, EA, and AMD Ventures, with catalogs licensed for training; Napster co-founder Sean Parker driving the \"go-to AI toolmaker for music professionals\" strategy; three audio models and editing software shipped, hum-to-melody steering upcoming.",
+    "source": "NewsBytes"
+   }
+  ],
+  "relatedCompanies": [
+   "midjourney",
+   "elevenlabs",
+   "google",
+   "openai",
+   "meta-ai"
+  ]
+ },
+ "typesafe-ai": {
+  "focus": null,
+  "stats": {
+   "employees": "null — no public figure as of October 2026",
+   "valuation": "$200M (September 15, 2026)",
+   "funding": "$40M (Seed, Sept 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2026,
+    "event": "Seed round — $40M — led by DCVC (other participants undisclosed)"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-15",
+    "title": "Emerged from stealth September 15, 2026",
+    "summary": "with $40M seed led by DCVC at a $200M valuation (Forbes) and the Jev early-access launch; the waitlist reportedly cleared within days.",
+    "source": "BusinessWire (company wire)"
+   },
+   {
+    "date": "2026-10-05",
+    "title": "~October 5, 2026: WSJ reports Jev is \"sparking copycats\"",
+    "summary": "The Information reported TypeSafe is in talks to raise $1B+ at a valuation above $10B (Almeida declined comment); Almeida claimed ~25% of Fortune 500 companies are using Jev and volume hit ~1 trillion tokens/day (company claims, not independently verified).",
+    "source": "Wall Street Journal"
+   }
+  ],
+  "relatedCompanies": [
+   "groq",
+   "openai",
+   "anthropic",
+   "cohere",
+   "mistral-ai"
+  ]
+ },
+ "xai": {
+  "focus": null,
+  "stats": {
+   "employees": "~1,700 reported Sept 2025; no current 2026 figure publicly confirmed",
+   "valuation": "~$230B",
+   "funding": "All-stock (~$1.25T combined) (Acquisition, Feb 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Seed round — $134.7M — led by (per SEC filing)"
+   },
+   {
+    "year": 2024,
+    "event": "Series B round — $6B (reported ~$24B val) — led by Andreessen Horowitz, Sequoia"
+   },
+   {
+    "year": 2024,
+    "event": "Series C round — $6B (reported ~$50B val) — led by Fidelity, BlackRock, Sequoia"
+   },
+   {
+    "year": 2025,
+    "event": "X acquisition (all-stock) round — n/a — led by xAI acquired X Corp; X.AI Holdings Corp. formed"
+   },
+   {
+    "year": 2025,
+    "event": "Equity raise round — $10B (reported ~$200B val) — led by unverified"
+   },
+   {
+    "year": 2026,
+    "event": "Series E round — $20B (reported ~$230B val) — led by NVIDIA ($2B), Fidelity, Valor, QIA, MGX, Cisco"
+   },
+   {
+    "year": 2026,
+    "event": "Acquisition round — All-stock (~$1.25T combined) — led by SpaceX"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-09-25",
+    "title": "Colossus 2 expansion timeline (Sept 25, 2026)",
+    "summary": "Musk disclosed 550K chips today, targeting 1.2M+ Nvidia chips by year-end in three 220K GB300 waves.",
+    "source": "BitcoinVersus"
+   },
+   {
+    "date": "2026-10-01",
+    "title": "Grokipedia v0.3 launched Oct 1, 2026",
+    "summary": "(6M+ articles, refreshed design) after months of stalled updates; plus Bloomberg's report that SpaceXAI is studying a unified subscription for Grok + X.",
+    "source": "TeslaNorth"
+   }
+  ],
+  "relatedCompanies": [
+   "openai",
+   "anthropic",
+   "google-deepmind",
+   "meta-ai",
+   "deepseek"
+  ]
+ },
+ "zhipu-ai": {
+  "focus": null,
+  "stats": {
+   "employees": null,
+   "valuation": "Listed company — market cap ~HK$279–313B (≈ $36–40B USD) as of early October 2026",
+   "funding": "~$5B (Follow-on, Sep 2026)"
+  },
+  "timeline": [
+   {
+    "year": 2023,
+    "event": "Private round round — led by Lead undisclosed — at ~$2.8B reported valuation"
+   },
+   {
+    "year": 2024,
+    "event": "Private round round — ~$137M (CNY 1B) — led by Lead undisclosed (reported by CaproAsia — unverified)"
+   },
+   {
+    "year": 2024,
+    "event": "Private round round — ~$400M — led by Lead undisclosed (reported by CaproAsia — unverified)"
+   },
+   {
+    "year": 2024,
+    "event": "Private round round — ~$411M — led by Lead undisclosed (reported by CaproAsia — unverified)"
+   },
+   {
+    "year": 2025,
+    "event": "Private round round — ~$140M — led by Lead undisclosed (reported by CaproAsia — unverified)"
+   },
+   {
+    "year": 2026,
+    "event": "HKEX IPO (2513.HK) round — ~$558M (HK$4.17–4.35B) — led by Priced HK$116.20; retail oversubscribed 1,159×; closed +13.1%"
+   },
+   {
+    "year": 2026,
+    "event": "Placement (post-lockup) round — ~$4B — led by Share placement (reported)"
+   },
+   {
+    "year": 2026,
+    "event": "Follow-on round — ~$5B — led by $2B share issuance + $3B zero-coupon convertible bond"
+   }
+  ],
+  "news": [
+   {
+    "date": "2026-08-14",
+    "title": "GLM-5.3 launched Aug 14, 2026",
+    "summary": "(743B-param base, improved post-training); company reportedly exploring custom silicon with domestic chip designers as token demand explodes. — WebProNews, Wikipedia — Z.ai",
+    "source": "WebProNews"
+   }
+  ],
+  "relatedCompanies": [
+   "moonshot-ai",
+   "deepseek",
+   "minimax",
+   "alibaba-qwen",
+   "openai"
+  ]
+ }
+}

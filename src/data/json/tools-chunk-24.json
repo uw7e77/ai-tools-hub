@@ -1,0 +1,2359 @@
+[
+ {
+  "slug": "be-my-eyes-app",
+  "name": "Be My Eyes",
+  "logo": "/logos/be-my-eyes-app.png",
+  "company": "Be My Eyes",
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI visual assistance for blind and low-vision users.",
+  "pricing": "free",
+  "tags": [
+   "accessibility",
+   "visual-assistant",
+   "ai-vision"
+  ],
+  "platforms": [
+   "ios",
+   "android",
+   "windows"
+  ],
+  "officialUrl": "https://www.bemyeyes.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "beamable",
+  "name": "Beamable",
+  "logo": "/logos/beamable.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Game backend and live-ops platform — Unity/Unreal SDKs, serverless backend, and a LiveOps portal for studios.",
+  "pricing": "freemium",
+  "tags": [
+   "game-backend",
+   "liveops",
+   "unity",
+   "unreal-engine",
+   "serverless",
+   "multiplayer",
+   "game-servers",
+   "sdk"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://beamable.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "blitz",
+  "name": "Blitz",
+  "logo": "/logos/blitz.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Gaming analytics platform with in-game overlays and stats for popular competitive titles.",
+  "pricing": "free",
+  "tags": [
+   "game-analytics",
+   "overlays",
+   "league-of-legends",
+   "valorant",
+   "fortnite",
+   "tft",
+   "stats",
+   "guides"
+  ],
+  "platforms": [
+   "web",
+   "windows"
+  ],
+  "officialUrl": "https://blitz.gg",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "blockade-labs",
+  "name": "Blockade Labs",
+  "logo": "/logos/blockade-labs.png",
+  "company": "Blockade Labs",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Skybox AI — text-to-360° skybox generation with a Unity plugin for game environments.",
+  "pricing": "freemium",
+  "tags": [
+   "skybox",
+   "text-to-image",
+   "360-panorama",
+   "environment-art",
+   "unity",
+   "game-assets",
+   "world-building",
+   "hdr"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.blockade-labs.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "body-scan-by-zing",
+  "name": "Body Scan by Zing",
+  "logo": "/logos/body-scan-by-zing.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI body composition scan from a selfie with personalized fitness and nutrition plans.",
+  "pricing": "freemium",
+  "tags": [
+   "fitness",
+   "body composition",
+   "health",
+   "ai scan",
+   "nutrition"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://body.scan.zing.coach",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "booking-ai-trip-planner",
+  "name": "Booking.com AI Trip Planner",
+  "logo": "/logos/booking-ai-trip-planner.png",
+  "company": "Booking Holdings",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Booking.com's ChatGPT-powered chat planner with Smart Filter, Property Q&A and review summaries.",
+  "pricing": "free",
+  "tags": [
+   "ai trip planner",
+   "booking.com",
+   "hotels",
+   "chatgpt",
+   "smart filter",
+   "review summaries",
+   "property search",
+   "conversational search"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.booking.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "buildbox",
+  "name": "Buildbox",
+  "logo": "/logos/buildbox.png",
+  "company": "AppOnboard",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "No-code, AI-first game engine where you describe a scene and the AI builds game worlds and assets.",
+  "pricing": null,
+  "tags": [
+   "game-engine",
+   "no-code",
+   "game-dev",
+   "mobile-games",
+   "ai-assets",
+   "3d",
+   "storygames",
+   "steam"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos"
+  ],
+  "officialUrl": "https://www.buildbox.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "buoy-health",
+  "name": "Buoy Health",
+  "logo": "/logos/buoy-health.png",
+  "company": "Buoy Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Free conversational AI symptom checker that guides you from symptoms to the right level of care.",
+  "pricing": "free",
+  "tags": [
+   "symptom-checker",
+   "ai-triage",
+   "care-navigation",
+   "patient-education",
+   "clinical-content",
+   "free"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.buoyhealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cal-ai",
+  "name": "Cal AI",
+  "logo": "/logos/cal-ai.png",
+  "company": "Viral Development",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI calorie tracker that estimates calories and macros from a photo of your meal in seconds.",
+  "pricing": "freemium",
+  "tags": [
+   "calorie-tracker",
+   "ai-food-scan",
+   "macro-tracking",
+   "weight-loss",
+   "photo-logging",
+   "nutrition",
+   "keto",
+   "intermittent-fasting"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.calai.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "calorieasy",
+  "name": "Calorieasy",
+  "logo": "/logos/calorieasy.png",
+  "company": "Calorieasy",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI calorie counter that analyzes photos of your meals.",
+  "pricing": "freemium",
+  "tags": [
+   "calorie counter",
+   "nutrition",
+   "fitness",
+   "food tracking",
+   "health"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.calorieasy.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "character-gpt",
+  "name": "Character GPT",
+  "logo": "/logos/character-gpt.png",
+  "company": "Alethea AI",
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Alethea AI's CharacterGPT for creating ownable AI characters (via MyCharacter.ai).",
+  "pricing": "paid",
+  "tags": [
+   "ai-characters",
+   "nft",
+   "blockchain",
+   "digital-companions"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://alethea.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "character-ai",
+  "name": "Character.AI",
+  "logo": "/logos/character-ai.png",
+  "company": "Character.AI",
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Chat with AI characters — millions of user-created personas.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-characters",
+   "chatbot",
+   "companions",
+   "roleplay"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://character.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "charios",
+  "name": "Charios",
+  "logo": "/logos/charios.png",
+  "company": "Charios",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI browser tool that rigs and animates 2D characters with motion capture",
+  "pricing": "freemium",
+  "tags": [
+   "motion-capture",
+   "2d-animation",
+   "character-rigging",
+   "game-dev",
+   "animation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://charios.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "charisma-ai",
+  "name": "Charisma.ai",
+  "logo": "/logos/charisma-ai.png",
+  "company": "Charisma",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "No-code storytelling engine for interactive characters — personality, emotion, and memory for NPCs across games and media.",
+  "pricing": "freemium",
+  "tags": [
+   "npc",
+   "interactive-storytelling",
+   "no-code",
+   "voice-ai",
+   "game-characters",
+   "unity",
+   "unreal-engine",
+   "dialogue"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://charisma.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chefgpt",
+  "name": "ChefGPT",
+  "logo": "/logos/chefgpt.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI recipe generator with meal plans and calorie tracking.",
+  "pricing": "freemium",
+  "tags": [
+   "recipes",
+   "cooking",
+   "meal-planning"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.chefgpt.xyz",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "clearmind",
+  "name": "Clearmind",
+  "logo": "/logos/clearmind.png",
+  "company": "ClearmindAI",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Personalized AI therapy: chat, mood insights, meditation, and emotional tracking.",
+  "pricing": "freemium",
+  "tags": [
+   "mental health",
+   "AI therapy",
+   "meditation",
+   "journaling",
+   "wellbeing",
+   "CBT"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://clearmind.plus",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "clera",
+  "name": "Clera",
+  "logo": "/logos/clera.png",
+  "company": "Lazul Pty Ltd",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Scan food and skincare labels by camera to score their acne-impact risk.",
+  "pricing": "freemium",
+  "tags": [
+   "health",
+   "skincare",
+   "acne",
+   "scanner",
+   "ingredients",
+   "camera"
+  ],
+  "platforms": [
+   "ios"
+  ],
+  "officialUrl": "https://clera.health",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cohezion",
+  "name": "COHEZION",
+  "logo": "/logos/cohezion.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI platform unifying game analytics, community, and player data.",
+  "pricing": "paid",
+  "tags": [
+   "game-analytics",
+   "community",
+   "player-data"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://cohezion.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "convai",
+  "name": "Convai",
+  "logo": "/logos/convai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Conversational AI NPCs with voice-to-voice dialogue, knowledge bases, scene perception, and engine plugins.",
+  "pricing": "freemium",
+  "tags": [
+   "npc",
+   "conversational-ai",
+   "voice-ai",
+   "game-characters",
+   "unity",
+   "unreal-engine",
+   "knowledge-base",
+   "ai-agents"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://convai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cookaifood",
+  "name": "cookAIfood",
+  "logo": "/logos/cookaifood.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI recipe generator with AI food photography.",
+  "pricing": "freemium",
+  "tags": [
+   "recipes",
+   "food photography",
+   "cooking",
+   "ai images"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://cookaifood.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cool-gift-ideas",
+  "name": "Cool Gift Ideas",
+  "logo": "/logos/cool-gift-ideas.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI gift finder that suggests presents by recipient and occasion.",
+  "pricing": "free",
+  "tags": [
+   "gift-finder",
+   "recommendations",
+   "shopping",
+   "affiliate"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.coolgiftideas.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "corti",
+  "name": "Corti",
+  "logo": "/logos/corti.png",
+  "company": "Corti",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "API-first clinical AI infrastructure: medical speech-to-text, coding, text generation and agents for healthcare apps.",
+  "pricing": "freemium",
+  "tags": [
+   "healthcare-api",
+   "medical-transcription",
+   "medical-coding",
+   "clinical-reasoning",
+   "ai-agents",
+   "sdk",
+   "speech-to-text"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.corti.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "curiosio",
+  "name": "Curiosio",
+  "logo": "/logos/curiosio.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "AI road-trip planner that optimizes scenic routes, budgets, fuel and EV charging across 30 countries.",
+  "pricing": "freemium",
+  "tags": [
+   "road trip",
+   "route planner",
+   "scenic routes",
+   "ev charging",
+   "fuel calculator",
+   "itinerary",
+   "budget travel",
+   "concierge"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://curiosio.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "datingbyai",
+  "name": "DatingbyAI",
+  "logo": "/logos/datingbyai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI-generated dating profile: 60+ photos plus a tailored bio.",
+  "pricing": "paid",
+  "tags": [
+   "dating",
+   "profile-photos",
+   "ai-photos",
+   "bio-generator",
+   "relationships"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://datingbyai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "daydrm-ai",
+  "name": "Daydrm.ai",
+  "logo": "/logos/daydrm-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI-powered dream interpretation",
+  "pricing": "freemium",
+  "tags": [
+   "dreams",
+   "wellness",
+   "lifestyle"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.daydrm.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "deepscribe",
+  "name": "DeepScribe",
+  "logo": "/logos/deepscribe.png",
+  "company": "DeepScribe",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Ambient AI scribe that listens to patient visits and drafts clinical notes with coding suggestions in your EHR.",
+  "pricing": "paid",
+  "tags": [
+   "ai-scribe",
+   "ambient-documentation",
+   "clinical-notes",
+   "medical-coding",
+   "ehr-integration",
+   "oncology",
+   "pre-visit-summary"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://www.deepscribe.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dexcare",
+  "name": "DexCare",
+  "logo": "/logos/dexcare.png",
+  "company": "DexCare, Inc.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI-driven patient navigation platform that orchestrates scheduling, outreach, and care coordination for health systems.",
+  "pricing": "paid",
+  "tags": [
+   "AI agents",
+   "healthcare",
+   "patient scheduling",
+   "care coordination",
+   "health systems"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://dexcare.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diagnosis-pad",
+  "name": "Diagnosis Pad",
+  "logo": "/logos/diagnosis-pad.png",
+  "company": "Diagnosis Pad",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI-powered clinical assistant for generating diagnoses, recommendations, and medical notes.",
+  "pricing": "freemium",
+  "tags": [
+   "clinical AI",
+   "medical scribe",
+   "diagnosis",
+   "EHR",
+   "medical transcription",
+   "healthcare",
+   "doctor tools"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://diagnosispad.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "docus",
+  "name": "Docus",
+  "logo": "/logos/docus.png",
+  "company": "Docus",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI health platform with a personal AI doctor, lab test interpretation and a symptom checker.",
+  "pricing": "freemium",
+  "tags": [
+   "AI doctor",
+   "health assistant",
+   "symptom checker",
+   "lab results",
+   "wellness"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://docus.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "donotpay",
+  "name": "DoNotPay",
+  "logo": "/logos/donotpay.png",
+  "company": "DoNotPay",
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI robot lawyer for consumer disputes",
+  "pricing": "paid",
+  "tags": [
+   "consumer rights",
+   "legal tech",
+   "disputes"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://donotpay.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dr7-ai",
+  "name": "Dr7.ai",
+  "logo": "/logos/dr7-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI health assistant for answering medical questions and symptom research.",
+  "pricing": "freemium",
+  "tags": [
+   "health",
+   "medical information"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dr7.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dreamcore",
+  "name": "Dreamcore",
+  "logo": "/logos/dreamcore.png",
+  "company": "NEIGHBOR",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Describe a game in words and play it in the browser — AI builds 2D/3D games through chat.",
+  "pricing": "free",
+  "tags": [
+   "game-generation",
+   "browser-games",
+   "ai-games",
+   "2d",
+   "3d",
+   "game-dev",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dreamcore.gg",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dubbot",
+  "name": "DubBot",
+  "logo": "/logos/dubbot.png",
+  "company": "DubBot",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "Web governance platform covering accessibility, QA, SEO, and content checks in one dashboard.",
+  "pricing": "freemium",
+  "tags": [
+   "web-governance",
+   "wcag",
+   "quality-assurance",
+   "broken-links",
+   "seo-checks",
+   "content-quality"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dubbot.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "duffel",
+  "name": "Duffel",
+  "logo": "/logos/duffel.png",
+  "company": "Duffel",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Developer API to shop, book and manage flights and hotels — sell travel without the distribution complexity.",
+  "pricing": "freemium",
+  "tags": [
+   "travel api",
+   "flights api",
+   "hotel api",
+   "booking api",
+   "ota",
+   "ndc",
+   "developers",
+   "travel distribution"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://duffel.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "earkick",
+  "name": "Earkick",
+  "logo": "/logos/earkick.png",
+  "company": "Earkick",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI mental-health companion with mood tracking and a free panda chat coach.",
+  "pricing": "freemium",
+  "tags": [
+   "mental health",
+   "wellbeing",
+   "mood tracking",
+   "AI companion"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://earkick.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "eleos-health",
+  "name": "Eleos Health",
+  "logo": "/logos/eleos-health.png",
+  "company": "Eleos Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI built for behavioral health: therapy session documentation, compliance checks and clinical insights.",
+  "pricing": "paid",
+  "tags": [
+   "behavioral-health",
+   "ai-scribe",
+   "therapy-documentation",
+   "compliance",
+   "clinical-insights",
+   "group-therapy"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.eleos.health",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "empaithy",
+  "name": "Empaithy",
+  "logo": "/logos/empaithy.png",
+  "company": "Empaithy",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI mental wellbeing companion that journals with you and tracks emotional patterns over time.",
+  "pricing": "freemium",
+  "tags": [
+   "mental health",
+   "journaling",
+   "wellness",
+   "AI companion",
+   "self-improvement"
+  ],
+  "platforms": [
+   "ios",
+   "android",
+   "web"
+  ],
+  "officialUrl": "https://www.empaithy.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "equally-ai",
+  "name": "Equally AI",
+  "logo": "/logos/equally-ai.png",
+  "company": "Equally AI",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "Affordable all-in-one AI accessibility widget with a free plan, from $29/month.",
+  "pricing": "freemium",
+  "tags": [
+   "accessibility-widget",
+   "ai-remediation",
+   "wcag",
+   "ada-compliance",
+   "free-plan",
+   "affordable"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://equally.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "equalweb",
+  "name": "EqualWeb",
+  "logo": "/logos/equalweb.png",
+  "company": "EqualWeb",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "AI accessibility widget and monitoring platform with a free tier, from $39/month.",
+  "pricing": "freemium",
+  "tags": [
+   "web-accessibility",
+   "accessibility-widget",
+   "ai-remediation",
+   "wcag",
+   "ada-compliance",
+   "free-widget"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.equalweb.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "everbility",
+  "name": "Everbility",
+  "logo": "/logos/everbility.png",
+  "company": "Everbility",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI documentation assistant for occupational therapists and allied health.",
+  "pricing": "freemium",
+  "tags": [
+   "occupational therapy",
+   "clinical documentation",
+   "HIPAA",
+   "healthcare AI",
+   "session notes",
+   "NDIS"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.everbility.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "evinced",
+  "name": "Evinced",
+  "logo": "/logos/evinced.png",
+  "company": "Evinced",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "AI-powered accessibility testing for developers, built on computer vision rather than code parsing.",
+  "pricing": "freemium",
+  "tags": [
+   "developer-tools",
+   "computer-vision",
+   "ai-testing",
+   "wcag",
+   "ci-cd",
+   "mobile-accessibility"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.evinced.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "expedia",
+  "name": "Expedia",
+  "logo": "/logos/expedia.png",
+  "company": "Expedia Group",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Major online travel agency whose AI assistant Romie plans trips, books and rescues disrupted itineraries.",
+  "pricing": "free",
+  "tags": [
+   "online travel agency",
+   "ai assistant",
+   "romie",
+   "hotels",
+   "flights",
+   "vacation rentals",
+   "loyalty program",
+   "itinerary builder"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.expedia.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fable",
+  "name": "Fable",
+  "logo": "/logos/fable.png",
+  "company": "Fable",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "Accessibility research with real users with disabilities, beyond automated checks.",
+  "pricing": "paid",
+  "tags": [
+   "user-testing",
+   "assistive-technology",
+   "usability-research",
+   "wcag",
+   "inclusive-design",
+   "vpats"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://makeitfable.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fitbod",
+  "name": "Fitbod",
+  "logo": "/logos/fitbod.png",
+  "company": "Fitbod",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI strength-training app that generates personalized gym workouts from your goals, equipment and recovery.",
+  "pricing": "paid",
+  "tags": [
+   "ai-workouts",
+   "strength-training",
+   "gym",
+   "progressive-overload",
+   "muscle-recovery",
+   "exercise-library",
+   "weightlifting"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://fitbod.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flo",
+  "name": "Flo",
+  "logo": "/logos/flo.png",
+  "company": "Flo Health Inc.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "The world's most popular period tracker: AI predictions, symptom pattern insights and an AI Health Assistant.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-coach",
+   "period-tracker",
+   "ovulation",
+   "pregnancy",
+   "womens-health",
+   "symptom-tracking",
+   "fertility",
+   "health-assistant"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://flo.health",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "food-mood",
+  "name": "Food Mood",
+  "logo": "/logos/food-mood.png",
+  "company": "Google",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Google's free Gemini experiment that invents fusion recipes from two cuisines.",
+  "pricing": "free",
+  "tags": [
+   "recipes",
+   "fusion-food",
+   "google",
+   "gemini",
+   "cooking"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://artsandculture.google.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "foodvisor",
+  "name": "Foodvisor",
+  "logo": "/logos/foodvisor.png",
+  "company": "Foodvisor",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI calorie counter that scans your meal photos to instantly log calories, macros and nutrients.",
+  "pricing": "freemium",
+  "tags": [
+   "nutrition",
+   "calorie-counter",
+   "ai-food-scan",
+   "macros",
+   "weight-loss",
+   "meal-plans",
+   "dietitian",
+   "health-tracking"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.foodvisor.io/en",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "freed",
+  "name": "Freed",
+  "logo": "/logos/freed.png",
+  "company": "Freed",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI scribe for independent clinics: visit notes, dictation, coding help and an AI front desk receptionist.",
+  "pricing": "paid",
+  "tags": [
+   "ai-scribe",
+   "clinical-notes",
+   "medical-dictation",
+   "coding-assistant",
+   "front-desk-ai",
+   "independent-clinics",
+   "soap-notes"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.getfreed.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "freeletics",
+  "name": "Freeletics",
+  "logo": "/logos/freeletics.png",
+  "company": "Freeletics",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI-powered fitness coach app with adaptive bodyweight, HIIT, running and gym training journeys.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-coach",
+   "hiit",
+   "bodyweight",
+   "workout-plans",
+   "running",
+   "strength-training",
+   "adaptive-training",
+   "fitness-app"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.freeletics.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "function-health",
+  "name": "Function Health",
+  "logo": "/logos/function-health.png",
+  "company": "Function Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Longevity membership with 160+ lab tests a year, clinician-reviewed results and AI-powered health tracking.",
+  "pricing": "paid",
+  "tags": [
+   "longevity",
+   "biomarkers",
+   "lab-tests",
+   "preventive-care",
+   "mri",
+   "health-data",
+   "clinician-reviewed",
+   "ai-insights"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.functionhealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gaminode",
+  "name": "Gaminode",
+  "logo": "/logos/gaminode.png",
+  "company": "Mutahar Studio",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Game engine with its own launcher, built-in tools, exports, and a local AI that builds games from a sentence.",
+  "pricing": "freemium",
+  "tags": [
+   "game-engine",
+   "local-ai",
+   "2d-games",
+   "indie-dev",
+   "exports",
+   "zero-royalty",
+   "launcher",
+   "offline"
+  ],
+  "platforms": [
+   "windows",
+   "linux",
+   "web",
+   "android"
+  ],
+  "officialUrl": "https://gaminode.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gift-box",
+  "name": "Gift Box",
+  "logo": "/logos/gift-box.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Free AI gift idea finder",
+  "pricing": "free",
+  "tags": [
+   "gifts",
+   "shopping",
+   "recommendations"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.giftbox.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gift-genie-ai",
+  "name": "Gift Genie AI",
+  "logo": "/logos/gift-genie-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Free AI gift recommender created by an indie maker.",
+  "pricing": "free",
+  "tags": [
+   "gift-ideas",
+   "recommendations",
+   "shopping",
+   "holidays"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.giftgenie.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "giftassistant",
+  "name": "GiftAssistant",
+  "logo": "/logos/giftassistant.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI gift idea generator",
+  "pricing": "freemium",
+  "tags": [
+   "gifts",
+   "shopping",
+   "recommendations"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.giftassistant.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "glass-health",
+  "name": "Glass Health",
+  "logo": "/logos/glass-health.png",
+  "company": "Glass Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Agentic clinical AI for doctors: differential diagnoses, evidence-based plans and ambient scribing with citations.",
+  "pricing": "freemium",
+  "tags": [
+   "clinical-decision-support",
+   "differential-diagnosis",
+   "evidence-based",
+   "ambient-scribe",
+   "clinical-reasoning",
+   "drug-reference"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://glass.health",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "glowai-skincare",
+  "name": "GlowAI",
+  "logo": "/logos/glowai-skincare.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Free AI skincare routine generator.",
+  "pricing": "free",
+  "tags": [
+   "skincare",
+   "beauty",
+   "routine"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://glow-ai.vercel.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gosu-ai",
+  "name": "Gosu.ai",
+  "logo": "/logos/gosu-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Dota 2 voice assistant and game analytics — live in-game guidance powered by AI, from a Vilnius startup.",
+  "pricing": "freemium",
+  "tags": [
+   "dota-2",
+   "voice-assistant",
+   "game-analytics",
+   "coaching",
+   "esports",
+   "in-game-guidance",
+   "ai-coach"
+  ],
+  "platforms": [],
+  "officialUrl": "https://gosu.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gptgame",
+  "name": "GPTGame",
+  "logo": "/logos/gptgame.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Type a sentence, get a playable AI-generated browser game.",
+  "pricing": "freemium",
+  "tags": [
+   "ai games",
+   "game generator",
+   "entertainment",
+   "generative ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.gptgame.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gptriddle",
+  "name": "GPTRiddle",
+  "logo": "/logos/gptriddle.png",
+  "company": "Karma",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Free AI puzzle game where you craft the shortest input to uncover a secret key from the AI.",
+  "pricing": "free",
+  "tags": [
+   "puzzle-game",
+   "riddles",
+   "prompt-engineering",
+   "ai-game",
+   "escape-room",
+   "brain-training"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://gptriddle.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "guidegeek",
+  "name": "GuideGeek",
+  "logo": "/logos/guidegeek.png",
+  "company": "Matador Network",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Free AI travel assistant from Matador Network you chat with on WhatsApp, Instagram, Messenger or the web.",
+  "pricing": "free",
+  "tags": [
+   "travel assistant",
+   "ai chatbot",
+   "trip planning",
+   "itinerary",
+   "whatsapp",
+   "messenger",
+   "flight prices",
+   "hotel deals"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://guidegeek.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "happy-mama",
+  "name": "Happy Mama",
+  "logo": "/logos/happy-mama.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Free AI chatbot for pregnancy questions",
+  "pricing": "free",
+  "tags": [
+   "pregnancy",
+   "health",
+   "chatbot"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://happy-mama.vercel.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "healthkey",
+  "name": "HealthKey",
+  "logo": "/logos/healthkey.png",
+  "company": "HealthKey",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI platform that finds eligible clinical trial patients and summarizes medical records.",
+  "pricing": "paid",
+  "tags": [
+   "clinical trials",
+   "patient recruitment",
+   "medical records",
+   "ehr",
+   "healthcare ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://gethealthkey.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "heidi-health",
+  "name": "Heidi Health",
+  "logo": "/logos/heidi-health.png",
+  "company": "Heidi Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI care partner that transcribes visits into clinical notes, automates admin and answers clinical evidence questions.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-scribe",
+   "clinical-documentation",
+   "ambient-ai",
+   "dictation",
+   "clinical-evidence",
+   "ehr-integration",
+   "care-partner"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.heidihealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hello-patient",
+  "name": "Hello Patient",
+  "logo": "/logos/hello-patient.png",
+  "company": "Hello Patient",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Agentic AI platform running outpatient practice front and back offices.",
+  "pricing": "paid",
+  "tags": [
+   "patient engagement",
+   "practice operations",
+   "voice AI",
+   "scheduling",
+   "healthcare"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://hellopatient.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "helperbird",
+  "name": "Helperbird",
+  "logo": "/logos/helperbird.png",
+  "company": "Helperbird",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "Browser extension with dyslexia fonts, text-to-speech, and reading aids. Free tier.",
+  "pricing": "freemium",
+  "tags": [
+   "dyslexia",
+   "text-to-speech",
+   "reading-aids",
+   "browser-extension",
+   "free-tier",
+   "education"
+  ],
+  "platforms": [
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.helperbird.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "heydoc",
+  "name": "HeyDoc",
+  "logo": "/logos/heydoc.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Free AI medical assistant that answers health questions with next steps.",
+  "pricing": "free",
+  "tags": [
+   "health",
+   "medical assistant",
+   "symptoms",
+   "wellness",
+   "chatbot"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://heydoc.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hidden-door",
+  "name": "Hidden Door",
+  "logo": "/logos/hidden-door.png",
+  "company": "Hidden Door Inc",
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI-powered social narrative RPG platform (in development preview).",
+  "pricing": "freemium",
+  "tags": [
+   "rpg",
+   "storytelling",
+   "gaming",
+   "ai-narrative"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.hiddendoor.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hinge-health",
+  "name": "Hinge Health",
+  "logo": "/logos/hinge-health.png",
+  "company": "Hinge Health, Inc.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Virtual physical therapy powered by AI motion tracking: guided exercise therapy with real-time form correction in one app.",
+  "pricing": "paid",
+  "tags": [
+   "ai-coach",
+   "physical-therapy",
+   "musculoskeletal",
+   "virtual-care",
+   "motion-tracking",
+   "pain-relief",
+   "womens-health",
+   "migraine"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.hingehealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hippocratic-ai",
+  "name": "Hippocratic AI",
+  "logo": "/logos/hippocratic-ai.png",
+  "company": "Hippocratic AI",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Safety-first generative AI voice agents for patient outreach, follow-ups, medication adherence and education.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "voice-ai",
+   "patient-outreach",
+   "care-coordination",
+   "medication-adherence",
+   "chronic-care",
+   "non-diagnostic"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.hippocraticai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hopper",
+  "name": "Hopper",
+  "logo": "/logos/hopper.png",
+  "company": "Hopper Inc.",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Mobile travel app whose AI predicts flight and hotel prices, advising you to book now or wait.",
+  "pricing": "freemium",
+  "tags": [
+   "ai price prediction",
+   "flights",
+   "hotels",
+   "car rentals",
+   "fare alerts",
+   "price freeze",
+   "vacation rentals",
+   "mobile app"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.hopper.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "imean-ai",
+  "name": "iMean AI",
+  "logo": "/logos/imean-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Chat-first AI trip planner with Deep Planning mode, flight scanning and free daily access.",
+  "pricing": "freemium",
+  "tags": [
+   "trip planner",
+   "ai chat",
+   "flight deals",
+   "hotel deals",
+   "itinerary",
+   "budget travel",
+   "deep planning",
+   "vacation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://imean.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "impakt",
+  "name": "Impakt",
+  "logo": "/logos/impakt.png",
+  "company": "Impakt Inc.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI fitness coach with real-time computer-vision workout tracking.",
+  "pricing": "freemium",
+  "tags": [
+   "fitness",
+   "ai coach",
+   "computer vision",
+   "workouts"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://impakt.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "infinigen",
+  "name": "Infinigen",
+  "logo": "/logos/infinigen.png",
+  "company": "Princeton Vision & Learning Lab",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Open-source procedural generator that creates infinite photorealistic 3D worlds for AI research and gaming.",
+  "pricing": "open-source",
+  "tags": [
+   "open-source",
+   "procedural-generation",
+   "3d-worlds",
+   "computer-vision",
+   "synthetic-data",
+   "blender"
+  ],
+  "platforms": [
+   "linux",
+   "macos",
+   "windows"
+  ],
+  "officialUrl": "https://github.com/princeton-vl/infinigen",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "infinite-craft",
+  "name": "Infinite Craft",
+  "logo": "/logos/infinite-craft.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI-powered sandbox game where you combine elements into anything.",
+  "pricing": "free",
+  "tags": [
+   "browser game",
+   "sandbox",
+   "llm game",
+   "casual"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://neal.fun/infinite-craft",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "infinitus-systems",
+  "name": "Infinitus Systems",
+  "logo": "/logos/infinitus-systems.png",
+  "company": "Infinitus Systems",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Voice AI agents automating healthcare benefit verification and prior auth calls.",
+  "pricing": "paid",
+  "tags": [
+   "voice AI",
+   "benefit verification",
+   "prior authorization",
+   "healthcare",
+   "call automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://infinitus.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "inworld-ai",
+  "name": "Inworld AI",
+  "logo": "/logos/inworld-ai.png",
+  "company": "Inworld AI",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Realtime voice and conversational AI for game characters — NPCs that talk, react, and remember players.",
+  "pricing": "freemium",
+  "tags": [
+   "npc",
+   "conversational-ai",
+   "voice-ai",
+   "game-characters",
+   "text-to-speech",
+   "speech-recognition",
+   "ai-agents",
+   "multiplayer"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://inworld.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "iplan-ai",
+  "name": "iPlan.ai",
+  "logo": "/logos/iplan-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "AI itinerary builder that turns 5 trip questions into minute-by-minute plans for web and mobile.",
+  "pricing": "freemium",
+  "tags": [
+   "itinerary builder",
+   "trip planner",
+   "route optimization",
+   "offline maps",
+   "road trips",
+   "group travel",
+   "travel app",
+   "vacation"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://iplan.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "january-ai",
+  "name": "January AI",
+  "logo": "/logos/january-ai.png",
+  "company": "January AI",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Free AI metabolic-health app that predicts your blood sugar response to food without a CGM, with a coach that remembers your history.",
+  "pricing": "freemium",
+  "tags": [
+   "metabolic-health",
+   "blood-sugar",
+   "ai-coach",
+   "predictive-glucose",
+   "nutrition",
+   "wearables",
+   "ehr",
+   "glucose-prediction"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://january.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "jessica-better-speech",
+  "name": "Jessica - Better Speech",
+  "logo": "/logos/jessica-better-speech.png",
+  "company": "Better Speech",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI speech therapist from Better Speech for 24/7 guided speech practice.",
+  "pricing": "paid",
+  "tags": [
+   "speech therapy",
+   "ai therapist",
+   "health",
+   "communication",
+   "accessibility"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.betterspeech.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "jumble-journal",
+  "name": "Jumble Journal",
+  "logo": "/logos/jumble-journal.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI journaling copilot that analyzes and chats with your entries",
+  "pricing": "freemium",
+  "tags": [
+   "journaling",
+   "self-improvement",
+   "wellness"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://jumblejournal.org",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "k-health",
+  "name": "K Health",
+  "logo": "/logos/k-health.png",
+  "company": "K Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Enterprise clinical AI: AI intake and PatientGPT integrated into health-system EHRs, plus 24/7 virtual primary care.",
+  "pricing": "paid",
+  "tags": [
+   "virtual-primary-care",
+   "patientgpt",
+   "ai-intake",
+   "clinical-ai",
+   "health-systems",
+   "chronic-care",
+   "24-7-care"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.khealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "kaedim",
+  "name": "Kaedim",
+  "logo": "/logos/kaedim.png",
+  "company": "Kaedim Inc.",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "2D-to-3D game asset conversion with an AI plus human-in-the-loop pipeline, now enterprise-oriented.",
+  "pricing": "paid",
+  "tags": [
+   "2d-to-3d",
+   "game-assets",
+   "concept-art",
+   "3d-models",
+   "enterprise",
+   "human-in-the-loop",
+   "game-dev",
+   "asset-pipeline"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.kaedim3d.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "kayak-ai",
+  "name": "Kayak AI",
+  "logo": "/logos/kayak-ai.png",
+  "company": "Booking Holdings",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "KAYAK's AI toolkit: a chat assistant plus screenshot-based fare checking across hundreds of sites.",
+  "pricing": "free",
+  "tags": [
+   "ai search",
+   "price comparison",
+   "metasearch",
+   "flights",
+   "hotels",
+   "price alerts",
+   "chat assistant",
+   "screenshot price check"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.kayak.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "kayyo",
+  "name": "Kayyo",
+  "logo": "/logos/kayyo.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI MMA trainer app with motion-based form scanning.",
+  "pricing": "freemium",
+  "tags": [
+   "fitness",
+   "mma",
+   "ai-coach",
+   "mobile-app"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://apps.apple.com/us/app/kayyo-ai-mma-trainer/id1635789596",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "kinetix",
+  "name": "Kinetix",
+  "logo": "/logos/kinetix.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI emote creator — turn videos or text into 3D animations with SDKs for Unity and Unreal.",
+  "pricing": "freemium",
+  "tags": [
+   "animation",
+   "motion-capture",
+   "3d-animation",
+   "emotes",
+   "unity",
+   "unreal-engine",
+   "sdk",
+   "avatars"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://kinetix.tech",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "korewa",
+  "name": "Korewa.ai",
+  "logo": "/logos/korewa.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI anime character chat with visual-novel style.",
+  "pricing": "freemium",
+  "tags": [
+   "anime",
+   "ai-chat",
+   "character-ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://korewa.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "krikey-ai",
+  "name": "Krikey AI",
+  "logo": "/logos/krikey-ai.png",
+  "company": "Krikey AI",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI text-to-animation with talking avatars and FBX export for Unity and Unreal.",
+  "pricing": "freemium",
+  "tags": [
+   "text-to-animation",
+   "talking-avatars",
+   "3d-animation",
+   "fbx",
+   "unity",
+   "unreal-engine",
+   "character-animation",
+   "ai-video"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.krikey.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "layer-ai",
+  "name": "Layer AI",
+  "logo": "/logos/layer-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI game art that matches your art style — custom style training, batch generation, workflows, and API for game studios.",
+  "pricing": "freemium",
+  "tags": [
+   "game-assets",
+   "game-art",
+   "style-training",
+   "batch-generation",
+   "text-to-image",
+   "api",
+   "workflows",
+   "2d-art"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://layer.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "layla",
+  "name": "Layla",
+  "logo": "/logos/layla.png",
+  "company": "Layla AI GmbH",
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "AI travel agent plus human travel experts that builds and books complete itineraries with live pricing.",
+  "pricing": "freemium",
+  "tags": [
+   "trip planner",
+   "ai travel agent",
+   "itinerary builder",
+   "human experts",
+   "flight booking",
+   "hotel booking",
+   "road trips",
+   "multi-city"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://layla.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "legends",
+  "name": "Legends",
+  "logo": "/logos/legends.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI-guided confidence coaching program for kids and their parents.",
+  "pricing": "paid",
+  "tags": [
+   "kids",
+   "confidence",
+   "coaching",
+   "education",
+   "parenting"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://app.buildlegends.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "level-access",
+  "name": "Level Access",
+  "logo": "/logos/level-access.png",
+  "company": "Level Access",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "Enterprise accessibility platform combining AI testing with deep human expertise.",
+  "pricing": "paid",
+  "tags": [
+   "enterprise",
+   "hybrid-intelligence",
+   "wcag",
+   "ada-compliance",
+   "expert-services",
+   "accessibility-platform"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://levelaccess.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "litrpg-adventures",
+  "name": "LitRPG Adventures",
+  "logo": "/logos/litrpg-adventures.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI tabletop RPG generators with a 250,000+ element library.",
+  "pricing": "freemium",
+  "tags": [
+   "rpg",
+   "tabletop",
+   "gaming",
+   "fantasy"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.litrpgadventures.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "little-forest",
+  "name": "Little Forest",
+  "logo": "/logos/little-forest.png",
+  "company": "Little Forest",
+  "category": "lifestyle",
+  "subcategory": "accessibility",
+  "shortDescription": "London web-governance platform blending automated scans, manual testing, and training.",
+  "pricing": "paid",
+  "tags": [
+   "web-governance",
+   "manual-testing",
+   "wcag",
+   "accessibility-training",
+   "pdf-accessibility",
+   "uk"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://littleforest.co.uk",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "lootlocker",
+  "name": "LootLocker",
+  "logo": "/logos/lootlocker.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Indie game backend — player management, game systems, and UGC moderation with a free hobby tier.",
+  "pricing": "freemium",
+  "tags": [
+   "game-backend",
+   "indie",
+   "player-management",
+   "ugc-moderation",
+   "game-systems",
+   "leaderboards",
+   "api",
+   "sdk"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://lootlocker.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "lovegpt",
+  "name": "LoveGPT",
+  "logo": "/logos/lovegpt.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "Free AI wingman that drafts replies to your dating and crush texts.",
+  "pricing": "free",
+  "tags": [
+   "dating",
+   "chatbot",
+   "texting",
+   "relationships",
+   "free"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://lovegpt.co.in",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ludo-ai",
+  "name": "Ludo",
+  "logo": "/logos/ludo-ai.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "Game ideation and design hub — AI-powered concept generation, art, and market research for game studios.",
+  "pricing": "freemium",
+  "tags": [
+   "game-design",
+   "ideation",
+   "concept-art",
+   "market-research",
+   "brainstorming",
+   "prototyping",
+   "game-dev",
+   "ai-assistant"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://ludo.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ludus-ai",
+  "name": "Ludus AI",
+  "logo": "/logos/ludus-ai.png",
+  "company": "Ludus",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "All-in-one AI toolkit for Unreal Engine game development",
+  "pricing": "freemium",
+  "tags": [
+   "game development",
+   "Unreal Engine",
+   "3D models"
+  ],
+  "platforms": [
+   "windows"
+  ],
+  "officialUrl": "https://ludusengine.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "luma-health",
+  "name": "Luma Health",
+  "logo": "/logos/luma-health.png",
+  "company": "Luma Health, Inc.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Operational AI platform for health systems that runs patient access, engagement, intake, and payment workflows end to end.",
+  "pricing": "paid",
+  "tags": [
+   "AI agents",
+   "healthcare",
+   "patient engagement",
+   "scheduling",
+   "revenue cycle"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://lumahealth.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "lumen",
+  "name": "Lumen",
+  "logo": "/logos/lumen.png",
+  "company": "MetaFlow Ltd.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Handheld breath device that measures your metabolism and builds personalized daily nutrition plans.",
+  "pricing": "paid",
+  "tags": [
+   "metabolism",
+   "breath-analysis",
+   "nutrition-plans",
+   "weight-loss",
+   "macro-tracking",
+   "metabolic-flexibility",
+   "ai-coaching"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.lumen.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "lyssn",
+  "name": "Lyssn",
+  "logo": "/logos/lyssn.png",
+  "company": "Lyssn",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI that analyzes therapy sessions to give clinicians feedback on evidence-based practice quality and training.",
+  "pricing": "paid",
+  "tags": [
+   "behavioral-health",
+   "therapy-quality",
+   "session-analysis",
+   "cbt-fidelity",
+   "clinician-training",
+   "evidence-based"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.lyssn.io",
+  "affiliateUrl": null
+ }
+]

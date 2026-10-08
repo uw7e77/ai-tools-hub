@@ -1,0 +1,1573 @@
+{
+ "openl-ai": {
+  "verdict": "AI translator",
+  "overview": [
+   "AI translator for text, images and documents supporting 100+ languages."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [
+   "Limited public information"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "originality-ai": {
+  "verdict": "AI content and plagiarism detector with credit pricing.",
+  "overview": [
+   "Originality.AI detects AI-generated content and plagiarism for publishers, agencies, and educators. It offers a Chrome extension and API with credit-based paid pricing. The tool is known for accuracy in distinguishing human from AI writing."
+  ],
+  "features": [
+   "AI content detection",
+   "Plagiarism checking",
+   "Chrome extension",
+   "API access",
+   "Team reports"
+  ],
+  "pros": [
+   "Accurate detection",
+   "Multiple access methods",
+   "Built for professionals"
+  ],
+  "cons": [
+   "Credit-based costs add up",
+   "No free tier of note"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "overchat-ai": {
+  "verdict": "One subscription for AI chat plus 150+ specialized AI tools.",
+  "overview": [
+   "OverChat AI bundles chat, image, video, and text generation into a single app with a single subscription. Instead of paying for five different AI services, you get 150+ purpose-built AI tools and multiple models under one roof. It offers 100 free tokens a day so you can try it before paying. Available on web, iOS, and Android."
+  ],
+  "features": [
+   "150+ specialized AI tools in one app",
+   "Multiple AI models under one subscription",
+   "Image, video, and text generation",
+   "100 free tokens daily"
+  ],
+  "pros": [
+   "Replaces multiple AI subscriptions with one",
+   "Free daily tokens to try it",
+   "Cross-platform apps"
+  ],
+  "cons": [
+   "Jack-of-all-trades; individual tools may be less deep than dedicated apps"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "owll-translator": {
+  "verdict": "Turns voice notes into two-way translated conversations in 100+ languages.",
+  "overview": [
+   "Owll Translator is a voice-first translation app that turns voice notes into two-way conversations across 100+ languages. Built by Singapore-based Vocalbeats.AI, it offers live speech-to-speech translation for meetings and travel, private listening mode for discreet earbud playback, AI meeting summaries and voice cloning for replies. Specialized terminology options cover medical, legal and religious contexts."
+  ],
+  "features": [
+   "Live speech-to-speech translation in 100+ languages",
+   "WhatsApp voice message translation with playback capture",
+   "Voice cloning for natural-sounding replies",
+   "Private listening mode via earbuds",
+   "AI meeting summaries with key points and follow-ups",
+   "Specialized terminology for medical, legal and religious contexts",
+   "Group conversation sessions"
+  ],
+  "pros": [
+   "True two-way voice conversations, not just text translation",
+   "Works on the voice messages people already send",
+   "Specialized vocabulary for sensitive contexts"
+  ],
+  "cons": [
+   "Pricing details not published on the product page",
+   "Newer product with a short public track record",
+   "App-store rating is not from a review aggregator"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pairaphrase": {
+  "verdict": "Secure AI document translation management software for compliance-focused organizations.",
+  "overview": [
+   "Pairaphrase is AI translation management software built for organizations with strict privacy needs — schools, healthcare, government, and enterprises. It translates documents while preserving formatting, never exposes content to human reviewers, and aligns with HIPAA, FERPA, GDPR, and SOC 2 controls. Its AI Sandbox supports transcreation and custom models trained on your own terminology."
+  ],
+  "features": [
+   "Secure AI document translation in up to 165 languages",
+   "Automatic preservation of document formatting",
+   "Batch file translation across 30+ file formats",
+   "AI Sandbox for transcreation and custom model training",
+   "Multiple engines including DeepL, Google, Microsoft, and PairaphraseGPT",
+   "Compliance alignment with HIPAA, FERPA, GDPR, SOC 2, and PCI",
+   "No human reviewers see your content",
+   "API and integrations with Google Drive, ChatGPT, and Slack"
+  ],
+  "pros": [
+   "Compliance-first design fits schools, healthcare, and government",
+   "Keeps document formatting intact automatically",
+   "Content stays private with no human reviewers involved"
+  ],
+  "cons": [
+   "Steep starting price ($285/month) for smaller teams",
+   "Smaller vendor than established enterprise TMS players",
+   "Language coverage varies by plan tier"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "palabra-ai": {
+  "verdict": "Real-time speech-to-speech translation for meetings and calls",
+  "overview": [
+   "Palabra.ai delivers real-time speech-to-speech translation across 30 languages with sub-second latency. It works as an overlay for calls and meetings, so multilingual conversations flow without pauses. The company raised an $8.4M pre-seed round in August 2025, signaling serious momentum."
+  ],
+  "features": [
+   "Real-time speech-to-speech translation",
+   "30 languages",
+   "Sub-second latency",
+   "Meeting and call overlays"
+  ],
+  "pros": [
+   "True real-time translation",
+   "Well funded ($8.4M pre-seed)",
+   "Desktop apps available"
+  ],
+  "cons": [
+   "Paid plans",
+   "Accuracy depends on audio quality"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pangram": {
+  "verdict": "AI detector that flags AI-generated text and images with sentence-level, mixed-authorship analysis.",
+  "overview": [
+   "Pangram is an AI content detection platform built by Pangram Labs, founded by AI researchers in Brooklyn in 2023. Its detector classifies text as human-written, AI-assisted, or AI-generated - down to individual sentences in mixed documents - and now includes an AI image detector in research preview. It offers 20 free checks a day on a free plan, with subscriptions adding more credits and plagiarism detection."
+  ],
+  "features": [
+   "AI text detection across 26 frontier models",
+   "Sentence-level mixed-authorship highlighting",
+   "AI image detection (research preview)",
+   "Built-in plagiarism checker",
+   "Detection in 25+ languages",
+   "Detects paraphrased and humanizer-modified AI text",
+   "Free plan with 20 daily checks",
+   "FERPA compliant, SOC 2 Type 2 certified"
+  ],
+  "pros": [
+   "Independently verified low false-positive rate",
+   "Shows exactly which sentences are AI-generated",
+   "Free daily allowance is genuinely useful",
+   "Plagiarism and AI detection in one scan"
+  ],
+  "cons": [
+   "Determined users can still evade detection with human-like prompting",
+   "Detector results alone are debated as evidence",
+   "Heavy usage requires a subscription"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "paraphrasing-tool-ai": {
+  "verdict": "AI paraphrasing tool across web and mobile",
+  "overview": [
+   "Paraphrasing Tool is an AI paraphrasing and rewriting platform with a solo plan at $5 per month and a bundle at $20 per month. It offers web, iOS, Android, and Chrome extension access. The product serves students, writers, and SEO professionals."
+  ],
+  "features": [
+   "AI paraphrasing and rewriting",
+   "Multi-platform apps and extension",
+   "Solo $5/mo and bundle $20/mo"
+  ],
+  "pros": [
+   "Apps on every platform",
+   "Affordable plans"
+  ],
+  "cons": [
+   "Free version has limits",
+   "Quality varies by text"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "penvoi": {
+  "verdict": "AI proposal generator for freelancers and agencies — describe the project in 60 seconds and get a branded, ready-to-send, e-signable proposal.",
+  "overview": [
+   "Penvoi is an AI-native proposal tool for freelancers and agencies: describe the project in a few sentences and it generates a complete proposal — executive summary, scope of work, deliverables, timeline, pricing, payment terms, and next steps — in about 60 seconds. Proposals automatically reflect your brand profile, clients can e-sign via a branded link with real-time open tracking, and tone can be iterated instantly (more formal, more concise, more confident). The first proposal is free with no credit card; plans start at $19/month with no per-seat fees and white-label options on paid tiers."
+  ],
+  "features": [
+   "60-second AI proposal generation from a short brief",
+   "Customizable brand profiles for consistency",
+   "Real-time proposal open tracking",
+   "Instant tone iteration (formal, concise, confident)",
+   "One-click electronic signatures via branded link",
+   "Locked proposal versions once the client opens",
+   "White-label proposals on paid plans"
+  ],
+  "pros": [
+   "First proposal free with no credit card required",
+   "Genuinely AI-written proposals, not templates",
+   "E-signing and open tracking built in",
+   "Simple flat pricing with no per-seat fees"
+  ],
+  "cons": [
+   "Narrow scope — proposals only, not general copywriting",
+   "Newer product with a small community",
+   "No free tier beyond the first proposal"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "personeo-ai": {
+  "verdict": "AI roleplay marketplace for practicing sales and communication skills.",
+  "overview": [
+   "Personeo.ai is an AI roleplay marketplace for practicing communication skills — sales calls, tough customers, negotiations, leadership conversations — with realistic AI personas. Its Magic Builder generates complete custom scenarios in seconds, and every roleplay ends with instant, scored feedback on your approach. Trusted by over 20,000 users with 30+ language support, it starts free with no credit card and scales to enterprise team analytics."
+  ],
+  "features": [
+   "AI roleplay marketplace with hundreds of scenarios",
+   "Magic Builder for custom scenarios",
+   "Voice and text conversations with AI personas",
+   "Instant scored feedback after each roleplay",
+   "Team analytics dashboards",
+   "30+ language localization"
+  ],
+  "pros": [
+   "Realistic personas with adaptive objections",
+   "Magic Builder creates custom scenarios in seconds",
+   "Instant detailed feedback after every session"
+  ],
+  "cons": [
+   "Pricing beyond the free start is paid-tier only",
+   "Scenario quality varies across the marketplace",
+   "Enterprise features add complexity for casual users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "phrase": {
+  "verdict": "Cloud localization suite for developer teams, pairing a TMS with software string management, AI workflows, and auto QA.",
+  "overview": [
+   "Phrase is a cloud-based localization platform built for developer teams, combining Phrase TMS for content localization with Phrase Strings for software and app string management. It offers AI-powered automation, the Orchestrator for custom localization workflows, auto linguistic quality assurance, global key search, and 50+ integrations including GitHub, Figma, Slack, and WordPress. All paid plans include unlimited languages."
+  ],
+  "features": [
+   "Phrase TMS + Phrase Strings in one platform",
+   "AI-powered machine translation with custom profiles",
+   "Phrase Orchestrator for custom localization workflows",
+   "Auto LQA for automatic error detection",
+   "Global search across all projects and keys",
+   "50+ integrations: GitHub, Figma, Slack, WordPress, HubSpot",
+   "Translation memories, term bases, and glossaries",
+   "Phrase Atlas conversational AI for localization tasks"
+  ],
+  "pros": [
+   "Strong G2 standing at 4.5/5 across 1,309 reviews, favored by small businesses",
+   "Unlimited languages on every paid plan simplifies multi-market expansion",
+   "Split TMS/Strings design keeps dev and content workflows separate but connected"
+  ],
+  "cons": [
+   "Higher price point than website-focused tools; full platform starts at $135+/mo",
+   "Steeper learning curve for non-technical users; better for software than simple sites"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pi": {
+  "verdict": "Inflection AI's free personal AI chatbot.",
+  "overview": [
+   "Pi is Inflection AI's personal AI chatbot designed for natural, supportive conversation. It can help with brainstorming, advice, explanations, and everyday questions in a friendly tone. Pi is free to use across web and mobile apps."
+  ],
+  "features": [
+   "Conversational personal AI",
+   "Brainstorming and advice",
+   "Free across web and mobile"
+  ],
+  "pros": [
+   "Warm, conversational style",
+   "Completely free"
+  ],
+  "cons": [
+   "Focused on companionship, not task automation",
+   "Fewer integrations than mainstream assistants"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pictales": {
+  "verdict": "Turns your photos into personalized illustrated AI storybooks for kids and families.",
+  "overview": [
+   "Generates personalized illustrated storybooks from a photo. Upload a picture of a child, partner or friend, pick a genre and one of 100+ languages, and PicTales' AI weaves them into a unique adventure as the hero — with character consistency, narration audio and PDF export."
+  ],
+  "features": [
+   "AI story generation from uploaded photos",
+   "Character consistency across pages from a single photo",
+   "Multiple genres (adventure, comedy, thriller and more)",
+   "100+ language support",
+   "Interactive reader with narration and PDF download"
+  ],
+  "pros": [
+   "No account needed to start creating a story",
+   "Multi-character personalized children's books in under two minutes",
+   "Print-ready PDF export for keepsakes"
+  ],
+  "cons": [
+   "Free tier is limited to a few generations",
+   "Story quality and illustration style are fixed by the platform's pipeline",
+   "Character consistency works best with clear frontal photos"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pointer-ai": {
+  "verdict": "AI writing assistant that edits Google Docs through native suggestion comments.",
+  "overview": [
+   "Pointer AI is an AI writing assistant that lives inside Google Docs as a Chrome extension. Instead of a chat window, it writes edits directly into the document as native Suggestions, each with a plain-language explanation of why the change was made. Users describe what they want in natural language or speak voice commands, and Pointer handles grammar fixes, tone shifts, rewrites, translations across 35+ languages, and summarization while preserving document formatting. It is powered by Anthropic's Claude models and is free to install."
+  ],
+  "features": [
+   "AI edits delivered as native Google Docs Suggestions",
+   "Explanation for every suggested change with one-click accept or reject",
+   "Grammar, spelling, tone, and style improvements",
+   "Text expansion, summarization, and 35+ language translation",
+   "Voice commands for hands-free editing",
+   "Formatting preserved across edits"
+  ],
+  "pros": [
+   "No tab-switching or copy-paste workflow",
+   "Powered by Claude for high-quality writing edits",
+   "Formatting stays intact during AI edits"
+  ],
+  "cons": [
+   "Tied to Google Docs, not a standalone editor",
+   "Note: FT's page misdescribes it as a code tool; it is a writing tool"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "polytalk": {
+  "verdict": "Open-source, self-hosted real-time speech-to-speech translation — 40+ languages, private, no cloud required.",
+  "overview": [
+   "PolyTalk is an open-source, self-hosted platform for real-time speech-to-speech translation. It captures live audio from microphones, meetings, browser tabs, or streams, then runs it through transcription, translation, and text-to-speech entirely on your own infrastructure. The Community Edition is AGPL-3.0 licensed with a Docker Compose deployment, mock mode for instant testing, and support for 40+ languages."
+  ],
+  "features": [
+   "Real-time speech-to-speech translation (STT, translation, TTS pipeline)",
+   "40+ supported languages with sub-2-second latency",
+   "100% self-hosted — no external cloud APIs required",
+   "Bring-your-own AI provider (OpenAI, Anthropic, Gemini, self-hosted)",
+   "Docker Compose deployment, GPU-ready",
+   "Mock mode to try instantly without API keys",
+   "Conversation mode, history controls, and bilingual report exports",
+   "Enterprise workspace with glossary, confidence insights, and support"
+  ],
+  "pros": [
+   "Fully self-hosted — audio never leaves your infrastructure",
+   "Open-source AGPL with easy Docker deployment and keyless mock mode",
+   "Flexible provider support avoids vendor lock-in"
+  ],
+  "cons": [
+   "Requires your own hosting (Docker, ideally GPU) — not a sign-up-and-go SaaS",
+   "Enterprise add-ons like offline mobile apps, glossaries, and AI session notes cost extra"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "powerpen": {
+  "verdict": "ChatGPT-powered grammar and paraphrase app for Android.",
+  "overview": [
+   "PowerPen, from Sage AI, is an Android app that brings ChatGPT-powered grammar checking and paraphrasing to any app. It has 50-80K downloads and is free."
+  ],
+  "features": [
+   "Grammar checking",
+   "Paraphrasing"
+  ],
+  "pros": [
+   "Free"
+  ],
+  "cons": [
+   "Android only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "praktika": {
+  "verdict": "Learn languages by chatting with lifelike AI tutor avatars that give real-time feedback.",
+  "overview": [
+   "Praktika is an AI language tutor built around lifelike 3D avatars you converse with by voice. The avatars lead interactive lessons, correct your mistakes in real time, and adapt plans to your goals. With over 30 million learners, it is one of the most visual, game-like ways to practice speaking."
+  ],
+  "features": [
+   "Lifelike AI tutor avatars",
+   "Real-time voice conversations",
+   "Instant mistake correction",
+   "Personalized study plans",
+   "Interactive lessons",
+   "Progress tracking",
+   "Goal-based learning paths",
+   "Gamified practice"
+  ],
+  "pros": [
+   "Avatar tutors make practice feel immersive and fun",
+   "Real-time feedback during conversation",
+   "Affordable starting price"
+  ],
+  "cons": [
+   "Mobile-only, no desktop app",
+   "English-focused with limited other-language depth"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "prbl": {
+  "verdict": "AI-first code security scanner tuned to vulnerabilities AI coding tools introduce.",
+  "overview": [
+   "Prbl is an AI-first code security scanner focused on the vulnerability patterns that AI coding tools introduce: hardcoded secrets, injection, missing auth, fallback secrets, and timing-unsafe checks. It attributes which files and lines were AI-generated, and its automated rewriter proposes minimal fixes validated against a behavioral baseline. A free scan runs with no account required."
+  ],
+  "features": [
+   "Free no-account scan of a public repo or live app URL",
+   "AI-line attribution for AI-generated code",
+   "Automated rewriter with clean-diff approval",
+   "Behavioral baseline to verify fixes don't break behavior",
+   "Rescan to confirm findings are gone",
+   "CI and GitHub integration with PR comments"
+  ],
+  "pros": [
+   "Free entry with no signup",
+   "Fixes rather than just reporting",
+   "Public methodology and real scan studies"
+  ],
+  "cons": [
+   "Niche scope; complements rather than replaces general-purpose SAST",
+   "New product with limited independent reviews"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "preply": {
+  "verdict": "Marketplace of 100,000+ human language tutors with AI-matched 1-on-1 video lessons.",
+  "overview": [
+   "Preply connects you with over 100,000 experienced human tutors for 1-on-1 video lessons in dozens of languages. AI-powered matching pairs you with a tutor for your goals and level, and lessons adapt to your progress. With 300,000+ five-star tutor reviews, it is the largest online tutor marketplace."
+  ],
+  "features": [
+   "100,000+ vetted tutors",
+   "AI tutor matching",
+   "1-on-1 video lessons",
+   "Personalized lesson plans",
+   "Flexible scheduling",
+   "Progress tracking",
+   "Free tutor replacement guarantee",
+   "Corporate training plans"
+  ],
+  "pros": [
+   "Real human tutors for every language and goal",
+   "AI matching finds the right tutor fast",
+   "Satisfaction guarantee with free tutor switch"
+  ],
+  "cons": [
+   "Quality varies between individual tutors",
+   "Pay-per-lesson costs add up quickly"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "private-llm": {
+  "verdict": "Fully offline AI chat for iPhone, iPad and Mac — no cloud, no tracking, no logins.",
+  "overview": [
+   "Private LLM runs leading open-source models — DeepSeek R1, Llama 3.3, Qwen3, Gemma 3, Phi 4 — entirely on-device across iPhone, iPad and Mac. No internet is needed after the first model download, and there are no accounts, tracking or logs. It is a one-time purchase that unlocks every Apple platform you own plus Family Sharing for six."
+  ],
+  "features": [
+   "100% on-device inference with no cloud, tracking or login",
+   "DeepSeek R1 Distill, Llama 3.3, Qwen3, Gemma 3, Phi 4 and more",
+   "OmniQuant and GPTQ quantization tuned per model for Apple hardware",
+   "Siri and Apple Shortcuts integration for no-code AI workflows",
+   "macOS system-wide writing tools (rewrite, summarize, correct in any app)",
+   "One purchase covers iPhone, iPad, Mac and Family Sharing for six",
+   "Model picker filtered by device, RAM and use case"
+  ],
+  "pros": [
+   "Complete privacy: conversations never leave the device, works offline",
+   "One-time purchase with no subscription — rare in AI chat apps",
+   "Native Apple-stack build (C++, Metal, Swift) with optimized quantization"
+  ],
+  "cons": [
+   "Apple platforms only — no Android or Windows version",
+   "Text-based LLMs only; no image or multimodal model support",
+   "Model availability varies with device capability"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "promova": {
+  "verdict": "AI-guided language app with personalized paths, AI role-plays and live tutoring options.",
+  "overview": [
+   "Promova is an AI-aided language platform teaching 12 languages with personalized learning paths that adapt to your pace. It includes AI role-play conversations, pronunciation tools, bite-sized lessons and cultural insights, plus optional live group and 1-on-1 tutoring for English learners."
+  ],
+  "features": [
+   "AI-personalized learning paths",
+   "AI role-play conversations",
+   "Pronunciation tools",
+   "Bite-sized lessons",
+   "Cultural insights",
+   "Live group lessons",
+   "1-on-1 English tutoring",
+   "Dyslexia-friendly mode"
+  ],
+  "pros": [
+   "Adaptive AI paths personalized to your pace",
+   "AI role-plays build real conversation skills",
+   "Accessibility features like dyslexia mode"
+  ],
+  "cons": [
+   "Free tier is ad-heavy and limited",
+   "Monthly price is higher than many rivals"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "prompt-studio": {
+  "verdict": "Free workbench for designing, comparing, and managing AI prompts.",
+  "overview": [
+   "Prompt Studio is a free tool for prompt engineering that helps users write reusable prompt templates, generate variations from datasets, compare outputs across different language models, and chain prompts for complex scenarios. It replaces ad-hoc spreadsheets with a centralized place to test and track prompts."
+  ],
+  "features": [
+   "Reusable prompt templates",
+   "Prompt variation generation",
+   "Side-by-side model comparison",
+   "Prompt chains and version tracking"
+  ],
+  "pros": [
+   "Free to use",
+   "Compare models in one place",
+   "Replaces messy spreadsheets"
+  ],
+  "cons": [
+   "Early-stage product",
+   "Limited model integrations"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "promptatlas": {
+  "verdict": "Prompt creation and management library with bring-your-own-key support",
+  "overview": [
+   "PromptAtlas is a prompt library and management tool for people who work with AI models daily. It lets you create, organize, and reuse prompts in a searchable collection, and you can bring your own API keys to run them against your preferred models. The focus is on turning scattered prompt experiments into a usable, repeatable workflow."
+  ],
+  "features": [
+   "Centralized prompt library with organization",
+   "Bring-your-own API key support",
+   "Unlimited prompt storage",
+   "Test and iterate prompts in the app"
+  ],
+  "pros": [
+   "BYOK keeps model costs under your control",
+   "Good for teams standardizing prompts",
+   "Free tier available"
+  ],
+  "cons": [
+   "Value scales with how many prompts you actually reuse",
+   "No built-in model access — you supply keys"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "promptbase": {
+  "verdict": "Marketplace for buying and selling AI prompts",
+  "overview": [
+   "PromptBase is a marketplace where users can buy and sell AI prompts for image and text generation, with prompts typically priced around $1.99 and up. The official site is promptbase.com; a similarly named parked domain serves spam and should be avoided. It targets creators looking for proven, high-quality prompts."
+  ],
+  "features": [
+   "Prompt marketplace",
+   "Buy and sell prompts",
+   "Curated prompt library"
+  ],
+  "pros": [
+   "Large curated library",
+   "Pay only for prompts you use"
+  ],
+  "cons": [
+   "Marketplace quality varies",
+   "Per-prompt costs add up"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "prompter": {
+  "verdict": "Free prompt generator for creative writing and AI image prompts with randomized word lists.",
+  "overview": [
+   "Prompter is a free web tool for generating creative prompts. Using dropdown word lists, it assembles randomized prompts for creative writing, projects, and image generation, and pairs image prompts with AI-generated film-still-style visuals so you can explore and customize variations."
+  ],
+  "features": [
+   "Randomized prompt generation from word lists",
+   "Image prompt mode with AI visuals",
+   "Customizable templates"
+  ],
+  "pros": [
+   "Completely free",
+   "Fun way to break creative blocks",
+   "No signup needed"
+  ],
+  "cons": [
+   "Niche utility with a narrow use case",
+   "No account or saving features apparent",
+   "Relies on external image models for the visuals"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "promptfolder": {
+  "verdict": "Save, organize, and share AI prompts.",
+  "overview": [
+   "PromptFolder helps users create, manage, and share custom AI prompts with folders, privacy controls, and variable handling. It also offers trending prompts, keyword ideas, blog-post idea generators, and email subject-line helpers."
+  ],
+  "features": [
+   "Prompt library",
+   "Folders and privacy controls",
+   "Trending prompts",
+   "Idea generators"
+  ],
+  "pros": [
+   "Free tier available",
+   "Sharing and collaboration"
+  ],
+  "cons": [
+   "Focused on prompts, not generation"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "promptguard": {
+  "verdict": "LLM firewall that blocks prompt injection and redacts PII in real time.",
+  "overview": [
+   "PromptGuard is a drop-in AI security gateway that inspects prompts before they reach the model, blocking prompt injection and jailbreaks, redacting 43 PII entity types, filtering topics and detecting hallucinations. A layered engine of heuristics, ML classifiers and LLM judges publishes measured benchmarks, and it deploys as managed cloud, self-hosted hybrid or fully air-gapped with one-line SDK instrumentation. A free tier covers 20,000 requests per month with no card required."
+  ],
+  "features": [
+   "Prompt injection and jailbreak detection",
+   "PII detection and redaction across 43 entity types",
+   "Topic filtering and entity blocklists",
+   "Hallucination detection",
+   "Managed cloud, self-hosted and air-gapped deployment"
+  ],
+  "pros": [
+   "Generous free tier of 20,000 requests a month",
+   "Published benchmarks with methodology",
+   "Honest public compliance posture"
+  ],
+  "cons": [
+   "No SOC 2 or ISO certification yet",
+   "Self-hosted tiers require scale plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "proposai": {
+  "verdict": "AI tender and RFP response software that drafts from your evidence.",
+  "overview": [
+   "ProposAI is AI tender and RFP response software for bid teams: upload a tender pack and it separates what needs answering from the evidence that should support it, extracts questions, deadlines, scoring cues, and word limits, drafts source-grounded answers from your collateral library, and runs a Buyer Review to catch weak or unsupported claims before submission. Free to sign up with no credit card; 3 Buyer Reviews included."
+  ],
+  "features": [
+   "Tender pack ingestion (DOCX, PDF, XLSX)",
+   "Question and requirement extraction",
+   "Answer plan from buyer requirements",
+   "Source-grounded draft generation",
+   "Collateral library for reusable approved material",
+   "Buyer Review to catch weak answers",
+   "Evidence coverage tracking",
+   "Export back into working documents"
+  ],
+  "pros": [
+   "Purpose-built for bid teams, not generic writing.",
+   "Grounds drafts in your own evidence.",
+   "Buyer Review is a smart differentiator.",
+   "Free to start with no card."
+  ],
+  "cons": [
+   "Niche focus on tender/RFP responses.",
+   "No public pricing on the site.",
+   "Best suited to teams with existing collateral libraries."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "prose-fusion": {
+  "verdict": "AI writing assistant with a personal prompt library, fusion chat, and focus tools.",
+  "overview": [
+   "Prose Fusion is an AI writing assistant built around a library of reusable personal prompts triggered by slash commands. It includes a chat assistant for brainstorming, an analytics dashboard for writing metrics, and a Pomodoro timer for focus sessions. Supports multiple AI providers like Claude and GPT-4 in one workspace."
+  ],
+  "features": [
+   "Personal prompt library",
+   "Fusion Chat Assistant",
+   "Analytics dashboard",
+   "Pomodoro timer"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "prosematter": {
+  "verdict": "One workspace for writing a book: chapters, character codex, AI editorial feedback, and clean EPUB export.",
+  "overview": [
+   "Prosematter (previously known as Draftly) is one place for writing a whole book: chapters, a codex of characters and world lore, editorial feedback on the full draft, and clean exports at the end. An AI reads your draft and gives prose analysis on readability, tone, and clichés, remembers your writing style so rewrites sound like you, and fixes sentences in place. It imports from Word, Scrivener, Notion, and Google Drive, and exports EPUB, Word, and print-ready PDF. Free to start with 500 welcome credits; paid plans start at €10 a month."
+  ],
+  "features": [
+   "Codex for characters, places, and world lore",
+   "Full-draft editorial feedback from AI",
+   "Live prose analysis (readability, tone, clichés)",
+   "Writing-style memory for consistent rewrites",
+   "In-place sentence fixes and custom prompts",
+   "Co-writing with live cursors",
+   "Chapter boards and story timelines",
+   "Imports (Word, Scrivener, Notion, Drive) and EPUB/print-PDF exports"
+  ],
+  "pros": [
+   "Everything about the book beside the page",
+   "Imports from Word, Scrivener, Notion, and Drive",
+   "Free to start with 500 welcome credits",
+   "Clean EPUB and print-ready PDF export"
+  ],
+  "cons": [
+   "Built for book authors — narrow audience",
+   "Full feature set needs a paid plan",
+   "Beta-stage product from a small team"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "proton-scribe": {
+  "verdict": "Privacy-first AI writing assistant built into Proton Mail; runs locally or on no-log servers.",
+  "overview": [
+   "Proton Scribe is Proton Mail's privacy-first AI writing assistant that drafts emails from prompts, shortens, proofreads and adjusts tone. It can run locally on your device or on Proton's no-log servers, never trains on your inbox, and its model and code are open-source."
+  ],
+  "features": [
+   "Prompt-based email drafting in the composer",
+   "Shorten and proofread actions",
+   "Formal tone adjustment with one click",
+   "Local on-device execution option",
+   "No-log server option for other languages",
+   "Zero-access encryption: never trains on inbox data",
+   "Open-source model and code (GPL-3.0)"
+  ],
+  "pros": [
+   "Can run fully locally; data never leaves your device.",
+   "Does not train on or log your email content.",
+   "Built directly into the Proton Mail composer."
+  ],
+  "cons": [
+   "Paid add-on ($2.99/user/mo) unless you are Visionary/Lifetime.",
+   "English-first; some languages require Proton's servers.",
+   "Only available inside Proton Mail."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pullsy": {
+  "verdict": "AI inbox copilot for Gmail and Outlook.",
+  "overview": [
+   "Pullsy is an AI-powered smart inbox that connects to Gmail, Outlook, and your calendar to prioritize messages, surface attachments and action items, and draft replies in your own tone. Its natural-language Ask Pullsy search summarizes threads so you can find anything fast. Plans are paid with a 14-day free trial."
+  ],
+  "features": [
+   "AI inbox prioritization",
+   "Context-aware draft replies in your tone",
+   "Natural-language thread search",
+   "Gmail, Outlook, and calendar integration"
+  ],
+  "pros": [
+   "Drafts learn your writing style",
+   "Enterprise-grade security practices"
+  ],
+  "cons": [
+   "No free tier beyond the trial",
+   "Limited to Gmail and Outlook"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "purebox": {
+  "verdict": "Review-first AI Gmail cleaner that sorts your inbox into Attention, Archive and Trash.",
+  "overview": [
+   "PureBox connects to Gmail through official OAuth and uses AI to triage your whole inbox into three piles — Attention, Archive and Trash — with a plain-English reason for every suggestion. It is review-first: nothing moves until you approve it, and because cleanups happen inside your real Gmail, everything stays reversible."
+  ],
+  "features": [
+   "AI inbox triage into Attention, Archive and Trash",
+   "Review-first approvals with plain-English reasons",
+   "Batch cleanup of newsletters, promos and receipts",
+   "Undo via History view and Gmail labels",
+   "Official Google OAuth connection",
+   "Pro auto-handling of trusted email patterns",
+   "Ongoing classification of new mail as it arrives",
+   "Works inside your real Gmail — no app switch"
+  ],
+  "pros": [
+   "Nothing happens without your explicit approval",
+   "Free sample scan proves the value before you pay",
+   "Works inside Gmail — no new inbox to learn"
+  ],
+  "cons": [
+   "Full inbox coverage requires the Pro plan",
+   "Android-only mobile app so far, no iOS app",
+   "Email access trust is a real consideration for any inbox tool"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "querywing": {
+  "verdict": "AI website chatbot that crawls your site in seconds and answers visitors from your content while capturing leads around the clock.",
+  "overview": [
+   "QueryWing turns a website into a 24/7 AI assistant that answers visitor questions from the site's own content, powered by GPT-4o, Claude, and Gemini. It captures and qualifies leads mid-conversation, then hands complex chats to a human through live chat or CRM integrations. Teams go live in minutes by embedding a single line of code."
+  ],
+  "features": [
+   "Real-time website crawl that answers from live content",
+   "Multi-model engine: GPT-4o, Claude, and Gemini",
+   "Smart lead capture with AI lead scoring and sentiment analysis",
+   "Live agent handoff with CRM, Slack, and email integrations",
+   "50+ languages with automatic detection",
+   "Predictive analytics, CSAT, and resolution-rate tracking",
+   "Commerce mode with buyable product cards (Shopify, WooCommerce)",
+   "AI voice agent for real-time spoken conversations"
+  ],
+  "pros": [
+   "Live in under five minutes with no coding required",
+   "Free-forever plan to start (one bot, 20 conversations a month)",
+   "Strong integration set: HubSpot, Salesforce, Slack, Shopify, Zapier",
+   "Multi-model engine with 50+ language support"
+  ],
+  "cons": [
+   "Free plan caps at 20 conversations and 10 leads per month",
+   "Starter plan jumps to $49/mo, steep for very small sites",
+   "Answer quality depends on the quality of your site's content"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "quickfix-ai": {
+  "verdict": "AI writing assistant Chrome extension for replies, rewrites, and tone fixes.",
+  "overview": [
+   "Quickfix AI is an AI writing assistant delivered as a Chrome extension that helps users rewrite drafts, fix tone and grammar, and generate well-crafted replies anywhere they type. It is positioned as a productivity catalyst for professional correspondence, removing the repetitive hassle of composing similar messages over and over. The official site is live and the product is listed at $9/month/user with a free version and free trial. It suits professionals who write a lot of email and messages."
+  ],
+  "features": [
+   "AI reply generation",
+   "draft rewriting",
+   "tone and grammar correction",
+   "Chrome extension"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "rask-ai": {
+  "verdict": "AI video dubbing and localization platform that translates video and audio into 135+ languages with voice cloning and lip-sync.",
+  "overview": [
+   "Rask AI is an AI video localization platform by Brask Inc. that translates, dubs and lip-syncs videos into 135+ languages while cloning the speaker's own voice in 32+ languages. It includes a transcript editor for quality control, translation dictionary and team workspaces for enterprise workflows, plus an API for automating localization at scale."
+  ],
+  "features": [
+   "AI video dubbing in 135+ languages",
+   "VoiceClone: clone your own voice in 32+ languages",
+   "Lip-sync for pixel-matched translated audio",
+   "Multi-speaker detection with distinct dubbed voices",
+   "Auto-generated captions and transcript editor",
+   "Translation dictionary for brand-term consistency",
+   "Teamspaces for real-time team collaboration",
+   "API for automating localization at scale"
+  ],
+  "pros": [
+   "Strong voice cloning reviewers praise as accurate and natural",
+   "Editable translated transcript before rendering reduces rework",
+   "Supports long-form content up to 5 hours per file",
+   "Enterprise-ready: SOC 2 Type II, SSO/SAML, C2PA certified"
+  ],
+  "cons": [
+   "High entry price: Creator plan is $60/mo for only 25 minutes",
+   "Lip-sync consumes 2x credits, halving effective minutes",
+   "No permanent free tier; trial is a one-time 3-minute allocation"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "reachinbox": {
+  "verdict": "AI cold email outreach with personalization and deliverability tools.",
+  "overview": [
+   "ReachInbox is an AI-powered cold email outreach platform for sales and lead generation. It finds prospects, writes personalized emails per recipient, and manages campaigns with tools like a Spintax generator, AI sending-pattern optimization, smart follow-ups, and automatic reply handling. Plans start at $39 per month with higher tiers up to $999 for enterprise volume."
+  ],
+  "features": [
+   "AI-personalized cold emails",
+   "Prospect finding",
+   "Spintax email variations",
+   "Smart follow-ups and auto-replies",
+   "Deliverability optimization"
+  ],
+  "pros": [
+   "Strong automation from prospecting to follow-up",
+   "Scales to very high email volumes"
+  ],
+  "cons": [
+   "Paid only, starting at $39/month",
+   "Cold email requires careful list hygiene to avoid spam issues"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "readeasy-ai": {
+  "verdict": "AI text simplification for low-literacy readers.",
+  "overview": [
+   "ReadEasy.ai simplifies complex text for readers with low literacy using AI and machine learning. It offers reading-level feedback, synonyms, and integrations including a Chrome extension, Word/Outlook add-ins, and a developer API. Freemium pricing includes a free plan with Personal at 2.99 EUR per month. It is part of Accessibility Desk."
+  ],
+  "features": [
+   "Text simplification",
+   "Reading-level feedback",
+   "Multilingual support",
+   "Chrome extension",
+   "Word/Outlook add-ins",
+   "Developer API"
+  ],
+  "pros": [
+   "Accessibility-focused mission",
+   "Multiple integrations",
+   "Free plan available"
+  ],
+  "cons": [
+   "AI simplification needs review",
+   "Niche audience"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "ready-to-send": {
+  "verdict": "AI drafting assistant that writes Gmail replies in your voice.",
+  "overview": [
+   "Ready to Send is an AI drafting assistant that lives in your Gmail workflow and writes replies in your voice. It studies your writing style so suggested drafts sound like you rather than generic AI text. The first hundred drafts are free, which makes it easy to test before paying."
+  ],
+  "features": [
+   "Gmail reply drafting",
+   "Tone matching",
+   "One-click insert",
+   "Free draft allowance"
+  ],
+  "pros": [
+   "Matches your personal writing tone",
+   "Generous free trial of 100 drafts"
+  ],
+  "cons": [
+   "Gmail-only integration",
+   "Free draft allowance is limited"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "regie-ai": {
+  "verdict": "Enterprise AI sales engagement platform with AI agents for outbound prospecting.",
+  "overview": [
+   "Regie.ai is a high-end AI sales engagement platform built for SDR and RevOps teams that automates outbound prospecting at scale. It unites human reps and AI agents in one workflow that writes sequences, personalizes emails and LinkedIn messages, and even makes phone calls. Pricing is enterprise-grade, starting around $180/month per user for the AI SEP plan, with limited free credits to try it."
+  ],
+  "features": [
+   "AI campaign builder generating full outbound cadences across email, LinkedIn, and calls",
+   "AI content engine with performance-based A/B testing",
+   "Autonomous AI sales agents for prospecting tasks",
+   "AI dialer with parallel dialing",
+   "Lead enrichment and buyer intent data",
+   "CRM integrations (Salesforce, HubSpot, Outreach, Salesloft)",
+   "Team analytics and manager visibility"
+  ],
+  "pros": [
+   "End-to-end outbound automation: email, LinkedIn, and calling in one platform",
+   "AI agents handle the repetitive prospecting work (sourcing, enrichment, task generation)",
+   "Built for enterprise SDR teams with serious volume"
+  ],
+  "cons": [
+   "Very expensive — from $180/user/month up to $35K+/year enterprise packages",
+   "Pricing is not transparent and varies by package",
+   "Some reviewers note the AI copy can sound robotic"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "resign-ai": {
+  "verdict": "Generate professional resignation letters with AI",
+  "overview": [
+   "Resign.ai is an AI-powered resignation letter generator that creates personalized, professional resignation letters from job details and the user's situation. Plans start at $5 per month with Pro at $10 and Enterprise at $20. The product also offers samples, tutorials, and industry-specific examples."
+  ],
+  "features": [
+   "AI resignation letter generation",
+   "Customizable templates",
+   "Samples and tutorials"
+  ],
+  "pros": [
+   "Handles an awkward task well",
+   "Affordable plans"
+  ],
+  "cons": [
+   "Paid plans from $5/mo",
+   "Narrow single purpose"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "reverso": {
+  "verdict": "AI translator and dictionary with real-world context examples, plus writing tools.",
+  "overview": [
+   "Reverso is a free-to-use AI translator and dictionary covering 25+ languages, best known for Reverso Context — which shows words used in real bilingual sentences from films, books, and legal texts. One affordable Premium subscription bundles unlimited translation, document translation, an AI grammar checker and paraphraser, vocabulary learning tools, and mobile apps with voice translation."
+  ],
+  "features": [
+   "Neural machine translation in 25+ languages",
+   "Reverso Context with authentic bilingual example sentences",
+   "AI grammar checker and paraphraser",
+   "Document translation for Word, PDF, and PowerPoint",
+   "Verb conjugator across 10 languages",
+   "Vocabulary lists with spaced-repetition learning and offline dictionaries",
+   "Voice translation on mobile apps",
+   "Double-click browser extension for instant translation while reading"
+  ],
+  "pros": [
+   "Generous free tier with unlimited contextual searches",
+   "Context examples show how words are really used, not just dictionary definitions",
+   "One subscription bundles translator, writing assistant, and language coach"
+  ],
+  "cons": [
+   "Premium document translation capped at 50,000 words per year",
+   "Strongest on European languages; weaker for some Asian languages",
+   "Free tier includes ads"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "reword": {
+  "verdict": "AI writing assistant focused on high-quality marketing content.",
+  "overview": [
+   "Reword is an AI writing tool aimed at marketing teams producing blog posts and content with consistent quality and tone. It is a paid product positioned for content marketers who need more control than generic chatbots offer."
+  ],
+  "features": [
+   "AI content drafting",
+   "Tone and style controls",
+   "SEO-oriented writing",
+   "Team collaboration"
+  ],
+  "pros": [
+   "Focused on marketing quality",
+   "Consistent tone",
+   "Purpose-built editor"
+  ],
+  "cons": [
+   "Paid-only",
+   "Crowded writing-tool market",
+   "Limited public detail"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "rightblogger": {
+  "verdict": "AI blogging platform with 80+ tools for writing, SEO, and site maintenance.",
+  "overview": [
+   "RightBlogger is Ryan Robinson's AI blogging platform bundling more than 80 tools for content creators, from an Article Writer and autoblogging scheduler to keyword research, an SEO editor, and a Site Agent that handles site maintenance. It integrates with popular CMS platforms so finished posts can be published directly to a blog. It offers a free trial with paid plans starting around $49 per month."
+  ],
+  "features": [
+   "80+ AI tools for bloggers",
+   "Article Writer and autoblogging scheduler",
+   "Keyword research and SEO content editor",
+   "Site Agent for automated site maintenance",
+   "Direct publishing to popular CMS platforms"
+  ],
+  "pros": [
+   "Huge tool count covering the full blogging workflow",
+   "Direct CMS publishing saves export/import steps",
+   "Built by a well-known blogging educator",
+   "Free trial available"
+  ],
+  "cons": [
+   "Paid plans start around $49 per month",
+   "Tool quality varies across the large suite",
+   "Autoblogging risks producing low-quality content"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "rosetta-stone": {
+  "verdict": "Immersive language learning in 25 languages with TruAccent speech recognition.",
+  "overview": [
+   "Rosetta Stone's Dynamic Immersion method teaches 25 languages without translation, through images, audio and matching. Its proprietary TruAccent speech recognition evaluates and corrects your pronunciation, and the new Sapphire tier adds chat-style conversation missions. It is trusted by 22,000 educational institutions and 12,000 corporations."
+  ],
+  "features": [
+   "Dynamic Immersion method",
+   "TruAccent speech recognition",
+   "Chat-style conversation missions",
+   "500+ flashcard sets",
+   "Stories and phrasebook",
+   "25 languages",
+   "Live lessons on select plans",
+   "Progress sync across devices"
+  ],
+  "pros": [
+   "Proven immersion method with decades of results",
+   "Excellent TruAccent pronunciation feedback",
+   "Lifetime plan for all 25 languages"
+  ],
+  "cons": [
+   "No explicit grammar explanations",
+   "Higher price than most app rivals"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "rytr": {
+  "verdict": "AI writing assistant with 8M+ users, from $7.50/month unlimited.",
+  "overview": [
+   "Rytr is a widely used AI writing assistant with over 8 million users, founded by Abhimanyu Godara. It offers 10,000 free characters/month with an Unlimited plan around $7.50/month, plus a Chrome extension and API, aimed at affordable everyday AI writing."
+  ],
+  "features": [
+   "40+ writing use cases",
+   "Tone and language options",
+   "Plagiarism checker",
+   "Chrome extension",
+   "API access",
+   "Free 10k chars/month"
+  ],
+  "pros": [
+   "Very affordable unlimited plan",
+   "Huge user base",
+   "Multi-platform"
+  ],
+  "cons": [
+   "Output quality behind top models",
+   "Free tier is small",
+   "Dated UI"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "sanebox": {
+  "verdict": "AI inbox filtering service that sorts unimportant mail out of your inbox on any email client.",
+  "overview": [
+   "SaneBox connects to your mail account and sorts incoming messages into folders before you ever see them, keeping important mail in the inbox while the rest lands in folders like SaneLater. Training is as simple as dragging messages between folders, and the AI settles into your habits within a week or two. Because it works at the mail server, it applies to every client and device you use at once."
+  ],
+  "features": [
+   "AI filtering that sorts mail into smart SaneFolders",
+   "SaneLater for low-priority mail you check on your schedule",
+   "SaneBlackHole for one-drag permanent unsubscribe",
+   "SaneReminders and SaneNoReplies for follow-up tracking",
+   "Snooze to defer emails to later",
+   "Do Not Disturb mode with automatic away responses",
+   "One-click unsubscribe from annoying senders",
+   "Works with Gmail, Outlook, Yahoo, iCloud, and any IMAP/Exchange account"
+  ],
+  "pros": [
+   "Works at the server level, so it applies to every email client at once",
+   "Privacy-friendly: only reads email headers, never message bodies",
+   "Easy training by dragging messages between folders"
+  ],
+  "cons": [
+   "Entry plan only includes two features, not a limited version of all of them",
+   "It filters only — nothing gets drafted or acted on",
+   "Localized pricing means costs vary significantly by region"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "saydi": {
+  "verdict": "Real-time AI voice translation for meetings and events across 60+ languages.",
+  "overview": [
+   "Saydi is a real-time AI voice translation platform built for meetings and events. It translates two-way conversations with near-zero latency, transcribes with speaker labels, and lets users feed it context like industry terms and meeting details so it translates intent rather than just words. A free tier exists, with paid credit packs starting from $9 for 10 hours."
+  ],
+  "features": [
+   "Real-time two-way voice translation with near-zero latency",
+   "One-way follow mode for listening without full focus",
+   "Multilingual transcription with speaker diarization",
+   "AI Context Engine: scenario presets, keywords, custom dictionary (50 terms)",
+   "Auto language detection with zero-touch interaction",
+   "Chrome extension for Google Meet, Zoom, and Teams",
+   "Event mode with QR code for hundreds of attendees",
+   "DocTranslate for instant localization of event documents"
+  ],
+  "pros": [
+   "Near-zero latency two-way translation in meetings",
+   "Context-aware translation with custom dictionaries and scenario presets",
+   "60+ languages supported",
+   "Privacy-first architecture (on-device audio processing)",
+   "Free tier available, no credit card to start"
+  ],
+  "cons": [
+   "Keyword detection can lag in sessions longer than an hour (per Product Hunt reviewer)",
+   "Paid usage is credit-based, so heavy event use can add up quickly",
+   "Young product in a crowded real-time translation space"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "scribble-ai": {
+  "verdict": "Simple AI text generator app for iOS, free to use.",
+  "overview": [
+   "Scribble AI is a minimal iOS app for generating text with AI — described as the simplest way to generate text using AI. Built by an indie developer, it is free and targets users who want quick AI writing without a complex interface."
+  ],
+  "features": [
+   "AI text generation",
+   "Minimal simple interface",
+   "Quick prompts",
+   "Free to use"
+  ],
+  "pros": [
+   "Dead simple",
+   "Free",
+   "Fast for quick generations"
+  ],
+  "cons": [
+   "iOS only",
+   "Limited features",
+   "Indie project — support varies"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "scribo": {
+  "verdict": "No-code AI assistant builder for search and summarization over your data.",
+  "overview": [
+   "Scribo is a no-code AI platform for building custom AI assistants focused on productivity. Businesses and students can train chatbots on their own knowledge sources to handle search, summarization, and question answering over internal documents. The platform supports continuous learning so assistants improve as they are used."
+  ],
+  "features": [
+   "No-code AI assistant builder",
+   "Connect private data sources and documents",
+   "Search and summarization assistants"
+  ],
+  "pros": [
+   "Build assistants without coding",
+   "Works on your own documents",
+   "Free tier available"
+  ],
+  "cons": [
+   "Newer platform with limited public reviews",
+   "Feature depth unclear versus established AI writers"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "scrip-ai": {
+  "verdict": "Free AI writing suite with 100+ tools, no login required.",
+  "overview": [
+   "Scrip AI is a free AI writing platform offering over 100 tools: short-video scripts, hooks, captions, hashtags, essays and more. Everything works without an account, which makes it handy for quick content tasks. It is supported by ads rather than subscriptions."
+  ],
+  "features": [
+   "100+ AI writing tools",
+   "Short-video script generator",
+   "Hooks and caption tools",
+   "No login required"
+  ],
+  "pros": [
+   "Completely free, no account",
+   "Huge tool variety",
+   "Creator-focused templates"
+  ],
+  "cons": [
+   "Ad-supported",
+   "Output quality varies by tool"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "scrivvy-ai": {
+  "verdict": "AI writing product at scrivvy.ai.",
+  "overview": [
+   "Scrivvy is a live AI writing product at scrivvy.ai on a freemium model. Public details on its feature set are limited."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [
+   "Limited public information"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "seatext-ai": {
+  "verdict": "AI website translation plus conversion-rate optimization from a single snippet.",
+  "overview": [
+   "Seatext AI is a website tool that translates sites into 125 languages in real time from a JavaScript snippet or WordPress plugin, with the company claiming its core translation is free forever. Its AI also runs A/B tests on content variations — product descriptions, headlines — to lift conversions, and adds SEO rewriting plus a compliant cookie-consent banner."
+  ],
+  "features": [
+   "AI website translation into 125 languages",
+   "AI-generated A/B content tests for conversions",
+   "SEO rewriting for target keywords",
+   "GDPR/CCPA-compliant cookie banner",
+   "Mobile-specific text optimization"
+  ],
+  "pros": [
+   "Core translation claimed free forever",
+   "Translation plus CRO in one snippet",
+   "Easy WordPress setup"
+  ],
+  "cons": [
+   "Advanced optimization features are paid",
+   "Conversion claims are company-stated"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "secret-llama": {
+  "verdict": "Fully private LLM chatbot that runs entirely in your browser.",
+  "overview": [
+   "Secret Llama is an open-source chatbot that runs large language models like Llama 3 and Mistral directly in the browser using WebGPU, so no conversation data ever leaves the user's computer. It works offline after models load and offers a ChatGPT-style interface for open models. The project and its hosted version are free and open source."
+  ],
+  "features": [
+   "In-browser LLM inference via WebGPU",
+   "Support for Llama 3, Mistral and more",
+   "Works offline after model download",
+   "No server and no install required",
+   "Fully private, data stays on device"
+  ],
+  "pros": [
+   "Complete privacy by design",
+   "Free and open source"
+  ],
+  "cons": [
+   "Needs a WebGPU-capable browser",
+   "Large models require lots of RAM"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "sendmux": {
+  "verdict": "Email API designed for AI agents, with a free tier and active development.",
+  "overview": [
+   "Sendmux is an email API designed for AI agents and automated workflows. Developers can plug transactional and campaign email into agentic pipelines with a free tier to start, and the project is actively maintained on GitHub."
+  ],
+  "features": [
+   "Email API built for AI agents",
+   "Free tier to start",
+   "Active open development on GitHub"
+  ],
+  "pros": [
+   "Purpose-built for AI-agent email workflows",
+   "Free tier for getting started",
+   "Actively developed open project"
+  ],
+  "cons": [
+   "Requires a developer to integrate; no no-code sender for marketers",
+   "Email deliverability depends on your own sending setup"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "sequenzy": {
+  "verdict": "AI email marketing platform built for SaaS, combining campaigns and transactional email.",
+  "overview": [
+   "Sequenzy is an AI-powered email marketing platform built specifically for SaaS companies. It combines marketing and transactional email in one system, with AI-generated sequences, SaaS-focused templates and native Stripe integration. Its MCP server also lets AI coding assistants run email operations through natural language."
+  ],
+  "features": [
+   "AI-generated email sequences for SaaS",
+   "Marketing and transactional email in one dashboard",
+   "Native Stripe integration",
+   "SaaS lifecycle templates (onboarding, dunning, win-back)",
+   "MCP server for AI-agent control",
+   "Developer API and SDKs"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "serif-ai": {
+  "verdict": "AI workflow platform that drafts, sorts, and follows up on business email automatically.",
+  "overview": [
+   "Serif is an AI workflow platform that automates email and document work for small businesses. It reads incoming messages, drafts replies in the user's own tone, sorts mail into labels, chases missing documents, and sends follow-ups automatically. Founders Kevin Yang and James built it to let software absorb the routine operational email that eats team time."
+  ],
+  "features": [
+   "AI-drafted replies in your own writing style",
+   "Automatic inbox sorting and labeling",
+   "Document chasing and follow-up workflows",
+   "Playbooks and knowledge base for business processes",
+   "Gmail and Outlook integration via official APIs"
+  ],
+  "pros": [
+   "Security-minded: Google-designated third-party security audit, working toward SOC 2 Type II and GDPR",
+   "Aims to cut email time significantly for operations teams",
+   "Transparent founding story and active development"
+  ],
+  "cons": [
+   "Paid from $30/month puts it out of reach for casual users",
+   "Focused on SMB workflows rather than individual power users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "shortwave": {
+  "verdict": "AI-native email client for Gmail with AI summaries, personalized drafting, and natural-language search.",
+  "overview": [
+   "Shortwave is an AI-first email client that sits on top of Gmail accounts, summarizing long threads, drafting replies in your own style, and letting you search your entire email history with natural-language queries. It adds organization tools like Smart Labels, Bundles for grouping similar messages, and scheduled delivery times. Currently Gmail-only, with a limited free plan and paid plans starting at $14/seat/month."
+  ],
+  "features": [
+   "AI summaries of long emails and threads",
+   "AI reply drafting that mimics your personal tone",
+   "Natural-language AI search across your whole email history",
+   "Smart Labels that auto-tag priority and low-value mail",
+   "Bundles for grouping similar emails for bulk actions",
+   "Custom delivery schedules to reduce interruptions",
+   "AI meeting invitation generation"
+  ],
+  "pros": [
+   "Powerful natural-language search over email history",
+   "AI learns your writing style for believable replies",
+   "Free plan available to try before paying"
+  ],
+  "cons": [
+   "Gmail only — no Outlook or IMAP support",
+   "Free plan is very limited in functionality",
+   "Per-seat pricing adds up quickly for teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "sideconvo": {
+  "verdict": "AI voice-and-text chat widget that learns your website and talks to visitors.",
+  "overview": [
+   "Sideconvo is a drop-in AI assistant for websites that crawls your pages and uploaded documents to build its own knowledge base, then answers visitor questions through real-time voice or text conversations. It can guide shoppers, summarize buried content, and surface answers site owners didn't know visitors were looking for. Installation is a single line of code, and the agent keeps improving from each interaction, with conversation logs, analytics, and missed-answer insights in an admin dashboard."
+  ],
+  "features": [
+   "AI chat widget installable with one line of code",
+   "Voice and text conversations with visitors",
+   "Automatic site crawling to build a knowledge base",
+   "Continuous learning from interactions",
+   "Customizable personality and tone",
+   "Conversation logs and analytics dashboard",
+   "Missed-answer insights"
+  ],
+  "pros": [
+   "No manual training required",
+   "One-line installation",
+   "Both voice and text modes"
+  ],
+  "cons": [
+   "Pricing not publicly listed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "skimai": {
+  "verdict": "AI Gmail productivity tool that summarizes and manages your inbox.",
+  "overview": [
+   "SkimAI is an AI email assistant for Gmail that summarizes threads and helps manage inbox overload. It turns long conversations into quick briefs so you can triage faster. Busy professionals use it to stay on top of email without reading every message."
+  ],
+  "features": [
+   "AI email summaries",
+   "Gmail integration",
+   "Inbox triage assistance"
+  ],
+  "pros": [
+   "Cuts time spent reading long threads",
+   "Simple Gmail-focused workflow",
+   "Free plan available"
+  ],
+  "cons": [
+   "Gmail only, no Outlook support",
+   "Summary quality depends on thread complexity"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ }
+}

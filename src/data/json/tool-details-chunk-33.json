@@ -1,0 +1,1521 @@
+{
+ "d-id": {
+  "verdict": "Digital-human platform for avatar videos and real-time conversational agents in 120+ languages.",
+  "overview": [
+   "D-ID is a digital-human platform for turning scripts, briefs, or documents into avatar-led videos, plus real-time conversational AI agents. Its Creative Reality Studio animates stock avatars or uploaded photos with 120+ language support, and a documented API lets developers embed avatar video and interactive agents in their own products. Plans start with a free trial; Lite begins around $4.7/month, with enterprise tiers adding SSO and compliance features."
+  ],
+  "features": [
+   "Creative Reality Studio for script-to-avatar video",
+   "100+ stock AI avatars",
+   "Real-time conversational AI agents",
+   "120+ languages with lip-sync",
+   "Voice cloning",
+   "Developer API and embeddable agents",
+   "PowerPoint, Canva, and Google Slides plugins",
+   "Custom digital humans from images or video"
+  ],
+  "pros": [
+   "One of the cheapest entries into interactive avatars",
+   "Real-time conversational agents beyond static video",
+   "Well-documented API with workflow integrations",
+   "G2-recognized leader in AI video generation"
+  ],
+  "cons": [
+   "Credit costs can escalate quickly with regular use",
+   "Only 5-minute maximum video length per generation",
+   "Premium 1080p presenters are not supported on the Lite plan"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "daft-art": {
+  "verdict": "AI album cover generator for musicians.",
+  "overview": [
+   "Daft Art generates AI album covers and music artwork, sold via passes — about $9.97 for 7 days or $24.97 for 30 days. It targets independent musicians and producers who need cover art without a designer."
+  ],
+  "features": [
+   "AI album cover generation",
+   "Music-artwork styles",
+   "High-res downloads",
+   "Time-limited passes"
+  ],
+  "pros": [
+   "Built for musicians",
+   "Affordable passes",
+   "Fast artwork"
+  ],
+  "cons": [
+   "Time-limited access",
+   "Niche use case",
+   "Style variety limits"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "daisy-so": {
+  "verdict": "Multi-model AI image studio for generating and editing visuals.",
+  "overview": [
+   "Daisy.so is a web-based image studio that gives creators access to multiple AI image models in one place for generation and editing. It is listed on FutureTools and appears in third-party vendor comparisons, though its official homepage returned HTTP 404 during verification (likely bot-blocking), so confidence is medium. Treat this record as lower-confidence until a live check confirms the site. Pricing details were conflicted, so none is recorded here."
+  ],
+  "features": [
+   "multi-model image generation",
+   "AI image editing"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dall-e-3": {
+  "verdict": "OpenAI's text-to-image model that turns detailed natural-language prompts into images via ChatGPT or API.",
+  "overview": [
+   "DALL-E 3 is OpenAI's text-to-image model known for strong prompt adherence — it reliably follows multi-part, detailed instructions. It is accessible conversationally inside ChatGPT and Microsoft's tools, and programmatically through OpenAI's Images API from $0.04 per image. Note: as of early 2026, ChatGPT's built-in image generation has moved to OpenAI's newer GPT Image models; DALL-E 3 remains available via the API."
+  ],
+  "features": [
+   "Generate images from text prompts inside ChatGPT, with conversational refinement",
+   "Standard and HD quality options via the API",
+   "Multiple sizes including 1024x1024, 1024x1792 and 1792x1024",
+   "Image editing and style-reference capabilities through the Images API endpoints",
+   "Usage-based API pricing from $0.04 per standard image",
+   "Generated images are yours to use commercially with no permission needed",
+   "Built-in safety mitigations that decline public figures and living-artist styles"
+  ],
+  "pros": [
+   "Exceptional prompt adherence — accurately follows complex, multi-part instructions",
+   "Conversational workflow: iterate and refine images by chatting in ChatGPT",
+   "Full commercial rights to generated images, plus flexible per-image API pricing"
+  ],
+  "cons": [
+   "ChatGPT's built-in generator now defaults to newer GPT Image models, so DALL-E 3 branding is fading in the consumer product",
+   "In-image text rendering is functional but trails specialist tools like Ideogram",
+   "API costs scale quickly at volume; safety filters can refuse some legitimate requests"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dashtoon-studio": {
+  "verdict": "Create AI-generated comics and webtoons and publish them to readers",
+  "overview": [
+   "Dashtoon Studio lets anyone create comics and webtoons using AI-generated characters and artwork instead of drawing every panel. It pairs generation tools with a reading platform, so creators can publish stories and reach readers in the same place. The platform is free to read, with coins used for unlocking premium episodes."
+  ],
+  "features": [
+   "AI comic and webtoon creation",
+   "AI-generated characters and scenes",
+   "Built-in publishing and reading platform"
+  ],
+  "pros": [
+   "No drawing skills required to start a comic",
+   "Create and publish in one platform",
+   "Free-to-read catalog for readers"
+  ],
+  "cons": [
+   "Style options limited compared to professional illustration tools",
+   "Free reading supported by coins and ads",
+   "English-language library is still growing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decofy": {
+  "verdict": "AI interior design app that restyles your room with real products and prices.",
+  "overview": [
+   "Decofy is an iOS app by Serendipity One Inc. that uses AI to redesign your rooms from a photo. It generates realistic room designs featuring real products with actual prices, so you can go from inspiration to purchase. The app is free to start with in-app purchases for expanded features."
+  ],
+  "features": [
+   "AI room redesign from a photo",
+   "Designs with real, purchasable products and prices",
+   "Multiple style options",
+   "Free tier with in-app purchases"
+  ],
+  "pros": [
+   "Shoppable designs, not just pretty pictures",
+   "Easy photo-to-design workflow"
+  ],
+  "cons": [
+   "iOS only",
+   "Product availability may vary by region"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decohere": {
+  "verdict": "AI generator for images, video, and creative media (formerly Decoherence).",
+  "overview": [
+   "Decohere — previously branded Decoherence — is an AI media generator pitched as a fast all-in-one creative tool for images and video. The company rebranded from decoherence.co to decohere.co while keeping the same product, and it operates on a freemium model for creators."
+  ],
+  "features": [
+   "AI image generation",
+   "AI video generation",
+   "Fast creative workflow",
+   "Free tier"
+  ],
+  "pros": [
+   "Multiple media types",
+   "Fast generation claims",
+   "Free tier"
+  ],
+  "cons": [
+   "Recent rebrand may confuse",
+   "Limited public reviews",
+   "Crowded generator market"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decor8-ai": {
+  "verdict": "Redesigns rooms with AI across 56+ interior design styles.",
+  "overview": [
+   "Decor8 AI is an interior design platform that transforms photos of real rooms into photorealistic redesigns in under 30 seconds. Choose from 56+ styles, visualize paint colors, remove clutter, or virtually stage empty rooms for real estate listings. It costs $14.99 per month and runs on iOS, Android, web, and macOS, with a developer API available."
+  ],
+  "features": [
+   "AI room redesign",
+   "virtual staging",
+   "paint color visualizer"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decorai": {
+  "verdict": "Photorealistic AI room, kitchen, exterior, and garden redesigns with in-place editing tools and unlimited generations.",
+  "overview": [
+   "DecorAI turns one photo of a room, kitchen, exterior, or garden into photorealistic redesigns in about 30 seconds, with 175+ styles and 129+ space types. It preserves existing room layouts while offering editing tools like Magic Edit, Erase Object, Inpaint, and Surface Editor, plus 4x upscaling and AI image-to-video. A single $24/month plan unlocks unlimited image designs across every tool with commercial usage rights."
+  ],
+  "features": [
+   "Photo-to-redesign in ~30 seconds",
+   "175+ design styles across 54 interior, 67 exterior, 54 garden",
+   "Magic Edit, Erase Object, Inpaint, and Surface Editor",
+   "4x image upscaling",
+   "Image-to-video generation",
+   "Virtual staging built into every design tool",
+   "Dedicated kitchen and landscape design modes",
+   "Commercial usage rights on all plans"
+  ],
+  "pros": [
+   "Unlimited generations for a flat monthly price",
+   "Room geometry and layout are preserved in renders",
+   "Strong in-place editing toolkit for refining designs",
+   "Commercial rights included even on the base plan"
+  ],
+  "cons": [
+   "1-day free trial requires a credit card up front",
+   "No genuinely free tier beyond the trial",
+   "AI concepts do not replace a professional designer for technical work"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decormatters": {
+  "verdict": "AI-powered room design app: upload a photo of your room and generate makeovers, edit furniture with AI, and preview in AR.",
+  "overview": [
+   "DecorMatters combines an AI room designer with a decorating app built around photos of your own space. You upload a room, rearrange furniture with drag-and-drop, preview changes in AR, and refine looks with the AI edit and refine tools. A community library of 21M+ user designs and design games keeps the discovery side lively, making it as much a source of inspiration as a planning tool."
+  ],
+  "features": [
+   "AI Room Designer — generate complete room designs from a prompt",
+   "AI Edit Your Room — swap furniture, colors, or materials with AI",
+   "AI Refine Your Design — one-click layout, lighting, and mood tuning",
+   "Upload a photo of your real room and decorate it",
+   "Drag-and-drop furniture rearrangement",
+   "AR preview of changes in your actual space",
+   "Community library of 21M+ designs for inspiration",
+   "Save, compare, and share room designs"
+  ],
+  "pros": [
+   "Works directly with photos of your real room rather than templates",
+   "AR preview lets you check changes in the actual space",
+   "Large community library provides endless inspiration",
+   "Design games make exploring styles approachable for beginners"
+  ],
+  "cons": [
+   "Homepage does not publish pricing, so the cost of premium AI features is unclear up front",
+   "Design-game layer can feel less professional than purpose-built design software for serious renovation planning"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "deep-agency": {
+  "verdict": "AI virtual photo studio and model agency by Danny Postma.",
+  "overview": [
+   "Deep Agency is an AI virtual photo studio that generates model photography without cameras or studios. Founded by indie hacker Danny Postma, it lets brands create on-model product shots and portraits from text prompts. Free trial available, with plans from $29 per month."
+  ],
+  "features": [
+   "AI model photography",
+   "Virtual photo shoots",
+   "Brand and product imagery",
+   "Style presets"
+  ],
+  "pros": [
+   "Replaces expensive shoots",
+   "Indie-credible founder",
+   "Good for ecommerce mockups"
+  ],
+  "cons": [
+   "Faces can look synthetic",
+   "Limited pose control"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "deep-dream-generator": {
+  "verdict": "The original AI art platform — 30+ models for surreal image generation.",
+  "overview": [
+   "Deep Dream Generator (DDG) is the first modern generative AI art website, launched in 2015 to bring Google's DeepDream neural network to the public through a simple web interface. Today it offers 30+ AI models, text-to-image generation, and video creation. Users can generate images without an account within daily free limits, while registered users unlock higher resolution, custom models, and personal galleries."
+  ],
+  "features": [
+   "30+ AI art models",
+   "Text-to-image generation",
+   "AI video creation",
+   "DeepDream-style neural art filters",
+   "Personal galleries for registered users",
+   "Free generation without signup (limited)"
+  ],
+  "pros": [
+   "Pioneering platform with a long track record",
+   "Free tier usable without an account",
+   "Large model variety including classic DeepDream styles",
+   "Good for art exploration and experimentation"
+  ],
+  "cons": [
+   "Daily free limits for anonymous users",
+   "Interface feels dated next to newer generators",
+   "Advanced features require registration or paid plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "deepbrain-ai": {
+  "verdict": "Hyperrealistic AI avatar videos from scripts or PDFs, with AI dubbing and real-time interactive avatars.",
+  "overview": [
+   "DeepBrain AI turns scripts, prompts, and PDFs into avatar-led videos with hyperrealistic AI presenters. Its AI Studios product offers 100+ stock avatars, custom avatars, 80+ languages and voices, AI dubbing with lip-sync, generative model credits, and 4K export on Team plans. It also sells interactive avatars for real-time conversation and kiosks, with a free plan covering 3 videos."
+  ],
+  "features": [
+   "100+ hyperrealistic AI avatars",
+   "Custom avatar creation",
+   "80+ languages and 1,000+ voices",
+   "AI dubbing with lip-sync translation",
+   "7,000+ video templates and brand kit",
+   "Generative model credits (Veo, Sora) on paid plans",
+   "Interactive avatars for real-time conversation",
+   "API access on Pro/Team and enterprise tiers"
+  ],
+  "pros": [
+   "Very realistic, natural-looking avatars",
+   "AI dubbing with lip-sync is a standout for localization",
+   "Free plan lets you test the full workflow",
+   "Generative video models built into the editor"
+  ],
+  "cons": [
+   "Cheaper plans cap video minutes tightly",
+   "Older Starter/Pro tiers are pricey relative to newer Personal/Team plans",
+   "Enterprise features like SSO and SCORM require custom pricing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "delphi": {
+  "verdict": "Create a digital clone of yourself that chats with your audience.",
+  "overview": [
+   "Delphi is a digital cloning platform that lets experts, authors, coaches, and creators turn their knowledge into an interactive AI their audience can chat with. A Delphi is trained on a person's content, voice, and communication style so it can answer questions in their voice at any hour. The company is led by CEO Dara Ladjevardian and offers a free version with paid plans from around $29 per month."
+  ],
+  "features": [
+   "Digital clones trained on your content",
+   "Voice and style replication",
+   "Deployable across channels",
+   "Scalable one-on-one audience interaction"
+  ],
+  "pros": [
+   "Free version to try cloning",
+   "Scales expert knowledge to unlimited conversations"
+  ],
+  "cons": [
+   "Identity verification required during signup",
+   "Paid plans needed for serious usage"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "deptho": {
+  "verdict": "AI interior design, virtual staging, and sketch-to-render.",
+  "overview": [
+   "Deptho is an AI interior-design platform that renders rooms from descriptions or sketches. It supports virtual staging, style transformations, and sketch-to-render workflows for designers and property marketers. A free plan includes starter credits so users can test renders before committing."
+  ],
+  "features": [
+   "AI room rendering",
+   "Virtual staging",
+   "Sketch-to-render workflows"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "design-com": {
+  "verdict": "AI logo maker and branding suite for logos, business cards, websites, and social graphics.",
+  "overview": [
+   "Design.com is an AI-powered branding platform centered on its logo maker, which generates hundreds of customizable logo concepts from a business name and keywords. Beyond logos, it offers 50+ design tools covering business cards, websites, social media graphics, flyers, posters, and presentations, all inheriting the brand's colors for consistency. Designs download in high-resolution and vector formats, and the company also offers printed merchandise with delivery."
+  ],
+  "features": [
+   "AI logo generator with 451,000+ customizable logo designs",
+   "Prompt-based editing of fonts, colors, layouts, and shapes",
+   "50+ branding tools: websites, business cards, flyers, posters, social graphics",
+   "Downloads in PNG, JPG, SVG, EPS, PDF, plus animated GIF and MP4",
+   "Automatic brand consistency across social, print, and web templates",
+   "Exclusive design options with extended licenses for full ownership",
+   "Logo printing on business cards, mugs, apparel, and more with free delivery",
+   "Genuinely useful free tier for designing before paying"
+  ],
+  "pros": [
+   "One brand identity flows automatically into every asset type",
+   "Full vector and animated file formats included, not locked behind top tiers",
+   "Free tier lets users design and customize before entering a card",
+   "Commercially safe, original designs checked for quality"
+  ],
+  "cons": [
+   "Templates can feel less distinctive than a bespoke designer logo",
+   "Full ownership and advanced tools require paid plans",
+   "Aggressive paid-ad funnel (deep discount codes) can obscure real pricing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "designify": {
+  "verdict": "AI photo design tool that removes backgrounds and enhances images in one click.",
+  "overview": [
+   "Designify is an AI-powered design tool from Canva Austria GmbH (Kaleido) that turns ordinary photos into polished designs by automatically removing backgrounds, enhancing colors, and adjusting smart shadows. It targets e-commerce sellers, car dealerships, and marketers who need studio-quality product shots without a studio. A free tier exists alongside Designify Pro, which adds high-resolution output, batch editing, and API access."
+  ],
+  "features": [
+   "Automatic background removal",
+   "AI color enhancement",
+   "Smart shadow adjustment",
+   "Batch editing",
+   "API access on Pro"
+  ],
+  "pros": [
+   "One-click professional product photos",
+   "Free tier available",
+   "Batch processing for catalogs"
+  ],
+  "cons": [
+   "Pro starts at $39/month",
+   "Limited to JPG/PNG"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "designkit": {
+  "verdict": "AI product image studio for e-commerce sellers.",
+  "overview": [
+   "Designkit, by Meitu, generates platform-ready e-commerce visuals from a single prompt: main images, lifestyle scenes, supporting graphics and full product detail pages. Its photo editor suite includes background removal, AI background generation, image enhancement and upscaling, object removal and image extension. Workflows can be saved as reusable templates for consistent imagery across hundreds of SKUs, with localization for global marketplaces."
+  ],
+  "features": [
+   "AI listing image generation",
+   "Background remover and generator",
+   "Image enhancer and upscaler",
+   "Object remover",
+   "Reusable design templates"
+  ],
+  "pros": [
+   "Purpose-built for sellers",
+   "Batch generation across SKUs",
+   "Marketplace localization"
+  ],
+  "cons": [
+   "E-commerce niche focus"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "designs-ai": {
+  "verdict": "All-in-one AI design suite from Pixlr Group.",
+  "overview": [
+   "Designs.ai, from Singapore's Pixlr Group founded in 2019, is an AI design suite with LogoMaker, VideoMaker, SpeechMaker, AI Writer, and DesignMaker. It runs on a freemium model in the browser."
+  ],
+  "features": [
+   "LogoMaker",
+   "VideoMaker",
+   "SpeechMaker",
+   "AI Writer",
+   "DesignMaker"
+  ],
+  "pros": [
+   "Broad suite",
+   "Free tier"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dgm": {
+  "verdict": "Free cloud diagramming with an AI assistant that generates code.",
+  "overview": [
+   "DGM is a free online diagramming tool for UML, ERD, flowcharts, and UI wireframes with a clean drag-and-drop editor. Its experimental AI assistant can generate code from diagrams using vision models like GPT-4. Diagrams can be stored locally or in the cloud, exported as images, and published to the web."
+  ],
+  "features": [
+   "UML, ERD, and flowchart editor",
+   "AI diagram-to-code generation",
+   "Cloud storage and history",
+   "Image export and web publishing"
+  ],
+  "pros": [
+   "Free to use.",
+   "AI code generation from diagrams.",
+   "No install needed."
+  ],
+  "cons": [
+   "AI assistant is still experimental.",
+   "Cloud features may need an account."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "diagrimo": {
+  "verdict": "Turn text into flowcharts, mind maps and diagrams with AI.",
+  "overview": [
+   "Diagrimo is Tenorshare's AI text-to-diagram tool that converts written descriptions and notes into structured visual diagrams. It supports flowcharts, mind maps, org charts and UML-style outputs, making it handy for students, product managers and developers who think in text first. A freemium plan with daily free credits lowers the barrier for quick one-off diagrams."
+  ],
+  "features": [
+   "AI text-to-diagram conversion",
+   "Flowcharts, mind maps, org charts and UML support",
+   "Daily free credits on the freemium plan",
+   "Simple prompt-based diagram generation",
+   "Export options for finished diagrams"
+  ],
+  "pros": [
+   "Turns plain text into diagrams in seconds",
+   "Covers many diagram types for work and study",
+   "Daily free credits for casual use"
+  ],
+  "cons": [
+   "Diagram output quality depends on input clarity",
+   "Free tier is credit-limited for regular use",
+   "Part of a larger utilities brand, not a design-specialist team"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "diffus": {
+  "verdict": "Cloud Stable Diffusion workspace with 70,000+ models.",
+  "overview": [
+   "Diffus (formerly GRAVITI Diffus) is a cloud workspace for running Stable Diffusion and related generative models without a GPU. It hosts a library of 70,000+ community checkpoints, LoRAs, and embeddings, with tools for text-to-image, ControlNet, inpainting, face restoration, and ComfyUI workflows. Users can also upload and fine-tune custom models, and it offers free creator tools with daily credits alongside paid tiers."
+  ],
+  "features": [
+   "Cloud Stable Diffusion lab",
+   "70,000+ models, checkpoints, and LoRAs",
+   "ControlNet, inpainting, and face restoration",
+   "ComfyUI workflows",
+   "Custom model uploads and fine-tuning"
+  ],
+  "pros": [
+   "No GPU needed",
+   "Huge model library",
+   "Pro-level controls"
+  ],
+  "cons": [
+   "Complex for beginners",
+   "Advanced features gated behind paid tiers"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "diffusers": {
+  "verdict": "Hugging Face's open-source image generation app for iOS and Mac.",
+  "overview": [
+   "Diffusers is Hugging Face's app for generating images on iPhone and Mac using open-source diffusion models. It runs Stable Diffusion-style generation with prompt control and style options. The app is a showcase for running capable models on Apple devices."
+  ],
+  "features": [
+   "On-device image generation",
+   "Prompt-based creation",
+   "Style presets",
+   "Open-source models"
+  ],
+  "pros": [
+   "Runs on Apple hardware",
+   "Open-source foundation",
+   "No account needed for basics"
+  ],
+  "cons": [
+   "Limited to iOS and macOS",
+   "Generation speed depends on device"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "diffusion-art": {
+  "verdict": "Free AI art generator with hosted Stable Diffusion models, no signup.",
+  "overview": [
+   "Diffusion Art is a free, no-signup AI image generator that hosts popular Stable Diffusion models in the browser. You pick a model, type a prompt and get images in seconds without creating an account. It also maintains a gallery of community creations."
+  ],
+  "features": [
+   "Hosted Stable Diffusion models",
+   "No signup required",
+   "Community gallery",
+   "Multiple art styles"
+  ],
+  "pros": [
+   "Completely free with no account",
+   "Good model variety",
+   "Fast generations"
+  ],
+  "cons": [
+   "Quality depends on the model chosen",
+   "Limited editing controls"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "diffusionbee": {
+  "verdict": "Free Stable Diffusion app for macOS.",
+  "overview": [
+   "DiffusionBee is a free desktop app that runs Stable Diffusion image generation locally on macOS. It works offline once models are downloaded, with text-to-image and image-to-image modes. The open project by divamgupta is popular with Mac users wanting private AI art."
+  ],
+  "features": [
+   "On-device generation",
+   "Text-to-image",
+   "Image-to-image",
+   "Offline capable"
+  ],
+  "pros": [
+   "Free and private",
+   "No cloud needed",
+   "Runs on Apple Silicon well"
+  ],
+  "cons": [
+   "macOS only",
+   "Model downloads are large"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "doppl": {
+  "verdict": "Google Labs' free experimental app that virtually tries outfits on your digital twin with AI-generated videos.",
+  "overview": [
+   "Doppl is Google Labs' experimental AI fashion app: upload a full-body photo and any outfit image, and it generates a digital version of you wearing it — including short AI videos showing how the clothes move. It includes a shoppable discovery feed of personalized looks with direct purchase links. It's free, available on iOS and Android in the US, and still openly labeled experimental."
+  ],
+  "features": [
+   "AI virtual try-on app",
+   "Digital twin from one photo",
+   "AI try-on videos",
+   "Shoppable discovery feed",
+   "Save and share looks",
+   "Personalized style recommendations"
+  ],
+  "pros": [
+   "Completely free experimental app",
+   "Animated video try-ons, not just images",
+   "Shoppable feed with retailer links"
+  ],
+  "cons": [
+   "Experimental — quality can miss fit details",
+   "US only, 18+ age requirement",
+   "Not integrated into Google Shopping directly"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "draftaid": {
+  "verdict": "AI design assistant that helps generate and refine visual design work.",
+  "overview": [
+   "DraftAid is an AI design assistant that helps generate and refine visual design work, integrating with CAD and design tooling. It targets designers who want to accelerate drafting and iteration without starting from a blank canvas. The product is still relatively low-profile, with pricing not publicly listed."
+  ],
+  "features": [
+   "AI-assisted design generation",
+   "Design iteration tools",
+   "CAD tool integration"
+  ],
+  "pros": [
+   "Integrates with professional design workflows"
+  ],
+  "cons": [
+   "Pricing not published",
+   "Limited public documentation"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "draw3d": {
+  "verdict": "Create 3D art and scenes with AI assistance",
+  "overview": [
+   "Draw3D is an AI-assisted 3D creation tool that lets users generate and design three-dimensional visuals without deep modeling skills. It offers a free tier plus paid plans ranging from $9 to $39 per month. The product is developed by Kites.Dev."
+  ],
+  "features": [
+   "AI-assisted 3D scene creation",
+   "Free tier with paid upgrades",
+   "Web-based, no install"
+  ],
+  "pros": [
+   "Lowers barrier to 3D design",
+   "Accessible pricing"
+  ],
+  "cons": [
+   "Limited public detail on output quality",
+   "Smaller ecosystem than established 3D tools"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dream-by-wombo": {
+  "verdict": "AI art generator app that turns text prompts into vivid stylized artwork.",
+  "overview": [
+   "Dream by WOMBO is a mobile-first AI art generator that converts short text prompts into colorful, stylized images in seconds. It popularized one-tap AI art on phones and monetizes through a premium tier with more styles and faster rendering."
+  ],
+  "features": [
+   "Text-to-image generation",
+   "Multiple artistic styles",
+   "Mobile-first one-tap workflow",
+   "Image remixing",
+   "Premium styles and faster renders"
+  ],
+  "pros": [
+   "Very easy for beginners",
+   "Fast mobile generation",
+   "Free tier is genuinely usable"
+  ],
+  "cons": [
+   "Less control than pro tools",
+   "Premium needed for best styles",
+   "Output can feel samey"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dreamhouse-ai": {
+  "verdict": "Upload a room or exterior photo and get a 20+ style AI redesign with chat refinement, product finder and 4x upscaling.",
+  "overview": [
+   "DreamHouse AI is an AI interior and exterior design tool that regenerates room photos in 20+ design styles in under 30 seconds. It adds interactive AI chat for refinements, lets users place real products into designs, and includes a product finder plus 4x upscaling for contractor-ready visuals."
+  ],
+  "features": [
+   "20+ interior and exterior design styles",
+   "Interactive AI chat to refine designs in plain language",
+   "Add photos of real products into generated designs",
+   "Product finder for matching real furniture and decor",
+   "4x AI upscaling for high-resolution output",
+   "Before-and-after side-by-side comparison",
+   "Exterior and curb-appeal design tools",
+   "High-resolution downloads for presentations"
+  ],
+  "pros": [
+   "Chat-based refinement makes iteration feel conversational",
+   "Product finder connects AI designs to shoppable real items",
+   "Covers exteriors as well as interiors",
+   "Free trial with 10 free designs before paying"
+  ],
+  "cons": [
+   "$24/mo is mid-range pricing for casual one-off users",
+   "Photo-driven only, with no sketch or CAD input modes",
+   "No verified rating from G2, Capterra, Product Hunt or Trustpilot"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dreamlook-ai": {
+  "verdict": "AI avatar and selfie generator that creates professional headshots and stylized portraits.",
+  "overview": [
+   "Dreamlook.ai generates AI avatars and professional-looking headshots from your selfies. Upload photos and get a gallery of stylized portraits and profile pictures in different looks, aimed at people who want polished photos without a photoshoot."
+  ],
+  "features": [
+   "AI headshot generation",
+   "Stylized avatars",
+   "Multiple photo styles",
+   "Profile picture packs",
+   "Easy upload flow"
+  ],
+  "pros": [
+   "Cheaper than a photoshoot",
+   "Variety of styles",
+   "Quick turnaround"
+  ],
+  "cons": [
+   "Likeness varies",
+   "Best results need good source photos"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dreamphilic": {
+  "verdict": "AI art sharing community and portfolio platform.",
+  "overview": [
+   "Dreamphilic is an AI art and content sharing community where creators publish work and build portfolios. Basic use is free, with a pro tier unlocking generation features. It blends social discovery with creative tools."
+  ],
+  "features": [
+   "Art sharing community",
+   "Portfolio pages",
+   "AI generation (pro)",
+   "Discovery feed"
+  ],
+  "pros": [
+   "Community plus tools",
+   "Free basic use",
+   "Portfolio hosting"
+  ],
+  "cons": [
+   "Generation behind pro tier",
+   "Smaller community"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dreamwave": {
+  "verdict": "Studio-grade AI headshots from a single selfie, with unlimited styles and team-wide headshot automation.",
+  "overview": [
+   "Dreamwave generates studio-grade AI headshots from a single selfie, offering unlimited scenes, outfits, and backgrounds per person. It has expanded into team and enterprise use, with HRIS integrations that sync new-hire headshots across Slack, Outlook, Okta, and badging systems. The service emphasizes natural likeness, diverse skin tones and hairstyles, and enterprise-grade data privacy."
+  ],
+  "features": [
+   "Headshots from a single selfie",
+   "Unlimited scenes, outfits, and backgrounds",
+   "Team headshots synced from one selfie per person",
+   "HRIS integrations (Workday, Slack, Outlook, Okta)",
+   "150 photo batch per user on higher tiers",
+   "Outfit swaps and background replacement",
+   "Photos stored only in the US",
+   "Auto-deletion of data after 30 days of inactivity"
+  ],
+  "pros": [
+   "Only one selfie needed to get started",
+   "Strong team/enterprise headshot automation",
+   "Emphasis on natural likeness and diversity",
+   "Free generation tier for limited use"
+  ],
+  "cons": [
+   "Pricing is relatively high for casual users",
+   "Free generation tier is limited in quantity",
+   "Team/enterprise pricing requires contacting sales"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "duix": {
+  "verdict": "Open-source toolkit for offline AI avatar and digital-human video generation.",
+  "overview": [
+   "Duix is a truly open-source toolkit for building AI avatars and digital humans. It generates and clones video locally, deployable offline with an NVIDIA GPU. Developers and researchers get full control without cloud dependencies or per-minute fees."
+  ],
+  "features": [
+   "Open-source avatar toolkit",
+   "Offline video generation and cloning",
+   "Local deployment on NVIDIA GPU",
+   "API access"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dzine-ai": {
+  "verdict": "All-in-one AI platform for image generation, editing, and video creation.",
+  "overview": [
+   "Dzine AI (formerly Stylar) is an all-in-one creative platform for generating and editing images plus producing AI videos. It supports consistent character training, background removal, cartoon styles, and video generation with lip sync. A free trial gives new users credits before paid plans take over."
+  ],
+  "features": [
+   "AI image generation",
+   "Consistent character training",
+   "Background removal",
+   "AI video and lip sync"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "ecom-design-lab": {
+  "verdict": "AI creative suite generating on-model try-ons, studio photos, and video ads for fashion brands from one product photo.",
+  "overview": [
+   "Ecom Design Lab is an AI creative suite for fashion e-commerce founders: from one product photo it generates on-model try-on images, studio product shots, consistent model series, and 5-second video ads on a single credit balance. Its Studio, Lifestyle, and Full Outfit try-on modes handle everything from clean packshots to complete looks, and a Try-On API integrates with Shopify. No app download or account is needed for the consumer try-on demo."
+  ],
+  "features": [
+   "Studio try-on image generation",
+   "Lifestyle and full outfit try-on",
+   "Product-to-model conversion",
+   "Model swap and consistent models",
+   "5-second video ads",
+   "Try-On API for Shopify"
+  ],
+  "pros": [
+   "Full content pipeline in one credit balance",
+   "Video ads plus try-on from one photo",
+   "Free try-on demo, no account needed"
+  ],
+  "cons": [
+   "Credit-based pricing can get expensive",
+   "Newer company (founded 2025)",
+   "API still maturing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "edited": {
+  "verdict": "Retail intelligence platform using AI to track pricing, assortment, and market trends across global fashion retailers.",
+  "overview": [
+   "EDITED is the AI-driven retail intelligence platform behind many fashion brands' pricing and buying decisions. It tracks millions of products, prices, discounts, and reviews across the global market, surfacing what competitors are doing and where the market is moving. Merchandisers use it to plan assortments, time markdowns, and avoid overstock."
+  ],
+  "features": [
+   "AI retail market intelligence",
+   "Competitor price and assortment tracking",
+   "Trend and demand analytics",
+   "Markdown optimization",
+   "Category benchmarking",
+   "Market share insights"
+  ],
+  "pros": [
+   "Deepest fashion retail data coverage in its class",
+   "Trusted by hundreds of global brands",
+   "Actionable pricing and assortment insights"
+  ],
+  "cons": [
+   "Enterprise pricing not public",
+   "Overkill for small boutiques",
+   "Data reflects listed prices, not sell-through"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "eler": {
+  "verdict": "Photorealistic renders from 3D models in about a minute.",
+  "overview": [
+   "Eler turns SketchUp, GLB, FBX, or 3DS models into photorealistic images with no prompt engineering — you pick camera angles and style references and it renders in about a minute. Multiple angles stay consistent in one batch, and everything runs in the browser with no GPU needed. Plans start at $15 per month, with Pro at $39 and Studio at $99."
+  ],
+  "features": [
+   "SketchUp and GLB to photorealistic render",
+   "Multi-view consistency",
+   "No prompt engineering needed",
+   "Cloud rendering, no GPU required"
+  ],
+  "pros": [
+   "Minutes instead of days for renders",
+   "Consistent materials across angles"
+  ],
+  "cons": [
+   "Subscription required for ongoing use"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "emojihi": {
+  "verdict": "AI generator for custom Apple-style emojis.",
+  "overview": [
+   "EmojiHi is an AI emoji generator that turns text descriptions into custom Apple-style emojis. You describe anything and get a polished, downloadable emoji graphic in seconds, with instant downloads and commercial-use support. Free users get a few emojis per day, with a Pro plan for unlimited creation."
+  ],
+  "features": [
+   "Text-to-emoji generation",
+   "Apple-style emoji design",
+   "Instant downloads",
+   "Commercial use allowed"
+  ],
+  "pros": [
+   "Free to try, no card needed",
+   "Instant, usable results"
+  ],
+  "cons": [
+   "Free tier limited to a few emojis per day",
+   "Style is fixed to Apple-like emoji look"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "enhancor": {
+  "verdict": "AI image enhancer that makes portraits photorealistic with natural skin detail",
+  "overview": [
+   "Enhancor is an AI image enhancer specialized in making photos — especially AI-generated portraits — look photorealistic, with a particular strength in natural skin texture. Its V3 and V4 models upscale images to 8K while reconstructing fine detail like pores and wrinkles instead of smoothing them away. It's popular with creators polishing AI-generated faces for print and production use."
+  ],
+  "features": [
+   "AI upscaling to 8K resolution",
+   "Photorealistic skin texture reconstruction",
+   "V3 (identity preservation) and V4 (maximum realism) models",
+   "Batch processing for creators"
+  ],
+  "pros": [
+   "Best-in-class skin detail for AI portraits",
+   "High-resolution output up to 8K",
+   "Used by professional creative workflows"
+  ],
+  "cons": [
+   "Niche focus — not a general photo editor",
+   "Heavy enhancement can look over-processed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "epik": {
+  "verdict": "AI photo and video editor by SNOW Corp, famous for its viral 90s-style AI Yearbook portraits.",
+  "overview": [
+   "EPIK is a popular AI photo and video editor from SNOW Corporation that went viral with its AI Yearbook feature, generating 60 retro-style portraits from 8-12 selfies. It also offers AI filters, hairstyle and expression tools, skin retouching and pro editing features like HSL and curves. Free to download with in-app purchases for premium AI generations."
+  ],
+  "features": [
+   "AI Yearbook (90s-style portraits)",
+   "AI filters and character styles",
+   "AI enhance and skin retouching",
+   "Hairstyle and expression tools",
+   "Pro photo tools: HSL, curves, selective",
+   "Video editing with templates and effects"
+  ],
+  "pros": [
+   "Viral AI Yearbook feature with high-quality outputs",
+   "Broad all-in-one photo and video editor",
+   "Free download with low-cost generation packs"
+  ],
+  "cons": [
+   "AI generations cost extra on top of the free app",
+   "Requires 8-12 good selfies for the best Yearbook results",
+   "Full premium access may need repeated in-app purchases"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "everart": {
+  "verdict": "Train custom AI image models on your brand style for on-brand visuals.",
+  "overview": [
+   "EverArt lets teams train private AI image models on their own product photos, styles and mood boards, then generate marketing visuals that stay consistent with the brand. It offers multi-model generation, editing and upscaling with shared team workspaces and credit-based pricing. Plans run from $50 to $299 per month."
+  ],
+  "features": [
+   "Custom model training on brand assets",
+   "Style and object fine-tuning",
+   "Text-to-image generation with editing and upscaling",
+   "Shared workspaces for teams",
+   "Enzo creative agent on paid plans"
+  ],
+  "pros": [
+   "Visuals stay on-brand by training on your assets",
+   "Clear per-action credit table"
+  ],
+  "cons": [
+   "No free tier; entry plan is $50/month",
+   "Training consumes credits"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "evoto-ai": {
+  "verdict": "End-to-end AI photo workflow: culling, per-face retouching and batch delivery",
+  "overview": [
+   "Evoto is an end-to-end AI photo editing platform for professional photographers, covering tethered shooting, culling, per-face retouching, batch sync and delivery. It runs on desktop, iPad, mobile and web with projects in sync. Credit-based pricing starts around $7.99/month with 50 free credits to try."
+  ],
+  "features": [
+   "Per-face AI retouching",
+   "AI photo culling",
+   "Batch editing and sync",
+   "Tethered shooting",
+   "Natural skin retouching with texture",
+   "Glasses glare and stray hair removal",
+   "Cross-platform project sync",
+   "Enterprise-grade security (SOC 2)"
+  ],
+  "pros": [
+   "Full workflow from culling to delivery in one app",
+   "Per-face retouching keeps results natural",
+   "Built for high-volume wedding and portrait work",
+   "1.2M photographers across 200+ countries"
+  ],
+  "cons": [
+   "Credit-based pricing can add up at volume",
+   "Aimed at pros — overkill for casual edits",
+   "Some advanced features cost extra credits"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "exactly-ai": {
+  "verdict": "Ethical AI image platform for artists to train models on their own artwork.",
+  "overview": [
+   "Exactly.ai is an ethical, artist-centric AI image platform that lets creators train bespoke AI models on their own artwork. Unlike generic image generators, it is built around artist consent and compensation, giving illustrators and designers a way to generate new work in their own style. The platform positions itself as a fair alternative in the AI art space."
+  ],
+  "features": [
+   "Train custom AI models on your own art",
+   "Artist-centric ethical licensing model",
+   "Style-consistent image generation",
+   "Free trial available"
+  ],
+  "pros": [
+   "Built around artist consent and fair use",
+   "Models trained on your own style",
+   "Appeals to professional illustrators"
+  ],
+  "cons": [
+   "Premium pricing compared to general image generators",
+   "Focused on artists rather than casual users",
+   "Bespoke model training takes time and data"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "expression-editor": {
+  "verdict": "Free AI tool for editing facial expressions in portraits with precise slider controls.",
+  "overview": [
+   "Expression Editor is a free AI tool hosted on Hugging Face Spaces that manipulates facial expressions in still images. Users upload a portrait and use intuitive sliders to adjust smiles, blinks, eyebrow positions, head orientation, and detailed mouth shapes, including phonetic positions. It is aimed at graphic designers, content creators, and researchers who need realistic expression edits without advanced editing skills."
+  ],
+  "features": [
+   "Facial expression adjustment sliders",
+   "Head rotation and tilt",
+   "Smile, blink, eyebrow, and wink controls",
+   "Phonetic mouth shape controls",
+   "Reference-image expression replication",
+   "Real-time preview",
+   "JPG, PNG, and MP4 export"
+  ],
+  "pros": [
+   "Free and runs entirely in the browser",
+   "Granular control over expressions and mouth shapes",
+   "Real-time preview of edits"
+  ],
+  "cons": [
+   "Requires the Hugging Face Spaces service to be running",
+   "Specialized to faces, not general photo editing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "extendimageai": {
+  "verdict": "AI image outpainting that expands photos beyond their borders.",
+  "overview": [
+   "ExtendImageAI (Magic Expand) uses generative AI to extend images beyond their original borders, filling in plausible backgrounds and scenery. It is useful for changing aspect ratios, creating banners, or rescuing tight crops. The tool is free to try, with paid plans from around $10/month for regular use."
+  ],
+  "features": [
+   "AI image outpainting",
+   "Aspect-ratio expansion",
+   "Generative background fill",
+   "High-resolution output"
+  ],
+  "pros": [
+   "Natural-looking expansions",
+   "Very easy to use",
+   "Free to try"
+  ],
+  "cons": [
+   "Results vary with complex scenes",
+   "Paid plans needed for heavy use"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "face-mix": {
+  "verdict": "Playform's no-code AI tool for mixing, editing, and morphing faces.",
+  "overview": [
+   "Face Mix (FaceMix) is Playform's no-code AI tool for creating, mixing, and editing faces. Users can blend up to four faces, fine-tune over 30 facial attributes like age and expression, create face morph videos, and generate illustrated or photorealistic faces. All artwork created stays the intellectual property of the user."
+  ],
+  "features": [
+   "Mix up to 4 faces with AI",
+   "Edit 30+ facial attributes",
+   "Face morph video creation",
+   "Photorealistic and illustrated faces"
+  ],
+  "pros": [
+   "Deep control over facial attributes",
+   "No-code, creator-friendly",
+   "Free generation, pay only for downloads"
+  ],
+  "cons": [
+   "Face mixing raises ethical questions around likeness",
+   "Focused on faces rather than general image editing",
+   "Pay-per-download on the free tier"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "face-studio": {
+  "verdict": "AI headshot generator for professional portraits from selfies.",
+  "overview": [
+   "Face Studio is an AI headshot generator that creates professional-looking portraits from uploaded selfies. It offers a fast, affordable alternative to studio photography for LinkedIn profiles, resumes, and team pages."
+  ],
+  "features": [
+   "AI-generated professional headshots",
+   "Multiple styles and backgrounds",
+   "Quick turnaround from selfies",
+   "Free tier available"
+  ],
+  "pros": [
+   "Cheaper than studio photography",
+   "Fast professional headshots",
+   "Multiple style options"
+  ],
+  "cons": [
+   "AI headshots may need touch-ups for professional use",
+   "Quality depends on input photos",
+   "Limited to portrait generation"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "face-swap-by-akool": {
+  "verdict": "AI face swapper for photos and videos with age adjustment, from the Akool platform.",
+  "overview": [
+   "Face Swap by Akool swaps faces in photos and videos with realistic results, handling movement and lighting changes, plus age-adjustment options. It is one app inside Akool's broader AI media platform covering avatars, video translation, and image generation. Registration includes free trial credits, with paid plans starting around $21 per month for higher resolutions and longer videos."
+  ],
+  "features": [
+   "AI face swap for images and videos",
+   "Age adjustment",
+   "High-resolution export up to 4K/8K",
+   "API access on higher plans"
+  ],
+  "pros": [
+   "Fast, realistic swaps even in video",
+   "Part of a full AI media suite"
+  ],
+  "cons": [
+   "Free tier output is watermarked and limited",
+   "Credits burn fast on video swaps"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "faceswapper": {
+  "verdict": "Free AI face swap tool for swapping faces in photos and videos",
+  "overview": [
+   "FaceSwapper is a free web tool that swaps faces in photos and videos using AI. Upload a source face and a target image or clip, and it produces a realistic composite in seconds, aimed at fun personal projects, memes, and creative content."
+  ],
+  "features": [
+   "AI face swap for photos",
+   "Face swap for videos",
+   "No signup for basic use",
+   "High-resolution output"
+  ],
+  "pros": [
+   "Free to use",
+   "Supports both photos and videos"
+  ],
+  "cons": [
+   "Quality varies with input images",
+   "Face-swap tools raise consent concerns — use responsibly"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "facevary": {
+  "verdict": "AI face-swapping tool for photos and videos.",
+  "overview": [
+   "FaceVary is an AI face-swapping product that replaces faces in photos and videos with realistic results. The official site listed for it is Remaker AI's platform, where the face-swap tools live. It targets creators and casual users who want quick, convincing face swaps without editing skills."
+  ],
+  "features": [
+   "AI face swap for photos",
+   "Face swap for videos"
+  ],
+  "pros": [
+   "Realistic swap quality",
+   "No editing skills needed"
+  ],
+  "cons": [
+   "Face-swap tools raise misuse concerns",
+   "Paid usage"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fenestra": {
+  "verdict": "AI architectural rendering tool that turns sketches into polished visuals.",
+  "overview": [
+   "Fenestra is an AI-powered spatial rendering tool built for architects and interior designers. It transforms sketches, CAD drawings, and 3D models into photorealistic renderings, animations, and hand-drawn-style illustrations right in the browser. Conversational edits — like asking to change a facade material — make iteration fast, with plans from Individual ($8/month) to Studio ($48/month)."
+  ],
+  "features": [
+   "Sketch-to-render AI generation",
+   "Conversational image editing",
+   "Architectural animation generation",
+   "Landscape and interior workflows"
+  ],
+  "pros": [
+   "Built specifically for design professionals",
+   "Runs fully in the browser"
+  ],
+  "cons": [
+   "Credit-based pricing can add up for heavy renderers"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "feng-my-shui": {
+  "verdict": "AI image generator blending multiple models in a single run.",
+  "overview": [
+   "Feng My Shui generates images by mixing results from models like Midjourney and Stable Diffusion, so users get varied styles without juggling subscriptions. Its simple prompt interface and mobile apps make AI art creation accessible to casual creators. It also offers upscaling and curated prompt ideas."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "figcanvas": {
+  "verdict": "AI generator of publication-ready scientific illustrations, flowcharts, and data visualizations.",
+  "overview": [
+   "FigCanvas is an AI scientific figure generator for researchers. You describe a figure in plain language, paste methods text, or upload a dataset, and it produces publication-ready illustrations, flowcharts, and data visualizations (bar, heatmap, PCA, violin plots and more) in minutes. Outputs are editable vector graphics (SVG/PDF), and free daily credits let researchers try before paying. Used by researchers at institutions including Harvard, MIT, and Stanford."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "figma-ai": {
+  "verdict": "Figma's native AI layer: a canvas agent, prompt-to-prototype Make, and model workflows built into the design platform on a shared AI-credit system.",
+  "overview": [
+   "Figma AI is a suite of AI capabilities built natively into the Figma platform rather than sold as a standalone product. Per Figma's official AI page, it centers on three workflows — Explore, Polish, Ship — including the Figma agent, Figma Make for turning prompts into prototypes and web apps, Weave model workflows, generative plugins, visual search, and MCP server integration. AI usage runs on shared monthly AI credits included with each seat (500 on Starter up to 4,250 on Enterprise Full seats), with paid credit top-ups available."
+  ],
+  "features": [
+   "Figma agent (beta) — generates design directions, edits images, automates busywork on canvas",
+   "Figma Make — prompts turn ideas and existing designs into prototypes and web apps",
+   "Make on local codebase (beta) — converts designs into localized, production-ready assets",
+   "Weave tools (beta) — pre-built AI workflows generating images and vectors in Figma",
+   "Generative plugins — prompt reusable custom plugins right on the canvas",
+   "Text tools and design productivity tools — rewrite content, adjust tone, rename layers, add interactions",
+   "Visual search — find components and assets with AI",
+   "MCP server — connects Figma designs to external agentic tools"
+  ],
+  "pros": [
+   "Deep native integration: works inside the design platform teams already use, aware of design systems and components",
+   "Make produces editable prototypes and can push back to a codebase via pull requests",
+   "Credit allowances scale with plan and seat type; agent is free during beta"
+  ],
+  "cons": [
+   "Suite is fragmented across Agent, Make, Weave, and Dev Mode surfaces with no single entry point",
+   "Credits burn fast and don't roll over; heavy use requires a higher-tier seat or paid top-ups",
+   "Several headline features sit in closed beta or waitlists, and AI requires the Figma ecosystem"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "figr": {
+  "verdict": "AI product design agent that learns your live product and generates on-brand UX flows and prototypes.",
+  "overview": [
+   "Figr is an AI design agent for product teams that learns your existing product before generating new work. It ingests Figma files or captures your live product through a Chrome extension, then builds context-aware flows, edge cases and high-fidelity prototypes that respect your design system. It maps flows, flags edge cases and explains UX tradeoffs so the first design review is already grounded."
+  ],
+  "features": [
+   "Live product capture via Chrome extension",
+   "Figma file import with components, variants and tokens",
+   "High-fidelity prototype generation in your design system",
+   "Flow and edge-case mapping before design",
+   "UX decision review with tradeoff explanations",
+   "Selective element editing without full regeneration",
+   "PRD drafting and test-scenario generation",
+   "Accessibility checks in generated designs"
+  ],
+  "pros": [
+   "Designs match your existing product instead of generic templates",
+   "Thinks through flows and edge cases before producing screens",
+   "Selective edits keep the rest of the design intact"
+  ],
+  "cons": [
+   "Built for existing products, less suited to blank-canvas design",
+   "Quality depends on the context you feed it",
+   "Relatively new product with an evolving feature set"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fill-3d": {
+  "verdict": "AI that virtually stages rooms from a text prompt using 3D-aware path tracing.",
+  "overview": [
+   "Fill 3D is an experimental AI tool that virtually stages a room using only a text prompt. Instead of 2D inpainting, it reconstructs the scene in 3D and renders additions with path tracing for realistic lighting and shadows. The project was built on the Function (fxn.ai) GPU compute platform and is aimed at real-estate media and virtual staging workflows."
+  ],
+  "features": [
+   "Text-prompt room staging",
+   "3D-aware generative fill with realistic lighting",
+   "Path-traced rendering for photorealistic blending",
+   "Personal dashboard and generation gallery"
+  ],
+  "pros": [
+   "Physically realistic results via 3D path tracing",
+   "Simple prompt-based workflow",
+   "Working API for developers"
+  ],
+  "cons": [
+   "Early beta with reduced output resolution",
+   "Limited to room staging use cases",
+   "No public pricing or production API details"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "findmine": {
+  "verdict": "AI outfitting platform that automatically builds shoppable complete-the-look recommendations for fashion retailers.",
+  "overview": [
+   "FindMine generates AI-curated outfits and 'complete the look' recommendations that plug into retailers' product pages, emails, and ads. Its engines style full looks from a brand's own catalog at scale, increasing basket size without manual merchandising. Clients include major apparel brands such as Lululemon and Gap."
+  ],
+  "features": [
+   "AI-generated outfit recommendations",
+   "Complete-the-look modules",
+   "Cross-category styling engine",
+   "Email and ad personalization",
+   "Shoppable outfit widgets",
+   "Performance analytics"
+  ],
+  "pros": [
+   "Automates outfit merchandising at scale",
+   "Trusted by major brands like Lululemon and Gap",
+   "Proven to lift basket size"
+  ],
+  "cons": [
+   "Retailer-facing only",
+   "Pricing not public",
+   "Needs large catalog to shine"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fit-analytics": {
+  "verdict": "Machine-learning size recommendation platform for apparel brands, built on two decades of fit and returns data.",
+  "overview": [
+   "Fit Analytics is a machine-learning platform that predicts the right size for every shopper using order and return data from leading apparel brands. After years as part of Snap, the team reclaimed independence and now builds toward AI-powered shopping assistants alongside its core size engine. Its models learn from two decades of fit data to reduce size-related returns."
+  ],
+  "features": [
+   "ML size recommendation engine",
+   "Fit Analytics dashboards",
+   "AI shopping assistant",
+   "Returns analytics",
+   "Brand fit intelligence",
+   "Size chart optimization"
+  ],
+  "pros": [
+   "Two decades of fit training data",
+   "Independent again with renewed focus",
+   "Proven results with large European retailers"
+  ],
+  "cons": [
+   "B2B only — no consumer app",
+   "Recently independent, strategy in transition",
+   "Integration requires developer resources"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fit-match": {
+  "verdict": "LiDAR-powered 3D body-shape fit matching that pairs shoppers with a digital twin instead of measurements.",
+  "overview": [
+   "Fit:match solves fit with a patented 3D shape-based approach instead of measurements: shoppers complete a LiDAR body scan in seconds, then get matched to a 'digital twin' with a similar body shape who has already tried the product. It launched bra fitting in select Macy's stores and now also powers an app matching post-surgery patients with compression garments. The method ignores measurements entirely, relying on 3D body shape data."
+  ],
+  "features": [
+   "LiDAR 3D body scanning",
+   "Digital twin shape matching",
+   "Bra and apparel fit finder",
+   "In-store scan kiosks",
+   "Post-surgery garment app",
+   "Brand fit analytics"
+  ],
+  "pros": [
+   "Shape-based matching, not measurements",
+   "Deployed in Macy's stores",
+   "Privacy-first — no photos stored"
+  ],
+  "cons": [
+   "Primarily in-store experience",
+   "Bra category focus initially",
+   "Requires LiDAR-enabled device"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ }
+}

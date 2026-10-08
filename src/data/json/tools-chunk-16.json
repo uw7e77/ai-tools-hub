@@ -1,0 +1,2280 @@
+[
+ {
+  "slug": "turbosite",
+  "name": "TurboSite",
+  "logo": "/logos/turbosite.png",
+  "company": "TurboSite",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI landing page builder for high-converting pages with no coding.",
+  "pricing": "freemium",
+  "tags": [
+   "landing pages",
+   "website builder",
+   "no-code",
+   "marketing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.turbosite.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "twelve-labs",
+  "name": "Twelve Labs",
+  "logo": "/logos/twelve-labs.png",
+  "company": "Twelve Labs",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Video understanding foundation models and APIs for search, summarization, and analysis.",
+  "pricing": "freemium",
+  "tags": [
+   "video ai",
+   "foundation models",
+   "api",
+   "video search"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://twelvelabs.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "typeblock",
+  "name": "Typeblock",
+  "logo": "/logos/typeblock.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Build and share AI apps without writing code.",
+  "pricing": "freemium",
+  "tags": [
+   "no-code",
+   "ai-apps",
+   "app-builder",
+   "llm"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.typeblock.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "typedream",
+  "name": "Typedream",
+  "logo": "/logos/typedream.png",
+  "company": "Typedream",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "Notion-like AI builder that turns your text into landing pages, link-in-bios and digital storefronts.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "landing-pages",
+   "link-in-bio",
+   "digital-products",
+   "notion-like",
+   "creators",
+   "forms",
+   "blog"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.typedream.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "typo",
+  "name": "Typo",
+  "logo": "/logos/typo.png",
+  "company": "Typo",
+  "category": "coding-development",
+  "subcategory": "coding-development",
+  "shortDescription": "AI code review plus engineering analytics for dev teams.",
+  "pricing": "paid",
+  "tags": [
+   "code review",
+   "engineering metrics",
+   "devops",
+   "ai reviewer"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://typoapp.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ubiai",
+  "name": "UBIAI",
+  "logo": "/logos/ubiai.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "coding-development",
+  "shortDescription": "AI data annotation platform",
+  "pricing": "freemium",
+  "tags": [
+   "AI tool"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://ubiai.tools",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ui-bakery",
+  "name": "UI Bakery",
+  "logo": "/logos/ui-bakery.png",
+  "company": "UI Bakery",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Low-code and AI builder for internal tools — admin panels, dashboards, CRMs and portals on top of your data.",
+  "pricing": "freemium",
+  "tags": [
+   "low-code",
+   "admin panel",
+   "internal tools",
+   "app builder",
+   "dashboard"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://uibakery.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "uipath-test-cloud",
+  "name": "UiPath Test Cloud",
+  "logo": "/logos/uipath-test-cloud.png",
+  "company": "UiPath",
+  "category": "coding-development",
+  "subcategory": "testing",
+  "shortDescription": "Enterprise autonomous testing platform with AI agents that create and run tests.",
+  "pricing": "paid",
+  "tags": [
+   "autonomous-qa",
+   "enterprise",
+   "test-automation",
+   "uipath"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://uipath.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "uncode-it",
+  "name": "UNCODE-IT",
+  "logo": "/logos/uncode-it.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "coding-development",
+  "shortDescription": "Free AI code explainer and summarizer.",
+  "pricing": "free",
+  "tags": [
+   "code explanation",
+   "developer tools",
+   "free tool",
+   "learning"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://uncode.vercel.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "unicorn-platform",
+  "name": "Unicorn Platform",
+  "logo": "/logos/unicorn-platform.png",
+  "company": "Unicorn Platform",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI landing page builder for startups — GPT-4 pages from templates with blog, A/B tests and Stripe.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "landing-pages",
+   "startups",
+   "saas",
+   "templates",
+   "blog",
+   "ab-testing",
+   "drag-and-drop"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://unicornplatform.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "unshift-ai",
+  "name": "Unshift AI",
+  "logo": "/logos/unshift-ai.png",
+  "company": "Unshift LLC",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder that generates real, editable code for developers.",
+  "pricing": "freemium",
+  "tags": [
+   "AI website builder",
+   "vibe coding",
+   "web development"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://unshift.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "unsloth",
+  "name": "Unsloth",
+  "logo": "/logos/unsloth.png",
+  "company": "Unsloth",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Open-source toolkit for fast, VRAM-efficient LLM fine-tuning on consumer GPUs.",
+  "pricing": "open-source",
+  "tags": [
+   "fine-tuning",
+   "llm-training",
+   "lora",
+   "qlora",
+   "open-source",
+   "gpu-optimization",
+   "local-ai"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux",
+   "web"
+  ],
+  "officialUrl": "https://unsloth.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "user-story-generator",
+  "name": "User Story Generator",
+  "logo": "/logos/user-story-generator.png",
+  "company": "Planorama Design",
+  "category": "coding-development",
+  "subcategory": "coding-development",
+  "shortDescription": "Free AI tool that turns product ideas into structured user stories with personas.",
+  "pricing": "free",
+  "tags": [
+   "user-stories",
+   "agile",
+   "product-management",
+   "personas",
+   "backlog"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://userstorygenerator.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "userdoc",
+  "name": "Userdoc",
+  "logo": "/logos/userdoc.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "coding-development",
+  "shortDescription": "AI requirements and documentation workspace for product teams.",
+  "pricing": "paid",
+  "tags": [
+   "requirements",
+   "user stories",
+   "documentation",
+   "agile"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://userdoc.fyi",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "usertrace",
+  "name": "UserTrace",
+  "logo": "/logos/usertrace.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "testing",
+  "shortDescription": "AI agent evaluation platform that simulates realistic users to test AI agents before release.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "evaluation",
+   "agent-testing",
+   "red-teaming",
+   "prompt-engineering",
+   "qa",
+   "safety"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://getusertrace.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "uxmagic-ai",
+  "name": "UXMagic.ai",
+  "logo": "/logos/uxmagic-ai.png",
+  "company": "UXMagic",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI wireframe and UI mockup generator that turns prompts, screenshots or URLs into Figma-ready designs.",
+  "pricing": "paid",
+  "tags": [
+   "wireframes",
+   "UI design",
+   "Figma",
+   "prototyping"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://uxmagic.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "v0",
+  "name": "v0 by Vercel",
+  "logo": "/logos/v0.png",
+  "company": "Vercel",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Prompt, build, publish: generate full-stack web apps with AI and deploy to Vercel instantly.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-app-builder",
+   "web-apps",
+   "react",
+   "nextjs",
+   "vercel",
+   "ui-generation",
+   "prototyping"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://v0.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vantage",
+  "name": "Vantage",
+  "logo": "/logos/vantage.png",
+  "company": "Vantage",
+  "category": "coding-development",
+  "subcategory": "devops",
+  "shortDescription": "Self-serve multi-cloud cost platform with Kubernetes agents, FinOps-as-code, and LLM chat over your cost data.",
+  "pricing": "freemium",
+  "tags": [
+   "cloud-cost",
+   "finops",
+   "kubernetes",
+   "multi-cloud",
+   "mcp",
+   "terraform",
+   "anomaly-detection",
+   "ai-cost"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://vantage.sh",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vast-ai",
+  "name": "Vast.ai",
+  "logo": "/logos/vast-ai.png",
+  "company": "Vast.ai",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Decentralized GPU marketplace renting 20,000+ GPUs at supply-and-demand prices, far below cloud rates.",
+  "pricing": "paid",
+  "tags": [
+   "gpu-marketplace",
+   "cheap-gpus",
+   "spot-instances",
+   "serverless",
+   "inference",
+   "training",
+   "decentralized",
+   "api"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://vast.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vectoralix",
+  "name": "Vectoralix",
+  "logo": "/logos/vectoralix.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "devops",
+  "shortDescription": "Managed platform for building and hosting MCP servers for AI clients.",
+  "pricing": "freemium",
+  "tags": [
+   "mcp",
+   "developer-tools",
+   "ai-infrastructure",
+   "api"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://vectoralix.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vellum",
+  "name": "Vellum",
+  "logo": "/logos/vellum.png",
+  "company": "Vellum",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "End-to-end platform for building, evaluating, and deploying LLM-powered applications.",
+  "pricing": "freemium",
+  "tags": [
+   "llm-platform",
+   "prompt-engineering",
+   "llmops",
+   "rag",
+   "ai-evaluation",
+   "ai-agents"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.vellum.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "velt",
+  "name": "Velt",
+  "logo": "/logos/velt.png",
+  "company": "Velt",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Real-time collaboration SDK that adds comments, presence and review workflows to web apps.",
+  "pricing": "freemium",
+  "tags": [
+   "collaboration SDK",
+   "comments",
+   "presence",
+   "developer tools"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://velt.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vercel-ai-playground",
+  "name": "Vercel AI Playground",
+  "logo": "/logos/vercel-ai-playground.png",
+  "company": "Vercel",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Compare top AI models side by side for free.",
+  "pricing": "free",
+  "tags": [
+   "llm-playground",
+   "model-comparison",
+   "developer"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://play.vercel.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "verex",
+  "name": "Verex",
+  "logo": "/logos/verex.png",
+  "company": "Verex",
+  "category": "coding-development",
+  "subcategory": "testing",
+  "shortDescription": "No-code AI QA automation platform with visual bug reports.",
+  "pricing": "freemium",
+  "tags": [
+   "qa",
+   "test-automation",
+   "bug-reports",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://verex.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vezlo",
+  "name": "Vezlo",
+  "logo": "/logos/vezlo.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Open-source tool that turns a codebase into a searchable knowledge base.",
+  "pricing": "open-source",
+  "tags": [
+   "open source",
+   "codebase",
+   "documentation",
+   "code search"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://vezlo.org",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vibecode",
+  "name": "Vibecode",
+  "logo": "/logos/vibecode.png",
+  "company": "Vibecode",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI mobile and web app builder with one-tap App Store publishing.",
+  "pricing": "freemium",
+  "tags": [
+   "app builder",
+   "no code",
+   "ai coding",
+   "mobile apps"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://vibecodeapp.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vibeflow",
+  "name": "VibeFlow",
+  "logo": "/logos/vibeflow.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Prompt-to-app builder that generates full-stack web applications from text descriptions.",
+  "pricing": "paid",
+  "tags": [
+   "vibe coding",
+   "web apps",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://vibeflow.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vibekit",
+  "name": "VibeKit",
+  "logo": "/logos/vibekit.png",
+  "company": "VibeKit",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Hosted platform giving every app its own persistent coding agent that never sleeps.",
+  "pricing": "freemium",
+  "tags": [
+   "coding-agent",
+   "app-builder",
+   "hosting",
+   "persistent-agent",
+   "byok"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "api"
+  ],
+  "officialUrl": "https://vibekit.bot",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vicoa",
+  "name": "Vicoa",
+  "logo": "/logos/vicoa.png",
+  "company": "Vicoa",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Run coding agents like Claude Code remotely and steer them from any device.",
+  "pricing": "open-source",
+  "tags": [
+   "coding-agents",
+   "remote",
+   "mobile",
+   "vibe-coding"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android",
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://vicoa.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "virtuoso-qa",
+  "name": "Virtuoso QA",
+  "logo": "/logos/virtuoso-qa.png",
+  "company": "Virtuoso",
+  "category": "coding-development",
+  "subcategory": "testing",
+  "shortDescription": "Cloud test automation platform that writes and heals tests in plain natural language — no code required.",
+  "pricing": "paid",
+  "tags": [
+   "natural language testing",
+   "ai testing",
+   "self-healing",
+   "no-code testing",
+   "api testing",
+   "visual regression",
+   "ci/cd",
+   "test automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.virtuoso.qa",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vivgrid",
+  "name": "Vivgrid",
+  "logo": "/logos/vivgrid.png",
+  "company": "Vivgrid",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Managed AI model platform with an OpenAI-compatible API, structured outputs, and server-side prompt management.",
+  "pricing": "freemium",
+  "tags": [
+   "llm api",
+   "model gateway",
+   "structured outputs",
+   "developer tools"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.vivgrid.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vratix",
+  "name": "Vratix",
+  "logo": "/logos/vratix.png",
+  "company": "Vratix",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Free software API modules that eliminate repetitive backend code.",
+  "pricing": "open-source",
+  "tags": [
+   "backend",
+   "api modules",
+   "boilerplate",
+   "open source"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://vratix.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "vzy",
+  "name": "Vzy",
+  "logo": "/logos/vzy.png",
+  "company": "Vzy",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder that turns a short business description into a complete, editable website in minutes.",
+  "pricing": "freemium",
+  "tags": [
+   "website builder",
+   "no-code",
+   "AI design",
+   "small business",
+   "SEO"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://vzy.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "warp-terminal",
+  "name": "Warp",
+  "logo": "/logos/warp-terminal.png",
+  "company": "Warp",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Agentic development environment: a modern terminal with built-in AI coding agents.",
+  "pricing": "freemium",
+  "tags": [
+   "terminal",
+   "coding-agents",
+   "agentic-ide",
+   "open-source",
+   "developer-tools"
+  ],
+  "platforms": [
+   "macos",
+   "windows",
+   "linux"
+  ],
+  "officialUrl": "https://www.warp.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wav2lip-for-automatic1111",
+  "name": "Wav2Lip for Automatic1111",
+  "logo": "/logos/wav2lip-for-automatic1111.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Open-source Wav2Lip lip-sync extension for Stable Diffusion WebUI.",
+  "pricing": "open-source",
+  "tags": [
+   "lip sync",
+   "video generation",
+   "open source",
+   "automatic1111",
+   "stable diffusion"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://github.com/sb2020/sd-wav2lip-uhq",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wavespeed-ai",
+  "name": "WaveSpeed AI",
+  "logo": "/logos/wavespeed-ai.png",
+  "company": "WaveSpeed AI",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Unified API and web platform serving 700+ AI image, video, audio, and LLM models at high speed.",
+  "pricing": "paid",
+  "tags": [
+   "inference API",
+   "image generation",
+   "video generation",
+   "model hub"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos",
+   "linux",
+   "api"
+  ],
+  "officialUrl": "https://wavespeed.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "we-inc",
+  "name": "We.Inc",
+  "logo": "/logos/we-inc.png",
+  "company": "We.Inc",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "All-in-one AI growth platform with website builder, chatbots and social scheduler.",
+  "pricing": "paid",
+  "tags": [
+   "website builder",
+   "white label",
+   "chatbots",
+   "marketing automation",
+   "social scheduler"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://we.inc",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "we0-ai",
+  "name": "We0.ai",
+  "logo": "/logos/we0-ai.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "Prompt-to-website builder with a multi-agent pipeline, from design to deploy.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "generative-code",
+   "multi-agent",
+   "no-code"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos"
+  ],
+  "officialUrl": "https://we0.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "webdraw",
+  "name": "Webdraw",
+  "logo": "/logos/webdraw.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "Turn hand-drawn sketches into working web apps with AI.",
+  "pricing": "freemium",
+  "tags": [
+   "sketch to app",
+   "prototyping",
+   "no-code",
+   "web apps"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://webdraw.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "webflow-ai",
+  "name": "Webflow AI",
+  "logo": "/logos/webflow-ai.png",
+  "company": "Webflow",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "Pro visual builder with AI site generation — prompt to pixel-perfect site with clean code output.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "no-code",
+   "cms",
+   "designers",
+   "agencies",
+   "seo",
+   "animations",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://webflow.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "webifier",
+  "name": "Webifier",
+  "logo": "/logos/webifier.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI landing-page generator that ships NextJS/Tailwind code.",
+  "pricing": "freemium",
+  "tags": [
+   "landing-page",
+   "nextjs",
+   "tailwind"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://webifier.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "websim-ai",
+  "name": "WebSim AI",
+  "logo": "/logos/websim-ai.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "Generate explorable websites and web apps from a prompt or URL.",
+  "pricing": "freemium",
+  "tags": [
+   "website builder",
+   "prototyping",
+   "ai simulation",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://websim.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "webullar",
+  "name": "Webullar",
+  "logo": "/logos/webullar.png",
+  "company": "Webullar",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website and online-presence builder that generates a site, social posts, and CRM from a one-sentence business description",
+  "pricing": "freemium",
+  "tags": [
+   "AI website builder",
+   "social media generator",
+   "CRM",
+   "small business",
+   "email marketing"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.webullar.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "webwave",
+  "name": "WebWave",
+  "logo": "/logos/webwave.png",
+  "company": "WebWave",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder with a freeform drag-and-drop editor and built-in SEO tools.",
+  "pricing": "freemium",
+  "tags": [
+   "website builder",
+   "ai website",
+   "drag and drop",
+   "landing page",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://webwave.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wegic",
+  "name": "Wegic",
+  "logo": "/logos/wegic.png",
+  "company": "Wegic",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "Chat with GPT-4o and watch it build your website — conversational builder with code export.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "conversational-ai",
+   "gpt-4o",
+   "code-export",
+   "multilingual",
+   "ecommerce",
+   "small-business",
+   "teams"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://wegic.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "what-the-diff",
+  "name": "What The Diff",
+  "logo": "/logos/what-the-diff.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI GitHub app that turns PR diffs into plain-English summaries, changelogs and inline refactor suggestions.",
+  "pricing": "freemium",
+  "tags": [
+   "pull requests",
+   "diff summary",
+   "changelog",
+   "code review",
+   "github",
+   "gitlab"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://whatthediff.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "whatllm-org",
+  "name": "WhatLLM.org",
+  "logo": "/logos/whatllm-org.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Free leaderboard ranking large language models by benchmarks and community votes.",
+  "pricing": "free",
+  "tags": [
+   "llm ranking",
+   "leaderboard",
+   "benchmarks",
+   "model comparison"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://whatllm.org",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wild-moose",
+  "name": "Wild Moose",
+  "logo": "/logos/wild-moose.png",
+  "company": "Wild Moose",
+  "category": "coding-development",
+  "subcategory": "devops",
+  "shortDescription": "AI first responder that surfaces production root causes in under a minute.",
+  "pricing": "paid",
+  "tags": [
+   "ai-sre",
+   "incident-response",
+   "root-cause-analysis",
+   "startup"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://wildmoose.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "windframe",
+  "name": "Windframe",
+  "logo": "/logos/windframe.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI-assisted visual builder for Tailwind CSS websites with clean code export.",
+  "pricing": "freemium",
+  "tags": [
+   "tailwind",
+   "web-design",
+   "no-code",
+   "code-export"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://windframe.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "windsurf",
+  "name": "Windsurf",
+  "logo": "/logos/windsurf.png",
+  "company": "Windsurf",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI-first code editor with an agentic coding assistant called Cascade.",
+  "pricing": "freemium",
+  "tags": [
+   "code editor",
+   "AI coding",
+   "agentic",
+   "developer tools"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://windsurf.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wix-ai",
+  "name": "Wix AI Website Builder",
+  "logo": "/logos/wix-ai.png",
+  "company": "Wix",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder with drag-and-drop freedom — describe your business and get a full site you can refine visually.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "drag-and-drop",
+   "ecommerce",
+   "small-business",
+   "templates",
+   "seo",
+   "bookings",
+   "blog"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.wix.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wizi",
+  "name": "Wizi",
+  "logo": "/logos/wizi.png",
+  "company": "Wizi AI",
+  "category": "coding-development",
+  "subcategory": "coding-development",
+  "shortDescription": "AI agent for frontend tasks, JIRA to GitHub PR.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agent",
+   "frontend",
+   "github"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://wizi.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wobbio",
+  "name": "Wobbio",
+  "logo": "/logos/wobbio.png",
+  "company": "Wobbio",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder that turns words into published sites.",
+  "pricing": "freemium",
+  "tags": [
+   "website-builder",
+   "ai-websites",
+   "ecommerce",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://wobbio.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "x1",
+  "name": "x1",
+  "logo": "/logos/x1.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI code generator that turns natural-language prompts into working software.",
+  "pricing": "paid",
+  "tags": [
+   "code-generation",
+   "ai-coding",
+   "prototyping"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://x1.new",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "xirp",
+  "name": "Xirp",
+  "logo": "/logos/xirp.png",
+  "company": "Spotify",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Spotify's macOS app for running and organizing parallel AI coding-agent sessions with shared project context.",
+  "pricing": "free",
+  "tags": [
+   "ai-coding-agents",
+   "claude-code",
+   "git-worktree",
+   "spotify",
+   "dev-tools",
+   "agent-orchestration",
+   "backstage",
+   "mac-app"
+  ],
+  "platforms": [
+   "macos"
+  ],
+  "officialUrl": "https://xirp.spotify.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "yep-so",
+  "name": "Yep.so",
+  "logo": "/logos/yep-so.png",
+  "company": "Yep",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI-powered no-code landing page builder with lead capture and A/B testing.",
+  "pricing": "freemium",
+  "tags": [
+   "landing page",
+   "website builder",
+   "no-code",
+   "lead generation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://yep.so",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "youware",
+  "name": "YouWare",
+  "logo": "/logos/youware.png",
+  "company": "YouWare",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Vibe-coding platform that turns text prompts into live, shareable websites and web apps.",
+  "pricing": "freemium",
+  "tags": [
+   "vibe coding",
+   "website builder",
+   "no-code",
+   "AI coding"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.youware.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "yue2",
+  "name": "YuE2",
+  "logo": "/logos/yue2.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "Open music model that writes an editable symbolic score, then renders it into full songs with vocals and accompaniment.",
+  "pricing": "open-source",
+  "tags": [
+   "music generation",
+   "ai music",
+   "open weights",
+   "song generator",
+   "text to music",
+   "cover songs",
+   "open source",
+   "vocals"
+  ],
+  "platforms": [
+   "web",
+   "linux"
+  ],
+  "officialUrl": "https://github.com/multimodal-art-projection/YuE",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zalcro",
+  "name": "Zalcro",
+  "logo": "/logos/zalcro.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI technical co-founder that turns an app idea into architecture docs, system diagrams, prompts, and build tickets before you code.",
+  "pricing": "freemium",
+  "tags": [
+   "vibe-coding",
+   "architecture",
+   "prompt-engineering",
+   "tech-planning",
+   "mermaid-diagrams",
+   "implementation-plan",
+   "ai-coding-agents",
+   "startup-tools"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://zalcro.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zarla-ai-website-builder",
+  "name": "Zarla AI Website Builder",
+  "logo": "/logos/zarla-ai-website-builder.png",
+  "company": "Zarla",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder that generates a complete SEO-ready site for local service businesses in under a minute.",
+  "pricing": "freemium",
+  "tags": [
+   "website-builder",
+   "ai-website",
+   "local-seo",
+   "small-business",
+   "no-code",
+   "booking",
+   "lead-generation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://zarla.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zeabur",
+  "name": "Zeabur",
+  "logo": "/logos/zeabur.png",
+  "company": "Zeabur",
+  "category": "coding-development",
+  "subcategory": "devops",
+  "shortDescription": "AI DevOps engineer that deploys services from a prompt or a git repo with fixed, predictable pricing.",
+  "pricing": "freemium",
+  "tags": [
+   "deployment",
+   "paas",
+   "ai-devops",
+   "prompt-to-deploy",
+   "ci-cd",
+   "auto-scaling",
+   "templates",
+   "vps"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://zeabur.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zed",
+  "name": "Zed",
+  "logo": "/logos/zed.png",
+  "company": "Zed Industries",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "AI-native, Rust-based open-source code editor built for speed.",
+  "pricing": "open-source",
+  "tags": [
+   "code editor",
+   "open source",
+   "rust",
+   "ai coding",
+   "agent panel"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://zed.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zest",
+  "name": "Zest",
+  "logo": "/logos/zest.png",
+  "company": "Zest",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "VS Code extension with AI analytics that measures and improves AI-assisted coding.",
+  "pricing": "paid",
+  "tags": [
+   "vs-code",
+   "ai-coding",
+   "developer-analytics",
+   "productivity",
+   "prompt-engineering"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://meetzest.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zetik",
+  "name": "Zetic",
+  "logo": "/logos/zetik.png",
+  "company": "ZETIC.ai",
+  "category": "coding-development",
+  "subcategory": "models",
+  "shortDescription": "On-device AI inference engine for robotics and edge hardware.",
+  "pricing": "paid",
+  "tags": [
+   "edge ai",
+   "on-device",
+   "robotics",
+   "inference",
+   "jetson",
+   "ros2",
+   "embedded"
+  ],
+  "platforms": [
+   "linux"
+  ],
+  "officialUrl": "https://zetic.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zipwp",
+  "name": "ZipWP",
+  "logo": "/logos/zipwp.png",
+  "company": "Brainstorm Force",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI website builder that generates complete WordPress sites from a business description.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-website-builder",
+   "wordpress",
+   "astra-theme",
+   "web-hosting",
+   "agency-tools",
+   "no-code"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://zipwp.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zite",
+  "name": "Zite",
+  "logo": "/logos/zite.png",
+  "company": "Zite",
+  "category": "coding-development",
+  "subcategory": "website-builders",
+  "shortDescription": "AI builder for production business apps — describe the app, get a database, workflows, and permissions.",
+  "pricing": "freemium",
+  "tags": [
+   "no-code",
+   "ai-app-builder",
+   "internal-tools",
+   "database",
+   "workflows",
+   "crm",
+   "dashboards"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://zite.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zoah",
+  "name": "Zoah",
+  "logo": "/logos/zoah.png",
+  "company": null,
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Design-and-code canvas where the component you design is the component that ships.",
+  "pricing": "paid",
+  "tags": [
+   "design to code",
+   "components",
+   "design system",
+   "canvas",
+   "ai assistant",
+   "versioning",
+   "developer tools"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://zoah.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zoer",
+  "name": "Zoer",
+  "logo": "/logos/zoer.png",
+  "company": "Zoer",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "No-code AI app builder for creating internal tools and workflows without technical skills.",
+  "pricing": "freemium",
+  "tags": [
+   "no-code",
+   "internal-tools",
+   "workflow-builder",
+   "app-builder"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://zoer.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zro",
+  "name": "Zro",
+  "logo": "/logos/zro.png",
+  "company": "MoonMath AI",
+  "category": "coding-development",
+  "subcategory": "code-development",
+  "shortDescription": "Private inference endpoint for coding agents — run Claude Code, Codex, and more on open-weight models with zero data retention.",
+  "pricing": "paid",
+  "tags": [
+   "coding-agents",
+   "inference-api",
+   "private-ai",
+   "claude-code",
+   "codex",
+   "open-weight-models",
+   "zero-retention",
+   "cli"
+  ],
+  "platforms": [
+   "web",
+   "api",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://zro.moonmath.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zuzia",
+  "name": "Zuzia",
+  "logo": "/logos/zuzia.png",
+  "company": "Zuzia",
+  "category": "coding-development",
+  "subcategory": "devops",
+  "shortDescription": "AI-powered website and server uptime monitoring with alerts and task automation.",
+  "pricing": "freemium",
+  "tags": [
+   "uptime monitoring",
+   "server monitoring",
+   "downtime alerts",
+   "SSL monitoring",
+   "devops",
+   "AI alerts"
+  ],
+  "platforms": [
+   "web",
+   "api",
+   "linux"
+  ],
+  "officialUrl": "https://zuzia.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "360learning",
+  "name": "360Learning",
+  "logo": "/logos/360learning.png",
+  "company": "360Learning",
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "AI-driven collaborative LMS that turns internal experts into course creators for corporate training.",
+  "pricing": "paid",
+  "tags": [
+   "lms",
+   "collaborative-learning",
+   "corporate-training",
+   "onboarding",
+   "skills",
+   "employee-training",
+   "mobile-learning",
+   "compliance"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://360learning.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adaptiv-academy",
+  "name": "Adaptiv Academy",
+  "logo": "/logos/adaptiv-academy.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education-learning",
+  "shortDescription": "AI-personalized learning paths for in-demand skills.",
+  "pricing": "freemium",
+  "tags": [
+   "online learning",
+   "adaptive learning",
+   "upskilling",
+   "ai tutor"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://adaptiv.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aftercare",
+  "name": "Aftercare",
+  "logo": "/logos/aftercare.png",
+  "company": "Aftercare",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Conversational AI surveys with intelligent follow-ups and automatic response summaries.",
+  "pricing": "freemium",
+  "tags": [
+   "surveys",
+   "market-research",
+   "conversational-ai",
+   "feedback",
+   "data-collection"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://getaftercare.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "agentswarms",
+  "name": "AgentSwarms",
+  "logo": "/logos/agentswarms.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Free learn-by-building platform for multi-agent AI: visual agent builder, swarms, courses, and a source-available self-hosted edition.",
+  "pricing": "free",
+  "tags": [
+   "AI agents",
+   "multi-agent",
+   "learning",
+   "agent frameworks",
+   "sandbox"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://agentswarms.fyi",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aitutor",
+  "name": "AITutor",
+  "logo": "/logos/aitutor.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Personal AI tutor for students in 25 languages.",
+  "pricing": "paid",
+  "tags": [
+   "tutoring",
+   "education",
+   "students"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://myapps.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "almanack-ai",
+  "name": "Almanack AI",
+  "logo": "/logos/almanack-ai.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Curriculum companion that adapts lessons, differentiates for every learner, and plans around your calendar.",
+  "pricing": "freemium",
+  "tags": [
+   "lesson planning",
+   "differentiation",
+   "curriculum",
+   "standards aligned",
+   "worksheets",
+   "quizzes",
+   "grading",
+   "teacher assistant"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.almanack.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "anara",
+  "name": "Anara",
+  "logo": "/logos/anara.png",
+  "company": "Unriddle Ltd",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI research assistant that answers questions across your paper library with every claim linked to its source.",
+  "pricing": "freemium",
+  "tags": [
+   "research",
+   "academic",
+   "papers",
+   "citations",
+   "document analysis"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://anara.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "answerthis",
+  "name": "AnswerThis",
+  "logo": "/logos/answerthis.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "End-to-end AI research assistant for literature reviews and cited writing.",
+  "pricing": "paid",
+  "tags": [
+   "research",
+   "literature-review",
+   "citations",
+   "academic-writing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://answerthis.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "applai-me",
+  "name": "Applai.me",
+  "logo": "/logos/applai-me.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education-learning",
+  "shortDescription": "AI-powered job application and interview preparation",
+  "pricing": "freemium",
+  "tags": [
+   "job search",
+   "interview prep",
+   "career"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.applai.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "arist",
+  "name": "Arist",
+  "logo": "/logos/arist.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Delivers AI-driven microlearning through messaging apps.",
+  "pricing": "paid",
+  "tags": [
+   "microlearning",
+   "corporate-training",
+   "messaging"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://arist.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "articos",
+  "name": "Articos",
+  "logo": "/logos/articos.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI personas for user research interviews.",
+  "pricing": "paid",
+  "tags": [
+   "user research",
+   "personas",
+   "ux research",
+   "interviews"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://articos.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "artificial-analysis",
+  "name": "Artificial Analysis",
+  "logo": "/logos/artificial-analysis.png",
+  "company": "Artificial Analysis",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Independent benchmarks of 100+ AI models across quality, speed and live API pricing.",
+  "pricing": "freemium",
+  "tags": [
+   "llm-benchmarks",
+   "leaderboards",
+   "model-comparison",
+   "api-pricing",
+   "intelligence-index",
+   "ai-research",
+   "open-source",
+   "developers"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://artificialanalysis.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "atlas",
+  "name": "Atlas",
+  "logo": "/logos/atlas.png",
+  "company": "Atlas",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Visual AI research workspace with citation-backed answers and mind maps.",
+  "pricing": "freemium",
+  "tags": [
+   "research",
+   "literature-review",
+   "mind-maps",
+   "citations",
+   "academic"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://atlasworkspace.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "atypica-ai",
+  "name": "Atypica AI",
+  "logo": "/logos/atypica-ai.png",
+  "company": "atypica.AI",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI research agent that simulates consumer responses with inspectable AI personas.",
+  "pricing": "paid",
+  "tags": [
+   "market-research",
+   "ai-personas",
+   "consumer-insights",
+   "interviews",
+   "concept-testing",
+   "focus-groups",
+   "brand-positioning",
+   "pricing-research"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://atypica.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ayewatch",
+  "name": "AyeWatch",
+  "logo": "/logos/ayewatch.png",
+  "company": "AyeSoul",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI web monitoring that sends real-time alerts when your chosen topics get mentioned online.",
+  "pricing": "freemium",
+  "tags": [
+   "monitoring",
+   "alerts",
+   "topic tracking",
+   "news",
+   "research"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://ayewatch.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "beloga",
+  "name": "Beloga",
+  "logo": "/logos/beloga.png",
+  "company": "Beloga",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI knowledge vault that turns your saved content into a research assistant.",
+  "pricing": "freemium",
+  "tags": [
+   "knowledge base",
+   "research assistant",
+   "note taking"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://beloga.xyz",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "bookaroozie",
+  "name": "Bookaroozie",
+  "logo": "/logos/bookaroozie.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Chat with your books — an AI reading companion for deep study.",
+  "pricing": "paid",
+  "tags": [
+   "reading",
+   "ebooks",
+   "chat with pdf",
+   "study",
+   "research"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://bookaroozie.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brisk-teaching",
+  "name": "Brisk Teaching",
+  "logo": "/logos/brisk-teaching.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Free Chrome extension that layers 30+ AI teacher tools into Google Docs, Slides and Classroom.",
+  "pricing": "freemium",
+  "tags": [
+   "chrome extension",
+   "teacher assistant",
+   "student feedback",
+   "ai detection",
+   "lesson plans",
+   "reading level",
+   "google classroom"
+  ],
+  "platforms": [
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.briskteaching.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "capix",
+  "name": "Capix",
+  "logo": "/logos/capix.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "B2B data platform for M&A investment research.",
+  "pricing": "paid",
+  "tags": [
+   "M&A",
+   "investment research",
+   "deal sourcing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://capix.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "causaly",
+  "name": "Causaly",
+  "logo": "/logos/causaly.png",
+  "company": "Causaly",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI research platform that maps cause-and-effect relationships in biomedical evidence.",
+  "pricing": "paid",
+  "tags": [
+   "biomedical research",
+   "drug discovery",
+   "knowledge graph",
+   "life sciences",
+   "agentic AI",
+   "pharma"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.causaly.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "century-tech",
+  "name": "Century Tech",
+  "logo": "/logos/century-tech.png",
+  "company": "CENTURY",
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "AI learning platform that personalizes each student's pathway and auto-marks work to save teacher time.",
+  "pricing": "paid",
+  "tags": [
+   "adaptive learning",
+   "personalization",
+   "ai tutor",
+   "auto-marking",
+   "analytics",
+   "k-12",
+   "intervention",
+   "curriculum"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.century.tech",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cerebro",
+  "name": "Cerebro",
+  "logo": "/logos/cerebro.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI research assistant that digs into topics for you.",
+  "pricing": "paid",
+  "tags": [
+   "research assistant",
+   "ai research",
+   "summaries"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://heycerebro.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chainclarity",
+  "name": "ChainClarity",
+  "logo": "/logos/chainclarity.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI-powered plain-English breakdowns of cryptocurrency whitepapers.",
+  "pricing": "free",
+  "tags": [
+   "crypto",
+   "whitepapers",
+   "blockchain",
+   "research",
+   "summaries"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chainclarity.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chat2course",
+  "name": "Chat2Course",
+  "logo": "/logos/chat2course.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Turn a chat into a complete, customizable online course with an AI tutor.",
+  "pricing": "freemium",
+  "tags": [
+   "education",
+   "course-creation",
+   "elearning",
+   "ai-tutor"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chat2course.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatdox",
+  "name": "ChatDox",
+  "logo": "/logos/chatdox.png",
+  "company": "ChatDox",
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Chat with your documents to get instant cited answers.",
+  "pricing": "freemium",
+  "tags": [
+   "documents",
+   "pdf",
+   "research",
+   "qa",
+   "chat"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chatdox.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "classpoint-ai",
+  "name": "ClassPoint AI",
+  "logo": "/logos/classpoint-ai.png",
+  "company": "ClassPoint",
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Generate instant AI quizzes from your PowerPoint slides during class.",
+  "pricing": "freemium",
+  "tags": [
+   "education",
+   "teachers",
+   "powerpoint",
+   "quiz",
+   "classroom"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos"
+  ],
+  "officialUrl": "https://www.classpoint.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cognii",
+  "name": "Cognii",
+  "logo": "/logos/cognii.png",
+  "company": "Cognii",
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "Virtual learning assistant that tutors students through open-ended questions and auto-assesses writing.",
+  "pricing": "paid",
+  "tags": [
+   "tutoring",
+   "open response",
+   "nlp",
+   "assessment",
+   "formative feedback",
+   "ai tutor",
+   "analytics",
+   "k-12"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://cognii.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cograder",
+  "name": "CoGrader",
+  "logo": "/logos/cograder.png",
+  "company": "CoGrader",
+  "category": "education-learning",
+  "subcategory": "education",
+  "shortDescription": "AI essay grader that scores written assignments against teachers' rubrics with draft feedback for review.",
+  "pricing": "freemium",
+  "tags": [
+   "essay grading",
+   "teachers",
+   "education",
+   "rubric grading",
+   "feedback",
+   "LMS integration",
+   "Google Classroom"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://cograder.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "conceptseek",
+  "name": "ConceptSeek",
+  "logo": "/logos/conceptseek.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "Concept-based research search across your videos, podcasts and documents.",
+  "pricing": "paid",
+  "tags": [
+   "research",
+   "concept search",
+   "knowledge library",
+   "video search",
+   "evidence"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://conceptseek.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "consensus",
+  "name": "Consensus",
+  "logo": "/logos/consensus.png",
+  "company": null,
+  "category": "education-learning",
+  "subcategory": "research-education",
+  "shortDescription": "AI search engine over peer-reviewed literature that answers questions with cited evidence and a consensus meter.",
+  "pricing": "freemium",
+  "tags": [
+   "peer-reviewed",
+   "academic search",
+   "consensus meter",
+   "evidence synthesis",
+   "literature search",
+   "citation-backed",
+   "study snapshots",
+   "yes-no answers"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://consensus.app",
+  "affiliateUrl": null
+ }
+]

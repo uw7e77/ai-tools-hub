@@ -1,0 +1,1501 @@
+{
+ "flair-ai": {
+  "verdict": "AI product photography with drag-and-drop staging.",
+  "overview": [
+   "Flair offers AI product photography with a drag-and-drop staging canvas and custom AI models. It is free for 5 images, with Pro at $10, Pro+ at $35, and Scale at $55 per month on a freemium model."
+  ],
+  "features": [
+   "Drag-and-drop staging canvas",
+   "Custom AI models"
+  ],
+  "pros": [
+   "Free images to start"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "floor-plan-ai": {
+  "verdict": "Turns plain-English text into 2D floor plans and downloadable 3D models.",
+  "overview": [
+   "Floor Plan AI converts plain-English descriptions into 2D floor plans in six styles, and can also generate downloadable 3D GLB models for visualization. The workflow is simple: type or paste your layout, generate the plan, refine and download. It includes a free credit to try, with Pro at $19/month and a Team plan at $59/month, aimed at people who want quick concept floor plans without CAD software."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "floorplanner": {
+  "verdict": "Browser-based floor plan tool with a full-featured free editor; exports and HD renders are credit-based.",
+  "overview": [
+   "Floorplanner is a long-running web app for drawing detailed 2D and 3D floor plans without installing anything. The free Basic account includes the complete editor and furniture library, with limits only on export resolution, watermarks, and project count. Paid Plus and Pro plans, plus credit packs, unlock higher-quality exports, 3D tours, templates, and business features like API access."
+  ],
+  "features": [
+   "Full-featured 2D/3D floor plan editor in the browser",
+   "Drag-and-drop doors, windows, and furniture",
+   "3D tours and walkthroughs (credit-based)",
+   "Custom templates and room presets",
+   "iOS LiDAR room capture integration",
+   "Site plans and measurements",
+   "Export to image and PDF formats",
+   "API access and custom 3D assets for business plans"
+  ],
+  "pros": [
+   "Free tier includes the full editor and furniture library — limits hit exports, not drawing",
+   "Very detailed output; popular with real estate professionals",
+   "Web-based with nothing to install; easy to start for beginners",
+   "Flexible credit system for occasional high-quality exports"
+  ],
+  "cons": [
+   "Free exports are watermarked at low resolution with a 10-minute cooldown between them",
+   "Steep learning curve — closer to a CAD tool than a casual app"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "flora-ai": {
+  "verdict": "Node-based AI creative canvas chaining 50+ models for image, video, and text workflows.",
+  "overview": [
+   "Flora AI is a node-based creative canvas where designers chain multiple AI models into visual workflows. It supports image, video, and text generation across 50+ models with an intelligent FAUNA orchestration agent, plus team collaboration and a Figma bridge. It offers a free plan, with paid plans from $16 per month."
+  ],
+  "features": [
+   "Node-based visual canvas",
+   "50+ AI models in one place",
+   "FAUNA orchestration agent",
+   "Multi-model chaining and Techniques",
+   "Team collaboration",
+   "Figma export bridge"
+  ],
+  "pros": [
+   "Free plan with no credit card",
+   "Huge model choice in one workspace"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "flux-playground": {
+  "verdict": "Official Black Forest Labs playground for FLUX image generation and editing.",
+  "overview": [
+   "Flux Playground is the official web playground from Black Forest Labs for its FLUX image models. Users can generate and edit images with the pro and max models, trying them before committing to API use. It is the direct, first-party place to experiment with FLUX."
+  ],
+  "features": [
+   "FLUX pro and max models",
+   "Image generation and editing",
+   "Official first-party playground",
+   "No API key needed to try"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fontdance": {
+  "verdict": "AI font generator creating real, typeable TTF and WOFF2 fonts from prompts.",
+  "overview": [
+   "FontDance is an AI font generator that creates real, usable typefaces — not just styled lettering images. Describe a style with a prompt, add an optional reference image, and it generates a complete character set (uppercase, lowercase, punctuation, symbols) with clean glyphs and consistent spacing. A live preview lets you type your own words to test rhythm before exporting real TTF and WOFF2 font files, with originality guardrails against copying existing typefaces."
+  ],
+  "features": [
+   "Prompt and reference-image driven font generation",
+   "Complete character sets: uppercase, lowercase, punctuation, symbols",
+   "Live type-your-own-words preview",
+   "TTF and WOFF2 export",
+   "Quality-aware generation reviewing structure and layout",
+   "Originality guardrails against copying commercial typefaces"
+  ],
+  "pros": [
+   "Exports real font files you can actually type with",
+   "Free tier for testing",
+   "Fast idea-to-downloadable-font workflow"
+  ],
+  "cons": [
+   "AI-generated fonts may need manual refinement for pro use",
+   "Extended use requires paid options"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fontis-ai": {
+  "verdict": "AI art generator with print-on-demand built in",
+  "overview": [
+   "Fontis.ai combines AI art generation with print-on-demand, so users can create artwork and order it printed on physical products. It uses a freemium model where generating art is accessible and printing is the paid step. The product targets designers and creators who want to sell or gift custom art."
+  ],
+  "features": [
+   "AI art generation",
+   "Print-on-demand fulfillment",
+   "Custom product options"
+  ],
+  "pros": [
+   "Creation and printing in one place",
+   "Free to start designing"
+  ],
+  "cons": [
+   "Print costs add up",
+   "Limited public pricing detail"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fontjoy": {
+  "verdict": "Deep-learning font pairing tool that generates complementary font combinations in one click.",
+  "overview": [
+   "Fontjoy simplifies typography pairing with a neural network that proposes balanced font combinations instantly. Users can lock a font they like, shuffle alternatives, edit the preview text, and inspect each pairing before using it. The project is open source on GitHub and the tool itself is free to use."
+  ],
+  "features": [
+   "One-click AI font pairings",
+   "Lock preferred fonts while shuffling partners",
+   "Editable sample text preview",
+   "Open-source project on GitHub"
+  ],
+  "pros": [
+   "Live site verified with working generator UI",
+   "Free and open source",
+   "Dead-simple — no account or setup"
+  ],
+  "cons": [
+   "Single-purpose utility with minimal features beyond pairing",
+   "No export or integration workflow beyond copying names"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "form3d": {
+  "verdict": "AI SketchUp extension that turns furniture product links into ready 3D models.",
+  "overview": [
+   "Form3D is an AI-powered extension for SketchUp that converts any online furniture product link into an accurate, detailed 3D model in about 30 seconds. Designers paste a URL, the tool rebuilds the product with clean geometry and real materials - embedding product name, brand, and price as smart data - and imports it directly into SketchUp. Plans start at $19/month for 50 models after a 3-day free trial."
+  ],
+  "features": [
+   "Product-link to 3D model conversion",
+   "Direct SketchUp import",
+   "Embedded product data",
+   "Personal model library",
+   "Community model library",
+   "Clean geometry and real materials"
+  ],
+  "pros": [
+   "Models in ~30 seconds",
+   "Real products, not approximations"
+  ],
+  "cons": [
+   "SketchUp-only for now"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fotor-ai": {
+  "verdict": "All-in-one online photo editor with one-click AI retouch and design templates",
+  "overview": [
+   "Fotor is an all-in-one online photo editor and design tool aimed at beginners and small businesses. It combines one-click AI retouching with generative tools like AI replace, expand and avatars, plus a large template library. Available on web, desktop and mobile, with a free tier and Pro plans from $8.99/month."
+  ],
+  "features": [
+   "AI image generator (text to image)",
+   "AI object replace",
+   "AI image expand (outpainting)",
+   "AI avatars and headshots",
+   "One-click background removal",
+   "Batch photo editing",
+   "Photo collage maker",
+   "One-click filters and AI effects"
+  ],
+  "pros": [
+   "Beginner-friendly with quick one-click tools",
+   "Covers editing plus design templates and collages",
+   "Apps across web, desktop and mobile",
+   "Annual plans are cheap at $3.33/month"
+  ],
+  "cons": [
+   "Free tier shows ads, watermarks and limits export quality",
+   "AI image generation quality trails dedicated generators",
+   "Many AI features locked behind Pro"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fotor-ai-headshot": {
+  "verdict": "AI headshot add-on inside Fotor's free online photo editor, with one-time headshot packages.",
+  "overview": [
+   "Fotor's AI Headshot Generator sits inside the Fotor online photo editor, turning uploaded photos into professional headshots with text-prompt style controls. Fotor offers a free Basic plan for core editing, affordable Pro subscriptions (from $3.33/month annual) and one-time headshot packages (20 headshots for $26.99). It's convenient for users already editing photos in Fotor."
+  ],
+  "features": [
+   "AI headshot generation with prompt customization",
+   "Pre-select poses and outfit styles",
+   "Team headshots in a consistent style",
+   "One-time headshot packages",
+   "Free Basic editor plan",
+   "Full photo editing suite: background remover, retouching"
+  ],
+  "pros": [
+   "Works inside a full-featured editor you may already use",
+   "Affordable entry options",
+   "Lets you pre-select the poses and outfits you want"
+  ],
+  "cons": [
+   "Headshot tool is an add-on, less specialized than dedicated generators",
+   "Results can look artificial or over-styled per reviewers",
+   "Limited customization for fine-tuning results"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "foyr-neo": {
+  "verdict": "Browser-based interior design suite for pros: drag-and-drop 2D/3D plans, 60K+ assets, and fast photorealistic renders.",
+  "overview": [
+   "Foyr Neo is a cloud interior design platform aimed at designers, stagers, and contractors who want professional results without CAD training. It combines drag-and-drop 2D floor plans, a 60,000+ asset library, and fast cloud rendering up to 12K with client presentation tools like 3D walkthroughs and FoyrAR. Plans are subscription-based with a 14-day free trial and no desktop installation required."
+  ],
+  "features": [
+   "Drag-and-drop 2D to 3D interior design interface",
+   "60,000+ pre-modeled 3D furniture and material assets",
+   "Cloud photorealistic rendering up to 12K",
+   "One-click 3D walkthroughs for client presentations",
+   "FoyrAR to preview designs in the real room",
+   "AI-assisted lighting and auto room generation",
+   "Floor plan and elevation exports",
+   "Team collaboration with multi-user plans"
+  ],
+  "pros": [
+   "No CAD experience needed — built to be learned in minutes",
+   "Runs entirely in the browser, no GPU workstation required",
+   "All-in-one workflow from floor plan to renders to presentations",
+   "Responsive support and a full-featured 14-day free trial"
+  ],
+  "cons": [
+   "Render photorealism trails dedicated engines like Enscape and Lumion",
+   "Paid plans are pricey for occasional or freelance use"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "furnimesh": {
+  "verdict": "Turn furniture photos into 3D models.",
+  "overview": [
+   "FurniMesh converts a single photo of a piece of furniture into a ready-to-use 3D model in formats like GLB, OBJ, SKP, and BLEND. It is aimed at interior designers, retailers, and 3D artists who need product models without manual modeling. New users get 50 free credits, with paid plans from $19.99 per month."
+  ],
+  "features": [
+   "Photo to 3D furniture models",
+   "GLB, OBJ, SKP, BLEND export",
+   "50 free credits to start"
+  ],
+  "pros": [
+   "Fast 3D models from a single photo",
+   "Multiple export formats"
+  ],
+  "cons": [
+   "Quality depends on the input photo"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fuser": {
+  "verdict": "Node-based canvas for building creative workflows across 327 AI models.",
+  "overview": [
+   "Fuser is a node-based AI workflow builder on an infinite canvas, designed for creative agencies and studio teams. Users connect references, prompts, and models from 327 providers to build reusable recipes for image, video, audio, and 3D work, then keep the process alongside the finished assets. It also supports team collaboration with shared credit pools and access controls. The official site is live with a free 30-day professional trial including 500 starter credits."
+  ],
+  "features": [
+   "node-based AI workflow builder",
+   "327 AI models across modalities",
+   "prebuilt recipe templates",
+   "team collaboration",
+   "compositor layouts"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "gemelo": {
+  "verdict": "Create AI twin videos of yourself with cloned or library voices",
+  "overview": [
+   "Gemelo lets users create AI twin videos of themselves, with voice cloning or a library of ready-made voices and faces. It is built for creators and teams who want to produce personalized video at scale, with API access and Azure Marketplace integrations. Pricing is freemium, starting with a free plan and paid tiers from $29 per month."
+  ],
+  "features": [
+   "AI twin video creation",
+   "Voice cloning and voice library",
+   "API and Azure Marketplace integrations"
+  ],
+  "pros": [
+   "Realistic AI twin videos",
+   "Strong enterprise integrations",
+   "Free plan available"
+  ],
+  "cons": [
+   "Paid plans start at $29/month",
+   "Enterprise-oriented with limited consumer tooling",
+   "Small vendor compared to avatar giants"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "genaraera": {
+  "verdict": "AI infographics generator that turns text, data or images into professional template-free visuals.",
+  "overview": [
+   "Genaraera is an AI-powered infographics generator that turns plain-language prompts and pasted data or uploaded reference images into professional, template-free infographics. The AI automatically chooses layouts, charts, colors and typography, and produces HD exports in multiple aspect ratios. It offers commercial licensing and API access for marketers, educators, analysts and content creators who want high-quality visuals without design skills."
+  ],
+  "features": [
+   "Prompt-to-infographic generation",
+   "Automatic layout and chart selection",
+   "HD exports in multiple aspect ratios",
+   "Commercial licensing",
+   "API access"
+  ],
+  "pros": [
+   "Template-free, AI-designed layouts",
+   "HD multi-aspect exports",
+   "Commercial license included"
+  ],
+  "cons": [
+   "Paid only",
+   "Limited design control compared to manual tools"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "geniea-ai": {
+  "verdict": "AI prompt optimizer with product-fidelity QA for ecommerce.",
+  "overview": [
+   "Geniea optimizes prompts for image, video, and music models including Midjourney, Flux, DALL-E 3, Suno, and Sora. For ecommerce teams it adds a product-fidelity review workflow that catches AI image drift before generated shots reach listings. A free tier covers a few optimizations, with premium from $4.99 per month."
+  ],
+  "features": [
+   "Prompt optimization for 10 models",
+   "Product-fidelity review",
+   "Local QA checklist"
+  ],
+  "pros": [
+   "Free tier available",
+   "No upload needed for QA"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "genpire": {
+  "verdict": "AI product-development platform for fashion and consumer-goods brands, from sketch to factory.",
+  "overview": [
+   "Genpire is an AI-powered platform for fashion, apparel, accessories, and consumer-goods brands that automates the full arc of physical product development. It takes creative concepts through technical specifications, sourcing, and production documentation - work that historically required specialist expertise and long timelines. Over 1,000 brands have used the platform, which launched in the US with founding-user access for new teams."
+  ],
+  "features": [
+   "AI-assisted product design",
+   "Technical specification generation",
+   "Sourcing and production documentation",
+   "Fashion and apparel focus",
+   "Enterprise collaboration tools"
+  ],
+  "pros": [
+   "End-to-end product workflow",
+   "1,000+ brands served"
+  ],
+  "cons": [
+   "Consumer-goods focus only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "gentype": {
+  "verdict": "Google Labs experiment that turns one text prompt into a complete AI-generated A-Z alphabet.",
+  "overview": [
+   "GenType is a free Google Labs experiment that takes a single prompt — such as 'wooden letters carved from tree trunks' — and generates all 26 letters of an alphabet in a consistent style using Google's Imagen image model. The tool automates the 26 requests behind the scenes so designers, teachers, and creators can quickly produce themed lettering without design skills. The original Labs page now redirects users to the GenType app inside Google AI Studio, where it lives as a bundled app with higher-resolution output."
+  ],
+  "features": [
+   "Full A-Z alphabet from one prompt",
+   "Powered by Google's Imagen model",
+   "Per-letter regeneration",
+   "Preset themes (e.g. fireflies)",
+   "Type-out phrases with generated letters",
+   "Download generated alphabets",
+   "Now available as a Google AI Studio app"
+  ],
+  "pros": [
+   "Completely free",
+   "Fast way to get 26 style-consistent letters",
+   "Fun and approachable for non-designers"
+  ],
+  "cons": [
+   "Generated alphabets are temporary and not saved",
+   "May occasionally produce unexpected results",
+   "Full app requires a Google account"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "gepetto-ai": {
+  "verdict": "French AI studio for real estate pros: virtual staging, room redesign, sky/weather edits and photo enhancement.",
+  "overview": [
+   "Gepetto AI is a French virtual staging and interior design application aimed at real estate professionals. It furnishes empty rooms, redesigns interiors and exteriors, brightens skies, repaints walls and enhances photo quality, with unlimited edits and commercial use on its Pro plans."
+  ],
+  "features": [
+   "Furnish mode with Smart Staging for empty rooms",
+   "Redesign mode with exclusion masks for areas to keep",
+   "Sunshine mode to brighten gray skies",
+   "Wall repainting in desired colors",
+   "AI object removal from photos",
+   "Automatic photo quality enhancement",
+   "HD upscaling of favorite renders",
+   "Commercial use on Pro plans"
+  ],
+  "pros": [
+   "Granular control via exclusion masks and custom edit areas",
+   "Unlimited edits for sky, walls, floors and object removal on Pro",
+   "Europe-based option for real estate professionals",
+   "Subscriptions can be cancelled at any time"
+  ],
+  "cons": [
+   "Pro pricing starts high for individual or occasional users",
+   "Real-estate focus makes it less suited to homeowners",
+   "No verified rating from G2, Capterra, Product Hunt or Trustpilot"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "get-floor-plan": {
+  "verdict": "AI 2D/3D floor plan renders in 24 hours.",
+  "overview": [
+   "Get Floor Plan turns uploaded floor plans into 2D and 3D renders plus 360-degree tours within 24 hours. It serves real estate professionals and designers. Pricing is per set, roughly $20 to $69."
+  ],
+  "features": [
+   "2D floor plan renders",
+   "3D visualizations",
+   "360-degree tours",
+   "24-hour turnaround"
+  ],
+  "pros": [
+   "Fast turnaround",
+   "Professional output",
+   "Simple upload process"
+  ],
+  "cons": [
+   "Per-project pricing adds up",
+   "Real-estate niche"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "glide-design-ai": {
+  "verdict": "AI workspace turning a plain-English brief into strategy, high-fidelity screens, copy, and handoff notes.",
+  "overview": [
+   "GlideDesign is an AI design workspace that turns a plain-English brief into product strategy, high-fidelity screens, UI copy, responsive layouts, and developer handoff notes in one pass. A team of design agents reasons about audience, flows, and UX, reviews every screen from six perspectives, and keeps breakpoints, states, and copy connected for region-aware edits. Free to start with 100 weekly credits; paid tiers run $20-$200/month."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "google-pics": {
+  "verdict": "Google's Nano-Banana-powered AI image creator and editor built into Workspace.",
+  "overview": [
+   "Google Pics is Google's prompt-first AI image creation and editing tool for Workspace, announced at Google I/O 2026 and rolled out September 1, 2026. It generates images from text prompts on the Nano Banana engine and supports precise edits: segmenting individual objects to move or resize them, editing or translating in-image text, cropping to preset formats, and upscaling to 2K or 4K. It lives at pics.new and as an overlay inside Google Docs and Slides, bundled at no extra cost for Google AI Pro and Ultra subscribers and Workspace Business Standard and higher."
+  ],
+  "features": [
+   "Prompt-first image generation powered by Nano Banana",
+   "Object segmentation: move, resize, remove, or transform individual objects",
+   "In-image text editing, reformatting, and translation",
+   "Crop presets for web, social, print, and digital",
+   "Upscale to 2K or 4K",
+   "Batch editing with multi-edit instructions",
+   "Real-time collaboration via link sharing",
+   "Overlay inside Google Docs and Slides; exports PNG and JPEG"
+  ],
+  "pros": [
+   "Lives inside the Workspace apps where the work already happens",
+   "No extra charge for existing Google AI Pro/Ultra and Workspace business subscribers",
+   "Precise object-level edits without leaving the document"
+  ],
+  "cons": [
+   "Requires a paid Google AI or Workspace plan; no standalone free access",
+   "No layers, masking tools, brand kits, or asset library for pro design teams",
+   "Convenience play versus Canva: weaker on design-tool depth"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "google-stitch": {
+  "verdict": "Google Labs' free AI UI design tool (formerly Galileo AI).",
+  "overview": [
+   "Google Stitch is Google Labs' free AI tool for generating UI designs and front-end code from text descriptions. It was previously an independent product called Galileo AI before Google brought it in-house. Designers can iterate on generated screens and export usable interface code."
+  ],
+  "features": [
+   "Text-to-UI generation",
+   "Front-end code export",
+   "Design iteration",
+   "Google account integration"
+  ],
+  "pros": [
+   "Free from Google Labs",
+   "Generates both design and code",
+   "Fast prototyping"
+  ],
+  "cons": [
+   "Experimental, may change",
+   "Limited to UI design use cases"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "graficai": {
+  "verdict": "Free AI image upscaler to 4K with product-image tools for e-commerce sellers.",
+  "overview": [
+   "Graficai offers a free AI image upscaler that enhances images to 4K quality without signup, watermarks, or daily limits. It also provides product-image tools aimed at e-commerce sellers on Shopify, Amazon, Etsy, and eBay, helping listings look professional across channels. Privacy-first processing keeps images off permanent storage, and a paid tier unlocks higher-volume workflows."
+  ],
+  "features": [
+   "Free AI image upscaler to 4K",
+   "E-commerce product image tools",
+   "No signup required",
+   "Marketplace integrations"
+  ],
+  "pros": [
+   "Truly free core upscaler",
+   "No watermarks"
+  ],
+  "cons": [
+   "Advanced tiers are paid"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "grainodm": {
+  "verdict": "AI grain-quality inspection that analyzes samples in seconds.",
+  "overview": [
+   "GrainODM uses AI-powered imaging to inspect grain quality in seconds, analyzing samples far faster and more consistently than manual inspection. The system photographs grain and evaluates characteristics that determine grade and value, giving traders and processors objective results. It brings lab-grade quality control to grain handling operations that previously relied on subjective human judgment."
+  ],
+  "features": [
+   "AI imaging analysis of grain samples in seconds",
+   "Objective grading for quality and value assessment",
+   "Faster and more consistent than manual inspection",
+   "Built for grain traders and processors"
+  ],
+  "pros": [
+   "Dramatically faster than manual grain inspection",
+   "Objective, repeatable quality grades",
+   "Brings AI to an underserved agricultural niche"
+  ],
+  "cons": [
+   "Very niche industry with a small buyer pool",
+   "Pricing details not publicly available"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "graphicinfo": {
+  "verdict": "AI infographic maker that turns text and links into polished visuals in one click.",
+  "overview": [
+   "GraphicInfo is an AI-powered infographic maker that converts plain text, links, or data into polished visual graphics in a single click. It summarizes content, picks suitable icons and imagery, and offers template and creative modes plus a built-in editor for customizing fonts, colors, and layouts. It is aimed at marketers, educators, bloggers, and content creators who want professional visuals without design software."
+  ],
+  "features": [
+   "One-click text-to-infographic generation",
+   "Template and creative modes",
+   "AI content summarization",
+   "Real-time web content integration",
+   "Customizable text, colors, and imagery"
+  ],
+  "pros": [
+   "Turns raw text into infographics in seconds",
+   "No design skills required",
+   "Template and fully creative generation modes"
+  ],
+  "cons": [
+   "Credit-based limits can run out quickly on the free plan",
+   "AI-generated layouts may need manual polish for accuracy"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "green-screen-ai": {
+  "verdict": "AI portraits and backgrounds without a physical green screen.",
+  "overview": [
+   "Green Screen AI generates AI portraits with custom backgrounds from text prompts, running entirely in the browser with no physical green screen needed. Each upload produces unique AI art backgrounds. It is free to use on the web."
+  ],
+  "features": [
+   "AI portrait generation",
+   "Prompt-based backgrounds"
+  ],
+  "pros": [
+   "Free",
+   "No green screen needed"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hairstyle-ai": {
+  "verdict": "AI hairstyle try-on tool, $9 one-time.",
+  "overview": [
+   "Hairstyle AI lets users preview different hairstyles on their own photo with AI. It is a simple web tool with a $9 one-time price, distinct from similarly named sites. Users upload a selfie and browse style options."
+  ],
+  "features": [
+   "Hairstyle preview",
+   "Photo upload",
+   "One-time pricing",
+   "Multiple styles"
+  ],
+  "pros": [
+   "Affordable one-time price",
+   "Fun and useful preview",
+   "Simple process"
+  ],
+  "cons": [
+   "Single-purpose tool",
+   "Results vary by photo"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hama": {
+  "verdict": "Free AI object removal for photos, by Sandoll.",
+  "overview": [
+   "Hama is a free AI object remover that erases unwanted elements from photos with a brush. It works on web, iOS, and Android, and offers an image/mask API. The tool comes from Sandoll Inc."
+  ],
+  "features": [
+   "Brush object removal",
+   "AI inpainting",
+   "Image/mask API",
+   "Mobile apps"
+  ],
+  "pros": [
+   "Completely free",
+   "Simple brush interface",
+   "API available"
+  ],
+  "cons": [
+   "Single-purpose",
+   "Complex removals may artifact"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "handtext-ai": {
+  "verdict": "AI text-to-handwriting converter with 90+ fonts and realistic effects",
+  "overview": [
+   "HandText.ai is an AI text-to-handwriting engine that converts typed text, PDFs, and DOCX files into realistic handwritten pages. It offers a library of 90+ handwriting fonts, custom font uploads, paper styles, and visual effects, with PDF, JPEG, and PNG export. A free plan includes 5 generated pages, with a Premium plan at $5.99/month for unlimited generation."
+  ],
+  "features": [
+   "Text, PDF, and DOCX to realistic handwriting",
+   "90+ handwriting fonts and custom font upload",
+   "Paper styles and visual effects",
+   "PDF, JPEG, and PNG export"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hausey": {
+  "verdict": "Upload a room photo and get up to ten interior design directions in under a minute.",
+  "overview": [
+   "Hausey is an AI interior design and virtual staging tool. Upload one room photo and it generates up to ten polished redesign directions in under 60 seconds, with virtual staging and an MLS-safer mode that runs structural-consistency checks and produces disclosure text for real-estate listings. It serves homeowners, designers, and agents, with a free plan that needs no credit card."
+  ],
+  "features": [
+   "10 design directions per photo in under 60 seconds",
+   "Plain-text refinement of results",
+   "Client share and vote links",
+   "HD and PDF export plus presentation export",
+   "MLS-safer structural-consistency checks with disclosure text",
+   "Style mixing and compare mode on higher plans"
+  ],
+  "pros": [
+   "Free plan with no credit card required",
+   "Purpose-built for homeowners, designers, and agents rather than generic image gen",
+   "Original photo stays downloadable for compliance"
+  ],
+  "cons": [
+   "Low-res and watermarked outputs on free plan",
+   "Monthly room quotas may be tight for power users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hautech-ai": {
+  "verdict": "AI fashion photoshoots that generate product photos from simple inputs.",
+  "overview": [
+   "Hautech AI creates professional fashion product photoshoots using AI, letting clothing brands generate model shots and styled imagery without a studio. Users upload product images and get polished marketing visuals. It offers free access with a free trial of premium features."
+  ],
+  "features": [
+   "AI-generated fashion photoshoots",
+   "Model shots from product images",
+   "Styled marketing visuals",
+   "Free access with trial"
+  ],
+  "pros": [
+   "Eliminates studio photography costs",
+   "Free to try",
+   "Fashion-specific tooling"
+  ],
+  "cons": [
+   "AI models may not match brand diversity needs",
+   "Output consistency can vary"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "havenly": {
+  "verdict": "Online interior design service pairing you with a real designer at flat per-room rates, plus a free AI concept tool.",
+  "overview": [
+   "Havenly pairs homeowners with real human interior designers through flat-rate online packages, starting from $159 per room, with an in-person full-service option at $699. Clients get curated concepts, a shopping list, floor plans, and 3D renderings, with revisions until the design is right. A free AI design tool on the site generates instant concepts from a room photo for anyone not ready to hire a designer yet."
+  ],
+  "features": [
+   "Free Havenly AI concept generator from a room photo",
+   "1:1 collaboration with a professional designer via chat, SMS, or phone",
+   "Custom floor plan and layout visualizations",
+   "3D rendering of the finished design",
+   "Curated shopping list from hundreds of brands",
+   "Multiple design revisions until approval",
+   "Flat-rate per-room pricing with no hourly billing",
+   "In-person full-service design option"
+  ],
+  "pros": [
+   "Real professional designers, not just AI renders",
+   "Flat-rate pricing removes surprise hourly bills",
+   "Free AI tool gives instant concepts before committing",
+   "Revisions included until you approve the design"
+  ],
+  "cons": [
+   "Costs more than pure AI tools — per-room fees add up fast for a whole house",
+   "Design-only packages skip renovations and structural work",
+   "Online format suits furnishing and refreshes, not complex remodels"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "headshotpro": {
+  "verdict": "Turns selfies into studio-quality headshots; one HD photo is genuinely free with no sign-up.",
+  "overview": [
+   "HeadshotPro converts a few selfies into studio-style professional headshots with no photographer needed. It stands out with a genuinely free tier: one HD headshot download with no sign-up or credit card. Paid packages start at $29 one-time and unlock dozens of photos plus backdrops, outfits, and edit credits."
+  ],
+  "features": [
+   "Free AI headshot generator (one HD download, no sign-up)",
+   "Thousands of backdrops, outfits, and poses",
+   "Edit credits to swap outfits, remove blemishes, change backdrops",
+   "Free profile-picture avatar generator (DALL-E 3)",
+   "Team plans with volume discounts and magic-link login",
+   "Enterprise: SSO/SAML, DPA, SOC 2 Type II",
+   "4K resolution on top tier",
+   "100% money-back and realism guarantee"
+  ],
+  "pros": [
+   "Real free tier: one HD headshot, no account or card required",
+   "One-time pricing with no subscription",
+   "Strong team rollout features with discounts up to 60%",
+   "250,000+ orders since 2023 with money-back guarantee"
+  ],
+  "cons": [
+   "Free tier only unlocks one HD download; the rest stay lower-res previews",
+   "Result quality depends on your uploaded selfies",
+   "No subscription option; packages are one-off purchases"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "headshots-com": {
+  "verdict": "AI headshot tool that enhances a single selfie into studio-quality portraits in seconds.",
+  "overview": [
+   "Headshots.com, a professional photography service with 17+ years of experience, launched an AI headshot generator built around a single selfie and instant results. It uses AI editing rather than full AI regeneration to preserve your likeness, with free previews and $15 pay-per-download. Corporate teams get custom quotes and consistent branding."
+  ],
+  "features": [
+   "Single-photo upload workflow",
+   "Instant AI-enhanced previews",
+   "$15 pay-per-download with free preview",
+   "Likeness-preserving AI editing",
+   "Studio-quality backgrounds and lighting",
+   "Team and corporate headshot packages"
+  ],
+  "pros": [
+   "No need to gather dozens of source photos",
+   "Free preview before paying",
+   "Built by an established photography company"
+  ],
+  "cons": [
+   "$15 per download adds up across multiple looks",
+   "Narrower style range than multi-photo generators",
+   "Best suited to professional portraits, not creative styles"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "heropack": {
+  "verdict": "Generate hero images and visual packs with AI",
+  "overview": [
+   "HeroPack is a paid AI tool priced at $29 that helps create hero images and visual packs for websites and products. It targets founders and designers needing polished visuals fast. The product is web-based."
+  ],
+  "features": [
+   "AI hero image generation",
+   "Visual pack creation",
+   "One-time $29 pricing"
+  ],
+  "pros": [
+   "Fast hero visuals",
+   "Simple pricing"
+  ],
+  "cons": [
+   "$29 price point",
+   "Single-purpose tool"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "heuritech": {
+  "verdict": "AI trend-forecasting platform analyzing social media imagery to predict fashion trends before they hit the market.",
+  "overview": [
+   "Heuritech forecasts fashion trends by analyzing millions of social media images with computer vision, tagging over 2,000 style attributes like colors, cuts, and fabrics. It claims up to 92% prediction accuracy and sells forecasts to brands and retailers planning collections months ahead. Clients use it to validate design decisions against real consumer demand signals."
+  ],
+  "features": [
+   "AI trend forecasting",
+   "Social-media image analysis",
+   "2,000+ style attribute tagging",
+   "Consumer demand dashboards",
+   "Market intelligence reports",
+   "Forecast accuracy tracking"
+  ],
+  "pros": [
+   "Claims 92% forecast accuracy",
+   "Analyzes real consumer imagery, not just runway",
+   "Used by major luxury and fast-fashion brands"
+  ],
+  "cons": [
+   "Enterprise-only pricing",
+   "Forecasts still require human interpretation",
+   "Social-media bias toward younger demographics"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "heyphoto": {
+  "verdict": "AI photo enhancer and background editor.",
+  "overview": [
+   "HeyPhoto is an AI photo-editing web app that enhances image quality, removes or replaces backgrounds, and applies one-click improvements to photos."
+  ],
+  "features": [
+   "Background removal and replacement",
+   "Photo enhancement",
+   "One-click filters"
+  ],
+  "pros": [
+   "Fast editing with nothing to install",
+   "Affordable plans"
+  ],
+  "cons": [
+   "Limited advanced editing tools",
+   "Results vary on complex images"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hippo-ai": {
+  "verdict": "Figma plugin that generates web-tailored vector illustrations plus AI image transforms.",
+  "overview": [
+   "Hippo AI is a Figma community plugin that generates vector illustrations for web and mobile projects using handpicked, web-tailored styles instead of requiring long, complex prompts. It supports multiple models including DALL-E, Stable Diffusion, SDXL, and OpenJourney. Beyond generation, it offers AI transforms like background removal, image upscaling, outpainting, and text removal, so designers can create and refine assets without leaving Figma."
+  ],
+  "features": [
+   "AI vector illustration generation in Figma",
+   "Handpicked web-tailored styles",
+   "Multiple models: DALL-E, Stable Diffusion, SDXL, OpenJourney",
+   "Background removal",
+   "Image upscaling and outpainting",
+   "Text removal"
+  ],
+  "pros": [
+   "No complex prompting needed for good illustrations",
+   "Generation and editing both happen inside Figma",
+   "Multiple AI models to choose from"
+  ],
+  "cons": [
+   "Only available inside Figma, not as a standalone app",
+   "Pricing details are not publicly listed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hitpaw-ai-art-generator": {
+  "verdict": "HitPaw's AI art generator across web, mobile, and browser extension.",
+  "overview": [
+   "HitPaw AI Art Generator is the AI image tool from HitPaw, available on web, iOS, Android, and as a Chrome extension. It offers freemium text-to-image generation, targeting casual creators already in the HitPaw ecosystem."
+  ],
+  "features": [
+   "Text-to-image generation",
+   "Multiple art styles",
+   "Mobile apps and browser extension",
+   "Free tier"
+  ],
+  "pros": [
+   "Available on many platforms",
+   "Easy for beginners",
+   "Part of HitPaw suite"
+  ],
+  "cons": [
+   "Quality behind top generators",
+   "Free tier limited",
+   "Watermarks possible on free"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hitpaw-fotorpea": {
+  "verdict": "All-in-one desktop AI photo enhancer, restorer, editor and generator",
+  "overview": [
+   "HitPaw FotorPea (formerly HitPaw Photo Enhancer) is an all-in-one desktop AI tool for image enhancement, restoration, editing and generation. It sharpens, denoises, upscales up to 4x, restores old photos, beautifies portraits and generates images from prompts. Pricing starts at $22.39/month for Windows."
+  ],
+  "features": [
+   "One-click AI enhancement",
+   "AI upscaling up to 4x",
+   "Old photo restoration",
+   "Portrait beautification",
+   "Background removal and object editing",
+   "AI image generation (Flux.2)",
+   "AI outpainting",
+   "Batch processing"
+  ],
+  "pros": [
+   "Works fully offline on your machine",
+   "Enhancer, editor and generator in one app",
+   "Natural facial consistency in restoration",
+   "4.7 on Trustpilot"
+  ],
+  "cons": [
+   "Higher price than web-based rivals",
+   "Windows and Mac plans priced differently",
+   "Not a free tier for desktop features"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "homedesigns-ai": {
+  "verdict": "AI redesign for interiors, exteriors and gardens from one photo — with structure-lock, virtual staging, 2D-to-3D plans and video walkthroughs.",
+  "overview": [
+   "HomeDesigns AI is a browser-based design platform that redraws interiors, exteriors, gardens and patios from a single photo while locking the real walls, windows and layout. One account covers AI redesign, virtual staging, 2D-to-3D floor plans, photo-to-video walkthroughs and a furniture finder, plus a developer API."
+  ],
+  "features": [
+   "Structure-Lock redesign keeps real walls, windows and layout",
+   "200+ design styles across interiors, exteriors and gardens",
+   "Virtual staging for empty rooms and listings",
+   "2D-to-3D floor plan conversion",
+   "Photo-to-video walkthroughs in one click",
+   "Furniture Finder with shoppable product links",
+   "Precision+ module for fine-tuning designs",
+   "Developer API with multiple endpoints"
+  ],
+  "pros": [
+   "Covers interiors, exteriors and gardens under one login",
+   "Structure-lock keeps before-and-after shots believable for listings",
+   "Broad toolset: staging, video tours, floor plans, API and shopping",
+   "Free credits refresh every 24 hours for quick tests"
+  ],
+  "cons": [
+   "Monthly design credits do not carry over on some plans",
+   "Cancellation requires emailing support rather than self-service",
+   "Mobile experience lags behind desktop per third-party review"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "homestyler": {
+  "verdict": "Free web and mobile interior design tool with 2D/3D floor plans, a 100K+ model library, and fast 4K cloud renders.",
+  "overview": [
+   "Homestyler is a freemium interior design platform that runs entirely in the browser and on mobile, so you can draw floor plans and decorate rooms in 2D or 3D without installing software. It bundles over 100,000 free 3D models, cloud-based 4K rendering, and an AI Home Copilot that suggests layouts and decor. Paid Pro+, Master+, and Team memberships remove watermarks, raise render quality, and add CAD exports and collaboration."
+  ],
+  "features": [
+   "2D and 3D floor plan designer in the browser",
+   "100,000+ free 3D furniture and decor models",
+   "Cloud rendering up to 4K with fast turnaround",
+   "AI Home Copilot for layout and decor suggestions",
+   "CAD import/export (.dwg/.skp) and construction drawings",
+   "Parametric stairs, roofs, plumbing and electrical tools",
+   "BOM export and colored floor plan exports",
+   "Team workspaces with shared libraries and branding"
+  ],
+  "pros": [
+   "Free Basic plan includes unlimited 1K renders and unlimited projects",
+   "No high-end hardware needed — rendering happens in the cloud",
+   "Large branded furniture library with real manufacturer models",
+   "Beginner-friendly with 2D/3D views and AI layout suggestions"
+  ],
+  "cons": [
+   "Exports on the free plan carry a Homestyler watermark",
+   "High-resolution 2K/4K/8K renders require credits or a paid plan"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "home-visualizer-ai": {
+  "verdict": "Browser-based AI visualizer for interiors, exteriors, real paint colors, kitchens, and landscapes.",
+  "overview": [
+   "Home Visualizer AI is a browser-based visualizer for interiors, exteriors, paint, kitchens, bathrooms, and landscapes, built around your own photos, sketches, or renders. Its paint tool previews real colors from brands like Sherwin-Williams, Benjamin Moore, and Behr, and workflows range from one-click Auto Style to fully custom prompts. Paid plans add no-watermark downloads and commercial use, and the operator (Dream Render AI LLC) states user data is never sold or used for training."
+  ],
+  "features": [
+   "Interior redesign from your own room photos",
+   "Exterior and curb-appeal visualization",
+   "Paint preview with real Sherwin-Williams, Benjamin Moore, and Behr colors",
+   "Kitchen and bathroom remodel previews",
+   "Landscape and backyard design concepts",
+   "Virtual staging for real estate listings",
+   "Auto Style, Custom, and Style Fusion design modes",
+   "No-watermark downloads on paid plans"
+  ],
+  "pros": [
+   "Previews real branded paint colors, not generic swatches",
+   "Covers interior, exterior, and landscape in one platform",
+   "Runs in any browser with no install or heavy hardware",
+   "Clear privacy stance: data never sold or used for training"
+  ],
+  "cons": [
+   "Render quotas on paid plans cap heavy usage",
+   "Starter rate is yearly-billed, not monthly",
+   "Visual concepts are for planning, not a substitute for licensed professionals"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hotpot-art-generator": {
+  "verdict": "AI art suite: text-to-art, headshots, and photo tools.",
+  "overview": [
+   "Hotpot.ai bundles text-to-art generation, AI headshots, photo upscaling, background and object removal, face enhancement, and restoration into one approachable suite. Free daily credits cover occasional use, with Pro removing limits on a freemium model."
+  ],
+  "features": [
+   "Text-to-art generator",
+   "AI headshots",
+   "Background/object removal",
+   "Photo upscaling and restoration"
+  ],
+  "pros": [
+   "Generous free daily credits",
+   "Broad toolset"
+  ],
+  "cons": [
+   "Jack-of-all-trades, not best-in-class"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "hour-one": {
+  "verdict": "Text-to-video platform with lifelike virtual presenters for training, HR, and sales videos.",
+  "overview": [
+   "Hour One turns text into professional presenter-led videos using lifelike virtual avatars, targeting training, HR, sales, and marketing teams. It offers 100+ avatars, 140+ languages and voices, one-click video translation with lip-sync, custom studio avatars built from webcam or uploaded video, and an API for automation. A 3-minute free trial is available; paid plans start at $30/month."
+  ],
+  "features": [
+   "100+ realistic virtual presenter avatars",
+   "Text-to-video in 140+ languages and voices",
+   "One-click video translation with lip-synced dubbing",
+   "Custom studio avatar from webcam or uploaded video",
+   "100+ video templates",
+   "Captions, music, transitions, and text overlays",
+   "API and CRM/LMS integrations",
+   "Pocket Capture iOS app for avatar creation"
+  ],
+  "pros": [
+   "Ethical, professional-grade avatar presentation",
+   "Strong fit for training and corporate video",
+   "Custom avatar creation via webcam or iOS app",
+   "CRM and LMS integrations on higher tiers"
+  ],
+  "cons": [
+   "Pricing is steep for solo creators and small businesses",
+   "Limited advanced customization options",
+   "Some users report occasional bugs and slow support"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "housegpts": {
+  "verdict": "AI home-design studio that turns photos of real rooms into photorealistic redesigns in seconds.",
+  "overview": [
+   "HouseGPTs is an AI interior and exterior design platform built around photos of spaces you actually own. Upload a room photo, pick a style, and it renders a photorealistic redesign while keeping your walls, windows, and layout intact. It targets homeowners, renters, realtors, and designers who want quick renovation concepts without CAD skills or designer fees. New users get a couple of free generations; unlimited design runs on a monthly plan."
+  ],
+  "features": [
+   "Real-photo based AI room redesign",
+   "Interiors, kitchens, bathrooms, exteriors, and 80+ room types",
+   "20+ design styles (modern, farmhouse, Scandinavian, industrial)",
+   "Before/after previews with layout preserved",
+   "Virtual staging for empty rooms"
+  ],
+  "pros": [
+   "Redesigns your actual room, not a generic 3D model",
+   "Generates results in about 30 seconds",
+   "2 free designs with no credit card required",
+   "No design skills or CAD tools needed"
+  ],
+  "cons": [
+   "Paid plan needed for unlimited designs",
+   "AI redesigns are visualizations, not construction drawings",
+   "Layout is preserved, so structural changes are not possible"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "iconify-ai": {
+  "verdict": "AI app-icon generator with credit-pack pricing.",
+  "overview": [
+   "Iconify AI (iconifyai.com) generates custom app icons with AI, sold via credit packs. It targets indie developers and designers who need professional icons without hiring an illustrator."
+  ],
+  "features": [
+   "AI app-icon generation",
+   "Multiple style options",
+   "Credit-pack pricing",
+   "High-res exports"
+  ],
+  "pros": [
+   "Purpose-built for icons",
+   "Pay per use",
+   "Fast turnaround"
+  ],
+  "cons": [
+   "Single-purpose",
+   "Credit costs add up",
+   "Style consistency varies"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "iconik-ai": {
+  "verdict": "Generate beautiful app icons with AI, paying only for what you download.",
+  "overview": [
+   "Iconik AI is an AI icon generator for app developers and designers. Type keywords and pick design preferences, and it generates app icons in styles like minimalist, clay, metallic, retro, cartoon and watercolor for Android, iOS and web. Generation is free and unlimited; you only pay when you download an icon. All output follows Apple and Google design guidelines and the copyright stays with you, including for commercial use."
+  ],
+  "features": [
+   "AI icon generation from keywords",
+   "Multiple styles: clay, metallic, cartoon, retro and more",
+   "Apple and Google guideline compliance",
+   "Free unlimited generation, pay per download",
+   "Commercial-use copyright"
+  ],
+  "pros": [
+   "Free to experiment with unlimited generations",
+   "Guideline-compliant app icons",
+   "No design skills required"
+  ],
+  "cons": [
+   "Pay per download adds up at volume",
+   "No offline usage",
+   "Limited customization beyond generation"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "iconkit": {
+  "verdict": "AI icon generator for apps, projects, and Discord servers.",
+  "overview": [
+   "IconKit generates custom app and brand icons with AI from a text description, color choice, and style pick. Users can fine-tune results across 20 styles and get consistent, high-quality icons with commercial-friendly licensing. Icons cost credits starting at $6.99 for 50, and a REST API is available for developers."
+  ],
+  "features": [
+   "Text-to-icon AI generation",
+   "20 icon styles",
+   "Commercial-friendly licensing",
+   "REST API access"
+  ],
+  "pros": [
+   "No recurring subscription, pay per credit",
+   "API for programmatic icon creation"
+  ],
+  "cons": [
+   "No free tier reported",
+   "Niche single-purpose tool"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "iconlab-ai": {
+  "verdict": "AI generator for unique, high-definition app icons with commercial rights.",
+  "overview": [
+   "IconLab AI is an AI-powered app icon generator. Describe the icon you want, pick from many styles and colors, and it produces high-definition icons with full commercial ownership. It is aimed at app developers, indie makers and small businesses that need professional icons without hiring a designer."
+  ],
+  "features": [
+   "One-click AI app icon generation",
+   "Many styles, colors and object options",
+   "HD 1024x1024 PNG output",
+   "Full ownership and commercial rights"
+  ],
+  "pros": [
+   "Instant, professional-looking icons",
+   "Commercial rights included",
+   "Simple credit-based pricing"
+  ],
+  "cons": [
+   "Credit-based pricing adds up for heavy use",
+   "AI icons may need designer review",
+   "Narrow focus on icons only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "iconly": {
+  "verdict": "AI design platform for icons, vectors, social graphics, and email templates.",
+  "overview": [
+   "Iconly is an AI-powered design platform that generates icons from text descriptions in 20+ styles, plus vectors, social graphics, email templates, and brand assets. It includes editing tools for recoloring, thickness, smoothing, and background removal, a vector studio with text-to-SVG, and a brand studio that extracts colors and fonts from any website. A REST API and MCP server let developers and coding agents generate assets programmatically."
+  ],
+  "features": [
+   "AI icon generation in 20+ styles",
+   "Text-to-SVG vector studio",
+   "AI email template builder",
+   "Brand studio extraction",
+   "REST API and MCP server"
+  ],
+  "pros": [
+   "Full design suite in one platform",
+   "Developer API access"
+  ],
+  "cons": [
+   "Token-based pricing can add up"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "ideatum-ai": {
+  "verdict": "Generates color palettes, font pairings, mood boards, and style guides from a text prompt.",
+  "overview": [
+   "Ideatum.ai turns a short text prompt into a complete brand starter kit: color palettes, font pairings, mood boards, and style guides. It is free to use and aimed at founders, creators, and designers who want a coherent visual direction in minutes. The generated assets work as a starting point you can refine in your own tools."
+  ],
+  "features": [
+   "Color palette generation",
+   "Font pairings",
+   "Mood boards",
+   "Style guides"
+  ],
+  "pros": [
+   "Completely free",
+   "Covers the full brand-starter workflow"
+  ],
+  "cons": [
+   "No paid-tier detail needed since it is free",
+   "Style guide quality depends on prompt wording"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "ideogram": {
+  "verdict": "AI image generator built for accurate, readable text inside images — logos, posters, and graphics.",
+  "overview": [
+   "Ideogram is the generative media platform best known for rendering readable text inside AI images, a task where most competitors produce garbled output. Its flagship Ideogram 4.0 model emphasizes prompt fidelity and crystal-clear type, wrapped in a visual workspace with a canvas editor and a unified API. A genuinely usable free tier and paid plans starting around $8/month make it the go-to choice for marketing graphics, thumbnails, and typographic design."
+  ],
+  "features": [
+   "Ideogram 4.0 model with industry-leading text rendering and prompt fidelity",
+   "Magic Prompt automatically enhances short descriptions into detailed prompts",
+   "Canvas editor for inpainting and outpainting without leaving the platform",
+   "Describe feature that converts an uploaded image into a matching prompt",
+   "Unified API covering image and video models with per-request billing",
+   "MCP integration for generating inside Claude, Cursor and other agent workflows",
+   "Purpose-built apps for background removal, object removal and resizing"
+  ],
+  "pros": [
+   "Best-in-class text accuracy in images — the reason most users choose it over Midjourney or DALL-E",
+   "Generous free tier with daily generations and no credit card required",
+   "Full commercial usage rights on outputs; paid tiers add private generation and PNG export"
+  ],
+  "cons": [
+   "Free-tier images are public by default — privacy requires a paid plan",
+   "Photorealism and pure artistic quality trail Midjourney and FLUX",
+   "Non-Latin scripts such as Arabic and Chinese still render poorly"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "illusiondiffusion": {
+  "verdict": "AI generator for optical-illusion and hidden-image art.",
+  "overview": [
+   "IllusionDiffusion creates images with hidden patterns and optical-illusion effects, where a second image emerges when you look closer or step back. It is popular for eye-catching social posts, album art, and posters. Users steer the illusion with prompts and control images."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "illustrae": {
+  "verdict": "AI generator for clean, publication-ready scientific illustrations.",
+  "overview": [
+   "Illustrae generates scientific illustrations with AI, aimed at researchers and educators who need accurate, professional-looking figures. Users describe the concept and get an illustration suited for papers, slides, and teaching materials. A free trial and free version are available alongside paid plans."
+  ],
+  "features": [
+   "AI scientific illustration",
+   "Designed for papers and slides",
+   "Style suited to academic use"
+  ],
+  "pros": [
+   "Niche focus on science visuals",
+   "Free trial available"
+  ],
+  "cons": [
+   "Accuracy should be reviewed before publication"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "illustroke": {
+  "verdict": "Text-to-vector SVG generator with 40+ styles.",
+  "overview": [
+   "Illustroke by Digitalbore OU turns text prompts into vector SVG illustrations in over 40 styles. It includes a built-in editor and API access. Freemium pricing offers free tokens with paid token bundles."
+  ],
+  "features": [
+   "Text-to-vector SVG",
+   "40+ styles",
+   "Built-in editor",
+   "API access"
+  ],
+  "pros": [
+   "True vector output",
+   "Many styles",
+   "API for developers"
+  ],
+  "cons": [
+   "Token-based costs",
+   "Vector complexity limits"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "ilus-ai": {
+  "verdict": "AI illustration generator for stylistically consistent artwork.",
+  "overview": [
+   "Ilus AI generates consistent, professional illustrations from text prompts, aimed at designers, founders and marketers who need brand-aligned visuals. Users can fine-tune a custom style on 10 to 20 example images and export results as PNG or SVG. It runs on a pay-as-you-go credit model with one-time credit packs starting at $9."
+  ],
+  "features": [
+   "Text-to-illustration generation",
+   "Custom style fine-tuning on your images",
+   "PNG and SVG export",
+   "Commercial license on generated work",
+   "No subscriptions, credits never expire"
+  ],
+  "pros": [
+   "Strong style consistency",
+   "Pay-as-you-go with no subscription"
+  ],
+  "cons": [
+   "No free tier for generation",
+   "Fine-tuning costs 150 credits"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "image-describer": {
+  "verdict": "Browser-based AI that describes images, writes alt text, extracts text, and drafts captions.",
+  "overview": [
+   "Image Describer is a browser-based AI tool that analyzes uploaded images and produces clear plain-language descriptions. It generates accessibility-focused alt text, extracts text via OCR, drafts social captions and hashtags, and converts images into prompts for AI art generators. It runs entirely in the browser with a freemium model."
+  ],
+  "features": [
+   "AI image descriptions",
+   "Accessibility alt-text generation",
+   "OCR text extraction",
+   "Social caption and hashtag drafting",
+   "Image-to-prompt conversion for art generators"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ }
+}

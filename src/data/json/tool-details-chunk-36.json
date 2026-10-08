@@ -1,0 +1,1562 @@
+{
+ "midjourney-prompt-tool": {
+  "verdict": "Free visual Midjourney prompt builder by Noonshot.",
+  "overview": [
+   "MidJourney Prompt Tool, from Noonshot, is a free visual builder for crafting Midjourney prompts, with PromptFolder integration. It runs in the browser."
+  ],
+  "features": [
+   "Visual prompt builder",
+   "PromptFolder integration"
+  ],
+  "pros": [
+   "Free"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "miricanvas": {
+  "verdict": "Korean AI design platform with templates used by 24 million people.",
+  "overview": [
+   "MiriCanvas is a Korean AI-powered design platform from Miridih that serves around 24 million users with templates and generative design tools. It covers the usual design use cases — social posts, marketing visuals, and presentations — with AI assistance built in. The platform is free to start, with a premium tier at $9 per month."
+  ],
+  "features": [
+   "AI design generation",
+   "Large template library",
+   "Marketing visual tools"
+  ],
+  "pros": [
+   "Huge existing user base",
+   "Affordable premium tier"
+  ],
+  "cons": [
+   "Some content skews toward Korean market"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "mixels-ai": {
+  "verdict": "Free AI pixel art generator and online pixel editor.",
+  "overview": [
+   "Mixels.ai generates grid-perfect 8-bit and 16-bit pixel art from text prompts or converts photos into pixel art with proper grid alignment and limited palettes. It includes a full browser-based pixel editor with layers, brushes, blend modes, and curated palettes, plus game-ready PNG export for engines like Unity and Godot. Sign-up gets free credits, positioning it as a free alternative to desktop pixel tools."
+  ],
+  "features": [
+   "Text-to-pixel-art generation",
+   "Photo to pixel art converter",
+   "Full online pixel editor",
+   "Game-ready sprite export",
+   "Curated retro palettes"
+  ],
+  "pros": [
+   "Free to start, no download",
+   "True grid-aligned pixel output"
+  ],
+  "cons": [
+   "Limited to pixel art style"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "mockflow": {
+  "verdict": "AI-powered wireframing tool for websites, apps, and dashboards.",
+  "overview": [
+   "MockFlow is an online wireframing platform that helps teams design UI mockups for websites, web apps, and mobile apps. Its AI features can generate wireframes from text prompts or convert screenshots and websites into editable wireframes. Pricing is freemium, with plans around $14/month per editor."
+  ],
+  "features": [
+   "AI wireframe generation from prompts",
+   "Screenshot-to-wireframe conversion",
+   "1000+ UI components and templates",
+   "Real-time collaboration"
+  ],
+  "pros": [
+   "Established product since 2009",
+   "Strong AI-assisted features",
+   "Free tier available"
+  ],
+  "cons": [
+   "Per-editor pricing adds up for teams",
+   "AI features limited on lower plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "moda": {
+  "verdict": "AI design agent on a collaborative canvas that creates brand-aligned, fully editable decks, posts, ads and docs.",
+  "overview": [
+   "Moda is an AI design platform that gives professionals a brand-aligned design agent. Instead of flat generated images, it produces fully editable presentations, social posts, ads and documents on a Figma/Canva-style collaborative canvas that learns your brand and improves with use. Founded by repeat founders (Dover, Heap, Airplane alumni), it raised $7.5M from General Catalyst and Pear VC in March 2026 and is live at moda.app with free credits."
+  ],
+  "features": [
+   "Brand-aligned AI design agent",
+   "Collaborative canvas (Figma/Canva-style)",
+   "Editable presentations, social posts, ads, documents",
+   "Brand learning that improves over time",
+   "AI research and design planning",
+   "Human-in-the-loop editing control",
+   "Free credits to start"
+  ],
+  "pros": [
+   "Outputs are editable, not flat images",
+   "Canvas keeps learning your brand",
+   "Free to try with bonus credits"
+  ],
+  "cons": [
+   "New platform (launched Mar 2026), output consistency still maturing",
+   "Free credits may not cover heavy agency workloads",
+   "Brand-learning quality depends on the materials you feed it"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "mokker-ai": {
+  "verdict": "AI product photography with 100+ templates (joining forces with soona).",
+  "overview": [
+   "Mokker AI turns product photos into studio-quality shots with 100+ background templates. It offers a free tier with paid plans and remains live at mokker.ai while joining forces with soona, aimed at e-commerce brands."
+  ],
+  "features": [
+   "100+ product photo templates",
+   "AI background generation",
+   "Free tier photos",
+   "E-commerce focused"
+  ],
+  "pros": [
+   "Fast product shots",
+   "Free tier",
+   "Template variety"
+  ],
+  "cons": [
+   "soona merger adds uncertainty",
+   "Free tier limited",
+   "Competitive space"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "molypix-ai": {
+  "verdict": "Prompt-to-design tool for posters and cards with editable layers and brand kits.",
+  "overview": [
+   "Molypix.ai turns text prompts into social posters, cards, and marketing visuals, then keeps designs editable with layers, templates, and brand-kit controls. It is aimed at creators and small businesses that need fast, on-brand graphics without a designer. A free version is available with paid plans from around $12.99 per month."
+  ],
+  "features": [
+   "Prompt-to-design generation for posters and cards",
+   "Editable layers on generated designs",
+   "Brand kit with colors, fonts, and logos",
+   "Template library for marketing visuals"
+  ],
+  "pros": [
+   "Outputs stay editable rather than flattened images",
+   "Brand kit keeps designs consistent"
+  ],
+  "cons": [
+   "Advanced customization reserved for paid plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "moodboard-creator": {
+  "verdict": "Free AI tool that generates brand moodboards in seconds.",
+  "overview": [
+   "Moodboard Creator is a free AI tool that turns a few words about a brand or project into a visual moodboard for kick-starting design work. It collects coordinated imagery, colors, and styles onto one board that designers can build on. The tool is aimed at quick brand exploration and creative direction."
+  ],
+  "features": [
+   "AI-generated moodboards",
+   "Brand and project prompts",
+   "Instant visual inspiration"
+  ],
+  "pros": [
+   "Completely free",
+   "Fast starting point for branding work"
+  ],
+  "cons": [
+   "Boards are starting points, not finished design"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "morpholio-board": {
+  "verdict": "Award-winning mood board app for interior designers on iPhone, iPad, and Mac with AR, curated products, and smart lists.",
+  "overview": [
+   "Morpholio Board is a mood board and presentation app built for interior designers and decor enthusiasts on Apple devices. It combines a curated furniture and product library with collage and layout tools, color/shape product search, and AR furniture placement. Boards can be turned into auto-generated shopping lists and furniture books, and exported as images, PDFs, PSD files, or Excel spreadsheets."
+  ],
+  "features": [
+   "Mood board canvas with super tools (magic wand, markup, layers)",
+   "Curated furniture and product library",
+   "Color Seed and Shape Seed product discovery",
+   "AR furniture placement and AR color capture",
+   "Auto shopping lists and furniture books (AVA)",
+   "Export to image, PDF, PSD, and Excel",
+   "Pinterest portal for inspiration import",
+   "Presentation mode for client pitches"
+  ],
+  "pros": [
+   "Purpose-built for interior designers with a curated real-product library",
+   "Smart extras like auto shopping lists and furniture books save sourcing time",
+   "Named 'Best App' by Architectural Digest and House Beautiful",
+   "One subscription covers iPhone, iPad, and Mac"
+  ],
+  "cons": [
+   "Apple-only — no Android or Windows app",
+   "Free tier limited to 5 projects; unlimited projects need the Pro subscription"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "motiff": {
+  "verdict": "AI-powered interface design tool that generates UI from prompts",
+  "overview": [
+   "Motiff is a professional interface design platform that uses AI to turn concepts into production-ready user interfaces, accepting text prompts, images, PDFs, and markdown as input. It includes an AI toolbox for fast iteration, AI-generated design systems for visual consistency, and style presets like Material Design, Ant Design, and shadcn/ui. Designs can be exported as clean React or HTML code with one click, and a Dev Mode supports handoff from design to code."
+  ],
+  "features": [
+   "Prompt-to-UI generation from text, images, PDFs, markdown",
+   "AI Toolbox for rapid design iteration",
+   "AI Design Systems for consistent component libraries",
+   "Preset styling (Minimalist, Material, Ant Design, shadcn/ui)",
+   "One-click export to React/HTML code",
+   "Interactive prototyping and Dev Mode",
+   "Cloud collaboration"
+  ],
+  "pros": [
+   "End-to-end concept-to-code workflow",
+   "Style presets keep output consistent",
+   "Fast iteration by editing elements with natural language"
+  ],
+  "cons": [
+   "Pricing details not confirmed from official site",
+   "Positioned as cost-effective alternative — needs hands-on comparison"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "motionleap": {
+  "verdict": "Lightricks' photo animator with AI motion effects.",
+  "overview": [
+   "Motionleap is Lightricks' photo animation app that adds motion to still images with AI-assisted effects. It lets users animate skies, water, and other elements, plus add overlays and camera movement. The app is free to download with in-app purchases unlocking premium features."
+  ],
+  "features": [
+   "Photo animation with AI effects",
+   "Sky, water and overlay animation",
+   "Camera movement and overlays"
+  ],
+  "pros": [
+   "Polished, consumer-friendly app",
+   "Free to start"
+  ],
+  "cons": [
+   "Premium effects locked behind in-app purchases",
+   "Mobile-only experience"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "motorcut": {
+  "verdict": "AI-assisted car photo editing and backgrounds for vehicle adverts.",
+  "overview": [
+   "Motorcut is an AI-assisted photo editor made specifically for car dealers and sellers, producing polished vehicle photos and backgrounds for adverts. It streamlines the process of turning quick lot photos into professional-looking listings. A companion Android app extends the workflow to phones for on-the-go editing."
+  ],
+  "features": [
+   "AI car-photo background replacement and enhancement",
+   "Advert-ready vehicle listing images",
+   "Batch editing for dealership inventories",
+   "Android app for mobile editing"
+  ],
+  "pros": [
+   "Purpose-built for vehicle adverts",
+   "Faster than manual photo editing"
+  ],
+  "cons": [
+   "Niche use case outside automotive sales",
+   "Paid product with no free tier"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "mowgli": {
+  "verdict": "AI design canvas that turns product ideas into specced screens, prototypes, and exportable code.",
+  "overview": [
+   "Mowgli is an AI design canvas for apps and websites that walks you from product idea to finished UI. A guided questionnaire produces a detailed product spec, you remix moodboards and themes on a live canvas, and the result becomes an interactive prototype. When the design is ready you can export it to AI builders like Claude Code, Codex, or Cursor, to Figma, or download the full prototype code. It is aimed at founders and developers who have no designer and want to hand a coding agent something more concrete than a prompt."
+  ],
+  "features": [
+   "AI-generated product spec (PRD) from guided questionnaire",
+   "16+ moodboard themes to remix and preview",
+   "Live canvas editing and team collaboration",
+   "Interactive prototype mode",
+   "Export to Claude Code, Codex, Cursor, Antigravity, Figma, or full code"
+  ],
+  "pros": [
+   "Spec output captures timings, states, and user journeys in detail",
+   "Design-first workflow reduces generic AI-builder defaults",
+   "Team collaboration built into the canvas",
+   "Multiple export targets including Figma"
+  ],
+  "cons": [
+   "Free plan is a demo-level experience",
+   "Not a replacement for production-grade builders like v0 or Lovable",
+   "Spec quality depends on how much detail you provide upfront"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "multimatte": {
+  "verdict": "Open-source promptable matting model: name an object in a photo and get a clean alpha matte of just it.",
+  "overview": [
+   "MultiMatte is an open-source promptable matting model from Feyn Labs: name an object in plain language and it returns a high-quality alpha matte for just that object, erasing everything else. It is a LoRA fine-tune of Meta's SAM 3 (touching only 2.27% of parameters) retrained to produce continuous opacity instead of binary masks, so edges hold up at full zoom. It installs via pip (nobg) and runs with a few lines of Python."
+  ],
+  "features": [
+   "Promptable matting: type an object name, get its alpha matte",
+   "Continuous-opacity edges instead of binary masks",
+   "Plural concepts: every match returned in one matte",
+   "Prompt-free default mode for the main foreground subject",
+   "Batch processing with flat peak memory",
+   "Python API via pip install nobg",
+   "RGB cutouts at original input resolution",
+   "Published benchmark results on DIS-VD, DAVIS-S, and DUT-OMRON"
+  ],
+  "pros": [
+   "Open weights you can run and extend yourself",
+   "Pip-installable with a tiny, clean Python API",
+   "Finer edges than classic binary-mask background removers",
+   "Prompt steering makes one photo produce different cutouts per object"
+  ],
+  "cons": [
+   "Requires a GPU-capable environment for inference",
+   "Single-purpose specialist model, not a general image editor",
+   "Very new (September 2026) — ecosystem and benchmarks still maturing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "muse-pro": {
+  "verdict": "AI drawing app for iPad where your strokes guide real-time image generation",
+  "overview": [
+   "Muse Pro is an AI-driven drawing app for iPad and iPhone where your Apple Pencil strokes guide real-time image generation. As you sketch, latent-consistency models stream an evolving AI interpretation of your composition, which you steer with prompts, seeds and influence sliders. It also includes classic digital-art tools: layers, custom brushes, text-to-image prompting and one-tap upscaling."
+  ],
+  "features": [
+   "Real-time AI generation guided by hand-drawn strokes",
+   "Apple Pencil pressure sensitivity",
+   "Prompts, seeds and influence sliders for control",
+   "Layers and custom brushes",
+   "One-tap detail enhancement and upscaling",
+   "Open-source MIT-licensed codebase"
+  ],
+  "pros": [
+   "Distinctive stroke-driven AI interaction",
+   "Professional-grade drawing toolset",
+   "Active development with recent App Store updates"
+  ],
+  "cons": [
+   "Subscription is pricey without a hands-on trial",
+   "Apple ecosystem only — no Windows, Android or web",
+   "AI runs in the cloud, not fully on-device"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "myclone": {
+  "verdict": "Build a voice-enabled digital clone of yourself that answers questions in your tone.",
+  "overview": [
+   "MyClone creates a digital twin of you trained on your writing, voice recordings, documents, and media, so the clone answers questions and holds conversations in your tone. It is aimed at coaches, consultants, and creators who want to scale one-on-one availability, with embedding options for websites plus integrations like Slack and WhatsApp. A free tier exists alongside paid plans that unlock more interactions and analytics."
+  ],
+  "features": [
+   "Personalized AI digital clone",
+   "Voice cloning in your voice",
+   "Knowledge training from docs, audio, video",
+   "Website widget embedding",
+   "Integrations: Slack, WhatsApp, Discord, Zapier",
+   "API access",
+   "White-label options",
+   "Performance analytics dashboard"
+  ],
+  "pros": [
+   "Free tier to test your clone",
+   "Speaks in your actual voice",
+   "Broad integration options",
+   "White-label branding"
+  ],
+  "cons": [
+   "Clone quality depends on how much training material you provide",
+   "Privacy considerations around training on personal data",
+   "Voice cloning quality varies by speaker"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "myroomdesigner": {
+  "verdict": "Chat-driven AI room designer: upload a photo, refine by conversation, and turn designs into shopping lists.",
+  "overview": [
+   "MyRoomDesigner is an AI room design studio built around conversational refinement: upload a room photo, pick styles and colors, then chat with the AI to request changes like wall color swaps or ambiance tweaks. Its Design Studio adds a shopping list creator, find-similar-products, background removal, and high-resolution upscaling, with mood-board tools for planning a full room. Founded by Marta and Gabor Herget, it reports 85k+ generated redesigns and keeps user photos encrypted."
+  ],
+  "features": [
+   "Photo upload with AI layout and quality analysis",
+   "Conversational AI refinement ('paint the walls sage green')",
+   "Curated style, color, and designer-inspired theme selection",
+   "Design Studio with shopping list creator",
+   "Find similar products for generated items",
+   "Mood board designer for whole-room planning",
+   "High-resolution upscaling and item removal",
+   "Client-ready presentations for designers"
+  ],
+  "pros": [
+   "Chat-based edits make iteration feel like texting a designer",
+   "Shopping tools connect renders to buyable products",
+   "Original room layout and structure are preserved",
+   "Photos are encrypted and never shared with third parties"
+  ],
+  "cons": [
+   "Pay-as-you-go credits can add up for heavy experimentation",
+   "No refunds once credits are consumed for generations",
+   "Web-only — no native mobile app confirmed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "nack": {
+  "verdict": "Mobile app for AI chat and text-to-image generation.",
+  "overview": [
+   "Nack is a mobile AI companion for iOS and Android that combines conversational AI chat with a text-to-image generator in a familiar messaging-style interface. It offers searchable and pinnable chat history plus shareable messages. A free tier covers basic use, with Starter and Plus plans (around $6.99 and $18.99/month) adding credits and full AI capabilities."
+  ],
+  "features": [
+   "AI chat assistant",
+   "Text-to-image generation",
+   "Searchable chat history",
+   "Pinned conversations and message sharing"
+  ],
+  "pros": [
+   "Chat and image generation in one app",
+   "Familiar chat UI",
+   "Free tier available"
+  ],
+  "cons": [
+   "Credit-based usage limits",
+   "Mobile-only, no web app"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "napkin-ai": {
+  "verdict": "Turns written ideas into presentation-ready visuals, diagrams, and illustrations automatically.",
+  "overview": [
+   "Napkin AI converts written text into polished visuals such as diagrams, charts, and infographics. It reads your ideas and generates matching graphics that slot straight into slide decks, documents, and marketing materials. The tool is aimed at people who need clean, professional-looking visuals without opening a design app. A free plan covers light use, with paid tiers adding more AI credits and export options."
+  ],
+  "features": [
+   "Text-to-visual generation",
+   "Diagrams, charts, and infographic styles",
+   "Export for decks and documents",
+   "Editable generated graphics"
+  ],
+  "pros": [
+   "Fast way to get presentation visuals",
+   "No design skills needed",
+   "Free plan available"
+  ],
+  "cons": [
+   "Weekly AI credit limits on the free plan",
+   "Style range narrower than pro design tools"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "neighborbrite": {
+  "verdict": "AI landscaping designer that turns photos of your yard into redesign ideas.",
+  "overview": [
+   "Neighborbrite helps homeowners and landscapers preview landscaping ideas before spending a dollar. Upload a photo of a yard and the AI renders design variations so you can compare styles. It sits in the freemium tier around $8.99 a month for extra designs."
+  ],
+  "features": [
+   "AI-generated yard redesigns from your photos",
+   "Multiple design styles to compare",
+   "Preview ideas before hiring a landscaper"
+  ],
+  "pros": [
+   "See results before committing to real work",
+   "Easy to use with just a photo",
+   "Inspiring for DIY landscaping"
+  ],
+  "cons": [
+   "Smaller feature set than full design software",
+   "Needs a decent photo of the space for best results"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "neolemon": {
+  "verdict": "AI children's-book studio that keeps cartoon characters consistent across pages.",
+  "overview": [
+   "Neolemon is an AI illustration platform for creating children's books with characters that stay visually consistent from page to page. Describe a character or upload a reference, then place them in new poses, outfits, and scenes without redrawing them. It exports print-ready PDFs with trim and bleed for services like Amazon KDP. New users get free credits to try it, with subscription plans for ongoing book projects. (Previously listed as Consistent Character AI.)"
+  ],
+  "features": [
+   "Consistent character generation across scenes",
+   "Children's book layout and covers",
+   "Print-ready PDF export",
+   "Style customization"
+  ],
+  "pros": [
+   "Solves character-consistency pain for authors",
+   "KDP-ready exports",
+   "Free credits to start"
+  ],
+  "cons": [
+   "Niche focus on children's books",
+   "Subscription needed for volume"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "neolocus": {
+  "verdict": "AI rendering suite that turns architectural sketches into photorealistic interior and exterior visuals.",
+  "overview": [
+   "Neolocus is an AI rendering suite built for interior designers, architects, and real estate professionals. Users upload sketches from tools like SketchUp or Revit, or screenshots of 3D models, and the platform produces photorealistic interior and exterior renders in minutes. Specialized modules handle editing specific regions, style transfer, facade tiling, object removal, and 4K upscaling."
+  ],
+  "features": [
+   "Interior and exterior AI rendering",
+   "Sketch-to-photorealistic renders",
+   "Modify AI for region edits",
+   "Style Swap AI",
+   "Magic Removal AI",
+   "4K Upscale AI",
+   "Tiling AI",
+   "Imagine AI for concept prototyping"
+  ],
+  "pros": [
+   "Turns rough 3D sketches into photoreal renders in minutes",
+   "Suite of focused tools for edits, style, and upscaling",
+   "Built for professional architecture workflows"
+  ],
+  "cons": [
+   "Credit-based pricing can get costly for heavy rendering",
+   "Geared toward professionals rather than casual users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "neosvg": {
+  "verdict": "AI SVG generator that turns text prompts into vector graphics.",
+  "overview": [
+   "neoSVG converts text prompts into editable SVG vector graphics for icons, logos, and illustrations, and offers a REST API for programmatic generation."
+  ],
+  "features": [
+   "Text-to-SVG generation",
+   "Editable vector output",
+   "REST API",
+   "Icon and logo templates"
+  ],
+  "pros": [
+   "True vector output that scales cleanly",
+   "API for automation"
+  ],
+  "cons": [
+   "No free tier to try before paying",
+   "Narrower stylistic range than raster generators"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "nero-ai": {
+  "verdict": "Credit-based AI photo toolkit: upscaler, enhancer, background remover and more",
+  "overview": [
+   "Nero AI is the AI toolkit from Nero AG covering image upscaling, enhancement, background removal, photo restoration and more. It runs as web tools plus mobile apps and a Windows desktop suite, with a workflow builder that chains multiple AI services together. Free tier includes 10 credits; Pro Pass from $19.95/month."
+  ],
+  "features": [
+   "AI image upscaler",
+   "AI photo enhancer",
+   "AI background remover",
+   "AI photo restorer",
+   "AI workflow builder",
+   "Batch processing",
+   "Mobile apps for iOS and Android",
+   "Windows desktop suite"
+  ],
+  "pros": [
+   "Wide toolkit from one vendor including mobile and desktop",
+   "Workflow builder chains multiple AI services",
+   "Free tier with 10 monthly credits",
+   "Beginner-friendly interface"
+  ],
+  "cons": [
+   "Credit system can get expensive at volume",
+   "Tools feel scattered across many products",
+   "Desktop suite is Windows-only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "neural-love": {
+  "verdict": "AI studio for art generation and image, video, and audio enhancement.",
+  "overview": [
+   "Neural Love is an online AI studio offering text-to-image generation, image-to-video conversion, and AI enhancement for photos, videos, and audio. It bundles multiple models — including Midjourney v6, DALL-E 3, and Stable Diffusion 3 — behind one credit wallet, with tools for background removal, uncropping, colorization, upscaling to 4K, and audio enhancement up to 48 kHz. New accounts get free trial generations; paid options include a Pro plan at €8 and pay-as-you-go credits, with outputs licensed CC0 for commercial use."
+  ],
+  "features": [
+   "Text-to-image with multiple AI models",
+   "Image-to-video conversion",
+   "Image upscaling and enhancement",
+   "Background removal and replacement",
+   "Uncrop and black-and-white colorization",
+   "Audio enhancement up to 48 kHz",
+   "API access for integrations"
+  ],
+  "pros": [
+   "Multiple top models under one credit wallet",
+   "CC0 license for commercial use",
+   "Free trial generations",
+   "Broad media toolkit in one place"
+  ],
+  "cons": [
+   "Credit costs add up for heavy use",
+   "Some users report inconsistent results",
+   "Watermarked previews on free tier"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "neuralbox": {
+  "verdict": "AI visual-memory camera app that finds and organizes your photos.",
+  "overview": [
+   "NeuralBox is an AI-powered camera and gallery app from NeuralCam that acts as a visual memory. Its models find photos that are visually similar to a selected image, helping users organize and retrieve practical photos like receipts, documents, or packages. A NeuralBox Plus tier adds cloud storage and cross-device sync."
+  ],
+  "features": [
+   "AI visual similarity search across your photos",
+   "Smart organization of utility images",
+   "Cloud storage and sync with Plus",
+   "iOS app with modern device support"
+  ],
+  "pros": [
+   "Find photos by visual similarity",
+   "Useful for practical visual memory",
+   "From the established NeuralCam team"
+  ],
+  "cons": [
+   "Core experience is iOS-focused",
+   "AI similarity search may return irrelevant matches",
+   "Cloud sync requires the Plus upgrade"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "newprofilepic": {
+  "verdict": "AI avatar app that restyles your selfies into artistic portrait styles for social profiles.",
+  "overview": [
+   "NewProfilePic turns your selfies into artistic AI portraits in dozens of styles for social media profile pictures. From Informe Laboratories (the Photo Lab/ToonMe team), it's free with ads and watermarks, with a $4.99/month Premium subscription for more styles and no ads. The app faced unfounded data-theft rumors in 2022 that were publicly debunked."
+  ],
+  "features": [
+   "Dozens of AI portrait art styles",
+   "One-tap selfie-to-art conversion",
+   "Background changing",
+   "Filter collections",
+   "Inbuilt social sharing",
+   "Premium subscription with 100+ filters"
+  ],
+  "pros": [
+   "Free to use with a large style library",
+   "Huge historical user base from its viral 2022 wave",
+   "Simple one-tap workflow"
+  ],
+  "cons": [
+   "Free version adds watermarks and shows ads",
+   "2022 privacy controversy may concern some users despite debunking",
+   "Fewer professional styles than dedicated headshot tools"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "nlevel-ai": {
+  "verdict": "Turns text or image prompts into game-ready 3D models and images.",
+  "overview": [
+   "NLevel.ai converts text or image prompts into fully textured, game-ready 3D models and images. It exports downloadable GLB files for games, animation, and 3D printing, and is trained on licensed data. Creators can go from a prompt to an asset they can drop straight into a 3D pipeline."
+  ],
+  "features": [
+   "Text-to-3D and image-to-3D generation",
+   "Game-ready textured models",
+   "GLB file export",
+   "Licensed training data",
+   "API access"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "object-remover": {
+  "verdict": "Free AI tool that removes unwanted objects and people from photos.",
+  "overview": [
+   "Object Remover is a free web tool that erases unwanted objects, people, or imperfections from photos using AI. Users upload an image, brush over the area to remove, and the tool fills in the background automatically. It requires no sign-up and is aimed at quick photo cleanups for social media, product shots, and personal photos."
+  ],
+  "features": [
+   "AI object and people removal from photos",
+   "Brush-to-select editing",
+   "No sign-up required"
+  ],
+  "pros": [
+   "Free with no sign-up",
+   "Simple brush-based workflow",
+   "Works for photos, watermarks, and distractions"
+  ],
+  "cons": [
+   "Free tier capabilities may be limited compared to desktop editors",
+   "No app versions for mobile editing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "onmodel-ai": {
+  "verdict": "Swap fashion models in product photos with AI, built for Shopify clothing stores.",
+  "overview": [
+   "OnModel.ai is an AI fashion-model app for e-commerce that instantly swaps the models in product photos to represent diverse ethnicities, ages, and styles. It can also change backgrounds, generate faces for cropped images, and batch-process entire catalogs. A free tier covers a limited number of model swaps each month."
+  ],
+  "features": [
+   "AI model swapping for product photos",
+   "Background customization",
+   "Face generation for cropped images",
+   "Batch processing for full catalogs",
+   "Shopify integration"
+  ],
+  "pros": [
+   "No model photoshoots needed",
+   "Diverse representation in product imagery",
+   "Free monthly swaps to start"
+  ],
+  "cons": [
+   "Free tier is limited",
+   "AI faces can look slightly artificial up close"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "open-llm-vtuber": {
+  "verdict": "Open-source voice-interactive AI companion with a Live2D avatar that runs offline.",
+  "overview": [
+   "Open-LLM-VTuber is an open-source project that turns any LLM into a voice-interactive virtual companion with a Live2D avatar. It supports real-time voice chat with interruption, visual perception, and customizable characters and personalities. Everything can run locally and offline on Windows, macOS, or Linux, including a desktop-pet mode with a transparent background. The backend is MIT licensed, and it plugs into many LLM, TTS, and speech-recognition backends."
+  ],
+  "features": [
+   "Real-time voice conversation with interruption",
+   "Live2D avatar with character customization",
+   "Fully offline local operation",
+   "Multiple LLM, TTS, and STT backends"
+  ],
+  "pros": [
+   "Free and open source",
+   "Runs privately offline",
+   "Cross-platform"
+  ],
+  "cons": [
+   "Setup is technical",
+   "Voice quality depends on chosen backends"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "openart": {
+  "verdict": "All-in-one AI platform for images, video, audio and 3D.",
+  "overview": [
+   "OpenArt is a model-agnostic AI creation platform that brings image, video, audio and 3D generation under one roof. You can pick from over a hundred models per task, keep characters consistent across outputs, and build multi-scene AI videos with its Director tool. It is aimed at creators who want one subscription for their whole AI pipeline."
+  ],
+  "features": [
+   "100+ image, video, audio and 3D models",
+   "Consistent character builder",
+   "OpenArt Director for multi-scene AI videos"
+  ],
+  "pros": [
+   "Model choice instead of lock-in",
+   "Character consistency across scenes",
+   "Free trial credits with no card"
+  ],
+  "cons": [
+   "Feature-rich UI can overwhelm beginners",
+   "Credit costs add up on heavy video use"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "orbofi": {
+  "verdict": "Create AI agents and virtual characters",
+  "overview": [
+   "Orbofi is a paid platform for creating AI agents and characters, letting users design interactive personas with distinct looks and personalities. It serves creators building virtual companions and branded characters. The product targets the growing AI companion space."
+  ],
+  "features": [
+   "AI character creation",
+   "Custom agent personalities",
+   "Interactive personas"
+  ],
+  "pros": [
+   "Focused on character creation",
+   "Creator-oriented"
+  ],
+  "cons": [
+   "Paid only",
+   "Limited public detail"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "outfits-ai": {
+  "verdict": "Free AI outfit and style visualizer.",
+  "overview": [
+   "Outfits AI is a free web tool that visualizes outfits and style ideas with AI-generated imagery. Users describe a look and get styled outfit visuals to inspire their wardrobe choices. It is aimed at fashion enthusiasts and casual shoppers."
+  ],
+  "features": [
+   "Outfit visualization",
+   "Style prompts",
+   "Free generation",
+   "Shareable results"
+  ],
+  "pros": [
+   "Completely free",
+   "Fun and fast",
+   "No signup friction"
+  ],
+  "cons": [
+   "Fashion accuracy varies",
+   "Limited customization"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "outfity": {
+  "verdict": "AI stylist app (Algeria-first, in beta) that builds outfit ideas and wardrobe matches from your own closet.",
+  "overview": [
+   "Outfity is an AI-powered wardrobe stylist currently in beta and launching first for Algeria. It generates instant outfit ideas based on your style, mood, and occasion, matches items you already own into fresh combinations from uploaded wardrobe photos, and layers in trend discovery, color harmony, and weather-aware suggestions. The app is designed around Algerian street culture with modest and modern options, and signup is currently a free waitlist."
+  ],
+  "features": [
+   "Instant outfit generation from style, mood, and occasion inputs",
+   "Wardrobe matcher that pairs your uploaded clothes into new combos",
+   "Trend discovery from Algiers to Paris street style",
+   "Smart color theory for balanced outfit palettes",
+   "Weather-aware outfit suggestions",
+   "Culturally tailored for Algerian fashion, including modest options",
+   "Street-style inspiration adapted to what you already own",
+   "Free to join waitlist during beta"
+  ],
+  "pros": [
+   "Builds outfits from your real closet instead of catalogs you do not own",
+   "Culturally specific design, a rarity among AI stylist apps",
+   "Free to join with no payment during beta",
+   "Weather and color awareness make suggestions practical, not just pretty"
+  ],
+  "cons": [
+   "Still in beta behind a waitlist; no confirmed general release",
+   "Mobile apps listed on the site appear unreleased",
+   "Several unrelated apps share the 'Outfity' name, which confuses discovery",
+   "Performance claims like match accuracy are unverifiable pre-launch"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "paintit-ai": {
+  "verdict": "AI house painter: preview real paint colors, wallpapers and finishes on your own room or exterior photos.",
+  "overview": [
+   "Paintit.ai is an AI house-painting visualizer that applies realistic paint colors, wallpapers, murals and wall treatments to photos of your own rooms or exteriors. It offers brand paint catalogs with name, code and HEX search, lighting-aware previews, side-by-side comparisons and chat-guided editing."
+  ],
+  "features": [
+   "AI paint color preview on your own room or exterior photos",
+   "Brand paint catalogs searchable by name, code or HEX",
+   "Wallpapers, murals, acoustic panels, plasters and tiles",
+   "Lighting-aware realistic previews",
+   "Side-by-side comparison of color versions",
+   "Chat-guided paint editing",
+   "Save and share design versions for feedback",
+   "Works for interiors and home exteriors"
+  ],
+  "pros": [
+   "Niche paint-and-walls focus versus generic room redesign tools",
+   "Brand-catalog color matching is practical for real purchases",
+   "30 free credits with no card required",
+   "Honest that digital previews are approximate and need physical samples"
+  ],
+  "cons": [
+   "Not a full interior designer — furniture and styling scope is limited",
+   "Credit-based limits curb heavy experimentation",
+   "No verified rating from G2, Capterra, Product Hunt or Trustpilot"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pal-maker": {
+  "verdict": "Tavus's no-code builder for creating real-time AI video agents (PALs) from a text description.",
+  "overview": [
+   "PAL Maker is Tavus's no-code portal for building PALs - real-time AI video agents that see, hear, and respond on video calls. You describe the agent in a sentence or chat with its assistant, and it generates a conversational avatar powered by Tavus's Phoenix rendering, Raven perception, and Sparrow conversation models. It targets use cases like sales, support, healthcare, and learning and development."
+  ],
+  "features": [
+   "No-code PAL creation from a text description",
+   "Real-time conversational video avatars",
+   "Image-based PALs generated from a single photo",
+   "Voice and vision perception",
+   "Developer API for programmatic deployment",
+   "Prebuilt industry PAL templates",
+   "Embeddable into apps and websites"
+  ],
+  "pros": [
+   "Build video agents without writing code",
+   "Lifelike real-time rendering and perception",
+   "API plus no-code builder covers both developers and teams",
+   "Industry-specific templates speed up launches"
+  ],
+  "cons": [
+   "Video agents demand more bandwidth than text chat",
+   "Public pricing isn't on the site - needs a sales conversation",
+   "Enterprise focus can feel heavy for small teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "palazzo": {
+  "verdict": "AI virtual staging and shoppable room visualization for real estate and furniture brands.",
+  "overview": [
+   "Palazzo is an AI-powered room visualization platform co-founded by Venus Williams and Raffi Holzer. It offers three products: Spaces, which virtually stages empty real estate photos in about 60 seconds using real, shoppable furniture; Showcase, which lets furniture retailers place their actual catalog products inside a shopper's room; and Studio, which generates lifestyle product photography for furniture brands at scale. Its AI assistant Vinci guides users through design choices, and every rendered piece is a real product with a real SKU rather than invented decor."
+  ],
+  "features": [
+   "Spaces: virtual room staging for real estate agents and brokerages",
+   "Showcase: shoppable room visualization using a retailer's real catalog",
+   "Studio: AI-generated lifestyle photography for furniture brands",
+   "Vinci AI assistant for design guidance and product recommendations",
+   "Room editing that keeps architecture unchanged while restaging furniture",
+   "Style quiz to learn individual design preferences"
+  ],
+  "pros": [
+   "Renders real, purchasable furniture instead of invented decor",
+   "Stages a room in about 60 seconds versus weeks of physical staging",
+   "Strong retail metrics cited: higher conversion and lower returns",
+   "Backed by real furniture brands and brokerages"
+  ],
+  "cons": [
+   "Primarily a B2B product; consumer interior-design play was deprioritized",
+   "Pricing is quote/demo-based for Showcase and Studio",
+   "Results depend heavily on the quality of input photos"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "palette": {
+  "verdict": "AI tool that turns black-and-white photos into realistically colorized images with 21+ color filters.",
+  "overview": [
+   "Palette.fm is a web-based AI photo colorizer that brings grayscale images to life in seconds. Upload a photo, pick from 21+ color filters, and refine the result with text-based color guidance. It also supports batch uploads, high-resolution exports up to 5000x5000 pixels, and video colorization for moving footage."
+  ],
+  "features": [
+   "21+ color filters",
+   "Automatic AI colorization",
+   "Text-prompt color refinement",
+   "Batch photo processing",
+   "HD exports up to 5000x5000 px",
+   "Video colorization",
+   "Credit system with one-time payment option",
+   "Free watermarked previews with no signup"
+  ],
+  "pros": [
+   "No signup needed to try it",
+   "Realistic, lifelike colors with natural skin tones",
+   "Simple three-step upload, filter, download workflow",
+   "One-time payment option avoids subscription lock-in"
+  ],
+  "cons": [
+   "Free plan is watermarked at low resolution",
+   "Color accuracy can vary on unusual or complex scenes",
+   "Per-credit costs add up for high-volume work"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "paragraphica": {
+  "verdict": "Lensless AI camera that photographs places using location data.",
+  "overview": [
+   "Paragraphica is a context-to-image camera art project by designer Bjørn Karmann: it gathers location, weather, time-of-day, and nearby-place data, composes a descriptive paragraph, and renders it into an AI-generated 'photo' via text-to-image generation. It exists as a physical prototype and as a virtual camera anyone can try."
+  ],
+  "features": [
+   "Context-to-image generation",
+   "Location, weather, and time data fusion",
+   "Physical prototype camera",
+   "Virtual camera demo"
+  ],
+  "pros": [
+   "Unique AI art concept",
+   "Free to try via the virtual camera"
+  ],
+  "cons": [
+   "An art project, not a supported consumer product",
+   "No commercial support or roadmap"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "patternai": {
+  "verdict": "Generate seamless AI patterns for products",
+  "overview": [
+   "PatternAI, at patterned.ai, is an AI engine for generating seamless, royalty-free patterns for textiles, packaging, and products. It auto-fixes seam repeats, supports one-click recoloring, and exports print-ready PNG and SVG files. The product is freemium with a free trial before paid plans."
+  ],
+  "features": [
+   "AI seamless pattern generation",
+   "Auto-fix seam repeats",
+   "Print-ready PNG/SVG export"
+  ],
+  "pros": [
+   "Production-ready output",
+   "Free trial"
+  ],
+  "cons": [
+   "Free tier limits",
+   "Niche design need"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "patternaly": {
+  "verdict": "AI generator for seamless, tileable patterns and textile prints.",
+  "overview": [
+   "Patternaly turns plain-language prompts into seamless, tileable pattern tiles for print-on-demand, fabric, wallpaper, packaging and home decor. Users pick from 19 art styles, generate one to four variations in seconds, and preview designs on product mockups. It includes a free seamless-checker tool and image-to-pattern conversion; paid plans unlock HD exports and commercial rights."
+  ],
+  "features": [
+   "Text-to-pattern generation in 19 art styles",
+   "Seamless, tileable outputs",
+   "Product mockup previews",
+   "Free seamless checker tool",
+   "Image-to-pattern conversion"
+  ],
+  "pros": [
+   "Free no-login trial",
+   "Built specifically for production print use",
+   "Fast generation in 10-30 seconds"
+  ],
+  "cons": [
+   "HD export and commercial rights are paid-only",
+   "Niche focus on patterns rather than general imagery"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pebblely": {
+  "verdict": "AI product photography with 100+ background templates.",
+  "overview": [
+   "Pebblely by Pebblely Pte Ltd turns plain product photos into professional shots with 100+ AI-generated backgrounds and scenes. It offers a free tier with paid plans and early API access, aimed at e-commerce sellers and marketers."
+  ],
+  "features": [
+   "100+ AI background templates",
+   "Product photo enhancement",
+   "Background removal",
+   "Brand-consistent themes",
+   "API (early access)"
+  ],
+  "pros": [
+   "Fast professional product shots",
+   "Free tier available",
+   "Template variety"
+  ],
+  "cons": [
+   "Free tier limited",
+   "Results vary by input photo",
+   "Competitive space"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pencil-sketch-generator": {
+  "verdict": "AI that turns photos into hand-drawn-style pencil sketches.",
+  "overview": [
+   "Pencil Sketch Generator is a simple AI photo tool that converts ordinary photos into pencil-sketch artwork. Users upload an image and get a hand-drawn style rendering in seconds, with no design skill needed. A free daily sketch is offered, while Premium unlocks up to 30 conversions per day."
+  ],
+  "features": [
+   "Photo to pencil sketch conversion",
+   "One-click style transfer",
+   "Daily free sketch",
+   "High-volume Premium tier"
+  ],
+  "pros": [
+   "Dead simple to use",
+   "Free daily conversion",
+   "No sign-up complexity for basic use"
+  ],
+  "cons": [
+   "Single-purpose tool",
+   "Free tier limited to one sketch per day"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "personify": {
+  "verdict": "Build an AI clone of yourself for coaching and client work.",
+  "overview": [
+   "Personify, built by London-based DeepQuery, lets coaches, consultants, authors and course creators build an AI version of themselves in minutes. It trains on your existing content — websites, documents, videos, audio — and mirrors your tone and expertise to answer client questions 24/7. A guided setup, shareable clone page, website widget and lead capture come with the self-serve tier, plus a done-for-you service with custom voice cloning."
+  ],
+  "features": [
+   "AI clone from your content",
+   "Custom voice cloning",
+   "Shareable clone page",
+   "Website embed widget",
+   "Lead capture and analytics"
+  ],
+  "pros": [
+   "No technical skills needed",
+   "Scales your expertise 24/7",
+   "Free plan available"
+  ],
+  "cons": [
+   "Pro tier at $79/month"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pfpmaker": {
+  "verdict": "AI profile picture maker that polishes selfies into LinkedIn-ready headshots in about 15 seconds.",
+  "overview": [
+   "PFPMaker turns a single selfie into a clean, professional profile picture in seconds: backgrounds removed and replaced, photos sharpened, and studio-style looks applied across 30 free styles. A separate paid AI generator in the PFPMaker app creates 400+ fully AI-generated looks. It's built for profile photos on LinkedIn, Discord, GitHub and other platforms."
+  ],
+  "features": [
+   "Free 1-selfie headshot enhancer",
+   "30+ professional styles",
+   "Background removal and replacement",
+   "Photo sharpening and unblur",
+   "400+ AI styles in the paid generator",
+   "Matching profile-picture sets",
+   "Watermark-free paid downloads"
+  ],
+  "pros": [
+   "Instant free results with no signup",
+   "Preserves your real likeness instead of inventing a new face",
+   "Works for professional and social platforms alike"
+  ],
+  "cons": [
+   "Fully AI-generated 400+ styles require payment",
+   "Free tier focuses on cleanup/enhancement, not full AI regeneration",
+   "Occasional AI quirks on hands and background details"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "phedra-ai": {
+  "verdict": "AI image editor that reshapes photos and graphics through plain-text prompts.",
+  "overview": [
+   "Phedra AI is a prompt-based image editor that lets anyone reshape photos and graphics using plain-text instructions, with voice commands also supported. It handles tasks like adding or removing objects, swapping backgrounds, and applying prebuilt styles without any traditional editing skills. The platform runs as a web app with a Chrome extension, and supports prompts in more than 80 languages."
+  ],
+  "features": [
+   "Edit images with natural-language text prompts",
+   "Add, remove, or restyle objects in photos",
+   "Background removal and replacement via prompts",
+   "Prebuilt art styles like pop art, oil painting, and comics",
+   "One-click smart resizing to common image sizes",
+   "Version history for stepping back through edits",
+   "Chrome extension and web app"
+  ],
+  "pros": [
+   "No design or editing skills needed — just describe the change",
+   "Supports prompts in 80+ languages",
+   "Fast edits, typically seconds to a minute"
+  ],
+  "cons": [
+   "Not an image generator — you must supply the base image",
+   "Upscaling applies to aspects of an image rather than full-image enhancement"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "phedra-x": {
+  "verdict": "Edit images with AI text prompts",
+  "overview": [
+   "Phedra X, formerly Synthesys X, is a live AI image editor that modifies existing images with text prompts rather than generating from scratch. It is available as a Chrome extension from Nooveau Media Ltd of London. The product is freemium."
+  ],
+  "features": [
+   "Text-prompt image editing",
+   "Chrome extension workflow",
+   "Edit existing images with AI"
+  ],
+  "pros": [
+   "Unique edit-focused approach",
+   "Free tier available"
+  ],
+  "cons": [
+   "Editing only, not from-scratch generation",
+   "Chrome extension dependent"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photext": {
+  "verdict": "AI image text editor: click any text in a photo to edit, replace, remove, or translate it.",
+  "overview": [
+   "PhoText is an online AI editor for text inside finished images. Upload a photo, screenshot, poster, or PDF page, click directly on recognized words, and edit them with automatic font matching and seamless background repair — no Photoshop needed. It also includes an image-to-text OCR converter and add-text templates."
+  ],
+  "features": [
+   "Click-to-edit text directly on images",
+   "AI background restoration when removing text",
+   "Font identification and style matching",
+   "Image-to-text OCR converter with line selection",
+   "Text translation within images",
+   "Add-text templates with commercial-use fonts",
+   "Custom stamp overlays with auto background removal",
+   "Image effects: grayscale, blur, mosaic, sharpen"
+  ],
+  "pros": [
+   "Works in the browser with no design skills required",
+   "Basic features are free to use",
+   "Edits blend in via font and background style matching",
+   "Handles photos, screenshots, PDFs, and multiple image formats"
+  ],
+  "cons": [
+   "Advanced capabilities need paid quota",
+   "OCR accuracy depends on image quality",
+   "No native mobile app — mobile web only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photo-ai-studio": {
+  "verdict": "AI photo studio: train a model on your face, generate photorealistic shoots.",
+  "overview": [
+   "Photo AI trains a personal image model from about 20 of your photos, then generates photorealistic pictures and videos of you in any style or setting. Its proprietary Hyper Realism pipeline focuses on consistent likeness. Credit-based subscriptions apply; note this is a different product from photoai.me, which is already in our DB."
+  ],
+  "features": [
+   "Personal AI model training",
+   "Hyper Realism generation pipeline",
+   "AI videos with sound",
+   "Photo editing and upscaling tools"
+  ],
+  "pros": [
+   "Strong likeness consistency",
+   "Video generation included",
+   "Fast model training"
+  ],
+  "cons": [
+   "Credit system can get expensive",
+   "Needs 20 good source photos"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photo-editor-ai": {
+  "verdict": "Free browser-based AI photo editor with object removal, background removal, enhancement, and upscaling",
+  "overview": [
+   "Photo Editor AI (photoeditor.ai) is a no-signup web photo editor that applies AI tools to everyday edits: removing unwanted objects, people, text, and watermarks; erasing backgrounds; upscaling resolution; enhancing faces and details; and generating AI art from images. Free downloads are capped at 720px, with a PRO plan unlocking HD quality."
+  ],
+  "features": [
+   "AI object removal and inpainting",
+   "Background removal",
+   "Face enhancement",
+   "AI image upscaling",
+   "Image cleanup and detail enhancement",
+   "AI art generation"
+  ],
+  "pros": [
+   "No login required for core tools",
+   "Works in any browser including mobile",
+   "Wide range of AI edit tools in one place"
+  ],
+  "cons": [
+   "Free downloads limited to 720px",
+   "HD quality requires PRO subscription"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photo-to-cartoon": {
+  "verdict": "Turn photos into cartoon-style art in one click",
+  "overview": [
+   "Photo to Cartoon by SocialBook is a one-click AI tool that transforms ordinary photos into cartoon-style artwork. It offers multiple cartoon looks like Facetoon and Stylemorph, tuned for social media avatars and profile pictures. Everything is free to use, though a watermark is applied unless you upgrade."
+  ],
+  "features": [
+   "One-click photo-to-cartoon conversion",
+   "Multiple cartoon art styles",
+   "High-resolution social-ready outputs"
+  ],
+  "pros": [
+   "Free to use with instant results",
+   "No editing skills needed",
+   "Great for avatars and social profiles"
+  ],
+  "cons": [
+   "Free outputs carry a watermark",
+   "Only one style family: cartoons",
+   "Quality varies with input photo quality"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photoai": {
+  "verdict": "AI photo and video effects platform with 1000+ styles including professional headshots.",
+  "overview": [
+   "PhotoAI (photoai.me) is an AI photo and video generator with 1000+ effects, including professional headshots, dating-app photos, vintage Polaroids, and viral meme trends. Instead of training on many uploads, you pick an effect, upload a clear photo, and generate multiple versions in minutes. Plans run on a credit-based subscription from $19/month."
+  ],
+  "features": [
+   "1000+ AI photo and video effects",
+   "Professional headshot effect for LinkedIn-style portraits",
+   "Dating, royal, polaroid, and meme style packs",
+   "Photo-to-video short clip effects",
+   "Multiple versions per generation for review",
+   "No editing skills required",
+   "Social-ready outputs for posts and profiles",
+   "Regularly updated viral trend effects"
+  ],
+  "pros": [
+   "Huge style variety well beyond headshots",
+   "Simple one-photo per effect workflow",
+   "Includes AI video effects alongside photos",
+   "Quick generations for trying many looks"
+  ],
+  "cons": [
+   "Subscription pricing is poor value if you only need a few headshots",
+   "Generated photos restricted to personal use unless commercial use is approved",
+   "Output quality varies between generation attempts"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photofox-ai": {
+  "verdict": "AI product photography studio that creates studio-quality visuals from one upload.",
+  "overview": [
+   "PhotoFox AI turns a single product photo into professional-grade product images, videos, and ad creatives. The platform generates varied backgrounds, fashion try-ons, and 8K upscaled visuals while keeping brand details intact. E-commerce brands use it to produce marketing assets in minutes instead of booking costly photoshoots."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photor": {
+  "verdict": "AI photo toolkit with editor, 360-degree generator, scoring, and restoration.",
+  "overview": [
+   "Photor AI is a free AI photo toolkit offering an online photo editor alongside specialized tools like a 360-degree image generator, Photo Score AI, face restoration, background removal, and AI HD retouch. Users get 5 free credits per day after signing in, and can generate, analyze, enhance, and export images without installing software. It targets creators, real estate marketers, and social media users who need quick AI-powered photo work."
+  ],
+  "features": [
+   "Free online AI photo editor",
+   "360-degree image generator",
+   "Photo Score AI quality analysis",
+   "Face restoration",
+   "Background removal",
+   "AI HD retouch"
+  ],
+  "pros": [
+   "Free with daily credits",
+   "No account needed for basic tools",
+   "Wide tool variety in one site",
+   "No software to install"
+  ],
+  "cons": [
+   "Daily credit limits (5/day)",
+   "Output quality varies by tool",
+   "Heavier editing needs a real editor"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photoroom": {
+  "verdict": "AI product photo studio: background removal, scenes and batch editing",
+  "overview": [
+   "Photoroom is an AI photo editor built for e-commerce product photography. It removes backgrounds with one tap, generates studio and lifestyle scenes, dresses clothing on AI fashion models, and batch-processes entire catalogs. Free tier allows 250 watermarked exports/month; Pro from $12.99/month."
+  ],
+  "features": [
+   "AI background removal",
+   "AI product photography scenes",
+   "AI fashion models",
+   "AI image expander",
+   "Remove unwanted objects",
+   "Batch processing and automation",
+   "Brand kit and templates",
+   "Developer API"
+  ],
+  "pros": [
+   "One of the fastest AI background removers, 80M+ users",
+   "Built for e-commerce with batch editing and templates",
+   "Free plan includes 250 exports/month",
+   "SOC 2 Type 2 security for business use"
+  ],
+  "cons": [
+   "Free exports carry a watermark",
+   "Paid plans start higher than some rivals",
+   "Heavily focused on product photos, less general editing"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "photostudio": {
+  "verdict": "AI fashion product photography from a single phone photo",
+  "overview": [
+   "Photostudio is an AI product photography tool built for fashion ecommerce. From a single smartphone photo of a garment it generates ghost mannequin, flat lay, on-model, lifestyle, UGC, and detail shots ready for product pages and marketplaces. It connects to Shopify catalogs, processes whole collections in batch, and offers an API, with a dedicated resale-studio mode for second-hand listings."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "phygital-plus": {
+  "verdict": "AI product photography and design mockups.",
+  "overview": [
+   "Phygital+ generates professional product photos and design mockups with AI, aimed at sellers and marketers who need studio-quality visuals cheaply. Sold through AppSumo tiers as a paid product."
+  ],
+  "features": [
+   "AI product photography",
+   "Design mockup generation",
+   "Background scenes",
+   "Batch generation"
+  ],
+  "pros": [
+   "One-time AppSumo pricing",
+   "Good for ecommerce sellers",
+   "Fast mockups"
+  ],
+  "cons": [
+   "AppSumo-only deal structure",
+   "Quality varies by product type"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pic-craft-ai": {
+  "verdict": "AI product photography studio for studio-quality shots, backgrounds, and model swaps.",
+  "overview": [
+   "Pic Craft AI turns ordinary product photos into polished e-commerce imagery using generative AI. It can swap backgrounds, add virtual models, and restyle shots without a photo shoot. Pricing starts around twenty-nine dollars with a free trial to test the output."
+  ],
+  "features": [
+   "AI product photography",
+   "Background replacement and scene generation",
+   "Virtual model insertion",
+   "Free trial"
+  ],
+  "pros": [
+   "No photo shoot or studio needed",
+   "Fast turnaround on product shots",
+   "Free trial before paying"
+  ],
+  "cons": [
+   "Paid plans required after the trial",
+   "Results can need retouching for premium catalogs"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "pickle-ai": {
+  "verdict": "AI body double that lip-syncs your voice on video calls so you can skip being on camera.",
+  "overview": [
+   "Pickle AI creates a hyper-realistic digital double of you from a short video recording, then replaces your camera feed on Zoom, Teams, and Google Meet with an avatar that lip-syncs your live voice in real time. It is built to cut video-call fatigue and keep you looking polished while you multitask, with multilingual lip-sync support."
+  ],
+  "features": [
+   "Photorealistic avatar trained from a 5-minute video",
+   "Real-time lip-sync with your live voice",
+   "Works as a virtual camera on Zoom, Teams, Meet",
+   "Multilingual lip-sync support"
+  ],
+  "pros": [
+   "Attend calls without being on camera",
+   "Low-latency voice-to-avatar sync",
+   "Reduces video-call fatigue"
+  ],
+  "cons": [
+   "$24 per month with no free tier",
+   "macOS only; Windows support still planned",
+   "Raises ethical concerns about meeting deception"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ }
+}

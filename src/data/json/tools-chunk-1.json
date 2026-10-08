@@ -1,0 +1,2316 @@
+[
+ {
+  "slug": "carly-ai",
+  "name": "Carly AI",
+  "logo": "/logos/carly-ai.png",
+  "company": "CalBot",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Email-based AI employees that build and run workflow automations across your business apps.",
+  "pricing": "paid",
+  "tags": [
+   "ai agents",
+   "workflow automation",
+   "ai employees",
+   "email assistant",
+   "business automation",
+   "mcp",
+   "productivity",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.usecarly.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cartai",
+  "name": "CartAI",
+  "logo": "/logos/cartai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "One API for autonomous checkouts and payments — AI agents that complete real transactions reliably.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "checkout",
+   "payments",
+   "ecommerce",
+   "mcp-server",
+   "browser-automation",
+   "api",
+   "autonomous-commerce"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.cartai.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "celigo",
+  "name": "Celigo",
+  "logo": "/logos/celigo.png",
+  "company": "Celigo",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "iPaaS with deep NetSuite expertise, prebuilt Integration Apps and an AI assistant for its own flows.",
+  "pricing": "freemium",
+  "tags": [
+   "ipaas",
+   "netsuite",
+   "ecommerce",
+   "integrations",
+   "erp",
+   "api-management",
+   "ai-assistant"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.celigo.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cflow",
+  "name": "Cflow",
+  "logo": "/logos/cflow.png",
+  "company": "Cavintek Inc",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI-powered no-code approval workflow automation platform.",
+  "pricing": "paid",
+  "tags": [
+   "workflow-automation",
+   "approvals",
+   "no-code",
+   "business-process"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.cflowapps.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatbotkit",
+  "name": "ChatBotKit",
+  "logo": "/logos/chatbotkit.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "AI agent infrastructure platform for building and deploying chatbots everywhere.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-chatbot",
+   "ai-agents",
+   "chatbot-builder",
+   "customer-support",
+   "conversational-ai"
+  ],
+  "platforms": [
+   "web",
+   "api",
+   "whatsapp"
+  ],
+  "officialUrl": "https://chatbotkit.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatfuel-ai",
+  "name": "Chatfuel AI",
+  "logo": "/logos/chatfuel-ai.png",
+  "company": "Chatfuel",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "AI chatbot builder for WhatsApp, Messenger and websites.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot builder",
+   "whatsapp",
+   "messenger",
+   "no-code",
+   "customer support"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://chatfuel.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatgpt-atlas",
+  "name": "ChatGPT Atlas",
+  "logo": "/logos/chatgpt-atlas.png",
+  "company": "OpenAI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "OpenAI's AI browser with ChatGPT built into every page.",
+  "pricing": "freemium",
+  "tags": [
+   "browser",
+   "openai",
+   "ai-agent",
+   "productivity",
+   "chatgpt"
+  ],
+  "platforms": [
+   "macos"
+  ],
+  "officialUrl": "https://chatgpt.com/atlas",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatshape",
+  "name": "ChatShape",
+  "logo": "/logos/chatshape.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "No-code website chatbot builder with lead capture.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot builder",
+   "website chatbot",
+   "lead capture",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chatshape.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chattitude",
+  "name": "Chattitude",
+  "logo": "/logos/chattitude.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Conversational AI agents that sell and support using your own data.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "chatbot",
+   "lead-qualification",
+   "rag",
+   "customer-support"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chattitude.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatwith",
+  "name": "Chatwith",
+  "logo": "/logos/chatwith.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code builder for custom AI chatbots trained on your website and documents.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot builder",
+   "customer support",
+   "ai agent",
+   "no-code",
+   "whatsapp chatbot"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp",
+   "api",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://chatwith.tools",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatzy-ai",
+  "name": "Chatzy AI",
+  "logo": "/logos/chatzy-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Omnichannel AI agents for sales and customer support across web and WhatsApp.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "customer-support",
+   "sales",
+   "whatsapp"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://www.chatzy.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cheat-layer",
+  "name": "Cheat Layer",
+  "logo": "/logos/cheat-layer.png",
+  "company": "Cheat Layer",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "No-code AI automation platform that builds workflows from plain-English descriptions.",
+  "pricing": "freemium",
+  "tags": [
+   "no-code",
+   "workflow-automation",
+   "ai-agents",
+   "rpa"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://cheatlayer.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chunky",
+  "name": "Chunky",
+  "logo": "/logos/chunky.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "The easiest AI chatbot builder — train on your site or PDFs in minutes.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot",
+   "customer-support",
+   "no-code",
+   "knowledge-base",
+   "faq-bot"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://getchunky.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "clawify",
+  "name": "Clawify",
+  "logo": "/logos/clawify.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Deploy your own always-on OpenClaw or Hermes AI assistant to the cloud in minutes.",
+  "pricing": "freemium",
+  "tags": [
+   "openclaw",
+   "hermes",
+   "personal-assistant",
+   "telegram",
+   "whatsapp",
+   "cloud-hosting",
+   "multi-channel"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://clawify.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "clawnify",
+  "name": "Clawnify",
+  "logo": "/logos/clawnify.png",
+  "company": "Clawnify",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Managed platform for deploying AI agents, apps, and automations your team owns.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "workflow-automation",
+   "agent-platform",
+   "internal-apps",
+   "company-knowledge",
+   "no-code",
+   "mcp",
+   "bring-your-own-key"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://clawnify.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "clawsimple",
+  "name": "ClawSimple",
+  "logo": "/logos/clawsimple.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Managed OpenClaw hosting aimed at non-technical users, with a Telegram 'repair agent' keeping bots online 24/7.",
+  "pricing": "freemium",
+  "tags": [
+   "openclaw",
+   "ai agents",
+   "managed hosting",
+   "personal assistant"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://clawsimple.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "clawtank",
+  "name": "ClawTank",
+  "logo": "/logos/clawtank.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Managed hosting that deploys the open-source OpenClaw personal AI agent in about a minute - no Docker or DevOps.",
+  "pricing": "freemium",
+  "tags": [
+   "openclaw",
+   "ai agents",
+   "managed hosting",
+   "personal assistant",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://clawtank.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cloudaxis",
+  "name": "CloudAxis",
+  "logo": "/logos/cloudaxis.png",
+  "company": "CloudAxis Labs LLC",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Agentic cloud OS giving each AI agent its own persistent cloud computer with browser and schedules.",
+  "pricing": "freemium",
+  "tags": [
+   "cloud-computer",
+   "agent-os",
+   "browser-automation",
+   "no-code",
+   "scheduled-agents",
+   "multi-agent",
+   "persistent-memory"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://cloudaxis.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cnaps",
+  "name": "CNAPS",
+  "logo": "/logos/cnaps.png",
+  "company": "CNAPS.AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code studio for chaining AI models into automated workflows.",
+  "pricing": "freemium",
+  "tags": [
+   "workflows",
+   "no-code",
+   "ai-models",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://cnaps.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cody",
+  "name": "Cody",
+  "logo": "/logos/cody.png",
+  "company": "CodeSM Group",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "AI business assistant trained on your company knowledge.",
+  "pricing": "freemium",
+  "tags": [
+   "knowledge base",
+   "chatbot",
+   "customer support",
+   "rag"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://meetcody.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cognosys",
+  "name": "Cognosys",
+  "logo": "/logos/cognosys.png",
+  "company": "Cognosys",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Objective-driven AI agent that breaks tasks into self-generated steps for research, email and scheduled workflows.",
+  "pricing": "freemium",
+  "tags": [
+   "autonomous-agents",
+   "ai-assistant",
+   "research",
+   "email-automation",
+   "workflows",
+   "scheduling",
+   "productivity"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.cognosys.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "command-ai",
+  "name": "Command AI",
+  "logo": "/logos/command-ai.png",
+  "company": "Command AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Embed AI search, help and onboarding directly inside your product.",
+  "pricing": "freemium",
+  "tags": [
+   "user-onboarding",
+   "in-app-search",
+   "saas",
+   "copilot"
+  ],
+  "platforms": [
+   "web",
+   "api",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://command.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "communicate",
+  "name": "Communicate",
+  "logo": "/logos/communicate.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI support agents grounded in your knowledge, with human handoff in a shared inbox.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agent",
+   "customer-support",
+   "chatbot",
+   "knowledge-base",
+   "human-handoff"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://communicate.so",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "composio",
+  "name": "Composio",
+  "logo": "/logos/composio.png",
+  "company": "Composio",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Integration platform giving AI agents authenticated access to 1,000+ apps and MCP tools.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "integrations",
+   "mcp",
+   "api",
+   "developer-tools",
+   "tool-calling"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://composio.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "composite",
+  "name": "Composite",
+  "logo": "/logos/composite.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI autopilot inside your browser that automates repetitive web tasks.",
+  "pricing": "freemium",
+  "tags": [
+   "browser automation",
+   "ai agents",
+   "rpa",
+   "chrome extension",
+   "productivity"
+  ],
+  "platforms": [
+   "macos",
+   "windows",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://composite.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "coniva-ai",
+  "name": "Coniva.ai",
+  "logo": "/logos/coniva-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI customer-support agents for websites, WhatsApp, Messenger, and Instagram.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot",
+   "customer-support",
+   "ai-agents",
+   "whatsapp"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://coniva.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "construct-computer",
+  "name": "Construct Computer",
+  "logo": "/logos/construct-computer.png",
+  "company": "Construct",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Cloud OS giving every AI agent its own persistent computer — desktop, email, browser, memory — for scheduled multi-hour work.",
+  "pricing": "paid",
+  "tags": [
+   "ai-employees",
+   "ai-agents",
+   "cloud-desktop",
+   "mcp",
+   "workflows",
+   "automation",
+   "persistent-memory",
+   "small-business"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://construct.computer",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "context-ai",
+  "name": "Context.ai",
+  "logo": "/logos/context-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Build RAG AI apps on internal knowledge bases.",
+  "pricing": "freemium",
+  "tags": [
+   "rag",
+   "knowledge-base",
+   "ai-apps",
+   "enterprise-ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://context.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "context-dev",
+  "name": "Context.dev",
+  "logo": "/logos/context-dev.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "API that scrapes any URL into clean Markdown and powers AI agents with live web context.",
+  "pricing": "freemium",
+  "tags": [
+   "web-scraping",
+   "ai-agents",
+   "crawl-api",
+   "rag",
+   "structured-data",
+   "markdown",
+   "sdk",
+   "developer-tools"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.context.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "coral",
+  "name": "Coral",
+  "logo": "/logos/coral.png",
+  "company": "Coral",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source local-first SQL data layer that lets AI agents query APIs, databases, files, and sheets as SQL tables.",
+  "pricing": "open-source",
+  "tags": [
+   "open source",
+   "ai agents",
+   "sql",
+   "data integration",
+   "local-first"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://withcoral.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "coreworks",
+  "name": "Coreworks",
+  "logo": "/logos/coreworks.png",
+  "company": "Coreworks",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI SuperAnalyst agents that write reports and decks",
+  "pricing": "free",
+  "tags": [
+   "ai-analyst",
+   "reports",
+   "fundraising",
+   "decks"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://coreworks.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cosmic",
+  "name": "Cosmic",
+  "logo": "/logos/cosmic.png",
+  "company": "Cosmic",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Headless CMS with AI agents that create content, ship code, and automate browser tasks from your team chat.",
+  "pricing": "freemium",
+  "tags": [
+   "AI agents",
+   "headless CMS",
+   "content automation",
+   "Slack agents",
+   "GitHub"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.cosmicjs.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cowagent",
+  "name": "CowAgent",
+  "logo": "/logos/cowagent.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Self-evolving multi-channel super AI assistant and agent harness",
+  "pricing": "open-source",
+  "tags": [
+   "ai-agent",
+   "assistant",
+   "agent-harness",
+   "wechat",
+   "multi-channel",
+   "mit"
+  ],
+  "platforms": [
+   "web",
+   "linux",
+   "macos"
+  ],
+  "officialUrl": "https://github.com/zhayujie/cowagent",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "coze-agent-platform",
+  "name": "Coze",
+  "logo": "/logos/coze-agent-platform.png",
+  "company": "ByteDance",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "ByteDance's no-code platform for building and publishing AI agents, bots, and workflows.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "no-code",
+   "chatbot-builder",
+   "bytedance",
+   "workflow-automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.coze.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "coze-studio",
+  "name": "Coze Studio",
+  "logo": "/logos/coze-studio.png",
+  "company": "ByteDance",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source AI agent development platform with visual tools.",
+  "pricing": "open-source",
+  "tags": [
+   "ai-agents",
+   "open-source",
+   "agent-builder",
+   "workflows"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://github.com/coze-dev/coze-studio",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "crawl4ai",
+  "name": "Crawl4AI",
+  "logo": "/logos/crawl4ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "LLM-friendly web crawler that turns any website into clean Markdown for AI agents",
+  "pricing": "open-source",
+  "tags": [
+   "ai-agent",
+   "web-crawler",
+   "scraping",
+   "rag",
+   "markdown",
+   "apache"
+  ],
+  "platforms": [
+   "linux",
+   "macos",
+   "api"
+  ],
+  "officialUrl": "https://github.com/unclecode/crawl4ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "crawldesk",
+  "name": "Crawldesk",
+  "logo": "/logos/crawldesk.png",
+  "company": "CrawlDesk",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Turn your docs into an embeddable AI chat assistant.",
+  "pricing": "paid",
+  "tags": [
+   "chatbot",
+   "documentation",
+   "customer-support",
+   "widget"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.crawldesk.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "crewai",
+  "name": "CrewAI",
+  "logo": "/logos/crewai.png",
+  "company": "CrewAI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source Python framework for orchestrating teams of collaborating AI agents.",
+  "pricing": "freemium",
+  "tags": [
+   "ai agents",
+   "multi-agent",
+   "open source",
+   "orchestration"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.crewai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "crewship",
+  "name": "Crewship",
+  "logo": "/logos/crewship.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "One-command deployment for AI agents built with CrewAI or LangGraph.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "deployment",
+   "crewai",
+   "langgraph",
+   "devops",
+   "hosting"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://crewship.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cubeo-ai",
+  "name": "Cubeo AI",
+  "logo": "/logos/cubeo-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Platform for building and managing teams of AI agents.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "no-code",
+   "automation",
+   "customer-support",
+   "sales"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://cubeo.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cumora",
+  "name": "Cumora",
+  "logo": "/logos/cumora.png",
+  "company": "Cumora",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Team chat where AI agents are first-class teammates, sharing the roster, DMs, Kanban board, and calendar with humans.",
+  "pricing": "free",
+  "tags": [
+   "ai-agents",
+   "team-chat",
+   "collaboration",
+   "kanban",
+   "byoa",
+   "open-source",
+   "automation",
+   "multi-platform"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://cumora.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dafthunk",
+  "name": "Dafthunk",
+  "logo": "/logos/dafthunk.png",
+  "company": "Dafthunk",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source visual workflow editor with AI nodes running on Cloudflare.",
+  "pricing": "open-source",
+  "tags": [
+   "open source",
+   "workflow automation",
+   "Cloudflare",
+   "visual editor",
+   "n8n alternative"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.dafthunk.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dealwize",
+  "name": "Dealwize",
+  "logo": "/logos/dealwize.png",
+  "company": "DealWize",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI-powered CRM for real estate wholesalers with AI follow-up agents, lead scoring, and deal pipelines.",
+  "pricing": "paid",
+  "tags": [
+   "real-estate",
+   "crm",
+   "ai-agents",
+   "lead-generation",
+   "wholesaling",
+   "follow-up-automation",
+   "sales"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dealwize.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dearagent",
+  "name": "DearAgent",
+  "logo": "/logos/dearagent.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Self-hosted email inboxes for AI agents running entirely on Cloudflare Workers.",
+  "pricing": "open-source",
+  "tags": [
+   "email-inboxes",
+   "ai-agents",
+   "cloudflare-workers",
+   "mcp",
+   "open-source",
+   "verification-codes",
+   "self-hosted"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://dearagent.sh",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "deepseek-harness",
+  "name": "DeepSeek Harness",
+  "logo": "/logos/deepseek-harness.png",
+  "company": "DeepSeek",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "DeepSeek's MIT-licensed modular agent harness built on a plugin architecture.",
+  "pricing": "open-source",
+  "tags": [
+   "agent framework",
+   "deepseek",
+   "plugins",
+   "modular",
+   "open source"
+  ],
+  "platforms": [
+   "api"
+  ],
+  "officialUrl": "https://github.com/deepseek-ai/deepseek-harness",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "deerflow",
+  "name": "DeerFlow",
+  "logo": "/logos/deerflow.png",
+  "company": "ByteDance",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "ByteDance's open-source SuperAgent harness for building AI agents.",
+  "pricing": "open-source",
+  "tags": [
+   "ai-agents",
+   "open-source",
+   "agent-framework"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://github.com/bytedance/deer-flow",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "deskferry",
+  "name": "DeskFerry",
+  "logo": "/logos/deskferry.png",
+  "company": "DeskFerry",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Build AI agents in plain English that act across 1,500+ apps, with approvals and activity logs.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "workflow-automation",
+   "integrations",
+   "no-code",
+   "productivity",
+   "slack",
+   "approvals"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://deskferry.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "devswat",
+  "name": "DevSwat",
+  "logo": "/logos/devswat.png",
+  "company": "DevSwat",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Agentic AI infrastructure platform to build, run, and schedule server and local AI agents with governance.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "agent-infrastructure",
+   "orchestration",
+   "api",
+   "sdk",
+   "governance",
+   "marketplace",
+   "automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://dev-swat.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diaflow",
+  "name": "Diaflow",
+  "logo": "/logos/diaflow.png",
+  "company": "Diaflow",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI agent and automation platform with a conversational builder.",
+  "pricing": "freemium",
+  "tags": [
+   "AI agents",
+   "automation",
+   "workflows",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.diaflow.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dial",
+  "name": "Dial",
+  "logo": "/logos/dial.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Communication stack for AI agents: real phone numbers with voice calls, SMS, iMessage and WhatsApp via one API.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "voice-calls",
+   "sms",
+   "whatsapp",
+   "imessage",
+   "telephony",
+   "mcp",
+   "api"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://getdial.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diffhook",
+  "name": "DiffHook",
+  "logo": "/logos/diffhook.png",
+  "company": "DiffHook",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Website and API change monitoring with webhook automation",
+  "pricing": "freemium",
+  "tags": [
+   "monitoring",
+   "webhooks",
+   "automation",
+   "competitor-intelligence",
+   "apis"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://diffhook.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "discuroai",
+  "name": "DiscuroAI",
+  "logo": "/logos/discuroai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "Visual AI workflow builder",
+  "pricing": "freemium",
+  "tags": [
+   "AI tool"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://discuro.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "doable-sh",
+  "name": "Doable.sh",
+  "logo": "/logos/doable-sh.png",
+  "company": "Doable.sh",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Embeddable AI operators that add chat-style task automation inside SaaS products.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-operators",
+   "in-app-ai",
+   "saas",
+   "task-automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://doable.sh",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dobrodesk",
+  "name": "DobroDesk",
+  "logo": "/logos/dobrodesk.png",
+  "company": "CoMStudio OÜ",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI-assisted customer support inbox for email, chat, and messaging with approved-knowledge answers and human handoff.",
+  "pricing": "paid",
+  "tags": [
+   "customer-support",
+   "help-desk",
+   "shared-inbox",
+   "ai-chatbot",
+   "human-handoff",
+   "knowledge-base",
+   "sla-management",
+   "support-automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://dobrodesk.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "docbatch-ai",
+  "name": "DocBatch.ai",
+  "logo": "/logos/docbatch-ai.png",
+  "company": "Naviria Labs",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Batch AI document processing that extracts structured data from PDFs.",
+  "pricing": "freemium",
+  "tags": [
+   "documents",
+   "ocr",
+   "data-extraction",
+   "pdf"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://docbatch.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "docuchat",
+  "name": "DocuChat",
+  "logo": "/logos/docuchat.png",
+  "company": "DocuChat",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "EU/GDPR-friendly AI chatbots built from your documents with RAG.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-chatbot",
+   "rag",
+   "gdpr",
+   "documentation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.docuchat.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "domywork",
+  "name": "DoMyWork",
+  "logo": "/logos/domywork.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI virtual assistant that automates manual work across 1,500+ apps.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agent",
+   "virtual-assistant",
+   "automation",
+   "workflows"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://domywork.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "doo",
+  "name": "DOO",
+  "logo": "/logos/doo.png",
+  "company": "DOO",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI customer experience platform with agents that resolve support conversations across every channel.",
+  "pricing": "freemium",
+  "tags": [
+   "customer-support",
+   "cx",
+   "ai-agents",
+   "whatsapp",
+   "arabic"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://doo.ooo",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dooza",
+  "name": "Dooza",
+  "logo": "/logos/dooza.png",
+  "company": "Dooza",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Role-based AI employees for small businesses covering sales, support, marketing, and ops.",
+  "pricing": "paid",
+  "tags": [
+   "ai-employees",
+   "ai-agents",
+   "smb",
+   "automation",
+   "marketing",
+   "voice-ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.dooza.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "drafter-ai",
+  "name": "Drafter AI",
+  "logo": "/logos/drafter-ai.png",
+  "company": "Drafter AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code platform to build AI tools and automate business workflows.",
+  "pricing": "paid",
+  "tags": [
+   "no-code",
+   "workflow-automation",
+   "sales",
+   "ai-apps"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://drafter.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "droidclaw",
+  "name": "droidclaw",
+  "logo": "/logos/droidclaw.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "OpenClaw-inspired assistant that turns old Android phones into AI agents",
+  "pricing": "open-source",
+  "tags": [
+   "ai-agent",
+   "android",
+   "automation",
+   "mobile",
+   "adb",
+   "assistant"
+  ],
+  "platforms": [
+   "web",
+   "linux",
+   "macos",
+   "api"
+  ],
+  "officialUrl": "https://github.com/unitedbyai/droidclaw",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "droidrun",
+  "name": "Droidrun",
+  "logo": "/logos/droidrun.png",
+  "company": "Droidrun",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source framework for controlling phones with LLM agents.",
+  "pricing": "open-source",
+  "tags": [
+   "mobile-automation",
+   "ai-agents",
+   "open-source",
+   "rpa"
+  ],
+  "platforms": [
+   "android",
+   "ios",
+   "windows",
+   "macos",
+   "linux",
+   "web"
+  ],
+  "officialUrl": "https://droidrun.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dropstone",
+  "name": "Dropstone",
+  "logo": "/logos/dropstone.png",
+  "company": "Blankline",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI agent runtime with persistent memory across CLI, chat, SDK, and VS Code, plus multiplayer human-agent collaboration.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "coding-agent",
+   "persistent-memory",
+   "multiplayer",
+   "mcp",
+   "cli",
+   "autonomous-coding",
+   "developer-tools"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://www.dropstone.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "drymerge",
+  "name": "DryMerge",
+  "logo": "/logos/drymerge.png",
+  "company": "DryMerge",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI workflow automation platform where you build app-to-app workflows by describing them in plain English.",
+  "pricing": "freemium",
+  "tags": [
+   "automation",
+   "workflows",
+   "no-code",
+   "integrations",
+   "ai agents",
+   "productivity"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://drymerge.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dust-ai",
+  "name": "Dust",
+  "logo": "/logos/dust-ai.png",
+  "company": "Dust",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Team workspace for building custom AI agents grounded in company knowledge across Slack, Notion, Drive and more.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "team-collaboration",
+   "company-knowledge",
+   "connectors",
+   "multiplayer-ai",
+   "open-source",
+   "governance"
+  ],
+  "platforms": [
+   "web",
+   "api",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://dust.tt",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "easy-mcp-ai",
+  "name": "Easy MCP AI",
+  "logo": "/logos/easy-mcp-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Free WordPress plugin that turns your site into an MCP server, letting Claude, ChatGPT, or Cursor read, write, publish, and pull SEO data via chat.",
+  "pricing": "free",
+  "tags": [
+   "mcp",
+   "wordpress",
+   "claude",
+   "chatgpt",
+   "ai-agents",
+   "seo-data",
+   "woocommerce",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://easymcpai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "easybits",
+  "name": "EasyBits",
+  "logo": "/logos/easybits.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Cloud platform giving AI agents sandboxes, web access, files, databases, and WhatsApp deployment through one MCP endpoint.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "mcp",
+   "sandboxes",
+   "web-scraping",
+   "data-extraction",
+   "whatsapp-bots",
+   "api-platform",
+   "microvm"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.easybits.cloud",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "elvex",
+  "name": "Elvex",
+  "logo": "/logos/elvex.png",
+  "company": "elvex",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Enterprise AI agent platform: build, share, and govern context-aware agents across every team.",
+  "pricing": "paid",
+  "tags": [
+   "enterprise",
+   "ai agents",
+   "workflows",
+   "governance",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://elvex.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ema",
+  "name": "Ema",
+  "logo": "/logos/ema.png",
+  "company": "Ema",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Universal AI Employee platform deploying multi-agent AI employees across HR, IT and finance.",
+  "pricing": "paid",
+  "tags": [
+   "agentic-ai",
+   "AI-employees",
+   "enterprise",
+   "HR",
+   "IT-support",
+   "workflow-automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.ema.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "embedai",
+  "name": "EmbedAI",
+  "logo": "/logos/embedai.png",
+  "company": "Samur AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Build a custom AI chatbot trained on your own content.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot-builder",
+   "customer-support",
+   "rag",
+   "website-widget"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.thesamur.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "emdash",
+  "name": "emdash",
+  "logo": "/logos/emdash.png",
+  "company": "General Action",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source agentic development environment that runs multiple coding agents in parallel.",
+  "pricing": "open-source",
+  "tags": [
+   "AI agents",
+   "coding agents",
+   "open source",
+   "developer tools"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://emdash.sh",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "empromptu-ai",
+  "name": "Empromptu.ai",
+  "logo": "/logos/empromptu-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Prompt optimization and LLMOps platform for AI app teams.",
+  "pricing": "paid",
+  "tags": [
+   "prompt-engineering",
+   "llmops",
+   "prompt-library",
+   "ai-development"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://empromptu.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "enso",
+  "name": "Enso",
+  "logo": "/logos/enso.png",
+  "company": "Enso",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Marketplace of AI agents for SMB marketing, sales, and operations.",
+  "pricing": "paid",
+  "tags": [
+   "AI agents",
+   "SMB tools",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://enso.bot",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "epsilla",
+  "name": "Epsilla",
+  "logo": "/logos/epsilla.png",
+  "company": "Epsilla",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code platform for building LLM apps and AI agents grounded in your own data.",
+  "pricing": "freemium",
+  "tags": [
+   "ai agents",
+   "rag",
+   "llm apps",
+   "no-code"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://epsilla.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "evermind",
+  "name": "EverMind",
+  "logo": "/logos/evermind.png",
+  "company": "EverMind",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source memory operating system that gives AI agents long-term memory and persistent identity.",
+  "pricing": "open-source",
+  "tags": [
+   "AI memory",
+   "agents",
+   "open source",
+   "RAG"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://evermind.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "exa",
+  "name": "Exa",
+  "logo": "/logos/exa.png",
+  "company": "Exa",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "Neural search API for AI agents (formerly Metaphor).",
+  "pricing": "freemium",
+  "tags": [
+   "search-api",
+   "ai-agents",
+   "developers"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://exa.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fastbreak-ai",
+  "name": "Fastbreak AI",
+  "logo": "/logos/fastbreak-ai.png",
+  "company": "Fastbreak AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI platform that plans and optimizes sports league schedules and operations.",
+  "pricing": "paid",
+  "tags": [
+   "sports",
+   "scheduling",
+   "operations",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.fastbreak.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fellou",
+  "name": "Fellou",
+  "logo": "/logos/fellou.png",
+  "company": "Fellou",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Agentic browser that automates research, shopping and workflows with visual control and persistent memory.",
+  "pricing": "freemium",
+  "tags": [
+   "agentic-browser",
+   "browser-automation",
+   "deep-search",
+   "agent-memory",
+   "workflows",
+   "AI-browser"
+  ],
+  "platforms": [
+   "windows",
+   "macos"
+  ],
+  "officialUrl": "https://fellou.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fermi-dev",
+  "name": "Fermi Dev",
+  "logo": "/logos/fermi-dev.png",
+  "company": "Fermi Dev",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI-native platform that turns cross-tool business processes into automations.",
+  "pricing": "paid",
+  "tags": [
+   "workflow automation",
+   "AI agents",
+   "integrations",
+   "no-code"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.fermi.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fini",
+  "name": "Fini",
+  "logo": "/logos/fini.png",
+  "company": "Fini AI",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "AI support agent 'Sophie' with per-resolution pricing for SaaS teams.",
+  "pricing": "paid",
+  "tags": [
+   "customer-support",
+   "ai-agent",
+   "helpdesk",
+   "saas"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.usefini.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flint-ai-cli",
+  "name": "Flint AI CLI",
+  "logo": "/logos/flint-ai-cli.png",
+  "company": "Flint AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Free CLI that security-scans AI agent code and stress-tests running agents with adversarial prompts before deployment.",
+  "pricing": "free",
+  "tags": [
+   "cli",
+   "ai-agents",
+   "security",
+   "owasp",
+   "evaluation",
+   "testing",
+   "devops",
+   "open-source"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://flintai.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "floatboat",
+  "name": "Floatboat",
+  "logo": "/logos/floatboat.png",
+  "company": "Floatboat",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Proactive agent OS that runs your work from the calendar.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agents",
+   "calendar",
+   "productivity",
+   "scheduling",
+   "automation"
+  ],
+  "platforms": [
+   "web",
+   "macos",
+   "windows"
+  ],
+  "officialUrl": "https://floatboat.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "floatbot",
+  "name": "Floatbot",
+  "logo": "/logos/floatbot.png",
+  "company": "Floatbot.AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code platform to build and deploy LLM-powered voice and chat agents for contact centers.",
+  "pricing": "paid",
+  "tags": [
+   "conversational-ai",
+   "voicebot",
+   "contact-center",
+   "no-code",
+   "agent-assist",
+   "omnichannel"
+  ],
+  "platforms": [
+   "web",
+   "api",
+   "whatsapp"
+  ],
+  "officialUrl": "https://floatbot.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "floneum",
+  "name": "Floneum",
+  "logo": "/logos/floneum.png",
+  "company": "Floneum",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source visual editor for building local AI workflows with WebAssembly plugins",
+  "pricing": "open-source",
+  "tags": [
+   "open source",
+   "local AI",
+   "workflow editor",
+   "Rust",
+   "privacy"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos",
+   "linux"
+  ],
+  "officialUrl": "https://floneum.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "floowed",
+  "name": "Floowed",
+  "logo": "/logos/floowed.png",
+  "company": "Floowed",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI operations platform that runs whole business cases end to end.",
+  "pricing": "paid",
+  "tags": [
+   "workflow-automation",
+   "operations",
+   "fintech",
+   "document-processing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.floowed.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flowgent-ai",
+  "name": "FlowGent AI",
+  "logo": "/logos/flowgent-ai.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code AI chatbot and agent builder for websites, Instagram DMs, WhatsApp, and Slack.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot",
+   "instagram automation",
+   "whatsapp",
+   "lead generation"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://flowgent.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flowhunt",
+  "name": "FlowHunt",
+  "logo": "/logos/flowhunt.png",
+  "company": "Quality Unit",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code platform for building AI workflows, chatbots, and automations.",
+  "pricing": "paid",
+  "tags": [
+   "no-code",
+   "ai workflows",
+   "chatbot builder",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.flowhunt.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flowise",
+  "name": "Flowise",
+  "logo": "/logos/flowise.png",
+  "company": "FlowiseAI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Open-source drag-and-drop builder for LLM agents, chatflows and multi-agent systems, self-hosted or on cloud.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-agent-builder",
+   "open-source",
+   "llm-workflows",
+   "langchain",
+   "chatbots",
+   "rag",
+   "multi-agent",
+   "no-code"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://flowiseai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flowith",
+  "name": "Flowith",
+  "logo": "/logos/flowith.png",
+  "company": "Flowith",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Agentic canvas workspace with the Agent Neo assistant for multi-step tasks.",
+  "pricing": "freemium",
+  "tags": [
+   "ai agents",
+   "canvas",
+   "workspace",
+   "productivity"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://flowith.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "formwise",
+  "name": "FormWise",
+  "logo": "/logos/formwise.png",
+  "company": "FormWise LLC",
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "AI form builder that lets you create and sell branded AI tools and agents.",
+  "pricing": "paid",
+  "tags": [
+   "form-builder",
+   "ai-chatbot",
+   "white-label",
+   "no-code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.formwise.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fyno",
+  "name": "Fyno",
+  "logo": "/logos/fyno.png",
+  "company": "Fyno",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Unified notification orchestration across SMS, WhatsApp, email, and push.",
+  "pricing": "paid",
+  "tags": [
+   "notifications",
+   "messaging",
+   "api",
+   "customer-engagement"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://fyno.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gaffa",
+  "name": "Gaffa",
+  "logo": "/logos/gaffa.png",
+  "company": "Gaffa.dev",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "AI web data extraction API with LLM-backed structured parsing and a docs MCP.",
+  "pricing": "paid",
+  "tags": [
+   "web scraping",
+   "data extraction",
+   "API"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://gaffa.dev",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "genfuse-ai",
+  "name": "GenFuse AI",
+  "logo": "/logos/genfuse-ai.png",
+  "company": "GenFuse AI",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "No-code platform for building multi-agent AI workflow automations through plain-English conversation.",
+  "pricing": "freemium",
+  "tags": [
+   "ai agents",
+   "no-code",
+   "workflow automation",
+   "multi-agent",
+   "automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://genfuseai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gitclaw",
+  "name": "GitClaw",
+  "logo": "/logos/gitclaw.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "An OpenClaw-style personal agent that runs entirely on GitHub Actions — zero servers.",
+  "pricing": "open-source",
+  "tags": [
+   "personal-assistant",
+   "github-actions",
+   "serverless",
+   "openclaw-alternative",
+   "automation"
+  ],
+  "platforms": [
+   "api"
+  ],
+  "officialUrl": "https://github.com/SawyerHood/gitclaw",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "globster",
+  "name": "Globster",
+  "logo": "/logos/globster.png",
+  "company": "monday.com",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "monday.com's hosted AI agent service: secure dedicated VMs running agents that connect your workplace apps.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agents",
+   "hosted-agents",
+   "monday-com",
+   "openclaw",
+   "workplace-apps",
+   "security",
+   "llm-choice",
+   "virtual-machines"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://monday.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gobii",
+  "name": "Gobii",
+  "logo": "/logos/gobii.png",
+  "company": "Gobii",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Cloud platform for deploying managed AI browser agents that automate web tasks at scale.",
+  "pricing": "freemium",
+  "tags": [
+   "browser automation",
+   "ai agents",
+   "web scraping",
+   "data extraction",
+   "api"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://gobii.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "godly",
+  "name": "Godly",
+  "logo": "/logos/godly.png",
+  "company": null,
+  "category": "automation-agents",
+  "subcategory": "automation-agents",
+  "shortDescription": "AI automation agent platform.",
+  "pricing": "freemium",
+  "tags": [
+   "ai agents",
+   "automation",
+   "workflow",
+   "productivity"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://godly.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "godmode",
+  "name": "Godmode",
+  "logo": "/logos/godmode.png",
+  "company": "Godmode",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Web interface for running AutoGPT and BabyAGI autonomous agents.",
+  "pricing": "freemium",
+  "tags": [
+   "agents",
+   "autogpt",
+   "automation",
+   "autonomous",
+   "ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://godmode.space",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "google-adk",
+  "name": "Google ADK",
+  "logo": "/logos/google-adk.png",
+  "company": "Google",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Google's open-source, code-first Python toolkit for building AI agents.",
+  "pricing": "open-source",
+  "tags": [
+   "agent framework",
+   "google",
+   "python",
+   "multi-agent",
+   "adk",
+   "open source"
+  ],
+  "platforms": [
+   "api"
+  ],
+  "officialUrl": "https://github.com/google/adk-python",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "google-gemini-enterprise",
+  "name": "Google Gemini Enterprise",
+  "logo": "/logos/google-gemini-enterprise.png",
+  "company": "Google Cloud",
+  "category": "automation-agents",
+  "subcategory": "automation",
+  "shortDescription": "Google Cloud's enterprise platform for building, scaling, and governing AI agents.",
+  "pricing": "paid",
+  "tags": [
+   "enterprise",
+   "ai-agents",
+   "google-cloud",
+   "agent-platform",
+   "governance",
+   "adk"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://cloud.google.com/geminienterprise",
+  "affiliateUrl": null
+ }
+]

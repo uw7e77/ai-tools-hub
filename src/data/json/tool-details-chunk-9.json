@@ -1,0 +1,1602 @@
+{
+ "chathelp": {
+  "verdict": "AI chatbots that answer customer support questions.",
+  "overview": [
+   "ChatHelp lets businesses build AI chatbots that answer customer questions automatically from their own content. The bots handle common support queries around the clock and hand off to humans when needed. It offers a free version alongside paid plans for higher volumes."
+  ],
+  "features": [
+   "AI customer-support chatbots",
+   "Trained on business content",
+   "Human handoff"
+  ],
+  "pros": [
+   "Free version available",
+   "Quick to deploy for common questions"
+  ],
+  "cons": [
+   "Complex queries still need human agents"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "chatnode": {
+  "verdict": "Train AI chatbots on your business content with automations and handoffs.",
+  "overview": [
+   "ChatNode is an AI chatbot trainer that turns business content into customer-facing agents. It ingests URLs, files, and documents, supports multiple frontier models, and adds automations like live-agent handoff, auto-retraining on fresh content, and AI actions that complete tasks such as booking meetings or updating records mid-conversation. It serves thousands of companies on a credit-based freemium model."
+  ],
+  "features": [
+   "Multi-source knowledge training",
+   "Multiple LLM choices",
+   "Auto-retrain on content updates",
+   "Live-agent handoff",
+   "AI actions for in-chat task completion",
+   "API access"
+  ],
+  "pros": [
+   "Model choice flexibility",
+   "Automations beyond Q&A",
+   "Generous free starter plan"
+  ],
+  "cons": [
+   "Credit costs vary by model choice",
+   "Inactive free-plan agents get deleted after 14 days"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "chatolia": {
+  "verdict": "No-code builder for AI support agents trained on your content, deployable anywhere with one click.",
+  "overview": [
+   "Chatolia lets you build AI support agents in minutes without coding: create an agent, pick an AI model, train it on your website content, documents, or pasted text, then deploy via link, embed widget, or WordPress plugin. It supports RAG, multimodal inputs, tool calling, text-to-speech and speech-to-text, and image generation, with multi-agent workspaces for different products or teams. Pricing starts free with 25 message credits per month; Hobby is $9 per month, Standard $19, and Pro $29."
+  ],
+  "features": [
+   "No-code agent builder",
+   "Train on URLs, documents, or pasted content",
+   "Model freedom across GPT, Claude, Gemini",
+   "One-click deployment via link or embed",
+   "WordPress plugin integration",
+   "Multi-agent workspaces"
+  ],
+  "pros": [
+   "Fast from idea to deployed agent",
+   "Generous free tier for testing",
+   "WordPress plugin for easy site integration"
+  ],
+  "cons": [
+   "Usage-based credits on all plans",
+   "Advanced features gated to higher tiers"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "chatsimple": {
+  "verdict": "No-code AI chatbot builder for sales, lead capture, and 24/7 support.",
+  "overview": [
+   "Chatsimple is a no-code AI chatbot platform built for sales and support, turning websites into lead-generation machines. You train the bot on your site content, customize the chat window to your brand, and deploy with a one-line snippet. It engages visitors proactively, qualifies leads, schedules meetings, and answers in 175+ languages, with a voice AI agent option for hands-free conversations."
+  ],
+  "features": [
+   "No-code AI chatbot trained on your website content",
+   "Proactive visitor engagement and lead qualification",
+   "Meeting scheduling and personalized follow-ups",
+   "Voice AI agent for spoken conversations",
+   "CRM integrations and 175+ language support"
+  ],
+  "pros": [
+   "Live in minutes with a one-line embed snippet",
+   "Strong lead-generation and qualification focus",
+   "Supports 175+ languages out of the box"
+  ],
+  "cons": [
+   "Advanced features are limited on lower tiers",
+   "Analytics are less robust than enterprise chatbot suites"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "chatterkb": {
+  "verdict": "AI knowledge-base chatbot that answers questions from a company's own documents.",
+  "overview": [
+   "ChatterKB is an AI knowledge-base chatbot that answers questions from a company's own documents. Businesses upload their internal content and get a conversational assistant that responds to employee or customer queries with grounded answers. Desktop apps are available for Mac and Windows alongside the web experience."
+  ],
+  "features": [
+   "AI chatbot trained on your documents",
+   "Knowledge-base question answering",
+   "Desktop apps for Mac and Windows"
+  ],
+  "pros": [
+   "Turns static docs into a conversational assistant",
+   "Dedicated desktop apps in addition to web"
+  ],
+  "cons": [
+   "Company identity not publicly disclosed",
+   "Pricing details sparse"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "chatwize-ai": {
+  "verdict": "Multilingual AI chatbot platform trained on your own content.",
+  "overview": [
+   "ChatWize.ai turns your website, PDFs, and documents into a custom AI chatbot you can embed anywhere. It answers visitor questions in more than 95 languages, grounded in the content you trained it on. Setup takes minutes: upload your materials, customize the widget, and drop it on your site. It suits businesses that want instant, on-brand support without hiring a support team."
+  ],
+  "features": [
+   "Custom chatbots trained on your website and PDFs",
+   "95+ language support",
+   "Embeddable chat widget",
+   "Free trial and free version available"
+  ],
+  "pros": [
+   "Trains on your own content for on-brand answers",
+   "Very broad language coverage",
+   "Dutch company with verified business registration"
+  ],
+  "cons": [
+   "Paid plans around €99/mo may be steep for small sites"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "checkmyidea": {
+  "verdict": "AI-powered business idea validation with deep analysis and launch recommendations.",
+  "overview": [
+   "Checkmyidea-IA is an AI service that validates business ideas before launch. You submit your concept through an online form and receive a deep analysis covering customer interest, originality, MVP testing, risks and launch strategy. Evaluation packages range from a single-idea report to more extensive plans."
+  ],
+  "features": [
+   "AI analysis of business ideas",
+   "Deep market insight reports",
+   "Risk identification and MVP test planning",
+   "Sales and marketing strategy guidance"
+  ],
+  "pros": [
+   "Thorough 360-degree idea analysis",
+   "Actionable launch and marketing advice",
+   "Confidential evaluation"
+  ],
+  "cons": [
+   "No free tier for casual testing",
+   "Reports are AI-generated and need human judgment",
+   "Paid packages per evaluation"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cherre": {
+  "verdict": "Data platform that connects fragmented real estate datasets into one AI-ready foundation for analytics.",
+  "overview": [
+   "Cherre is a real estate data management platform that connects disparate property datasets into a single AI-ready foundation. It resolves, validates, and enriches data from hundreds of sources so investors, lenders, and insurers can run analytics and AI models on clean, connected real estate data."
+  ],
+  "features": [
+   "Connected data platform for real estate datasets",
+   "AI-ready data modeling and resolution",
+   "Hundreds of integrated public and private data sources",
+   "Property-level data enrichment and validation",
+   "Analytics and reporting workbench",
+   "API and warehouse integrations",
+   "Data marketplace connections",
+   "Permissions and governance controls"
+  ],
+  "pros": [
+   "Purpose-built data infrastructure for real estate AI use cases",
+   "Resolves and connects fragmented property datasets automatically",
+   "Strong fit for investors and insurers with big data needs"
+  ],
+  "cons": [
+   "Enterprise platform with custom pricing; not for small teams",
+   "Implementation requires data engineering resources",
+   "Value depends on connecting enough internal and external sources"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "chirpbyte": {
+  "verdict": "AI live chatbot for websites with automated customer replies.",
+  "overview": [
+   "Chirpbyte is an AI chatbot for websites that chats with visitors in real time, answering questions and capturing leads automatically. It is recognized as a Meta business partner, which supports its integrations with messaging platforms. Pricing starts with a free $0/month tier plus paid plans."
+  ],
+  "features": [
+   "AI live chat for websites",
+   "Automated visitor replies",
+   "Lead capture workflows",
+   "Free tier plus paid plans"
+  ],
+  "pros": [
+   "Free tier available",
+   "Meta business partner status",
+   "Real-time engagement"
+  ],
+  "cons": [
+   "Crowded chatbot market",
+   "Limited public feature detail"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cinc": {
+  "verdict": "Enterprise real estate platform with AI lead engagement, IDX websites, and managed ad campaigns for top teams.",
+  "overview": [
+   "CINC is an enterprise real estate platform combining IDX websites, CRM, and AI-powered lead engagement for high-performing teams and brokerages. Its AI works internet leads automatically while agents focus on hot prospects, and managed paid advertising drives the lead pipeline. Pricing is quote-based."
+  ],
+  "features": [
+   "IDX websites optimized for lead capture",
+   "CRM with automated lead nurturing",
+   "AI lead engagement and follow-up",
+   "Managed Google and social ad campaigns",
+   "Agent accountability and performance tools",
+   "Lead routing and pond management",
+   "Behavioral insights on lead activity",
+   "Dedicated onboarding and success coaching"
+  ],
+  "pros": [
+   "Purpose-built for high-volume teams with strong accountability tools",
+   "Combines lead generation, website, CRM, and AI in one system",
+   "Long track record with top-producing teams"
+  ],
+  "cons": [
+   "Enterprise pricing with no public numbers; aimed at top producers and teams",
+   "Heavier commitment than lightweight CRMs",
+   "Lead-gen focus means costs rise with ad spend"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "claribi": {
+  "verdict": "AI business-intelligence tool that turns data into plain-language insights.",
+  "overview": [
+   "clariBI is an AI business-intelligence tool that turns raw data into clear dashboards and insights. It helps non-technical users ask questions of their data in plain language. The freemium plan covers getting started with your first datasets."
+  ],
+  "features": [
+   "Natural-language data queries",
+   "AI dashboards",
+   "Business insights"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "clearbrief": {
+  "verdict": "Word add-in that deterministically verifies legal citations and facts against source documents.",
+  "overview": [
+   "Clearbrief is a Microsoft Word add-in that helps attorneys draft, cite-check, and verify legal documents by tying every key point back to its source. Its verification engine is deterministic rather than generative: it surfaces discrepancies, flags mischaracterized holdings, and traces factual assertions to source material without introducing new language. In August 2026, Boston University School of Law deployed it school-wide for students, faculty, and clinics."
+  ],
+  "features": [
+   "Citation checking against primary legal sources inside Microsoft Word",
+   "Factual assertion verification traced back to source documents",
+   "Deterministic verification engine that generates no new language (no hallucination risk)",
+   "Automated timelines and deposition summaries",
+   "Table of Authorities generation and citation style conversion",
+   "Hyperlinked filings and exhibit PDFs verifiable in one click",
+   "Integrations with LexisNexis, Relativity, iManage, Netdocs, Clio, and Fastcase/vLex",
+   "Free access for law students"
+  ],
+  "pros": [
+   "Deterministic verification avoids adding generative-AI hallucination risk to filings",
+   "Works inside Word with integrations to LexisNexis, Relativity, iManage, and Netdocs",
+   "Deployed across AmLaw 200 firms, courts, and government agencies; free for law students"
+  ],
+  "cons": [
+   "$300 per user per month for Solo is expensive for individual litigators",
+   "Focused on citation and fact verification, not a full drafting or research platform",
+   "Word add-in workflow has a learning curve noted by some users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "clientreports-ai": {
+  "verdict": "AI platform that turns uploaded client documents into professional reports for agencies and consultants.",
+  "overview": [
+   "ClientReports.ai is an AI-powered reporting platform for professional service firms that automates the creation of client reports — business plans, valuation reports, diligence reports, investor updates, audit and profitability analyses, and more. Users upload client documents into secure, per-client data rooms, and the AI drafts report sections grounded in that source material across 17 industry templates. Finished reports can be refined in a built-in editor with charts and layouts, then exported to PDF, Microsoft Word, or Google Docs."
+  ],
+  "features": [
+   "Per-client secure data rooms for source documents",
+   "AI-drafted report sections from uploaded client data",
+   "Sector templates covering 17 industries",
+   "Built-in text editor with chart embedding and layouts",
+   "Export to PDF, Word, and Google Docs",
+   "Intelligent data analysis and metric extraction",
+   "Team collaboration with security and compliance focus",
+   "Free trial with no credit card required"
+  ],
+  "pros": [
+   "Reports grounded in each client's actual documents",
+   "Industry-specific templates instead of generic formats",
+   "Exports fit standard client delivery workflows"
+  ],
+  "cons": [
+   "Paid plan pricing not listed publicly",
+   "Best suited to firms with repeat report types"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "clockk": {
+  "verdict": "AI automatic time tracker for freelancers and agencies.",
+  "overview": [
+   "Clockk is an AI-powered automatic time tracker built for freelancers and agencies. It passively records how time is spent across apps and projects, using AI to categorize activity so users get accurate timesheets without manual timers. A free trial lets users test the automation before committing."
+  ],
+  "features": [
+   "Automatic AI time tracking",
+   "Smart activity categorization",
+   "Project and client timesheets",
+   "Built for freelancers and agencies"
+  ],
+  "pros": [
+   "Fully automatic tracking",
+   "No manual timers needed",
+   "Accurate client billing data"
+  ],
+  "cons": [
+   "Single-purpose tool compared to full suites",
+   "Accuracy depends on consistent tool usage",
+   "Free trial limited before paid upgrade"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "thomson-reuters-cocounsel": {
+  "verdict": "Thomson Reuters' agentic AI legal assistant, grounded in Westlaw and Practical Law.",
+  "overview": [
+   "CoCounsel Legal is Thomson Reuters' agentic AI legal assistant, rebuilt in 2026 on Anthropic's Claude Agent SDK and grounded in Westlaw and Practical Law content. It connects research, drafting, verification and matter-centric workflows in one environment, with features like Westlaw Brief Builder for litigators."
+  ],
+  "features": [
+   "Westlaw-grounded AI legal research with citations",
+   "Deep Research with KeyCite verification",
+   "Westlaw Brief Builder for litigation drafts",
+   "Document review and document comparison",
+   "Timeline creation from documents",
+   "Deposition preparation workflows",
+   "Contract policy compliance review",
+   "Drafting agent with Practical Law templates"
+  ],
+  "pros": [
+   "Grounded in authoritative Westlaw and Practical Law content — stronger citation trust than generic AI",
+   "Next-gen agentic platform rebuilt on Anthropic's Claude Agent SDK (2026)",
+   "One million professionals across 107 countries use CoCounsel products per Thomson Reuters",
+   "Client data is not used to train third-party models"
+  ],
+  "cons": [
+   "No published pricing — every plan requires a sales conversation",
+   "Essentially quote-only enterprise licensing; small-firm Essentials pricing is opaque",
+   "Full next-gen (Claude-agent-SDK) rollout is still expanding beyond the US"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "codenull-ai": {
+  "verdict": "No-code platform to train custom AI models from CSV data.",
+  "overview": [
+   "Codenull.ai is a no-code platform that lets users build and deploy AI models without writing code. Users upload a CSV dataset, pick a target column, and train a model in a single step, then make predictions through a unique model code — either by entering values manually or uploading new CSVs. It targets use cases like fraud detection, sales forecasting, recommendation engines, portfolio optimization, and medical classification, and is free to use."
+  ],
+  "features": [
+   "No-code AI model training from CSV data",
+   "One-step training process",
+   "Prediction via unique model code",
+   "Fraud detection and recommendation engines",
+   "Portfolio optimization and robo-advisory",
+   "Sales forecasting and medical classification"
+  ],
+  "pros": [
+   "Free to use with no credit card required",
+   "No coding or ML expertise needed",
+   "Wide range of business use cases",
+   "Simple one-step training flow"
+  ],
+  "cons": [
+   "CSV-only data input limits flexibility",
+   "Beta-stage product with uncertain roadmap",
+   "Confused by some directories with an unrelated CSS library"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "coefficient": {
+  "verdict": "AI Sheets Assistant plus live data connectors that sync 100+ business systems into Google Sheets and Excel.",
+  "overview": [
+   "Coefficient is a no-code spreadsheet automation platform that connects Google Sheets and Excel to 100+ business systems (Salesforce, HubSpot, Snowflake, QuickBooks and more) with scheduled refreshes and two-way write-back. Its AI Sheets Assistant builds formulas, charts, pivot tables and full dashboards from plain-English prompts, creating native, editable spreadsheet objects."
+  ],
+  "features": [
+   "100+ live data connectors (Salesforce, HubSpot, Snowflake, MySQL and more)",
+   "AI Sheets Assistant: formulas, charts, pivots and dashboards from prompts",
+   "Scheduled automatic data refreshes",
+   "Two-way data sync (write back to source systems)",
+   "Vibe Dashboards: shareable live web dashboards from spreadsheet data",
+   "Alerts on key metric changes via Slack/email",
+   "Pre-built templates for finance, sales and marketing",
+   "Installs via Google Workspace Marketplace and Microsoft AppSource"
+  ],
+  "pros": [
+   "Works inside Google Sheets/Excel, so no new platform for teams to learn",
+   "Eliminates copy-paste workflows with automatic live data sync",
+   "AI is context-aware and produces native, editable spreadsheet objects"
+  ],
+  "cons": [
+   "Interface can feel overwhelming for new users (per user feedback on coefficient.io)",
+   "Advanced features depend on connected systems; source downtime breaks live reporting",
+   "Paid tiers at $59/user/mo add up quickly for larger teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cogbias-ai": {
+  "verdict": "AI that catches cognitive bias in surveys and questions.",
+  "overview": [
+   "CogBias AI detects cognitive bias in surveys, interviews, chatbots, and other research materials. Its platform flags leading or biased wording and suggests neutral rephrasings so teams collect cleaner data. A Chrome extension brings the detection into any web writing flow."
+  ],
+  "features": [
+   "Cognitive bias detection in questions",
+   "AI-powered neutral rephrasing",
+   "Chrome extension for real-time checks",
+   "Survey and interview design platform"
+  ],
+  "pros": [
+   "Improves research data quality",
+   "Works where you write via extension"
+  ],
+  "cons": [
+   "New company with limited track record",
+   "Pricing not publicly listed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cognigy": {
+  "verdict": "Enterprise conversational-and-agentic-AI platform for voice and digital channels.",
+  "overview": [
+   "Cognigy is an enterprise conversational-and-agentic-AI platform, now owned by NiCE after a September 2025 acquisition closed at $955M, still offered standalone and inside the CXone Mpower suite. It lets large organizations deploy AI agents that think, adapt, and act across voice, chat, and messaging in 100+ languages, with low-code flow design, strong compliance posture, and deep contact-center integrations. Flagship customers include Mercedes-Benz, Nestle, and the Lufthansa Group."
+  ],
+  "features": [
+   "Agentic voice and digital-channel agents",
+   "Low-code conversation flow design",
+   "100+ languages on any channel",
+   "Prebuilt telephony and CCaaS integrations",
+   "Enterprise compliance for regulated industries",
+   "Unified with NiCE CXone Mpower platform"
+  ],
+  "pros": [
+   "Leader across Gartner, Forrester, and IDC",
+   "Available standalone or inside NiCE CXone Mpower",
+   "Proven at Mercedes-Benz, Nestle, Lufthansa scale",
+   "Deep European enterprise footprint"
+  ],
+  "cons": [
+   "Custom enterprise pricing, no self-serve",
+   "Services-led implementations",
+   "Roadmap now tied to NiCE's platform strategy",
+   "Overkill for SMB support needs"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "columns-ai": {
+  "verdict": "Turns spreadsheets and data sources into visual stories with AI",
+  "overview": [
+   "Columns AI connects to your spreadsheets, CSVs, Notion pages, Airtable bases, and SQL databases, then generates visual stories and narratives from the data. Instead of hand-building charts and decks, you point it at a source and get presentation-ready visuals with an explanatory narrative. Plans start around $15/month with a free version available for lighter use."
+  ],
+  "features": [
+   "Connects spreadsheets, CSV, Notion, Airtable, SQL",
+   "AI-generated visual stories",
+   "Narrative summaries of data",
+   "Shareable data stories"
+  ],
+  "pros": [
+   "Turns raw data into visuals fast",
+   "Broad source integrations",
+   "Free tier available"
+  ],
+  "cons": [
+   "Deeper customization needs paid plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "commabot": {
+  "verdict": "Conversational CSV editor that lets you analyze and transform data by chatting.",
+  "overview": [
+   "Commabot is an online CSV editor where you work with data through plain-English conversation instead of formulas. You upload a spreadsheet and ask questions, generate charts and summaries, or clean and transform the data by simply talking to it. It also handles format conversion between CSV, JSON, and XML for downstream analysis."
+  ],
+  "features": [
+   "Conversational CSV editing",
+   "AI data assistant for questions and insights",
+   "Chart and summary generation",
+   "Data cleaning and transformation",
+   "CSV, JSON, XML format conversion"
+  ],
+  "pros": [
+   "No spreadsheet formulas required",
+   "Natural-language data analysis",
+   "Handles large datasets comfortably"
+  ],
+  "cons": [
+   "CSV-focused, not a full BI suite",
+   "Paid plans needed for heavier use"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "composer": {
+  "verdict": "AI-powered automated investing platform for building, backtesting, and running no-code trading strategies.",
+  "overview": [
+   "Composer is an automated investing platform that lets individual investors design, backtest, and run algorithmic trading strategies without writing code. Its centerpiece is an AI-powered strategy builder: you describe an investment idea in plain language and the platform turns it into a backtested, executable strategy. A no-code visual editor lets you customize every rule, and a library of pre-built community strategies (called symphonies) covers momentum, income, hedging, and crypto approaches. Funded accounts need a paid Trading Pass, while building and backtesting strategies is free, so you can paper-test ideas before committing capital. Composer also supports retirement accounts (Traditional and Roth IRAs) and commission-free crypto trading with a small per-trade fee."
+  ],
+  "features": [
+   "AI strategy builder from natural-language descriptions",
+   "No-code drag-and-drop strategy editor",
+   "Strategy backtesting with historical performance data",
+   "Pre-built community strategy library (symphonies)",
+   "Automated trade execution",
+   "Retirement accounts (Traditional and Roth IRA)",
+   "Crypto trading",
+   "Risk profiles assigned to shared strategies"
+  ],
+  "pros": [
+   "Turns plain-English ideas into executable strategies",
+   "Free backtesting before committing money",
+   "No coding required",
+   "Transparent flat subscription instead of AUM fees"
+  ],
+  "cons": [
+   "Fixed monthly fee is steep for small portfolios",
+   "US-focused brokerage availability; international access is limited",
+   "AI-generated strategies still require human review before funding",
+   "No dedicated mobile app reported"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "contractable": {
+  "verdict": "Generate personalized legal contracts from a single sentence with AI.",
+  "overview": [
+   "Contractable is an AI contract generator aimed at freelancers, startups, and small businesses that need standard legal agreements without lawyer fees. Users describe their deal in one sentence, review an AI-drafted contract built on legal-professional-reviewed templates, and refine it with a conversational interactive builder. It covers NDAs, independent contractor agreements, and service agreements, exportable as PDF or DOCX, with contracts valid across all 50 US states."
+  ],
+  "features": [
+   "Contract generation from a one-sentence description",
+   "NDA, independent contractor, and service agreement types",
+   "Interactive natural-language contract revision",
+   "PDF and DOCX export plus electronic signing",
+   "Full contract preview free before purchasing"
+  ],
+  "pros": [
+   "Free full preview before you pay",
+   "No subscription, pay-per-contract model"
+  ],
+  "cons": [
+   "Only three core contract types supported",
+   "Complex or high-stakes deals still need a lawyer's review"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "convin": {
+  "verdict": "AI phone agents and conversation intelligence that help real estate teams call more leads and coach agents.",
+  "overview": [
+   "Convin is an AI platform offering autonomous AI phone calls plus conversation intelligence for sales teams, with dedicated real estate use cases for chatbots and voicebots. It analyzes calls in 70+ languages, scores agent performance automatically, and provides real-time assist during live calls. Plans start at $50/month with a 15-day free trial."
+  ],
+  "features": [
+   "AI phone calls: autonomous outbound calling agents",
+   "Real-time agent assist with live call guidance",
+   "Automated QA scoring 100% of calls, chats, and emails",
+   "AI-powered coaching with personalized sessions",
+   "Conversation analytics in English, Hindi, Spanish, and 70+ languages",
+   "Real estate AI chatbot and voicebot for lead engagement",
+   "CRM integrations with automatic call logging",
+   "Sentiment, entity, and win-loss analysis"
+  ],
+  "pros": [
+   "Combines AI calling with full conversation intelligence in one platform",
+   "Affordable entry at $50/month versus enterprise-only competitors",
+   "Self-serve signup with a 15-day free trial and no credit card"
+  ],
+  "cons": [
+   "General contact-center platform; real estate is one vertical among many",
+   "Advanced suites (Real-Time, Insights, Post-Interaction) are custom-priced",
+   "No iOS app confirmed; mobile presence limited"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "copycat": {
+  "verdict": "AI insurance proposal software that converts carrier PDFs into branded proposals.",
+  "overview": [
+   "CopyCat AI is insurance proposal software for brokers. It extracts details from carrier PDF quotes and turns them into branded, client-ready proposals in minutes. The tool removes the manual reformatting work that slows down policy presentations."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "coresignal": {
+  "verdict": "Fresh multi-source public web datasets on companies, employees, and job postings — with AI Data Search and APIs for sales, investing, and recruiting.",
+  "overview": [
+   "Coresignal is a provider of high-quality structured datasets compiled from publicly available web sources, covering company data, employee records, job postings, and more across 2,000+ data points per record. It serves investment intelligence, lead generation, trend forecasting, and data-driven recruitment through APIs, a self-service platform with an AI Data Search tool (plain-language queries, no query syntax), a Company API Playground, bulk JSONL exports of up to 10,000 records, and an MCP server that connects AI agents directly to its B2B data."
+  ],
+  "features": [
+   "Multi-source company datasets from public web sources",
+   "Employee data",
+   "Job posting data",
+   "AI Data Search with natural-language queries",
+   "Company API Playground",
+   "Bulk JSONL exports (up to 10,000 multi-source records)",
+   "MCP server connecting AI agents to B2B data",
+   "2,000+ data points per record across 16 sources"
+  ],
+  "pros": [
+   "Genuinely multi-source, fresh public-web data",
+   "Plain-language AI search removes query-syntax friction",
+   "MCP server connects AI agents directly to the data",
+   "Free self-service sign-in to explore the platform"
+  ],
+  "cons": [
+   "Enterprise data products get expensive at scale",
+   "Public-data sourcing raises privacy and GDPR scrutiny for some use cases",
+   "Pricing is not transparently published"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "corpus-iq": {
+  "verdict": "Connects ChatGPT, Claude and Perplexity to live business data with source-cited answers.",
+  "overview": [
+   "CorpusIQ is a read-only intelligence layer that sits between your business tools and the AI assistant you already use. It connects to 40+ systems like Shopify, QuickBooks, Stripe, Google Ads and HubSpot, applies your own definitions of revenue or customers, and returns answers with citations to the exact records. It works inside ChatGPT, Claude and Perplexity rather than as another dashboard."
+  ],
+  "features": [
+   "40+ read-only business connectors (Shopify, QuickBooks, Stripe, GA4, HubSpot)",
+   "Source-cited answers linking every number to its record",
+   "Business rules engine pinning KPI definitions company-wide",
+   "Validation engine checking numbers before the AI sees them",
+   "150+ built-in analysis skills across finance, marketing, operations",
+   "OCR intelligence reading PDFs, invoices and statements",
+   "Audit logging of every answer and source",
+   "Works inside ChatGPT, Claude and Perplexity"
+  ],
+  "pros": [
+   "Read-only by design, so AI can never change your business data",
+   "Every answer shows its sources, ending confident-but-wrong numbers",
+   "No warehouse, dashboards or data team needed"
+  ],
+  "cons": [
+   "Adds ~$30/mo on top of the AI subscriptions you already pay",
+   "You must define your metric rules once before answers stay consistent",
+   "Best suited to businesses with several connected tools, not solo users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "costlogic": {
+  "verdict": "AI construction takeoff and estimating software: measure plans, build estimates, and send invoices in one workflow.",
+  "overview": [
+   "CostLogic is a browser-based takeoff and estimating platform for construction contractors. You upload plan PDFs, calibrate scale, and measure linear, area, count, and angle quantities directly on the drawing, or let Auto Room detect rooms for you. Measurements flow straight into line-item estimates with markup, waste, tax, and deposits, and accepted estimates become invoices in one click, with payment logging and QuickBooks Online sync."
+  ],
+  "features": [
+   "PDF takeoffs measured directly on multi-page construction plans",
+   "Scale calibration with automatic scale detection from title blocks",
+   "Auto Room: AI detects rooms and areas straight from the drawing",
+   "Onyx AI assistant that answers questions, drafts estimates, and edits layers",
+   "Line-item estimates with markup, waste, tax, and deposit controls",
+   "One-click invoices from accepted estimates with branded PDF emails",
+   "Payment logging and QuickBooks Online sync",
+   "CSV export for accountants"
+  ],
+  "pros": [
+   "One unbroken workflow from first measurement to final invoice",
+   "Built-in AI assistant for pricing, drafting, and job questions",
+   "No installation: fully browser-based",
+   "Free trial available to test a full takeoff"
+  ],
+  "cons": [
+   "Construction-only niche; useless outside contracting work",
+   "Public pricing not disclosed on the site",
+   "QuickBooks sync is online-only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cotality": {
+  "verdict": "Property data and analytics leader (formerly CoreLogic) with AI valuations, fraud tools, and risk APIs.",
+  "overview": [
+   "Cotality (formerly CoreLogic) is a property data and analytics giant serving real estate, mortgage, and insurance. Its AI-enhanced AVMs, fraud risk tools, climate analytics, and property intelligence APIs underpin valuations and underwriting across the US housing market."
+  ],
+  "features": [
+   "Property data covering nearly every US parcel",
+   "AI-powered AVMs and valuation models",
+   "Fraud risk and identity verification tools",
+   "Climate and natural hazard risk analytics",
+   "Mortgage origination and servicing solutions",
+   "Property intelligence APIs",
+   "Market trend and price analytics",
+   "Listing and tax data feeds"
+  ],
+  "pros": [
+   "The deepest US property dataset in the industry",
+   "AI valuations trusted by major lenders and investors",
+   "Broad API suite for embedding data anywhere"
+  ],
+  "cons": [
+   "Enterprise focus with custom pricing; not built for solo agents",
+   "Rebrand from CoreLogic can cause confusion in older references",
+   "Product breadth means a complex buying process"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "count": {
+  "verdict": "AI-driven accounting software that works in plain English.",
+  "overview": [
+   "Count is an AI accounting platform for business owners and entrepreneurs that replaces accounting jargon with plain-English prompts. It automates vendor assignment, duplicate detection and fraud alerts, predicts expenses, warns about cash flow issues and answers natural-language questions about the books. Pricing starts at $29.99 per month with a free trial."
+  ],
+  "features": [
+   "Plain-English accounting prompts",
+   "Automated vendor assignment and duplicate detection",
+   "Fraud alerts",
+   "Expense forecasting and cash flow warnings",
+   "Natural-language financial Q&A"
+  ],
+  "pros": [
+   "Accessible to non-accountants",
+   "Strong automation of routine tasks"
+  ],
+  "cons": [
+   "No free version",
+   "Newer entrant in accounting software"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cradl-ai": {
+  "verdict": "No-code AI platform that extracts structured data from documents at scale.",
+  "overview": [
+   "Cradl AI is a document data extraction platform that uses AI-powered OCR to read scanned documents and images and pull out exactly the fields a user specifies — no programming required. It generates extraction schemas automatically, validates results with a human-in-the-loop workflow for high accuracy, and handles batch processing of many documents at once. It connects to tools like Google Drive, Sheets, Excel, SAP, and Zapier, and exposes an API so parsing can be embedded into existing workflows. Pricing starts at $40/month with a free trial."
+  ],
+  "features": [
+   "AI-powered OCR document extraction",
+   "No-code custom extraction rules",
+   "Automatic schema generation",
+   "Human-in-the-loop validation",
+   "Batch document processing",
+   "Multi-language and multiple output formats",
+   "API access",
+   "Integrations: Google Drive, Sheets, Excel, SAP, Zapier, UiPath, Xero"
+  ],
+  "pros": [
+   "No programming needed for custom extraction rules",
+   "Human-in-the-loop review for accuracy",
+   "Broad integration ecosystem"
+  ],
+  "cons": [
+   "Paid plans start at $40/month",
+   "Norway-based vendor with limited brand visibility"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "crafterq": {
+  "verdict": "AI agent platform that turns any website into a conversational experience.",
+  "overview": [
+   "CrafterQ is an AI agent platform from Crafter Software that turns an existing website into a conversational experience. Businesses enter a URL or upload documents and the platform indexes the content, then a single JavaScript snippet embeds an AI agent that answers visitor questions in natural language, grounded in the company's own catalog, docs, and FAQs. Newer AI Actions add lead capture and human handoff inside the chat."
+  ],
+  "features": [
+   "Automatic website content discovery and indexing",
+   "One-line JavaScript embed on any site",
+   "Agents trained on your own docs and FAQs",
+   "AI Actions: lead capture and human escalation",
+   "Continuous retraining as content changes",
+   "Webhook export of captured leads"
+  ],
+  "pros": [
+   "Generally available since June 2026 with active development",
+   "Deploy conversational AI in minutes",
+   "Answers grounded in your content, not generic chat",
+   "Pushes chatbots beyond Q&A toward outcomes"
+  ],
+  "cons": [
+   "Paid plans required for AI Actions",
+   "New product — smaller ecosystem than incumbents",
+   "Dependent on your website content quality",
+   "No public pricing tiers seen"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cresta": {
+  "verdict": "Enterprise CX AI unifying autonomous agents, real-time assist, and conversation intelligence.",
+  "overview": [
+   "Cresta is an enterprise AI platform that unifies autonomous AI agents, real-time agent assist, and conversation intelligence on one contact-center platform. Its AI Agent resolves voice and digital conversations on its own, while Agent Assist whispers real-time guidance, compliance reminders, and knowledge answers to human agents mid-call. Models train on each customer's own conversations, and the newest Knowledge Agent proactively surfaces answers from live browser context."
+  ],
+  "features": [
+   "AI Agent for autonomous voice and chat resolution",
+   "Agent Assist real-time guidance during calls",
+   "Knowledge Agent proactive answer surfacing",
+   "Conversation intelligence and outcome insights",
+   "Models trained on your own conversations",
+   "Deep helpdesk and telephony integrations"
+  ],
+  "pros": [
+   "One platform for autonomy, assist, and analytics",
+   "Models reflect how your business actually talks",
+   "Named enterprise customers: United, Marriott, Verizon",
+   "Outcome-inferred coaching tied to real results"
+  ],
+  "cons": [
+   "No public pricing; $150k/year AWS listing for Agent Assist only",
+   "No self-serve option",
+   "Built for large contact centers, not small teams",
+   "Desktop-overlay form factor can slow fast reps"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "crew": {
+  "verdict": "AI-powered engineering hiring platform with vetting, compliance, and payroll.",
+  "overview": [
+   "Crew is an AI-powered hiring platform focused on engineering talent, offering vetting, compliance, and payroll so companies can hire pre-screened engineers quickly. It positions itself around access to top-tier engineering candidates with hiring logistics handled. The FutureTools card (futuretools.io/tools/crew) confirms the AI hiring positioning."
+  ],
+  "features": [
+   "AI-powered engineer vetting and matching",
+   "Compliance and payroll handling",
+   "Access to pre-screened engineering talent",
+   "Streamlined hiring workflow"
+  ],
+  "pros": [
+   "Combines sourcing, vetting, and payroll in one service",
+   "Engineering-specific focus"
+  ],
+  "cons": [
+   "Pricing not publicly listed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "crisp": {
+  "verdict": "AI-first customer messaging platform with live chat, chatbots, CRM, and the MagicReply AI copilot for support teams.",
+  "overview": [
+   "Crisp is a customer messaging platform rebuilt around AI, combining a website chat widget, shared inbox, CRM, ticketing, campaigns, and knowledge base in one product. Its MagicReply AI works alongside human agents to draft personalized answers from conversation history, with automatic summarization, audio-to-text transcription, and multilingual support across chat, email, and messaging channels."
+  ],
+  "features": [
+   "AI chatbot builder and MagicReply AI copilot",
+   "Shared inbox, CRM, ticketing, and campaigns",
+   "Automatic conversation summaries and audio transcription",
+   "Multilingual support across chat, email, and messaging apps"
+  ],
+  "pros": [
+   "Rebuilt with AI at its core, not bolted on",
+   "Free plan available with paid tiers from $25/month",
+   "Mobile apps for iOS and Android",
+   "Integrates with Slack, WhatsApp, Zapier, and more"
+  ],
+  "cons": [
+   "Full AI features require paid plans",
+   "Small teams may find the feature set broad",
+   "Chatbots need setup to perform well"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "crunchbase": {
+  "verdict": "AI-powered company, startup, and investor intelligence platform.",
+  "overview": [
+   "Crunchbase is the well-known database of companies, startups, founders, and investors, relaunched in 2025 as an AI-powered predictive intelligence platform. Beyond company profiles, it now surfaces predictions about funding, growth, and market moves. Sales teams, investors, and researchers use it for prospecting and due diligence. It offers a free tier with paid plans for deeper data and AI features."
+  ],
+  "features": [
+   "Database of millions of companies and startups",
+   "AI-powered predictive insights on funding and growth",
+   "Advanced search and prospecting filters",
+   "Investor and funding-round tracking",
+   "API access for data integration"
+  ],
+  "pros": [
+   "The standard reference for startup and company data",
+   "New AI predictions add forward-looking value",
+   "Free tier covers basic research needs"
+  ],
+  "cons": [
+   "Deepest data and AI features sit behind paywalls",
+   "Predictive insights should be verified independently",
+   "Can be pricey for solo researchers"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cruxi": {
+  "verdict": "AI platform for medical-affairs and commercial teams on credit-based pricing.",
+  "overview": [
+   "Cruxi is an AI platform aimed at medical-affairs and commercial life-science teams, offering analytics, call and document intelligence with a credit-based pricing model. It competes with enterprise conversation and revenue-intelligence tools but targets smaller, more agile teams. The company is US-based and founded in 2024."
+  ],
+  "features": [
+   "AI analytics for commercial teams",
+   "Conversation and document intelligence",
+   "Credit-based usage pricing",
+   "CRM and workflow integrations"
+  ],
+  "pros": [
+   "Credit-based pricing avoids big annual contracts",
+   "Targets mid-market teams underserved by incumbents",
+   "Web-based with no on-prem setup"
+  ],
+  "cons": [
+   "Limited public product detail available",
+   "Niche life-science focus"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cube": {
+  "verdict": "FP&A platform that unifies finance data into one governed layer and syncs it into Excel, Sheets, and Slack.",
+  "overview": [
+   "Cube is an FP&A platform that unifies fragmented finance data into one governed layer and delivers it into the tools teams already use — Excel, Google Sheets, PowerPoint, and Slack. Its FP&Agent AI suite grounds answers in the chart of accounts with full audit trails. It targets mid-market finance teams that want fast, spreadsheet-friendly planning without a rip-and-replace project."
+  ],
+  "features": [
+   "Data consolidation",
+   "Financial close automation",
+   "Variance analysis",
+   "Ad-hoc and executive reporting",
+   "Driver-based planning",
+   "Revenue and cash flow forecasting",
+   "CapEx planning",
+   "Headcount planning"
+  ],
+  "pros": [
+   "Works inside Excel, Google Sheets, PowerPoint, and Slack — zero new tools to learn",
+   "AI answers are grounded in governed data with full audit trails, reducing hallucination risk",
+   "Go-live in days rather than months, with no IT dependency",
+   "Ranked #1 in FP&A software on G2 per its own homepage"
+  ],
+  "cons": [
+   "No public pricing — demo-gated sales process",
+   "Spreadsheet-centric design may not suit teams wanting a fully native planning UI",
+   "Scope is FP&A; not a replacement for full ERP or accounting systems"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "cuservly": {
+  "verdict": "AI customer-service chatbot with sentiment detection and human handoff.",
+  "overview": [
+   "CuServly provides businesses with an AI chatbot trained on their own content to answer customer questions automatically. It detects customer sentiment, handles common queries, and hands tricky conversations to a human agent. A free tier and a 29-euro monthly plan make it accessible to small teams."
+  ],
+  "features": [
+   "GPT-powered support chatbot",
+   "Sentiment analysis",
+   "Human agent takeover",
+   "Trained on your own content"
+  ],
+  "pros": [
+   "Free version and trial available.",
+   "Simple setup for small businesses.",
+   "Smooth escalation to humans."
+  ],
+  "cons": [
+   "Smaller vendor with limited public reviews.",
+   "Advanced customization may need support help."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "customeriq": {
+  "verdict": "AI customer-feedback analysis and insight platform.",
+  "overview": [
+   "CustomerIQ is an AI platform that analyzes customer feedback to surface insights automatically. It synthesizes reviews, support tickets, and survey responses into clear themes and action items. It offers a free version with paid plans from around $29 per month."
+  ],
+  "features": [
+   "AI analysis of customer feedback",
+   "Automatic theme and insight extraction",
+   "Review and support ticket synthesis",
+   "Free version available"
+  ],
+  "pros": [
+   "Turns raw feedback into decisions",
+   "Free version to try"
+  ],
+  "cons": [
+   "Pricing may be steep for solo founders",
+   "US-focused service availability"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "customgpt-ai": {
+  "verdict": "No-code platform that turns your business documents and websites into governed AI agents, with anti-hallucination tech and flat-rate pricing.",
+  "overview": [
+   "CustomGPT.ai is a no-code platform for creating custom AI agents trained on business content — it ingests 1,400+ document formats, websites, and 100+ integrations like Google Drive, HubSpot, Notion and Shopify, and deploys the agent via one-click embed. It emphasizes accuracy with proprietary anti-hallucination technology, source citations on every response, and flat-rate pricing with no per-query charges. Plans start at $99/month (Standard), with Premium at $499/month and custom Enterprise; a 7-day free trial is available."
+  ],
+  "features": [
+   "Anti-hallucination technology grounding answers in business data",
+   "1,400+ supported file formats plus websites, videos and podcasts as data sources",
+   "100+ integrations (Google Drive, HubSpot, Notion, Shopify, Wix)",
+   "One-click deployment to websites via embed",
+   "Multi-LLM support: OpenAI GPT-5.1/GPT-4 series, Anthropic Claude 4.5 (Enterprise)",
+   "Source citations with links on every response",
+   "White-labeling with custom logo and branding (Premium and above)",
+   "SOC 2 compliant and GDPR compliant; data never used to train models"
+  ],
+  "pros": [
+   "Strong accuracy positioning — anti-hallucination tech with source citations on every answer (official)",
+   "Flat-rate pricing with no per-query charges, making costs predictable (official comparisons page)",
+   "Broad data ingestion: 1,400+ formats and 100+ integrations with automatic re-indexing (official)"
+  ],
+  "cons": [
+   "High entry point: $99/month with no free tier, only a 7-day trial (official)",
+   "White-label branding removal requires Premium ($499/month) or above (official)",
+   "No verifiable public rating found from a named review source at research time"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "danelfin": {
+  "verdict": "AI-powered stock picker that ranks US stocks and ETFs with explainable 1-10 AI Scores.",
+  "overview": [
+   "Danelfin is an AI-powered stock research platform that ranks US-listed stocks and ETFs with a 1-10 AI Score based on thousands of fundamental, technical, and sentiment signals. Users can browse daily rankings, compare stocks side by side, track price forecasts for 1, 3, and 6 months, and manage portfolios with alerts when holdings are upgraded or downgraded. The platform emphasizes explainable AI, showing exactly which signals drive each score."
+  ],
+  "features": [
+   "AI Score (1-10) ranking for US stocks and ETFs",
+   "Daily rankings of top stocks and ETFs to buy",
+   "Stock comparison with explainable alpha signals",
+   "1, 3, and 6 month AI price forecasts",
+   "Portfolio tracking with upgrade/downgrade alerts",
+   "Trade ideas with historical win-rate track record",
+   "STOXX 600 European stock coverage"
+  ],
+  "pros": [
+   "Explainable AI shows the exact signals behind each score",
+   "Free plan covers basic rankings and stock reports",
+   "Backtested track record of AI scores since 2017"
+  ],
+  "cons": [
+   "Stock recommendations are probabilistic, not guarantees of returns",
+   "US and European markets only, no coverage of Asian markets",
+   "Advanced trade ideas and alpha signals require paid plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dashtera": {
+  "verdict": "High-performance no-code dashboard platform for real-time data streaming and visualization.",
+  "overview": [
+   "Dashtera is LightningChart's no-code, web-based dashboarding platform built for real-time data. Its GPU-accelerated rendering engine visualizes massive streaming datasets at full resolution without downsampling, with around 100 chart types including 2D, 3D, and engineering visualizations. It connects to SQL databases, data lakes, and streaming sources, and dashboards can be shared publicly or internally."
+  ],
+  "features": [
+   "GPU-accelerated real-time charting",
+   "Around 100 chart types including 3D",
+   "SQL database and streaming data connectors",
+   "No-code dashboard builder",
+   "Public and internal sharing modes",
+   "On-premises deployment option"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "databricks-ai-bi": {
+  "verdict": "AI-powered BI built into Databricks: ask dashboards questions in plain English with Genie.",
+  "overview": [
+   "Databricks AI/BI brings business intelligence directly into the Databricks lakehouse, so dashboards pull from live, governed data with no separate BI tool. Genie, its conversational layer, lets stakeholders type questions in plain English and get real governed SQL results; the 2026 Genie family adds Genie One (AI coworker for business teams), Genie Agents, Genie Code, and an ontology context layer. Pricing is usage-based with no seat licenses — roughly $10 of free LLM usage per user per month."
+  ],
+  "features": [
+   "AI/BI dashboards built into Databricks SQL at no extra cost",
+   "Genie: conversational natural-language data Q&A",
+   "Genie One: AI coworker for business teams",
+   "Genie Agents: reusable conversational agents for teams",
+   "Genie Ontology: live context map of tables, docs, and apps",
+   "MCP integration for enterprise AI plumbing",
+   "Mobile apps for iOS and Android",
+   "No seat-based pricing; ~$10 free LLM usage per user/month"
+  ],
+  "pros": [
+   "BI lives where the data lives — no syncing or separate tool",
+   "Governed, real answers from actual tables — not guesses",
+   "No seat licenses; pay-as-you-go with a free allowance",
+   "Strong agentic roadmap (agents, app builder, ontology)"
+  ],
+  "cons": [
+   "Enterprise-only: requires a Databricks workspace with Unity Catalog",
+   "Compute, pipelines, and model serving are billed separately",
+   "Overkill for teams not already on Databricks"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "datalab": {
+  "verdict": "DataCamp's AI-powered data notebook for chatting with data and building reports.",
+  "overview": [
+   "DataLab is DataCamp's AI-native data notebook that lets users chat with their data in natural language while working in a full Python, R, and SQL notebook environment. Its AI assistant generates and explains code, and analyses can be turned into shareable reports and dashboards. Free DataCamp accounts get 3 workbooks with limited AI prompts, while premium plans unlock unlimited usage."
+  ],
+  "features": [
+   "AI assistant that chats with data and generates code",
+   "Python, R, and SQL notebook cells",
+   "Database and data warehouse connections",
+   "One-click shareable reports and dashboards",
+   "Real-time collaborative workbooks"
+  ],
+  "pros": [
+   "Full notebook transparency behind every AI answer",
+   "No local setup; runs in the browser"
+  ],
+  "cons": [
+   "Unlimited AI use requires a premium subscription",
+   "Tied to the DataCamp account ecosystem"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dataline": {
+  "verdict": "Open-source AI tool for chatting with your databases and files.",
+  "overview": [
+   "DataLine is an open-source, privacy-first tool that lets you explore data by asking questions in natural language. It connects to Postgres, MySQL, Snowflake, SQLite, CSV, Excel, and more, then executes queries and generates charts from your answers. Everything runs on your own device, so your data never touches the cloud by default."
+  ],
+  "features": [
+   "Natural-language database querying",
+   "Automatic chart generation",
+   "Broad database and file support",
+   "On-device processing for privacy",
+   "Docker and desktop install options"
+  ],
+  "pros": [
+   "Free and open-source",
+   "Data stays on your machine",
+   "Wide database support"
+  ],
+  "cons": [
+   "Self-hosted setup requires some technical comfort",
+   "Project is community-maintained"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "datalumio": {
+  "verdict": "AI platform for qualitative and quantitative research analysis.",
+  "overview": [
+   "DataLumio is an AI platform for qualitative and quantitative research analysis. It helps researchers process surveys, interviews, and datasets with AI-assisted insight extraction, and is free to start."
+  ],
+  "features": [
+   "AI qualitative research analysis",
+   "Quantitative data analysis",
+   "Insight extraction from surveys and interviews"
+  ],
+  "pros": [
+   "Handles both qualitative and quantitative data",
+   "Free to start"
+  ],
+  "cons": [
+   "Pricing details for larger teams are not prominent",
+   "Focused on research analysis rather than general BI"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "datarails": {
+  "verdict": "Excel-native FP&A platform that consolidates data from 600+ sources so finance teams can budget and forecast without leaving Excel.",
+  "overview": [
+   "Datarails is an AI-powered financial planning and analysis platform built for Excel users. It consolidates data from ERP, CRM, HRIS and 600+ other sources into a single governed data model, then lets finance teams budget, forecast, report and build dashboards while continuing to work in Excel through an add-in. Its newer FinanceOS layer adds version control, audit trails and permissions so AI tools like Claude and ChatGPT can work on trusted, mapped financial data."
+  ],
+  "features": [
+   "Automated financial consolidation from 600+ ERP, CRM and HRIS integrations",
+   "Budgeting and forecasting workflows inside Excel with live data",
+   "Real-time dashboards and board-ready reporting",
+   "AI-powered insights and anomaly detection",
+   "Scenario modeling and live planning",
+   "Version control, audit trails and permission settings",
+   "AI Connector linking governed data to Claude, ChatGPT and Copilot",
+   "No-code setup with 4-6 week average time to go live"
+  ],
+  "pros": [
+   "Finance teams keep their existing Excel models — no rebuild or retraining on new software",
+   "Strong governance (audit trails, permissions) makes AI outputs repeatable and auditable",
+   "G2 rating of 4.9 and 2000+ company customers signal solid product maturity",
+   "600+ integrations give a single source of truth across finance and operations"
+  ],
+  "cons": [
+   "No public pricing — demo-gated, so costs are unknown until a sales conversation",
+   "Excel-centric design may be limiting for teams that want a modern standalone planning UI",
+   "FinanceOS is a new positioning, so the agentic-AI layer is less proven than the core FP&A product"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "datarobot": {
+  "verdict": "Enterprise AI platform for automated machine learning, model governance and agentic AI apps at scale.",
+  "overview": [
+   "DataRobot is an enterprise AI platform covering the full model lifecycle: automated machine learning across hundreds of algorithms, feature engineering, deployment, monitoring and governance with audit trails. It supports multi-cloud and hybrid deployment, LLM and agentic AI apps, and 350+ integrations. Pricing is quote-based and aimed at mid-market and large organizations."
+  ],
+  "features": [
+   "AutoML across 500+ algorithms with automated model selection",
+   "Automated feature engineering with intelligent recommendations",
+   "Model lifecycle management: deploy, monitor, retrain",
+   "AI governance with compliance tracking and audit trails",
+   "Agentic AI apps (e.g. Talk to My Data)",
+   "Multi-cloud and hybrid deployment",
+   "350+ integrations",
+   "Time-series forecasting (AutoTS) and MLOps"
+  ],
+  "pros": [
+   "Industry-leading AutoML breadth with proven enterprise ROI",
+   "Strong governance, compliance and audit tooling",
+   "Unified platform for ML, genAI and agentic apps",
+   "Flexible deployment across cloud, hybrid and on-prem"
+  ],
+  "cons": [
+   "Expensive — quote-based enterprise pricing is a barrier for smaller teams",
+   "No free tier or public pricing; sales engagement required",
+   "Steep learning curve and complex interface for new users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dealworthit": {
+  "verdict": "AI analysis of real estate deals to judge if an investment is worth it.",
+  "overview": [
+   "DealWorthIt helps real estate investors evaluate whether a deal actually pencils out, using AI to analyze property data, cash flow, and risk factors. It is aimed at investors who want a second opinion before committing capital. Plans run around $59/month with a free trial."
+  ],
+  "features": [
+   "AI-powered deal evaluation",
+   "Investment and cash-flow analysis",
+   "Risk assessment for property deals",
+   "Free trial available"
+  ],
+  "pros": [
+   "Focused specifically on real estate investing",
+   "Free trial lets you test before paying"
+  ],
+  "cons": [
+   "Premium price for casual users",
+   "Limited independent reviews"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decagon": {
+  "verdict": "Autonomous AI support agents positioned as AI concierges for enterprise brands.",
+  "overview": [
+   "Decagon builds autonomous AI support agents for large enterprise brands, positioning them as full-service 'AI concierges' rather than FAQ bots. Its platform pairs Agent Operating Procedures — plain-English instructions compiled into executable workflows — with real-time governance, deep integrations into systems like Salesforce, Zendesk, and Shopify, and a self-improving loop that proposes agent updates from live conversations. The newest releases add a voice agent on a proprietary speech model and channels for customers' own personal AI agents."
+  ],
+  "features": [
+   "Autonomous chat, email, voice, and SMS agents",
+   "Agent Operating Procedures in plain English",
+   "Real-time QA and governance (Watchtower)",
+   "Agent Assist for human workflows",
+   "50+ enterprise integrations",
+   "Duet Autopilot self-improvement loop"
+  ],
+  "pros": [
+   "$4.5B valuation and $250M Series D in Jan 2026 signal momentum",
+   "80%+ automation rates claimed at enterprise clients",
+   "100+ large enterprise customers",
+   "Agents handle multi-step transactional work, not just FAQs"
+  ],
+  "cons": [
+   "No published pricing or free trial",
+   "Reported ~$50k annual platform fee plus usage",
+   "Sales-led, demo-gated procurement",
+   "Enterprise-only — poor fit for small teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "definely": {
+  "verdict": "AI contract-drafting suite that lives inside Microsoft Word, speeding up review, proofreading, and clause reuse.",
+  "overview": [
+   "Definely is a suite of AI tools for lawyers working on complex contracts inside Microsoft Word. It surfaces definitions and cross-references without losing place, automates hundreds of proofreading checks, and adds agentic AI review with redline suggestions. Products include Draft, Enhance, Proof, Vault (clause library), and Cascade, which maps knock-on effects of contract changes."
+  ],
+  "features": [
+   "AI contract review with redline suggestions inside Microsoft Word (Enhance)",
+   "Double-click access to definitions, provisions, and cross-references without losing place (Draft)",
+   "Clause library with clause-level indexing and semantic search (Vault)",
+   "Automated proofreading with hundreds of checks for punctuation, formatting, and references (Proof)",
+   "Cascade: detects knock-on effects of changes across linked contracts",
+   "PDF contract scanning for defined, undefined, and unused terms",
+   "Integrations with iManage, NetDocuments, and SharePoint document management systems",
+   "Exportable issues lists with tracked changes, redlines, and comments"
+  ],
+  "pros": [
+   "Works natively inside Microsoft Word with no workflow change for lawyers",
+   "Trusted by 150+ leading law firms and in-house teams",
+   "Founded with an accessibility-first mission; strong enterprise security posture (ISO 27001, SOC 2)",
+   "Covers the full pre-execution workflow: draft, review, proofread, and PDF scanning"
+  ],
+  "cons": [
+   "No public pricing; quotes require a sales conversation",
+   "Tightly bound to Microsoft Word workflows; not a standalone drafting platform",
+   "Contract review requires linked or well-structured documents to benefit from Cascade's cross-document analysis"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dext": {
+  "verdict": "AI pre-accounting app that captures receipts and invoices, extracts the data, and pushes it to your accounting software.",
+  "overview": [
+   "Dext is an AI-powered bookkeeping automation app that handles pre-accounting: capturing receipts, invoices, and bank statements via mobile, email, or upload, then extracting the data and publishing it to Xero, QuickBooks Online, Sage, and 30+ other accounting platforms. Its Dext AI Assist agent learns how a practice categorizes and corrects items, turning those decisions into reviewable automation. Trusted by 700,000+ businesses worldwide."
+  ],
+  "features": [
+   "AI data extraction from receipts, invoices, and bank statements",
+   "Mobile app for document capture with OCR",
+   "Expense claims creation, submission, and approval",
+   "Dext AI Assist agent that learns your practice's categorization rules",
+   "Automated supplier and tax-rate rules",
+   "Publishing to Xero, QuickBooks Online, Sage, and 30+ platforms",
+   "Bank statement and line-item extraction",
+   "Client messaging on specific transactions"
+  ],
+  "pros": [
+   "Sits cleanly alongside existing accounting software instead of replacing it",
+   "Mobile app puts the workflow in clients' pockets",
+   "Dext AI Assist adds a learning automation layer for practices",
+   "Strong integration coverage with 30+ accounting platforms"
+  ],
+  "cons": [
+   "Pricing is not published on the official site, so costs are hard to compare without a quote",
+   "It handles pre-accounting only — you still need separate accounting software like Xero or QuickBooks",
+   "Past per-client billing changes have drawn pushback from accounting practices"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "digits": {
+  "verdict": "AI-native accounting platform with an Autonomous General Ledger and accounting agents.",
+  "overview": [
+   "Digits is an AI-native accounting platform built around the Autonomous General Ledger, a ledger that auto-books the majority of transactions in real time instead of relying on manual rules. Its accounting agents handle bookkeeping, AI bill pay, invoicing, live financial dashboards, and management reporting, with a free Connect API and MCP server letting partners and AI assistants query the ledger directly."
+  ],
+  "features": [
+   "Autonomous General Ledger auto-booking",
+   "Bookkeeping Agent",
+   "Finance Agent with live dashboards",
+   "Reporting Agent",
+   "AI bill pay and invoicing",
+   "Connect API and MCP server"
+  ],
+  "pros": [
+   "Near-real-time books without manual close",
+   "Mobile apps and developer API",
+   "Award-winning design and accuracy claims"
+  ],
+  "cons": [
+   "Paid software from about $100/mo",
+   "Primarily US-focused banking"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dime-a-dozen-ai": {
+  "verdict": "AI-powered startup idea validation.",
+  "overview": [
+   "Dime A Dozen is a paid tool that helps founders validate startup ideas with AI-generated analysis. Public details on its full feature set are limited."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [
+   "Limited public information"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dobs-ai": {
+  "verdict": "End-to-end AI platform for financial due diligence with traceable workbooks.",
+  "overview": [
+   "DOBS AI is an end-to-end AI platform for financial due diligence. It automates document processing and research, builds traceable workbooks, and supports deal execution workflows. With SOC 2 compliance and a focus on auditable outputs, it targets investment and finance teams that need diligence work done faster without losing the paper trail."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docjuris": {
+  "verdict": "AI contract redlining and negotiation platform with playbook-driven review.",
+  "overview": [
+   "DocJuris streamlines contract negotiation for legal, procurement and sales teams: its AI screens contracts against negotiation playbooks, suggests redlines, formats track changes cleanly, and turns redlines into structured issues lists, with an Email Agent that returns analysis or full markups from the inbox."
+  ],
+  "features": [
+   "AI-powered contract screening and redlining",
+   "Customizable negotiation playbooks",
+   "Dynamic clause library with pre-approved language",
+   "Email Agent for inbox-based review and markups",
+   "Issues lists, version control and collaboration workflows"
+  ],
+  "pros": [
+   "Playbook enforcement keeps negotiations on company standards",
+   "Email Agent removes onboarding friction for quick reviews",
+   "Strong formatting handling for complex documents"
+  ],
+  "cons": [
+   "Initial playbook setup requires time and effort",
+   "No public pricing; demo-led sales",
+   "Some AI insights still need manual verification"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docling": {
+  "verdict": "Open-source Python library that converts messy PDFs and office docs into clean, structured Markdown, JSON, or HTML.",
+  "overview": [
+   "Docling is an open-source document parsing toolkit started by IBM Research Zurich and now hosted by the Linux Foundation's AI & Data Foundation. It understands page layout, reading order, tables, formulas, and scanned-image OCR, converting PDF, DOCX, PPTX, XLSX, HTML, images, and even audio/video into a unified DoclingDocument you can export as Markdown, HTML, or lossless JSON. It is built for developers feeding clean document data into RAG pipelines and GenAI applications, and it runs fully locally for air-gapped environments."
+  ],
+  "features": [
+   "Multi-format parsing: PDF, DOCX, PPTX, XLSX, HTML, EPUB, images, audio, video",
+   "Advanced PDF understanding: layout analysis, reading order, table structure",
+   "Formula and code recognition, image classification and OCR for scanned PDFs",
+   "Unified DoclingDocument model exported as Markdown, HTML, or lossless JSON",
+   "Native integrations with LangChain, LlamaIndex, Haystack, and Crew AI",
+   "Local execution suitable for air-gapped and privacy-sensitive environments",
+   "Docling Serve mode and MCP server for service-style deployment",
+   "Permissive MIT license"
+  ],
+  "pros": [
+   "Truly understands document structure instead of dumping raw text",
+   "Runs locally with MIT licensing, safe for commercial and air-gapped use",
+   "Large, active community with tens of thousands of GitHub stars",
+   "One-line CLI or a few lines of Python to convert a document"
+  ],
+  "cons": [
+   "Developer-oriented: Python 3.10+ required, not a no-code product",
+   "Full pipelines can be slow on CPU-only machines",
+   "Not a managed web app; you host and scale it yourself"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docsumo": {
+  "verdict": "Intelligent document processing that turns invoices and financial docs into structured data.",
+  "overview": [
+   "Docsumo is an intelligent document processing platform that extracts structured data from invoices, bank statements, KYC documents, and other financial paperwork. It automates document-heavy workflows such as accounts payable and onboarding for financial services firms. The Growth plan is priced at $500/month with a free trial available."
+  ],
+  "features": [
+   "Automated data extraction from financial documents",
+   "Invoice, bank statement, and KYC document processing",
+   "Workflow automation for finance teams",
+   "API access"
+  ],
+  "pros": [
+   "Purpose-built for financial document workflows",
+   "Handles complex document types like bank statements",
+   "API for embedding into existing systems"
+  ],
+  "cons": [
+   "Growth plan starts at $500/month — geared to mid-market and enterprise"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docusign": {
+  "verdict": "E-signature and agreement management platform with AI contract analysis.",
+  "overview": [
+   "DocuSign is the dominant e-signature platform used by millions of organizations to prepare, sign, and manage agreements online. Its built-in AI agreement analysis reviews contracts during the signing workflow, flagging risky clauses, missing terms, and deviations from standard language so teams can act before a document is finalized. Beyond signing, the platform offers agreement lifecycle management: templates, bulk sending, audit trails, identity verification, and integrations with CRMs and HR systems. Finance and legal teams use it to keep contracting inside a single governed workflow rather than scattered across inboxes."
+  ],
+  "features": [
+   "Legally binding electronic signatures with full audit trail",
+   "AI agreement analysis that flags risky or nonstandard clauses",
+   "Templates, bulk send, and automated signing workflows",
+   "Identity verification and access controls for signers",
+   "Integrations with Salesforce, Microsoft, and HR/finance suites"
+  ],
+  "pros": [
+   "Industry-standard e-signature product with broad legal acceptance",
+   "AI contract review surfaces issues before signing, not after",
+   "Deep integrations and mature API for enterprise workflows"
+  ],
+  "cons": [
+   "Pricing escalates quickly for teams sending high volumes",
+   "AI analysis is an add-on layer, not a full contract lifecycle suite",
+   "Some advanced governance features are gated to higher tiers"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ }
+}

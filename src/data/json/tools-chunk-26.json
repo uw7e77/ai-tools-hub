@@ -1,0 +1,2289 @@
+[
+ {
+  "slug": "woebot",
+  "name": "Woebot",
+  "logo": "/logos/woebot.png",
+  "company": "Woebot Health",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Chat-based AI mental-health companion delivering evidence-based CBT techniques, now focused on enterprise care.",
+  "pricing": "paid",
+  "tags": [
+   "mental-health",
+   "ai-chatbot",
+   "cbt",
+   "therapy",
+   "mood-tracking",
+   "digital-therapeutics",
+   "anxiety",
+   "depression"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://woebothealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wonderplan",
+  "name": "Wonderplan",
+  "logo": "/logos/wonderplan.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "travel",
+  "shortDescription": "Free budget-first AI trip planner that builds itineraries and tracks spending as you plan.",
+  "pricing": "free",
+  "tags": [
+   "trip planner",
+   "budget travel",
+   "itinerary",
+   "cost tracking",
+   "group travel",
+   "vacation",
+   "free tool",
+   "offline"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://wonderplan.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "wysa",
+  "name": "Wysa",
+  "logo": "/logos/wysa.png",
+  "company": "Touchkin",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "Anonymous AI mental-health chatbot with CBT-based exercises, mood tracking, and optional human coaching.",
+  "pricing": "freemium",
+  "tags": [
+   "mental-health",
+   "ai-chatbot",
+   "cbt",
+   "dbt",
+   "anxiety",
+   "mindfulness",
+   "journaling",
+   "self-care"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.wysa.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "x-ray-interpreter",
+  "name": "X-ray Interpreter",
+  "logo": "/logos/x-ray-interpreter.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI that interprets X-rays, CTs, and MRIs into plain-language reports.",
+  "pricing": "freemium",
+  "tags": [
+   "radiology",
+   "medical imaging",
+   "health",
+   "diagnostics",
+   "x-ray"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://xrayinterpreter.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "yakkr-growth",
+  "name": "Yakkr Growth",
+  "logo": "/logos/yakkr-growth.png",
+  "company": "Yakkr",
+  "category": "lifestyle",
+  "subcategory": "gaming",
+  "shortDescription": "AI growth toolkit for streamers and gaming creators.",
+  "pricing": "paid",
+  "tags": [
+   "streamers",
+   "content-ideas",
+   "growth"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://yakkrgrowth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "yesil-health",
+  "name": "Yesil Health",
+  "logo": "/logos/yesil-health.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI health coach that backs guidance with cited evidence.",
+  "pricing": "freemium",
+  "tags": [
+   "health-coach",
+   "wellness",
+   "habits",
+   "ai-coach"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://yesilhealth.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "youper",
+  "name": "Youper",
+  "logo": "/logos/youper.png",
+  "company": "Youper Inc.",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI emotional health assistant combining chatbot check-ins, mood tracking and CBT-based exercises.",
+  "pricing": "freemium",
+  "tags": [
+   "mental-health",
+   "ai-chatbot",
+   "cbt",
+   "mood-tracking",
+   "anxiety",
+   "depression",
+   "emotional-health",
+   "therapy-support"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.youper.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "your-own-story-book",
+  "name": "Your Own Story Book",
+  "logo": "/logos/your-own-story-book.png",
+  "company": null,
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI platform creating personalized illustrated storybooks starring your pet.",
+  "pricing": "freemium",
+  "tags": [
+   "storybook",
+   "personalized-books",
+   "kids-books",
+   "pet-gifts",
+   "illustrated-stories"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.yourownstorybook.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "yourmove",
+  "name": "YourMove",
+  "logo": "/logos/yourmove.png",
+  "company": "Squip AI LLC",
+  "category": "lifestyle",
+  "subcategory": "lifestyle",
+  "shortDescription": "AI dating assistant for better profiles and openers.",
+  "pricing": "freemium",
+  "tags": [
+   "dating",
+   "tinder",
+   "profile",
+   "ai coach"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.yourmove.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "yuna-app",
+  "name": "Yuna App",
+  "logo": "/logos/yuna-app.png",
+  "company": "Mindframes",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI-guided self-therapy companion for stress and anxiety.",
+  "pricing": "freemium",
+  "tags": [
+   "mental health",
+   "therapy",
+   "wellbeing",
+   "self-improvement",
+   "cbt"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://www.yuna.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "zoe",
+  "name": "Zoe",
+  "logo": "/logos/zoe.png",
+  "company": "ZOE",
+  "category": "lifestyle",
+  "subcategory": "health",
+  "shortDescription": "AI-personalized nutrition app pairing gut microbiome testing with meal scoring tuned to your biology.",
+  "pricing": "freemium",
+  "tags": [
+   "nutrition",
+   "gut-health",
+   "microbiome",
+   "ai-coach",
+   "personalized-nutrition",
+   "blood-sugar",
+   "food-scoring",
+   "meal-tracking"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://zoe.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "11sight",
+  "name": "11Sight",
+  "logo": "/logos/11sight.png",
+  "company": "11Sight",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "One-click video and audio calling platform for sales and customer engagement.",
+  "pricing": "paid",
+  "tags": [
+   "video calling",
+   "sales",
+   "customer engagement",
+   "live chat"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://11sight.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "11x-ai",
+  "name": "11x",
+  "logo": "/logos/11x-ai.png",
+  "company": "11x AI Inc",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Autonomous AI SDR (Alice) that runs your entire outbound motion end-to-end, plus Julian, an AI phone agent.",
+  "pricing": "paid",
+  "tags": [
+   "ai-sdr",
+   "outbound-sales",
+   "lead-prospecting",
+   "email-outreach",
+   "linkedin-outreach",
+   "ai-phone-agent",
+   "meeting-booking"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://11x.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "1of10",
+  "name": "1of10",
+  "logo": "/logos/1of10.png",
+  "company": "1 of 10 Media Inc",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI YouTube toolkit that finds outlier videos and generates high-CTR thumbnails and titles.",
+  "pricing": "freemium",
+  "tags": [
+   "youtube",
+   "thumbnails",
+   "creator-tools",
+   "outlier-research"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://1of10.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "247rep",
+  "name": "247Rep",
+  "logo": "/logos/247rep.png",
+  "company": "247Rep",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Team of AI employees for small businesses that sell, book, follow up, and support customers across WhatsApp, email, and web.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-sales",
+   "whatsapp-automation",
+   "chatbots",
+   "lead-conversion",
+   "customer-support",
+   "small-business",
+   "omnichannel",
+   "ai-employees"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://247rep.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "2pr",
+  "name": "2pr",
+  "logo": "/logos/2pr.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI agent for the full LinkedIn content cycle: ideas, drafts, carousels, replies, scheduling.",
+  "pricing": "paid",
+  "tags": [
+   "ai-agent",
+   "linkedin",
+   "social-media",
+   "content-creation",
+   "carousels",
+   "scheduling"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://2pr.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "37x",
+  "name": "37x",
+  "logo": "/logos/37x.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Launch a custom AI-powered affiliate marketplace in minutes.",
+  "pricing": "paid",
+  "tags": [
+   "affiliate marketing",
+   "marketplace",
+   "seo",
+   "passive income",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://37x.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "60sec-site",
+  "name": "60sec.site",
+  "logo": "/logos/60sec-site.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-sales",
+  "shortDescription": "AI website and landing-page builder that publishes a live page in about a minute.",
+  "pricing": "freemium",
+  "tags": [
+   "website-builder",
+   "landing-pages",
+   "ai-websites",
+   "rapid-prototyping"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://60sec.site",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "activecampaign",
+  "name": "ActiveCampaign",
+  "logo": "/logos/activecampaign.png",
+  "company": "ActiveCampaign",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "All-in-one marketing automation platform with AI-driven campaign intelligence",
+  "pricing": "paid",
+  "tags": [
+   "marketing automation",
+   "email marketing",
+   "CRM",
+   "predictive analytics",
+   "lead generation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.activecampaign.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ad-agency",
+  "name": "Ad Agency",
+  "logo": "/logos/ad-agency.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Free AI ad agency for TV, radio, billboard, and social ads",
+  "pricing": "freemium",
+  "tags": [],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://adagency.co.nz",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ad-suite-ai",
+  "name": "Ad Suite AI",
+  "logo": "/logos/ad-suite-ai.png",
+  "company": "Ad Suite AI",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI-managed Google and Meta ad campaigns for small businesses.",
+  "pricing": "paid",
+  "tags": [
+   "Google Ads",
+   "Meta Ads",
+   "ad management",
+   "small business",
+   "campaign automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://adsuiteai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adcontrolcenter",
+  "name": "AdControlCenter",
+  "logo": "/logos/adcontrolcenter.png",
+  "company": "AdControlCenter",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI ads manager that builds and optimizes ad campaigns across Google, Meta, Reddit, TikTok, LinkedIn, and X.",
+  "pricing": "paid",
+  "tags": [
+   "advertising",
+   "ad-management",
+   "google-ads",
+   "meta-ads",
+   "ppc",
+   "small-business",
+   "ai-agents",
+   "campaign-optimization"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.adcontrolcenter.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adcreative-ai",
+  "name": "AdCreative.ai",
+  "logo": "/logos/adcreative-ai.png",
+  "company": "AdCreative.ai",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Generates on-brand ad creatives, AI product photos, and video ads in seconds, then scores them with Creative Scoring AI.",
+  "pricing": "paid",
+  "tags": [
+   "ad-creatives",
+   "ad-copy",
+   "creative-scoring",
+   "product-photography",
+   "video-ads",
+   "ugc-ads",
+   "competitor-insights",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://www.adcreative.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adease",
+  "name": "Adease",
+  "logo": "/logos/adease.png",
+  "company": "Adease LTD",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Agentic marketing manager built on Claude for ad account management.",
+  "pricing": "freemium",
+  "tags": [
+   "ad management",
+   "marketing agent",
+   "claude"
+  ],
+  "platforms": [
+   "macos",
+   "windows"
+  ],
+  "officialUrl": "https://adease.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adkit",
+  "name": "AdKit",
+  "logo": "/logos/adkit.png",
+  "company": "AdKit",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI ad management platform for Meta, Google, and TikTok with competitor ad spying and an MCP server for AI agents.",
+  "pricing": "paid",
+  "tags": [
+   "ads",
+   "meta-ads",
+   "google-ads",
+   "tiktok-ads",
+   "ad-creative",
+   "competitor-analysis",
+   "mcp",
+   "marketing"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://adkit.so",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "admanage-ai",
+  "name": "AdManage.ai",
+  "logo": "/logos/admanage-ai.png",
+  "company": "AdManage",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Bulk ad launcher for Meta and 12 ad channels.",
+  "pricing": "paid",
+  "tags": [
+   "ads",
+   "meta ads",
+   "bulk launch",
+   "performance marketing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://admanage.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adriselab",
+  "name": "AdRiseLab",
+  "logo": "/logos/adriselab.png",
+  "company": "ARL Software OÜ",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI performance marketer for Meta ads — research, creatives, fatigue detection, and one-click publishing.",
+  "pricing": "freemium",
+  "tags": [
+   "meta-ads",
+   "ad-creatives",
+   "ai-marketing",
+   "facebook-ads",
+   "instagram-ads",
+   "fatigue-detection",
+   "ugc",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://adriselab.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adsby",
+  "name": "Adsby",
+  "logo": "/logos/adsby.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI ad generator for creating and testing ad copy and creatives faster.",
+  "pricing": "freemium",
+  "tags": [
+   "ads",
+   "copywriting",
+   "marketing",
+   "creatives"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://adsby.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adspectre",
+  "name": "Adspectre",
+  "logo": "/logos/adspectre.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI creative director generating on-brand image, video, and music for marketers.",
+  "pricing": "paid",
+  "tags": [
+   "ad creative",
+   "brand consistency",
+   "creative AI",
+   "marketing",
+   "content generation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://adspectre.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adspirer",
+  "name": "Adspirer",
+  "logo": "/logos/adspirer.png",
+  "company": "Adspirer",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI ads agent that manages campaigns across Google, Meta, TikTok and LinkedIn",
+  "pricing": "freemium",
+  "tags": [
+   "advertising",
+   "ppc",
+   "google ads",
+   "meta ads",
+   "mcp"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://adspirer.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "adwhispr",
+  "name": "adWhispr",
+  "logo": "/logos/adwhispr.png",
+  "company": "AdWhispr",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Agent-first ad platform for researching competitor ads and cloning winning creatives.",
+  "pricing": "freemium",
+  "tags": [
+   "ad research",
+   "competitor ads",
+   "ad cloning",
+   "mcp",
+   "ai agents",
+   "meta ads",
+   "tiktok ads",
+   "creative strategy"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://adwhispr.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aerochat",
+  "name": "AeroChat",
+  "logo": "/logos/aerochat.png",
+  "company": "AeroChat",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Omnichannel AI chatbot for Shopify stores across WhatsApp, Instagram, and Messenger.",
+  "pricing": "freemium",
+  "tags": [
+   "shopify",
+   "ecommerce chatbot",
+   "whatsapp automation",
+   "instagram dm",
+   "customer support"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://aerochat.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "agent-planners",
+  "name": "Agent Planners",
+  "logo": "/logos/agent-planners.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Multi-agent AI that plans and runs marketing operations across 29 platforms — every account change pauses for your approval.",
+  "pricing": "freemium",
+  "tags": [
+   "marketing",
+   "ai-agents",
+   "google-ads",
+   "meta-ads",
+   "ad-ops",
+   "analytics",
+   "automation",
+   "approval-gated"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.agentplanners.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "agentive-seo",
+  "name": "Agentive SEO",
+  "logo": "/logos/agentive-seo.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI agent that researches, writes, and publishes SEO-optimized blog content on autopilot.",
+  "pricing": "paid",
+  "tags": [
+   "seo",
+   "content-generation",
+   "blog-writer",
+   "keyword-research",
+   "wordpress",
+   "content-automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://agentiveseo.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "agentkit",
+  "name": "AgentKit",
+  "logo": "/logos/agentkit.png",
+  "company": "Agentkit",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "No-code AI chatbots trained on your website and docs, embedded as a 24/7 customer-facing widget.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot",
+   "no-code",
+   "lead capture",
+   "customer support",
+   "embed"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://agentkit.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ai-social-bio",
+  "name": "AI Social Bio",
+  "logo": "/logos/ai-social-bio.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-sales",
+  "shortDescription": "Free AI generator for social media bios.",
+  "pricing": "free",
+  "tags": [
+   "social-media",
+   "bio-generator",
+   "profiles",
+   "creators"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://aisocialbio.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aident-ai",
+  "name": "Aident AI",
+  "logo": "/logos/aident-ai.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "AI agent that drafts ecommerce product pages automatically.",
+  "pricing": "freemium",
+  "tags": [
+   "ecommerce",
+   "product-copy",
+   "ai-agent"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://aident.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aimdoc",
+  "name": "Aimdoc",
+  "logo": "/logos/aimdoc.png",
+  "company": "Aimdoc LLC",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI sales agents for websites that qualify leads and book meetings.",
+  "pricing": "paid",
+  "tags": [
+   "sales",
+   "lead-qualification",
+   "chatbot",
+   "meeting-booking"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://aimdoc.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "air-ai",
+  "name": "Air AI",
+  "logo": "/logos/air-ai.png",
+  "company": "Air AI",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Autonomous AI voice agents that hold long human-like phone calls for sales and support.",
+  "pricing": "paid",
+  "tags": [
+   "voice-ai",
+   "sales",
+   "customer-support",
+   "ai-agents",
+   "phone",
+   "outbound"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.air.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "airops",
+  "name": "AirOps",
+  "logo": "/logos/airops.png",
+  "company": "AirOps",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI workflow platform for content operations, SEO, and AI-search visibility.",
+  "pricing": "paid",
+  "tags": [
+   "AI workflows",
+   "SEO",
+   "content operations",
+   "AI visibility",
+   "automation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://airops.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aisdr",
+  "name": "AiSDR",
+  "logo": "/logos/aisdr.png",
+  "company": "AiSDR",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI sales agent that finds intent-ready buyers with live research, then runs multichannel outreach until the meeting is booked.",
+  "pricing": "paid",
+  "tags": [
+   "ai-sdr",
+   "intent-signals",
+   "live-research",
+   "multichannel-outreach",
+   "objection-handling",
+   "meeting-booking",
+   "hubspot",
+   "salesforce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://aisdr.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aissistify",
+  "name": "AIssistify",
+  "logo": "/logos/aissistify.png",
+  "company": "Resonate",
+  "category": "marketing-sales",
+  "subcategory": "marketing-sales",
+  "shortDescription": "AI writing and marketing assistant with 50+ tools and HubSpot integration.",
+  "pricing": "freemium",
+  "tags": [
+   "marketing",
+   "copywriting",
+   "hubspot",
+   "sales",
+   "seo"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://aissistify.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "albert-ai",
+  "name": "Albert.ai",
+  "logo": "/logos/albert-ai.png",
+  "company": "Albert (Adgorithms)",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Autonomous AI platform for digital media buying across search, social, and programmatic.",
+  "pricing": "paid",
+  "tags": [
+   "media buying",
+   "programmatic",
+   "ad optimization",
+   "autonomous",
+   "paid media"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://albert.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "algolia",
+  "name": "Algolia",
+  "logo": "/logos/algolia.png",
+  "company": "Algolia, Inc.",
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "API-first AI search platform powering fast, relevant site and app search with neural semantic search, recommendations and merchandising.",
+  "pricing": "freemium",
+  "tags": [
+   "search api",
+   "neural search",
+   "site search",
+   "ecommerce search",
+   "recommendations",
+   "merchandising",
+   "personalization",
+   "developer tools"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.algolia.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "amplemarket",
+  "name": "Amplemarket",
+  "logo": "/logos/amplemarket.png",
+  "company": "Amplemarket",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "All-in-one AI sales platform where Duo Copilot researches, drafts, and triggers multichannel outreach with human approval.",
+  "pricing": "paid",
+  "tags": [
+   "ai-sdr",
+   "sales-copilot",
+   "buying-signals",
+   "multichannel-outreach",
+   "lead-database",
+   "ai-personalization",
+   "deliverability"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension",
+   "api"
+  ],
+  "officialUrl": "https://www.amplemarket.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "amplifa",
+  "name": "Amplifa",
+  "logo": "/logos/amplifa.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI B2B outbound prospecting and sales automation.",
+  "pricing": "paid",
+  "tags": [
+   "outbound-sales",
+   "prospecting",
+   "lead-generation",
+   "sales-automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://amplifa.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "analytify",
+  "name": "Analytify",
+  "logo": "/logos/analytify.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "WordPress plugin that puts Google Analytics 4 insights inside your dashboard.",
+  "pricing": "freemium",
+  "tags": [
+   "google-analytics",
+   "wordpress-plugin",
+   "ga4",
+   "website-analytics",
+   "ecommerce-tracking",
+   "traffic-reports",
+   "campaign-tracking",
+   "bloggers"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://analytify.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "anyword",
+  "name": "Anyword",
+  "logo": "/logos/anyword.png",
+  "company": "Keywee Inc",
+  "category": "marketing-sales",
+  "subcategory": "marketing-sales",
+  "shortDescription": "AI copywriting platform with predictive performance scoring.",
+  "pricing": "paid",
+  "tags": [
+   "copywriting",
+   "marketing copy",
+   "predictive ai",
+   "ads"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://anyword.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aomni",
+  "name": "aomni",
+  "logo": "/logos/aomni.png",
+  "company": "Aomni",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Autonomous AI agents for sales research and personalized outreach.",
+  "pricing": "freemium",
+  "tags": [
+   "sales-intelligence",
+   "ai-agents",
+   "prospecting",
+   "outreach"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.aomni.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "apollo-io",
+  "name": "Apollo.io",
+  "logo": "/logos/apollo-io.png",
+  "company": "Apollo.io",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI sales platform combining a 240M+ contact database with prospecting filters, email sequences, a dialer, and meeting-booking AI agents.",
+  "pricing": "freemium",
+  "tags": [
+   "prospecting",
+   "lead-generation",
+   "b2b-database",
+   "email-sequences",
+   "dialer",
+   "sales-engagement",
+   "ai-agents",
+   "enrichment"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension",
+   "api"
+  ],
+  "officialUrl": "https://apollo.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "appointwise",
+  "name": "Appointwise",
+  "logo": "/logos/appointwise.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI appointment setter that qualifies leads on chat and books your calendar.",
+  "pricing": "paid",
+  "tags": [
+   "appointment-booking",
+   "lead-qualification",
+   "whatsapp",
+   "sales"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://appointwise.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "archive",
+  "name": "Archive",
+  "logo": "/logos/archive.png",
+  "company": "Archive",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Creator marketing platform for managing brand community and UGC campaigns.",
+  "pricing": "paid",
+  "tags": [
+   "creator marketing",
+   "UGC",
+   "influencer"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://archive.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "article-fiesta",
+  "name": "Article Fiesta",
+  "logo": "/logos/article-fiesta.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "seo",
+  "shortDescription": "AI SEO article writer with direct blog posting.",
+  "pricing": "freemium",
+  "tags": [
+   "seo articles",
+   "blog writing",
+   "content automation",
+   "keyword"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://articlefiesta.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "artisan-ai",
+  "name": "Artisan",
+  "logo": "/logos/artisan-ai.png",
+  "company": "Artisan",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI BDR platform where Ava autonomously finds leads, runs personalized email and social sequences, and books meetings.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-sdr",
+   "ai-bdr",
+   "outbound-automation",
+   "email-sequences",
+   "social-outreach",
+   "lead-database",
+   "meeting-booking"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://artisan.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ask-your-audience",
+  "name": "Ask Your Audience",
+  "logo": "/logos/ask-your-audience.png",
+  "company": "Ask Your Audience",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI audience research with Human Digital Twins for concept testing and campaign validation.",
+  "pricing": "paid",
+  "tags": [
+   "audience-research",
+   "marketing",
+   "digital-twins",
+   "concept-testing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://askyouraudience.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "aspr-ai",
+  "name": "ASPR AI",
+  "logo": "/logos/aspr-ai.png",
+  "company": "ASPR",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI sales analyst agent that answers questions about your pipeline and deal data.",
+  "pricing": "paid",
+  "tags": [
+   "sales analytics",
+   "sales agent",
+   "crm insights",
+   "pipeline"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://aspr.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "attention",
+  "name": "Attention",
+  "logo": "/logos/attention.png",
+  "company": "Attention",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Agentic AI sales assistant for real-time call coaching, automatic CRM updates, and follow-up automation.",
+  "pricing": "paid",
+  "tags": [
+   "real-time coaching",
+   "call coaching",
+   "crm auto-update",
+   "battlecards",
+   "scorecards",
+   "sales assistant",
+   "follow-up automation",
+   "agentic ai"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.attention.tech",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "attentive-ai",
+  "name": "Attentive AI",
+  "logo": "/logos/attentive-ai.png",
+  "company": "Attentive",
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "AI-powered SMS and email marketing platform for retail and ecommerce brands.",
+  "pricing": "paid",
+  "tags": [
+   "sms marketing",
+   "email marketing",
+   "ai copywriting",
+   "personalization",
+   "retention",
+   "rcs",
+   "automation",
+   "segmentation"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.attentive.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "attherate-ai",
+  "name": "AtTheRate.ai",
+  "logo": "/logos/attherate-ai.png",
+  "company": "AtTheRate.ai",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI marketing analytics that unifies ad data into one smart workspace.",
+  "pricing": "freemium",
+  "tags": [
+   "marketing-analytics",
+   "roas",
+   "agencies",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://attherate.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "autoblogging-pro",
+  "name": "AutoBlogging.pro",
+  "logo": "/logos/autoblogging-pro.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI blog automation with WordPress auto-publishing.",
+  "pricing": "freemium",
+  "tags": [
+   "blogging",
+   "seo",
+   "wordpress",
+   "content-automation",
+   "article-generator"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://autoblogging.pro",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "autowrite-app",
+  "name": "AutoWrite App",
+  "logo": "/logos/autowrite-app.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "seo",
+  "shortDescription": "AI SEO content writer for articles and blog posts.",
+  "pricing": "freemium",
+  "tags": [
+   "seo writing",
+   "blog content",
+   "article generator",
+   "affiliate marketing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://autowrite.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "backlinkgpt",
+  "name": "BacklinkGPT",
+  "logo": "/logos/backlinkgpt.png",
+  "company": "BacklinkGPT",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI link-building agent that finds prospects, drafts outreach, and tracks backlinks.",
+  "pricing": "paid",
+  "tags": [
+   "SEO",
+   "link building",
+   "outreach",
+   "marketing automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://backlinkgpt.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "backtrack",
+  "name": "Backtrack",
+  "logo": "/logos/backtrack.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI notetaker and revenue intelligence platform for hosted buyer events and trade shows.",
+  "pricing": "freemium",
+  "tags": [
+   "event tech",
+   "ai notetaker",
+   "sales intelligence",
+   "transcription",
+   "trade shows"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://usebacktrack.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "balto",
+  "name": "Balto",
+  "logo": "/logos/balto.png",
+  "company": "Balto",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Real-time AI guidance for contact centers — live prompts, rebuttals, and auto-QA surfaced during every call.",
+  "pricing": "paid",
+  "tags": [
+   "real-time coaching",
+   "contact center",
+   "agent assist",
+   "call guidance",
+   "auto qa",
+   "rebuttals",
+   "compliance",
+   "live prompts"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.balto.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "beacons",
+  "name": "Beacons",
+  "logo": "/logos/beacons.png",
+  "company": "Beacons",
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI-powered all-in-one platform for creators to monetize their audience.",
+  "pricing": "freemium",
+  "tags": [
+   "creator economy",
+   "link in bio",
+   "monetization"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://beacons.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "beki-ai",
+  "name": "Beki AI",
+  "logo": "/logos/beki-ai.png",
+  "company": "Beki",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI internal linking tool that suggests and tracks links for SEO.",
+  "pricing": "paid",
+  "tags": [
+   "SEO",
+   "internal linking",
+   "WordPress",
+   "link building",
+   "content optimization"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://beki.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "bidhelm",
+  "name": "BidHelm",
+  "logo": "/logos/bidhelm.png",
+  "company": "BidHelm",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Autonomous AI that runs and optimizes your Google Ads around the clock.",
+  "pricing": "paid",
+  "tags": [
+   "google-ads",
+   "ppc",
+   "advertising",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://bidhelm.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "bidventor",
+  "name": "BidVentor",
+  "logo": "/logos/bidventor.png",
+  "company": "Bidventor LLC",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Profit-focused Amazon growth platform combining PPC, listing, and review insights in one system.",
+  "pricing": "freemium",
+  "tags": [
+   "amazon ppc",
+   "amazon fba",
+   "listing optimization",
+   "amazon seller tools",
+   "acos"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://bidventor.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "blabla",
+  "name": "Blabla",
+  "logo": "/logos/blabla.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI social inbox with automated replies, comment moderation, and lead nurturing.",
+  "pricing": null,
+  "tags": [
+   "social inbox",
+   "ai replies",
+   "comment moderation",
+   "brands"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://nswr.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "blaze-ai",
+  "name": "Blaze AI",
+  "logo": "/logos/blaze-ai.png",
+  "company": "Blaze AI",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "All-in-one AI marketing platform for content, scheduling, and analytics",
+  "pricing": "paid",
+  "tags": [
+   "marketing",
+   "content generation",
+   "social media",
+   "analytics"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.blaze.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "blog-post-generator",
+  "name": "Blog Post Generator",
+  "logo": "/logos/blog-post-generator.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "seo",
+  "shortDescription": "Free AI blog post generator by SEO Web Search.",
+  "pricing": "free",
+  "tags": [
+   "blog writing",
+   "content generator",
+   "free tool",
+   "seo content"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://seowebsearch.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "blogfox",
+  "name": "BlogFox",
+  "logo": "/logos/blogfox.png",
+  "company": "BlogFox",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI blogging tool that turns videos and keywords into SEO articles.",
+  "pricing": "freemium",
+  "tags": [
+   "blogging",
+   "seo",
+   "content automation",
+   "youtube to blog"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://blogfox.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "bloomreach",
+  "name": "Bloomreach",
+  "logo": "/logos/bloomreach.png",
+  "company": "Bloomreach",
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "AI platform for ecommerce personalization with Loomi: AI search, conversational shopping, and real-time merchandising.",
+  "pricing": "paid",
+  "tags": [
+   "search",
+   "merchandising",
+   "personalization",
+   "conversational-ai",
+   "loomi",
+   "recommendations",
+   "email",
+   "sms"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.bloomreach.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "bluebarry-ai",
+  "name": "Bluebarry AI",
+  "logo": "/logos/bluebarry-ai.png",
+  "company": "Bluebarry AI",
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "AI personalization for e-commerce: quiz funnels, smart search, and bundles.",
+  "pricing": "paid",
+  "tags": [
+   "ecommerce",
+   "personalization",
+   "quiz-funnels",
+   "smart-search"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://bluebarry.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "bookmarks-manager",
+  "name": "Bookmarks Manager",
+  "logo": "/logos/bookmarks-manager.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "GPT-4-powered organizer that categorizes and searches your Twitter/X bookmarks.",
+  "pricing": "paid",
+  "tags": [
+   "twitter",
+   "bookmarks",
+   "gpt-4",
+   "social media",
+   "bookmark manager"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://twitterbookmarks.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "botric-ai",
+  "name": "Botric AI",
+  "logo": "/logos/botric-ai.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI chatbot platform with AI-search (GEO) visibility analytics.",
+  "pricing": "free",
+  "tags": [
+   "chatbot",
+   "geo",
+   "ai-search",
+   "lead-generation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://botric.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brand24",
+  "name": "Brand24",
+  "logo": "/logos/brand24.png",
+  "company": "Brand24",
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI social listening tool tracking brand mentions across 25M+ sources with sentiment analysis.",
+  "pricing": "paid",
+  "tags": [
+   "social-listening",
+   "brand-monitoring",
+   "sentiment-analysis",
+   "mention-tracking",
+   "competitor-analysis",
+   "influencer-discovery",
+   "reporting",
+   "ai-insights"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brand24.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brandbastion",
+  "name": "BrandBastion",
+  "logo": "/logos/brandbastion.png",
+  "company": "BrandBastion",
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI-powered social media moderation and engagement platform for brands.",
+  "pricing": "paid",
+  "tags": [
+   "moderation",
+   "brand-safety",
+   "community-management",
+   "social-media"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brandbastion.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brandbeacon",
+  "name": "BrandBeacon",
+  "logo": "/logos/brandbeacon.png",
+  "company": "ReDigital LTD",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI visibility tracker that shows how your brand appears inside AI answers.",
+  "pricing": "freemium",
+  "tags": [
+   "ai seo",
+   "brand monitoring",
+   "visibility"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brandbeacon.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brandblast",
+  "name": "Brandblast",
+  "logo": "/logos/brandblast.png",
+  "company": "Brandblast",
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI social media automation platform that generates and schedules on-brand posts and ads for agencies.",
+  "pricing": "paid",
+  "tags": [
+   "social media automation",
+   "content generation",
+   "agency tools",
+   "ad creatives",
+   "content scheduling",
+   "white label"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brandblast.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brandfort",
+  "name": "Brandfort.co",
+  "logo": "/logos/brandfort.png",
+  "company": "BrandFort",
+  "category": "marketing-sales",
+  "subcategory": "marketing-sales",
+  "shortDescription": "AI social-media comment moderation.",
+  "pricing": "freemium",
+  "tags": [
+   "moderation",
+   "social-media",
+   "community"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brandfort.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brandlife",
+  "name": "BrandLife",
+  "logo": "/logos/brandlife.png",
+  "company": "BrandLife",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI-powered digital asset management workspace for organizing and sharing brand content.",
+  "pricing": "paid",
+  "tags": [
+   "digital asset management",
+   "brand management",
+   "ai search",
+   "marketing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brandlife.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brandwiz",
+  "name": "Brandwiz",
+  "logo": "/logos/brandwiz.png",
+  "company": "Zocket",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI-powered social media content moderation that automatically detects and removes toxic comments, spam, and hate speech.",
+  "pricing": "paid",
+  "tags": [
+   "content moderation",
+   "brand safety",
+   "social media",
+   "comment filtering",
+   "reputation management",
+   "influencers"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brandwiz.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "brightstage-ai",
+  "name": "BrightStage AI",
+  "logo": "/logos/brightstage-ai.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Autonomous AI webinar and sales platform that sells on autopilot.",
+  "pricing": "freemium",
+  "tags": [
+   "sales",
+   "webinar",
+   "ai-agent",
+   "lead-generation",
+   "automation"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://brightstageai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "broadn",
+  "name": "Broadn",
+  "logo": "/logos/broadn.png",
+  "company": "Broadn",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "AI chat agent that turns manufacturing RFQs and emails into quotes and orders.",
+  "pricing": "paid",
+  "tags": [
+   "sales",
+   "manufacturing",
+   "rfq",
+   "quotes",
+   "ai-agent"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.broadn.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "buffer",
+  "name": "Buffer AI",
+  "logo": "/logos/buffer.png",
+  "company": "Buffer",
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "Plan and publish social posts across 12+ networks with an AI assistant that drafts and rewrites captions on any plan, including free.",
+  "pricing": "freemium",
+  "tags": [
+   "social-media-scheduling",
+   "ai-captions",
+   "social-inbox",
+   "analytics",
+   "link-in-bio",
+   "content-calendar",
+   "team-collaboration",
+   "mcp-api"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://buffer.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "buyertwin",
+  "name": "BuyerTwin",
+  "logo": "/logos/buyertwin.png",
+  "company": "BuyerTwin",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI virtual buyer-persona twins for instant customer feedback",
+  "pricing": "paid",
+  "tags": [
+   "buyer-personas",
+   "market-research",
+   "feedback",
+   "marketing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://buyertwin.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "buzzabout-ai",
+  "name": "BuzzAbout AI",
+  "logo": "/logos/buzzabout-ai.png",
+  "company": "Buzzabout",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI social intelligence platform for audience research and brand monitoring.",
+  "pricing": "freemium",
+  "tags": [
+   "social listening",
+   "audience research",
+   "brand monitoring",
+   "competitive intelligence"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://buzzabout.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "buzzclip",
+  "name": "BuzzClip",
+  "logo": "/logos/buzzclip.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "AI UGC-style short-video clips with direct TikTok publishing.",
+  "pricing": "paid",
+  "tags": [
+   "ugc",
+   "short-video",
+   "tiktok",
+   "ad-creatives"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.buzzclip.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "callrail",
+  "name": "CallRail",
+  "logo": "/logos/callrail.png",
+  "company": "CallRail",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Call tracking platform with AI conversation intelligence — summaries, sentiment, and conversion tagging on every call.",
+  "pricing": "paid",
+  "tags": [
+   "call tracking",
+   "conversation intelligence",
+   "sentiment analysis",
+   "call attribution",
+   "lead tracking",
+   "conversion tagging",
+   "call summaries",
+   "marketing analytics"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.callrail.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "calltrack",
+  "name": "CallTrack",
+  "logo": "/logos/calltrack.png",
+  "company": "CallTrack.ai",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI call tracking and conversation intelligence for marketers — dynamic number insertion, transcription and attribution.",
+  "pricing": "paid",
+  "tags": [
+   "call tracking",
+   "marketing attribution",
+   "conversation intelligence",
+   "lead scoring",
+   "IVR"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://calltrack.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "calton-datx",
+  "name": "Calton Datx",
+  "logo": "/logos/calton-datx.png",
+  "company": "NYXSYS",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI audience measurement for outdoor and digital-out-of-home advertising.",
+  "pricing": "paid",
+  "tags": [
+   "ooh",
+   "advertising",
+   "audience-measurement",
+   "computer-vision"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://caltondatx.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "calven",
+  "name": "Calven",
+  "logo": "/logos/calven.png",
+  "company": "Calven AI, LLC",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "Nine AI product-marketing agents — competitive intel, win/loss, ICP, personas, messaging — on one shared source of truth.",
+  "pricing": "paid",
+  "tags": [
+   "product-marketing",
+   "competitive-intelligence",
+   "win-loss",
+   "personas",
+   "messaging",
+   "ai-agents",
+   "mcp",
+   "pmm"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://calven.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "cartpilot",
+  "name": "CartPilot",
+  "logo": "/logos/cartpilot.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "AI salesperson for online stores that chats, recommends and checks out shoppers.",
+  "pricing": "paid",
+  "tags": [
+   "ecommerce",
+   "ai-sales-agent",
+   "shopify",
+   "woocommerce",
+   "chat",
+   "cart-recovery",
+   "recommendations"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://cartpilot.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatboq",
+  "name": "Chatboq",
+  "logo": "/logos/chatboq.png",
+  "company": "Chatboq",
+  "category": "marketing-sales",
+  "subcategory": "ecommerce",
+  "shortDescription": "No-code AI chatbot builder for ecommerce stores.",
+  "pricing": "freemium",
+  "tags": [
+   "chatbot",
+   "ecommerce",
+   "customer support",
+   "no code"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chatboq.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chatmaxima",
+  "name": "ChatMaxima",
+  "logo": "/logos/chatmaxima.png",
+  "company": "ChatMaxima",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "No-code AI chatbot builder with omnichannel deployment across WhatsApp, Instagram, Messenger, and web.",
+  "pricing": "paid",
+  "tags": [
+   "chatbot builder",
+   "no-code",
+   "WhatsApp",
+   "customer support",
+   "lead generation",
+   "omnichannel",
+   "AI chatbot"
+  ],
+  "platforms": [
+   "web",
+   "whatsapp"
+  ],
+  "officialUrl": "https://chatmaxima.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chattermate",
+  "name": "ChatterMate",
+  "logo": "/logos/chattermate.png",
+  "company": "ninetu",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Open-source AI customer support platform with human handoff and self-hosting.",
+  "pricing": "open-source",
+  "tags": [
+   "customer-support",
+   "chatbot",
+   "intercom-alternative",
+   "self-hosted",
+   "handoff"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://github.com/ninetu/chattermate.chat",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "checkstep",
+  "name": "Checkstep",
+  "logo": "/logos/checkstep.png",
+  "company": "Checkstep Limited",
+  "category": "marketing-sales",
+  "subcategory": "marketing-seo",
+  "shortDescription": "AI content moderation platform for trust and safety: policy engine, multi-modal scanning and compliance.",
+  "pricing": "paid",
+  "tags": [
+   "content-moderation",
+   "trust-and-safety",
+   "ai-moderation",
+   "policy-engine",
+   "compliance",
+   "dsa",
+   "ugc",
+   "enterprise"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.checkstep.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chirpy",
+  "name": "Chirpy",
+  "logo": "/logos/chirpy.png",
+  "company": null,
+  "category": "marketing-sales",
+  "subcategory": "social-media",
+  "shortDescription": "Calm AI social media OS that turns one idea into scheduled, on-brand posts everywhere.",
+  "pricing": "paid",
+  "tags": [
+   "social-media",
+   "content-calendar",
+   "scheduling",
+   "brand-voice",
+   "ai-copywriting",
+   "carousels",
+   "analytics",
+   "teams"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://chirpy.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "chorus-by-zoominfo",
+  "name": "Chorus (by ZoomInfo)",
+  "logo": "/logos/chorus-by-zoominfo.png",
+  "company": "ZoomInfo",
+  "category": "marketing-sales",
+  "subcategory": "sales",
+  "shortDescription": "Conversation intelligence built into ZoomInfo's GTM platform — call analysis fused with contact data and intent signals.",
+  "pricing": "paid",
+  "tags": [
+   "conversation intelligence",
+   "call analytics",
+   "zoominfo",
+   "deal intelligence",
+   "coaching",
+   "meddic",
+   "sales methodology",
+   "gtm"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://www.zoominfo.com/products/chorus",
+  "affiliateUrl": null
+ }
+]

@@ -1,0 +1,2242 @@
+[
+ {
+  "slug": "diagrimo",
+  "name": "Diagrimo",
+  "logo": "/logos/diagrimo.png",
+  "company": "Tenorshare Co. Ltd",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Turn text into flowcharts, mind maps and diagrams with AI.",
+  "pricing": "freemium",
+  "tags": [
+   "diagram",
+   "flowchart",
+   "mind map",
+   "text-to-diagram",
+   "visualization"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.tenorshare.ai/diagrimo.html",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diffus",
+  "name": "Diffus",
+  "logo": "/logos/diffus.png",
+  "company": "Graviti",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Cloud Stable Diffusion workspace with 70,000+ models.",
+  "pricing": "freemium",
+  "tags": [
+   "stable-diffusion",
+   "image-generation",
+   "comfyui",
+   "graviti-diffus"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.diffus.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diffusers",
+  "name": "Diffusers",
+  "logo": "/logos/diffusers.png",
+  "company": "Hugging Face",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Hugging Face's open-source image generation app for iOS and Mac.",
+  "pricing": "open-source",
+  "tags": [
+   "stable diffusion",
+   "ios app",
+   "open source",
+   "on-device ai"
+  ],
+  "platforms": [
+   "ios",
+   "macos"
+  ],
+  "officialUrl": "https://apps.apple.com/app/diffusers/id1666309574",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diffusion-art",
+  "name": "Diffusion Art",
+  "logo": "/logos/diffusion-art.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Free AI art generator with hosted Stable Diffusion models, no signup.",
+  "pricing": "free",
+  "tags": [
+   "ai art",
+   "stable diffusion",
+   "free image generator",
+   "no signup"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://diffusionart.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "diffusionbee",
+  "name": "DiffusionBee",
+  "logo": "/logos/diffusionbee.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Free Stable Diffusion app for macOS.",
+  "pricing": "free",
+  "tags": [
+   "stable diffusion",
+   "mac app",
+   "local ai",
+   "free ai art"
+  ],
+  "platforms": [
+   "macos"
+  ],
+  "officialUrl": "https://diffusionbee.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "doppl",
+  "name": "Doppl",
+  "logo": "/logos/doppl.png",
+  "company": "Google",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "Google Labs' free experimental app that virtually tries outfits on your digital twin with AI-generated videos.",
+  "pricing": "free",
+  "tags": [
+   "fashion",
+   "virtual-try-on",
+   "google",
+   "digital-twin",
+   "ai-video",
+   "mobile-app",
+   "shopping"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://labs.google/doppl",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "draftaid",
+  "name": "DraftAid",
+  "logo": "/logos/draftaid.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI design assistant that helps generate and refine visual design work.",
+  "pricing": "freemium",
+  "tags": [
+   "design",
+   "ai assistant",
+   "cad",
+   "creative"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://draftaid.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "draw3d",
+  "name": "Draw3D",
+  "logo": "/logos/draw3d.png",
+  "company": "Kites.Dev",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "Create 3D art and scenes with AI assistance",
+  "pricing": "freemium",
+  "tags": [
+   "3D",
+   "AI art",
+   "design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://draw3d.online",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dream-by-wombo",
+  "name": "Dream",
+  "logo": "/logos/dream-by-wombo.png",
+  "company": "WOMBO",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI art generator app that turns text prompts into vivid stylized artwork.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-art",
+   "text-to-image",
+   "mobile-app",
+   "wombo"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://dream.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dreamhouse-ai",
+  "name": "Dreamhouse AI",
+  "logo": "/logos/dreamhouse-ai.png",
+  "company": "Dreamhouse AI",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Upload a room or exterior photo and get a 20+ style AI redesign with chat refinement, product finder and 4x upscaling.",
+  "pricing": "freemium",
+  "tags": [
+   "interior-design",
+   "exterior-design",
+   "room-redesign",
+   "ai-chat",
+   "product-finder",
+   "upscaling",
+   "virtual-staging"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dreamhouseai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dreamlook-ai",
+  "name": "Dreamlook.ai",
+  "logo": "/logos/dreamlook-ai.png",
+  "company": "Dreamlook",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "AI avatar and selfie generator that creates professional headshots and stylized portraits.",
+  "pricing": "freemium",
+  "tags": [
+   "avatars",
+   "headshots",
+   "selfies",
+   "profile pictures"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dreamlook.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dreamphilic",
+  "name": "Dreamphilic",
+  "logo": "/logos/dreamphilic.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI art sharing community and portfolio platform.",
+  "pricing": "freemium",
+  "tags": [
+   "ai art",
+   "community",
+   "portfolio",
+   "social"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://dreamphilic.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dreamwave",
+  "name": "DreamWave",
+  "logo": "/logos/dreamwave.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "Studio-grade AI headshots from a single selfie, with unlimited styles and team-wide headshot automation.",
+  "pricing": "freemium",
+  "tags": [
+   "ai headshots",
+   "selfie headshots",
+   "team photos",
+   "corporate headshots",
+   "linkedin",
+   "profile pictures",
+   "enterprise",
+   "outfit swap"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.dreamwave.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "duix",
+  "name": "Duix",
+  "logo": "/logos/duix.png",
+  "company": "Duix",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "Open-source toolkit for offline AI avatar and digital-human video generation.",
+  "pricing": "open-source",
+  "tags": [
+   "avatars",
+   "digital humans",
+   "open source"
+  ],
+  "platforms": [
+   "windows",
+   "linux",
+   "api"
+  ],
+  "officialUrl": "https://duix.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "dzine-ai",
+  "name": "Dzine AI",
+  "logo": "/logos/dzine-ai.png",
+  "company": "Dzine",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "All-in-one AI platform for image generation, editing, and video creation.",
+  "pricing": "freemium",
+  "tags": [
+   "AI image editor",
+   "character consistency",
+   "AI video"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.dzine.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ecom-design-lab",
+  "name": "Ecom Design Lab",
+  "logo": "/logos/ecom-design-lab.png",
+  "company": "Ecom Design Lab",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "AI creative suite generating on-model try-ons, studio photos, and video ads for fashion brands from one product photo.",
+  "pricing": "paid",
+  "tags": [
+   "fashion",
+   "virtual-try-on",
+   "ai-models",
+   "product-photography",
+   "video-ads",
+   "shopify",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://ecomdesignlab.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "edited",
+  "name": "EDITED",
+  "logo": "/logos/edited.png",
+  "company": "EDITED",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "Retail intelligence platform using AI to track pricing, assortment, and market trends across global fashion retailers.",
+  "pricing": "paid",
+  "tags": [
+   "fashion",
+   "retail-intelligence",
+   "market-analytics",
+   "pricing",
+   "assortment",
+   "merchandising",
+   "competitor-tracking"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://edited.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "eler",
+  "name": "Eler",
+  "logo": "/logos/eler.png",
+  "company": "Eler",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Photorealistic renders from 3D models in about a minute.",
+  "pricing": "paid",
+  "tags": [
+   "3d rendering",
+   "architecture",
+   "photorealistic",
+   "visualization"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://eler.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "emojihi",
+  "name": "EmojiHi",
+  "logo": "/logos/emojihi.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI generator for custom Apple-style emojis.",
+  "pricing": "freemium",
+  "tags": [
+   "emoji",
+   "image-generation",
+   "fun"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://emojihi.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "enhancor",
+  "name": "Enhancor",
+  "logo": "/logos/enhancor.png",
+  "company": "Enhancor",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "AI image enhancer that makes portraits photorealistic with natural skin detail",
+  "pricing": "paid",
+  "tags": [
+   "image enhancer",
+   "upscaler",
+   "skin texture",
+   "ai portraits"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://enhancor.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "epik",
+  "name": "EPIK",
+  "logo": "/logos/epik.png",
+  "company": "SNOW Corp",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "AI photo and video editor by SNOW Corp, famous for its viral 90s-style AI Yearbook portraits.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-yearbook",
+   "ai-photo-editor",
+   "ai-portraits",
+   "video-editor",
+   "retro-photos",
+   "skin-retouching",
+   "hairstyle-changer"
+  ],
+  "platforms": [
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://epik.snow.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "everart",
+  "name": "EverArt",
+  "logo": "/logos/everart.png",
+  "company": "EverArt",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Train custom AI image models on your brand style for on-brand visuals.",
+  "pricing": "paid",
+  "tags": [
+   "brand imagery",
+   "custom models",
+   "marketing visuals",
+   "fine-tuning"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.everart.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "evoto-ai",
+  "name": "Evoto AI",
+  "logo": "/logos/evoto-ai.png",
+  "company": "Evoto",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "End-to-end AI photo workflow: culling, per-face retouching and batch delivery",
+  "pricing": "freemium",
+  "tags": [
+   "portrait-retouching",
+   "photo-culling",
+   "batch-editing",
+   "wedding-photography",
+   "skin-retouch",
+   "tethered-shooting",
+   "credits",
+   "cross-platform"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.evoto.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "exactly-ai",
+  "name": "Exactly.ai",
+  "logo": "/logos/exactly-ai.png",
+  "company": "Exactly.ai",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Ethical AI image platform for artists to train models on their own artwork.",
+  "pricing": "freemium",
+  "tags": [
+   "ai art",
+   "image generation",
+   "ethical ai",
+   "artists",
+   "custom models"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://exactly.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "expression-editor",
+  "name": "Expression Editor",
+  "logo": "/logos/expression-editor.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "Free AI tool for editing facial expressions in portraits with precise slider controls.",
+  "pricing": "free",
+  "tags": [
+   "facial expression",
+   "photo editing",
+   "portraits",
+   "hugging face"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://huggingface.co/spaces/fffiloni/expression-editor",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "extendimageai",
+  "name": "ExtendImageAI",
+  "logo": "/logos/extendimageai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "AI image outpainting that expands photos beyond their borders.",
+  "pricing": "freemium",
+  "tags": [
+   "outpainting",
+   "image-expansion",
+   "generative-fill",
+   "photo-editing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.extendimage.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "face-mix",
+  "name": "Face Mix",
+  "logo": "/logos/face-mix.png",
+  "company": "Playform",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Playform's no-code AI tool for mixing, editing, and morphing faces.",
+  "pricing": "freemium",
+  "tags": [
+   "face mix",
+   "face morph",
+   "generative art",
+   "playform",
+   "character design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://playform.io/facemix",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "face-studio",
+  "name": "Face Studio",
+  "logo": "/logos/face-studio.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "AI headshot generator for professional portraits from selfies.",
+  "pricing": "freemium",
+  "tags": [
+   "headshots",
+   "ai portraits",
+   "avatars",
+   "linkedin",
+   "photography"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://facestudio.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "face-swap-by-akool",
+  "name": "Face Swap by Akool",
+  "logo": "/logos/face-swap-by-akool.png",
+  "company": "Akool",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "AI face swapper for photos and videos with age adjustment, from the Akool platform.",
+  "pricing": "freemium",
+  "tags": [
+   "face-swap",
+   "deepfake",
+   "photo-editing",
+   "video"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://akool.com/apps/faceswap",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "faceswapper",
+  "name": "FaceSwapper",
+  "logo": "/logos/faceswapper.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "Free AI face swap tool for swapping faces in photos and videos",
+  "pricing": "free",
+  "tags": [
+   "face swap",
+   "deepfake",
+   "photo fun",
+   "video editing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://faceswapper.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "facevary",
+  "name": "FaceVary",
+  "logo": "/logos/facevary.png",
+  "company": "Remaker AI",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "AI face-swapping tool for photos and videos.",
+  "pricing": "paid",
+  "tags": [
+   "face swap",
+   "photo editing",
+   "video editing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://remaker.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fenestra",
+  "name": "Fenestra",
+  "logo": "/logos/fenestra.png",
+  "company": "Fenestra",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI architectural rendering tool that turns sketches into polished visuals.",
+  "pricing": "freemium",
+  "tags": [
+   "architectural rendering",
+   "interior design",
+   "visualization"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://fenestra.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "feng-my-shui",
+  "name": "Feng My Shui",
+  "logo": "/logos/feng-my-shui.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI image generator blending multiple models in a single run.",
+  "pricing": "freemium",
+  "tags": [
+   "image-generation",
+   "midjourney",
+   "stable-diffusion"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://fengmyshui.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "figcanvas",
+  "name": "FigCanvas",
+  "logo": "/logos/figcanvas.png",
+  "company": "FigCanvas",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI generator of publication-ready scientific illustrations, flowcharts, and data visualizations.",
+  "pricing": "freemium",
+  "tags": [
+   "scientific figures",
+   "data visualization",
+   "illustration",
+   "research",
+   "vector"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://figcanvas.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "figma-ai",
+  "name": "Figma AI",
+  "logo": "/logos/figma-ai.png",
+  "company": "Figma",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Figma's native AI layer: a canvas agent, prompt-to-prototype Make, and model workflows built into the design platform on a shared AI-credit system.",
+  "pricing": "freemium",
+  "tags": [
+   "ui design",
+   "ux design",
+   "prototyping",
+   "figma",
+   "design systems",
+   "ai agent",
+   "wireframing",
+   "developer handoff"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.figma.com/ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "figr",
+  "name": "Figr",
+  "logo": "/logos/figr.png",
+  "company": "Figr",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI product design agent that learns your live product and generates on-brand UX flows and prototypes.",
+  "pricing": "freemium",
+  "tags": [
+   "ui-design",
+   "ux",
+   "figma",
+   "prototyping",
+   "design-system",
+   "product-design",
+   "ai-agent",
+   "design"
+  ],
+  "platforms": [
+   "web",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://figr.design",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fill-3d",
+  "name": "Fill 3D",
+  "logo": "/logos/fill-3d.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "AI that virtually stages rooms from a text prompt using 3D-aware path tracing.",
+  "pricing": "freemium",
+  "tags": [
+   "virtual staging",
+   "real estate",
+   "generative fill",
+   "text-to-3D",
+   "interior design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://fill3d.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "findmine",
+  "name": "FindMine",
+  "logo": "/logos/findmine.png",
+  "company": "FindMine",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "AI outfitting platform that automatically builds shoppable complete-the-look recommendations for fashion retailers.",
+  "pricing": "paid",
+  "tags": [
+   "fashion",
+   "outfit-recommendations",
+   "complete-the-look",
+   "styling",
+   "ecommerce",
+   "merchandising",
+   "personalization"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://findmine.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fit-analytics",
+  "name": "Fit Analytics",
+  "logo": "/logos/fit-analytics.png",
+  "company": "Fit Analytics",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "Machine-learning size recommendation platform for apparel brands, built on two decades of fit and returns data.",
+  "pricing": "paid",
+  "tags": [
+   "fashion",
+   "size-recommendation",
+   "machine-learning",
+   "fit-intelligence",
+   "ecommerce",
+   "returns-reduction",
+   "retail"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://fitanalytics.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fit-match",
+  "name": "Fit:match",
+  "logo": "/logos/fit-match.png",
+  "company": "Fit:match",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "LiDAR-powered 3D body-shape fit matching that pairs shoppers with a digital twin instead of measurements.",
+  "pricing": "paid",
+  "tags": [
+   "fashion",
+   "lidar",
+   "3d-body-scan",
+   "digital-twin",
+   "fit-matching",
+   "bra-fitting",
+   "in-store"
+  ],
+  "platforms": [
+   "web",
+   "ios"
+  ],
+  "officialUrl": "https://fitmatch.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flair-ai",
+  "name": "Flair",
+  "logo": "/logos/flair-ai.png",
+  "company": "Flair",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI product photography with drag-and-drop staging.",
+  "pricing": "freemium",
+  "tags": [
+   "product-photography",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://flair.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "floor-plan-ai",
+  "name": "Floor Plan AI",
+  "logo": "/logos/floor-plan-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Turns plain-English text into 2D floor plans and downloadable 3D models.",
+  "pricing": "freemium",
+  "tags": [
+   "floor plans",
+   "2d design",
+   "3d models",
+   "text to image",
+   "architecture"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://floorplanai.net",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "floorplanner",
+  "name": "Floorplanner",
+  "logo": "/logos/floorplanner.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Browser-based floor plan tool with a full-featured free editor; exports and HD renders are credit-based.",
+  "pricing": "freemium",
+  "tags": [
+   "floor-plans",
+   "home-design",
+   "2d-drawing",
+   "3d-visualization",
+   "interior-design",
+   "real-estate",
+   "browser-based",
+   "templates"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://floorplanner.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flora-ai",
+  "name": "Flora AI",
+  "logo": "/logos/flora-ai.png",
+  "company": "Flora",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Node-based AI creative canvas chaining 50+ models for image, video, and text workflows.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-canvas",
+   "multi-model",
+   "creative-workflow",
+   "design-collaboration"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://flora.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "flux-playground",
+  "name": "Flux Playground",
+  "logo": "/logos/flux-playground.png",
+  "company": "Black Forest Labs",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Official Black Forest Labs playground for FLUX image generation and editing.",
+  "pricing": "freemium",
+  "tags": [
+   "image generation",
+   "flux",
+   "playground"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://playground.bfl.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fontdance",
+  "name": "FontDance",
+  "logo": "/logos/fontdance.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI font generator creating real, typeable TTF and WOFF2 fonts from prompts.",
+  "pricing": "freemium",
+  "tags": [
+   "font-generator",
+   "typography",
+   "design",
+   "branding",
+   "ttf"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://fontdance.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fontis-ai",
+  "name": "Fontis.ai",
+  "logo": "/logos/fontis-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI art generator with print-on-demand built in",
+  "pricing": "freemium",
+  "tags": [
+   "AI art",
+   "print on demand",
+   "merch"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://fontis.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fontjoy",
+  "name": "Fontjoy",
+  "logo": "/logos/fontjoy.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Deep-learning font pairing tool that generates complementary font combinations in one click.",
+  "pricing": "free",
+  "tags": [
+   "fonts",
+   "typography",
+   "font-pairing",
+   "design-tools",
+   "open-source"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://fontjoy.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "form3d",
+  "name": "Form3D",
+  "logo": "/logos/form3d.png",
+  "company": "Form3D",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "AI SketchUp extension that turns furniture product links into ready 3D models.",
+  "pricing": "paid",
+  "tags": [
+   "3d modeling",
+   "sketchup",
+   "interior design",
+   "furniture",
+   "architects"
+  ],
+  "platforms": [
+   "windows",
+   "macos"
+  ],
+  "officialUrl": "https://form3d.io",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fotor-ai",
+  "name": "Fotor",
+  "logo": "/logos/fotor-ai.png",
+  "company": "Everimaging",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "All-in-one online photo editor with one-click AI retouch and design templates",
+  "pricing": "freemium",
+  "tags": [
+   "photo-editor",
+   "ai-retouch",
+   "background-removal",
+   "image-generator",
+   "collage",
+   "filters",
+   "design-templates",
+   "batch-editing"
+  ],
+  "platforms": [
+   "web",
+   "windows",
+   "macos",
+   "ios",
+   "android",
+   "api"
+  ],
+  "officialUrl": "https://www.fotor.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fotor-ai-headshot",
+  "name": "Fotor AI Headshot Generator",
+  "logo": "/logos/fotor-ai-headshot.png",
+  "company": "Fotor",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "AI headshot add-on inside Fotor's free online photo editor, with one-time headshot packages.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-headshots",
+   "photo-editor",
+   "professional-headshots",
+   "team-headshots",
+   "linkedin-photos",
+   "image-editing"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.fotor.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "foyr-neo",
+  "name": "Foyr Neo",
+  "logo": "/logos/foyr-neo.png",
+  "company": "Foyr",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Browser-based interior design suite for pros: drag-and-drop 2D/3D plans, 60K+ assets, and fast photorealistic renders.",
+  "pricing": "paid",
+  "tags": [
+   "interior-design",
+   "3d-rendering",
+   "floor-plans",
+   "room-planner",
+   "virtual-staging",
+   "client-presentations",
+   "walkthroughs",
+   "contractors"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://foyr.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "furnimesh",
+  "name": "FurniMesh",
+  "logo": "/logos/furnimesh.png",
+  "company": "UAB FURNISYSTEMS",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Turn furniture photos into 3D models.",
+  "pricing": "freemium",
+  "tags": [
+   "3d models",
+   "furniture",
+   "interior design",
+   "photo to 3d"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://furnimesh.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "fuser",
+  "name": "Fuser",
+  "logo": "/logos/fuser.png",
+  "company": "Fuser",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Node-based canvas for building creative workflows across 327 AI models.",
+  "pricing": "freemium",
+  "tags": [
+   "creative workflow",
+   "multi-model",
+   "canvas",
+   "ai art"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://fuser.studio",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gemelo",
+  "name": "Gemelo",
+  "logo": "/logos/gemelo.png",
+  "company": "Gemelo",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "Create AI twin videos of yourself with cloned or library voices",
+  "pricing": "freemium",
+  "tags": [
+   "ai-avatar",
+   "video-generation",
+   "voice-cloning"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://gemelo.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "genaraera",
+  "name": "Genaraera",
+  "logo": "/logos/genaraera.png",
+  "company": "Genaraera",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI infographics generator that turns text, data or images into professional template-free visuals.",
+  "pricing": "paid",
+  "tags": [
+   "infographics",
+   "data visualization",
+   "design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://genaraera.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "geniea-ai",
+  "name": "Geniea",
+  "logo": "/logos/geniea-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI prompt optimizer with product-fidelity QA for ecommerce.",
+  "pricing": "freemium",
+  "tags": [
+   "prompt-optimizer",
+   "midjourney",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://geniea.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "genpire",
+  "name": "Genpire",
+  "logo": "/logos/genpire.png",
+  "company": "Genpire Labs Ltd",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "AI product-development platform for fashion and consumer-goods brands, from sketch to factory.",
+  "pricing": "paid",
+  "tags": [
+   "fashion tech",
+   "product development",
+   "apparel design",
+   "manufacturing",
+   "dtc brands"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://genpire.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gentype",
+  "name": "GenType",
+  "logo": "/logos/gentype.png",
+  "company": "Google",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Google Labs experiment that turns one text prompt into a complete AI-generated A-Z alphabet.",
+  "pricing": "free",
+  "tags": [
+   "typography",
+   "Google Labs",
+   "Imagen",
+   "alphabet generator",
+   "creative experiment"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://labs.google/gentype",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "gepetto-ai",
+  "name": "Gepetto AI",
+  "logo": "/logos/gepetto-ai.png",
+  "company": "Gepetto",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "French AI studio for real estate pros: virtual staging, room redesign, sky/weather edits and photo enhancement.",
+  "pricing": "freemium",
+  "tags": [
+   "virtual-staging",
+   "real-estate",
+   "photo-editing",
+   "interior-design",
+   "exterior-design",
+   "sky-replacement",
+   "photo-enhancement"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://gepettoapp.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "get-floor-plan",
+  "name": "Get Floor Plan",
+  "logo": "/logos/get-floor-plan.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI 2D/3D floor plan renders in 24 hours.",
+  "pricing": "paid",
+  "tags": [
+   "floor plans",
+   "3d renders",
+   "real estate",
+   "visualization"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://getfloorplan.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "glide-design-ai",
+  "name": "Glide Design AI",
+  "logo": "/logos/glide-design-ai.png",
+  "company": "GlideDesign",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI workspace turning a plain-English brief into strategy, high-fidelity screens, copy, and handoff notes.",
+  "pricing": "freemium",
+  "tags": [
+   "ui design",
+   "mockups",
+   "product copy",
+   "handoff",
+   "ai agents"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://glidedesign.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "google-pics",
+  "name": "Google Pics",
+  "logo": "/logos/google-pics.png",
+  "company": "Google",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "Google's Nano-Banana-powered AI image creator and editor built into Workspace.",
+  "pricing": "paid",
+  "tags": [
+   "image-generation",
+   "image-editing",
+   "nano-banana",
+   "google-workspace",
+   "object-editing",
+   "text-editing",
+   "upscaling",
+   "design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://pics.new",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "google-stitch",
+  "name": "Google Stitch",
+  "logo": "/logos/google-stitch.png",
+  "company": "Google",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "Google Labs' free AI UI design tool (formerly Galileo AI).",
+  "pricing": "free",
+  "tags": [
+   "ui design",
+   "text to ui",
+   "google labs",
+   "prototyping"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://stitch.withgoogle.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "graficai",
+  "name": "Graficai",
+  "logo": "/logos/graficai.png",
+  "company": "graficai",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "Free AI image upscaler to 4K with product-image tools for e-commerce sellers.",
+  "pricing": "freemium",
+  "tags": [
+   "image upscaler",
+   "photo enhancement",
+   "ecommerce",
+   "free tool"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://graficai.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "grainodm",
+  "name": "GrainODM",
+  "logo": "/logos/grainodm.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "AI grain-quality inspection that analyzes samples in seconds.",
+  "pricing": "paid",
+  "tags": [
+   "grain-inspection",
+   "agritech",
+   "computer-vision"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://grainodm.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "graphicinfo",
+  "name": "GraphicInfo",
+  "logo": "/logos/graphicinfo.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI infographic maker that turns text and links into polished visuals in one click.",
+  "pricing": "freemium",
+  "tags": [
+   "infographics",
+   "data visualization",
+   "content marketing",
+   "presentations"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://graphicinfo.cc",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "green-screen-ai",
+  "name": "Green Screen AI",
+  "logo": "/logos/green-screen-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI portraits and backgrounds without a physical green screen.",
+  "pricing": "free",
+  "tags": [
+   "portraits",
+   "backgrounds",
+   "ai-art"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://greenscreenai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hairstyle-ai",
+  "name": "Hairstyle AI",
+  "logo": "/logos/hairstyle-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI hairstyle try-on tool, $9 one-time.",
+  "pricing": "paid",
+  "tags": [
+   "hairstyle",
+   "virtual try-on",
+   "photo ai"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://hairstyleai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hama",
+  "name": "Hama",
+  "logo": "/logos/hama.png",
+  "company": "Sandoll Inc.",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "Free AI object removal for photos, by Sandoll.",
+  "pricing": "free",
+  "tags": [
+   "object removal",
+   "photo editing",
+   "inpainting",
+   "free tool"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://hama.app",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "handtext-ai",
+  "name": "HandText.ai",
+  "logo": "/logos/handtext-ai.png",
+  "company": "HandtextAI",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI text-to-handwriting converter with 90+ fonts and realistic effects",
+  "pricing": "freemium",
+  "tags": [
+   "handwriting",
+   "fonts",
+   "notes",
+   "documents"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://handtextai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hausey",
+  "name": "Hausey",
+  "logo": "/logos/hausey.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Upload a room photo and get up to ten interior design directions in under a minute.",
+  "pricing": "freemium",
+  "tags": [
+   "interior-design",
+   "virtual-staging",
+   "real-estate",
+   "room-redesign",
+   "remodeling",
+   "mls"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.hausey.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hautech-ai",
+  "name": "Hautech AI",
+  "logo": "/logos/hautech-ai.png",
+  "company": "Hautech AI",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "AI fashion photoshoots that generate product photos from simple inputs.",
+  "pricing": "freemium",
+  "tags": [
+   "fashion",
+   "product photography",
+   "AI photoshoot",
+   "ecommerce"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.hautech.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "havenly",
+  "name": "Havenly",
+  "logo": "/logos/havenly.png",
+  "company": "Havenly",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Online interior design service pairing you with a real designer at flat per-room rates, plus a free AI concept tool.",
+  "pricing": "freemium",
+  "tags": [
+   "interior designer",
+   "online design",
+   "edesign",
+   "flat-rate",
+   "3d rendering",
+   "shopping list",
+   "floor plan",
+   "room makeover"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://havenly.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "headshotpro",
+  "name": "HeadshotPro",
+  "logo": "/logos/headshotpro.png",
+  "company": "HeadshotPro",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "Turns selfies into studio-quality headshots; one HD photo is genuinely free with no sign-up.",
+  "pricing": "freemium",
+  "tags": [
+   "ai headshots",
+   "professional portraits",
+   "free headshot",
+   "linkedin photos",
+   "team headshots",
+   "profile pictures",
+   "photo editing"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.headshotpro.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "headshots-com",
+  "name": "Headshots.com AI Headshots",
+  "logo": "/logos/headshots-com.png",
+  "company": "Headshots.com",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "AI headshot tool that enhances a single selfie into studio-quality portraits in seconds.",
+  "pricing": "freemium",
+  "tags": [
+   "ai-headshots",
+   "professional-headshots",
+   "linkedin-photos",
+   "corporate-photos",
+   "team-headshots",
+   "profile-pictures"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://headshots.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "heropack",
+  "name": "HeroPack",
+  "logo": "/logos/heropack.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "Generate hero images and visual packs with AI",
+  "pricing": "paid",
+  "tags": [
+   "hero images",
+   "web design",
+   "visuals"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.heropack.me",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "heuritech",
+  "name": "Heuritech",
+  "logo": "/logos/heuritech.png",
+  "company": "Heuritech",
+  "category": "image-design",
+  "subcategory": "fashion",
+  "shortDescription": "AI trend-forecasting platform analyzing social media imagery to predict fashion trends before they hit the market.",
+  "pricing": "paid",
+  "tags": [
+   "fashion",
+   "trend-forecasting",
+   "market-intelligence",
+   "computer-vision",
+   "social-listening",
+   "retail-analytics",
+   "ai-predictions"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://heuritech.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "heyphoto",
+  "name": "HeyPhoto",
+  "logo": "/logos/heyphoto.png",
+  "company": "HeyPhoto",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "AI photo enhancer and background editor.",
+  "pricing": "freemium",
+  "tags": [
+   "photo-editing",
+   "background-remover",
+   "image-enhancement"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://hey-photo.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hippo-ai",
+  "name": "Hippo AI",
+  "logo": "/logos/hippo-ai.png",
+  "company": "Hippo AI",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Figma plugin that generates web-tailored vector illustrations plus AI image transforms.",
+  "pricing": null,
+  "tags": [
+   "figma",
+   "vector illustrations",
+   "image generation",
+   "background removal",
+   "upscaling"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://hippo.art",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hitpaw-ai-art-generator",
+  "name": "HitPaw AI Art Generator",
+  "logo": "/logos/hitpaw-ai-art-generator.png",
+  "company": "HitPaw",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "HitPaw's AI art generator across web, mobile, and browser extension.",
+  "pricing": "freemium",
+  "tags": [
+   "text-to-image",
+   "ai-art",
+   "hitpaw",
+   "mobile-app"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android",
+   "chrome-extension"
+  ],
+  "officialUrl": "https://www.hitpaw.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hitpaw-fotorpea",
+  "name": "HitPaw FotorPea",
+  "logo": "/logos/hitpaw-fotorpea.png",
+  "company": "HitPaw",
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "All-in-one desktop AI photo enhancer, restorer, editor and generator",
+  "pricing": "paid",
+  "tags": [
+   "photo-enhancer",
+   "photo-restoration",
+   "upscaling",
+   "denoising",
+   "portrait-beautify",
+   "image-generation",
+   "desktop",
+   "offline"
+  ],
+  "platforms": [
+   "windows",
+   "macos",
+   "web"
+  ],
+  "officialUrl": "https://www.hitpaw.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "homedesigns-ai",
+  "name": "HomeDesigns AI",
+  "logo": "/logos/homedesigns-ai.png",
+  "company": "HomeDesigns AI",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "AI redesign for interiors, exteriors and gardens from one photo — with structure-lock, virtual staging, 2D-to-3D plans and video walkthroughs.",
+  "pricing": "freemium",
+  "tags": [
+   "interior-design",
+   "exterior-design",
+   "garden-design",
+   "virtual-staging",
+   "floor-plan",
+   "video-walkthrough",
+   "furniture-finder",
+   "api"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android",
+   "api"
+  ],
+  "officialUrl": "https://homedesigns.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "homestyler",
+  "name": "Homestyler",
+  "logo": "/logos/homestyler.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Free web and mobile interior design tool with 2D/3D floor plans, a 100K+ model library, and fast 4K cloud renders.",
+  "pricing": "freemium",
+  "tags": [
+   "interior-design",
+   "home-design",
+   "floor-plans",
+   "3d-rendering",
+   "room-planner",
+   "ai-design",
+   "furniture-catalog",
+   "cad-export"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "android"
+  ],
+  "officialUrl": "https://www.homestyler.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "home-visualizer-ai",
+  "name": "HomeVisualizer AI",
+  "logo": "/logos/home-visualizer-ai.png",
+  "company": "Dream Render AI LLC",
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "Browser-based AI visualizer for interiors, exteriors, real paint colors, kitchens, and landscapes.",
+  "pricing": "freemium",
+  "tags": [
+   "paint visualizer",
+   "exterior design",
+   "kitchen remodel",
+   "landscape design",
+   "virtual staging",
+   "sketch to render",
+   "home renovation",
+   "curb appeal"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.homevisualizer.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hotpot-art-generator",
+  "name": "Hotpot Art Generator",
+  "logo": "/logos/hotpot-art-generator.png",
+  "company": "Hotpot AI",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI art suite: text-to-art, headshots, and photo tools.",
+  "pricing": "freemium",
+  "tags": [
+   "image-generation",
+   "headshots",
+   "photo-editing"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://hotpot.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "hour-one",
+  "name": "Hour One",
+  "logo": "/logos/hour-one.png",
+  "company": "Hour One",
+  "category": "image-design",
+  "subcategory": "avatars",
+  "shortDescription": "Text-to-video platform with lifelike virtual presenters for training, HR, and sales videos.",
+  "pricing": "freemium",
+  "tags": [
+   "ai avatars",
+   "virtual presenters",
+   "text to video",
+   "training videos",
+   "video translation",
+   "custom avatars",
+   "corporate video",
+   "ai narrator"
+  ],
+  "platforms": [
+   "web",
+   "ios",
+   "api"
+  ],
+  "officialUrl": "https://hourone.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "housegpts",
+  "name": "HouseGPTs",
+  "logo": "/logos/housegpts.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "interior-design",
+  "shortDescription": "AI home-design studio that turns photos of real rooms into photorealistic redesigns in seconds.",
+  "pricing": "freemium",
+  "tags": [
+   "interior design",
+   "home renovation",
+   "ai room designer",
+   "virtual staging",
+   "real estate"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://housegpts.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "iconify-ai",
+  "name": "Iconify AI",
+  "logo": "/logos/iconify-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "AI app-icon generator with credit-pack pricing.",
+  "pricing": "paid",
+  "tags": [
+   "app-icons",
+   "logo-design",
+   "developers",
+   "ai-design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.iconifyai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "iconik-ai",
+  "name": "Iconik AI",
+  "logo": "/logos/iconik-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Generate beautiful app icons with AI, paying only for what you download.",
+  "pricing": "freemium",
+  "tags": [
+   "icons",
+   "design",
+   "app-development",
+   "logo"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://iconikai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "iconkit",
+  "name": "IconKit",
+  "logo": "/logos/iconkit.png",
+  "company": "IconKit",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI icon generator for apps, projects, and Discord servers.",
+  "pricing": "paid",
+  "tags": [
+   "icon generator",
+   "app icons",
+   "design"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://iconkit.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "iconlab-ai",
+  "name": "IconLab AI",
+  "logo": "/logos/iconlab-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI generator for unique, high-definition app icons with commercial rights.",
+  "pricing": "paid",
+  "tags": [
+   "app icons",
+   "logo design",
+   "branding",
+   "generative art",
+   "design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://iconlabai.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "iconly",
+  "name": "Iconly",
+  "logo": "/logos/iconly.png",
+  "company": "Iconly",
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "AI design platform for icons, vectors, social graphics, and email templates.",
+  "pricing": "paid",
+  "tags": [
+   "icons",
+   "design",
+   "svg",
+   "branding"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://iconly.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ideatum-ai",
+  "name": "Ideatum.ai",
+  "logo": "/logos/ideatum-ai.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "design",
+  "shortDescription": "Generates color palettes, font pairings, mood boards, and style guides from a text prompt.",
+  "pricing": "free",
+  "tags": [
+   "branding",
+   "color palettes",
+   "typography",
+   "mood boards"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://www.ideatum.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ideogram",
+  "name": "Ideogram",
+  "logo": "/logos/ideogram.png",
+  "company": "Ideogram",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI image generator built for accurate, readable text inside images — logos, posters, and graphics.",
+  "pricing": "freemium",
+  "tags": [
+   "text-to-image",
+   "typography",
+   "text-rendering",
+   "logos",
+   "posters",
+   "marketing-graphics",
+   "api",
+   "design-tools"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://ideogram.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "illusiondiffusion",
+  "name": "IllusionDiffusion",
+  "logo": "/logos/illusiondiffusion.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI generator for optical-illusion and hidden-image art.",
+  "pricing": "paid",
+  "tags": [
+   "optical-illusion",
+   "art",
+   "hidden-image"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://illusiondiffusion.net",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "illustrae",
+  "name": "Illustrae",
+  "logo": "/logos/illustrae.png",
+  "company": "Illustrae",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI generator for clean, publication-ready scientific illustrations.",
+  "pricing": "freemium",
+  "tags": [
+   "scientific-illustration",
+   "research",
+   "academic"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://illustrae.co",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "illustroke",
+  "name": "Illustroke",
+  "logo": "/logos/illustroke.png",
+  "company": "Digitalbore OU",
+  "category": "image-design",
+  "subcategory": "image-design",
+  "shortDescription": "Text-to-vector SVG generator with 40+ styles.",
+  "pricing": "freemium",
+  "tags": [
+   "vector",
+   "svg",
+   "illustration",
+   "text to image"
+  ],
+  "platforms": [
+   "web",
+   "api"
+  ],
+  "officialUrl": "https://illustroke.com",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "ilus-ai",
+  "name": "Ilus AI",
+  "logo": "/logos/ilus-ai.png",
+  "company": "Ilus AI",
+  "category": "image-design",
+  "subcategory": "image-generation",
+  "shortDescription": "AI illustration generator for stylistically consistent artwork.",
+  "pricing": "paid",
+  "tags": [
+   "illustrations",
+   "vector art",
+   "brand visuals",
+   "design"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://ilus.ai",
+  "affiliateUrl": null
+ },
+ {
+  "slug": "image-describer",
+  "name": "Image Describer",
+  "logo": "/logos/image-describer.png",
+  "company": null,
+  "category": "image-design",
+  "subcategory": "photo-editing",
+  "shortDescription": "Browser-based AI that describes images, writes alt text, extracts text, and drafts captions.",
+  "pricing": "freemium",
+  "tags": [
+   "image analysis",
+   "alt text",
+   "ocr",
+   "accessibility"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "officialUrl": "https://imagedescriber.dev",
+  "affiliateUrl": null
+ }
+]

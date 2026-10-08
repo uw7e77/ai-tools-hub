@@ -1,0 +1,1504 @@
+{
+ "curiso-ai": {
+  "verdict": "Infinite-canvas AI workspace for node-based chats across many models.",
+  "overview": [
+   "Curiso.ai is an infinite-canvas workspace where users run AI conversations as connected nodes instead of linear chats. It supports multiple providers including OpenAI, Anthropic, Google, xAI, and Groq, plus local models and RAG over documents. A 3-day free trial opens the full feature set, with paid plans from $10 a month."
+  ],
+  "features": [
+   "Infinite canvas workspace",
+   "Multi-provider model support",
+   "RAG documents",
+   "Node-based conversations"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dailybot": {
+  "verdict": "AI standup and check-in bot for Slack, Teams, and Google Chat.",
+  "overview": [
+   "DailyBot automates team standups, check-ins, and reports inside Slack, Microsoft Teams, and Google Chat, with AI features for summarizing updates. It offers a free tier with paid plans for larger teams, aimed at remote teams replacing manual status meetings."
+  ],
+  "features": [
+   "Async standups in chat apps",
+   "AI summaries of team updates",
+   "Check-ins and polls",
+   "Reports and analytics",
+   "Integrations with Slack and Teams"
+  ],
+  "pros": [
+   "Reduces meeting load",
+   "AI summaries save reading time",
+   "Works where teams already chat"
+  ],
+  "cons": [
+   "Free tier is limited",
+   "Adoption needs team buy-in",
+   "Many competitors"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dante-ai": {
+  "verdict": "No-code builder for custom GPT chatbots with voice and WhatsApp support.",
+  "overview": [
+   "Dante AI lets businesses build custom GPT chatbots trained on their own content, with no coding required. The bots can be embedded on websites, deployed to WhatsApp, enhanced with voice agents, and connected via API. A WordPress plugin makes it easy for site owners to add AI chat, and plans start from around $10 per month."
+  ],
+  "features": [
+   "Custom GPT chatbot builder",
+   "WhatsApp deployment",
+   "AI voice agents",
+   "WordPress plugin"
+  ],
+  "pros": [
+   "No coding needed",
+   "Multi-channel deployment"
+  ],
+  "cons": [
+   "Higher tiers are expensive"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dappergpt": {
+  "verdict": "A productivity-enhanced interface and Chrome extension for ChatGPT.",
+  "overview": [
+   "DapperGPT is an enhanced interface for ChatGPT offered as a web app and a Chrome extension. It layers productivity-oriented tools on top of ChatGPT conversations, aiming to make everyday chat-based work faster and more organized. Public details are thin, with most coverage coming from tool directories."
+  ],
+  "features": [
+   "Enhanced ChatGPT web interface",
+   "Chrome extension",
+   "Conversation management tools"
+  ],
+  "pros": [
+   "Runs alongside the familiar ChatGPT experience",
+   "Browser extension for quick access"
+  ],
+  "cons": [
+   "Feature depth unclear from public sources",
+   "Pricing information not published"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dart": {
+  "verdict": "AI-native project management that automates task busywork.",
+  "overview": [
+   "Dart is a project management platform built around AI: it auto-fills task properties, breaks work into subtasks, plans roadmaps, and drafts standups. AI chat and agents act as another teammate, learning team patterns over time. The YC-backed tool costs $8 a month with a free trial."
+  ],
+  "features": [
+   "AI task property autofill",
+   "Subtask and roadmap generation",
+   "AI chat and agents",
+   "Duplicate detection"
+  ],
+  "pros": [
+   "Free trial to evaluate.",
+   "Deep AI automation of busywork.",
+   "Integrates with common dev tools."
+  ],
+  "cons": [
+   "AI suggestions need team adoption to pay off.",
+   "Integrations still expanding."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "david-one": {
+  "verdict": "Affordable productivity-focused AI companion with video and audio understanding plus scheduled tasks.",
+  "overview": [
+   "David One is a productivity-oriented AI companion built on in-house technology rather than external APIs, which keeps its costs — and prices — low. It answers questions with web search and cited sources, understands video, audio, images, and documents, and keeps you organized with a built-in to-do list, reminders, notes, and scheduled background tasks. Group chats let you work with David alongside friends or coworkers, and long-term memory carries context across conversations."
+  ],
+  "features": [
+   "Web search and browsing with cited answers",
+   "Video understanding with scene-level answers and timestamps",
+   "Audio understanding for meeting notes and summaries",
+   "Document analysis across files in any language",
+   "Scheduled tasks that run in the background",
+   "Built-in to-do list, reminders, and notes",
+   "Group chats with friends or coworkers",
+   "Long-term memory across conversations"
+  ],
+  "pros": [
+   "Free plan always available; unlimited paid plan is cheap at about $10/month",
+   "Multimodal coverage: video, audio, images, and documents in one assistant",
+   "In-house technology avoids wrapper-style dependency on external APIs",
+   "Strong privacy stance: no data sharing or resale with third parties"
+  ],
+  "cons": [
+   "Small, lesser-known company with unproven long-term reliability",
+   "May not match flagship models on the hardest reasoning tasks",
+   "Some announced features like real-time voice are still coming",
+   "Limited public reviews and community compared to big-name assistants"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decksy-ai": {
+  "verdict": "AI presentation maker that turns ideas into polished slides fast.",
+  "overview": [
+   "Decksy AI is an AI presentation maker that turns topics, outlines and uploaded files into polished slide decks in minutes. It handles layouts, typography and visual hierarchy automatically, so users without design skills can produce professional presentations. The free tier offers a taste, with paid plans starting around $10 per month for regular deck creation."
+  ],
+  "features": [
+   "AI-generated presentations from topics or files",
+   "Automatic layout, typography and spacing",
+   "File uploads (PDF, docs) as source material",
+   "Editable PPTX and PDF export",
+   "Audience-adaptive tone and deck length"
+  ],
+  "pros": [
+   "Turns raw material into decks in minutes",
+   "No design skills needed for professional slides",
+   "Editable exports for last-minute tweaks"
+  ],
+  "cons": [
+   "Template aesthetics may feel similar across decks",
+   "Export to PPTX may need formatting checks",
+   "Newer brand competing with established players like Gamma"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "decktopus": {
+  "verdict": "AI presentation generator that builds polished decks from a topic, with speaker notes, interactive elements, and brand controls.",
+  "overview": [
+   "Decktopus generates complete presentations in minutes from a topic or prompt, using audience-tailored templates and AI-written content with suggested speaker notes. It adds interactive elements like Q&A sessions and forms to engage audiences, plus custom branding, white-label options, and slide analytics on higher plans. The platform offers a free plan with Pro plans starting at $9.99 per month."
+  ],
+  "features": [
+   "AI presentation generation from topic or prompt",
+   "AI-suggested speaker notes for each slide",
+   "Interactive elements: live Q&A sessions and forms",
+   "Audience-tailored templates and slide layouts",
+   "Custom branding, custom domains, and white-labeling",
+   "Slide engagement analytics",
+   "Export to PDF and PPTX",
+   "Team collaboration and API/webhook access"
+  ],
+  "pros": [
+   "Very fast path from topic to a polished, presentable deck",
+   "Interactive Q&A and forms make decks usable as engagement tools",
+   "Watermark-free output even on the free plan",
+   "Transparent self-serve pricing with API access for automation"
+  ],
+  "cons": [
+   "Limited fine-grained design control for picky designers",
+   "AI-generated content can feel generic without editing",
+   "Advanced branding and analytics sit behind higher-tier plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "deeptab": {
+  "verdict": "AI agent that adds GPT-powered formulas to Excel and Google Sheets.",
+  "overview": [
+   "DeepTab is an AI add-in that brings conversational AI into Excel and Google Sheets. It connects spreadsheets to models from providers like OpenAI and Perplexity so users can write formulas, analyze data, and research in plain language. It is aimed at analysts and business users who live in spreadsheets."
+  ],
+  "features": [
+   "AI formulas for Excel and Google Sheets",
+   "Connections to GPT and Perplexity models",
+   "Browser add-in for Chrome and Edge"
+  ],
+  "pros": [
+   "Free version available",
+   "Works in familiar spreadsheet apps",
+   "Affordable monthly plan"
+  ],
+  "cons": [
+   "Tied to spreadsheet workflows",
+   "Smaller vendor with limited support resources"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "delibr-ai": {
+  "verdict": "AI product discovery and PRD drafting tool.",
+  "overview": [
+   "Delibr AI helps product teams turn scattered feedback and ideas into structured product requirements. Its AI assists with discovery docs, prioritization and PRD writing. Freemium plans suit small teams getting started."
+  ],
+  "features": [
+   "AI-assisted PRD writing",
+   "Feedback organization",
+   "Prioritization tools",
+   "Discovery templates"
+  ],
+  "pros": [
+   "Purpose-built for PMs",
+   "Good free tier",
+   "Structured workflows"
+  ],
+  "cons": [
+   "Niche audience",
+   "Integrations limited"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "demi-ai": {
+  "verdict": "Proactive AI teammate for Mac that drafts replies, updates your CRM, and preps meetings before you ask.",
+  "overview": [
+   "Demi is a proactive AI teammate in the form of a Mac desktop app. It connects to Gmail, Calendar, Slack, and your CRM, then surfaces what needs attention: drafting replies in your voice, updating deal records from calls, and teeing up follow-ups. Every consequential action waits for your approval, and data is encrypted and never used for model training. A free tier is free forever, with Individual and Team plans above it."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "depthdata": {
+  "verdict": "Unify AI tool usage and spend across vendors into one auditable report with a workspace health score.",
+  "overview": [
+   "Depthdata connects read-only to the admin consoles of ChatGPT Enterprise, Claude, Copilot, Gemini, Cursor, and more, then normalizes usage, spend, and outcomes into one governed data model. It surfaces a single workspace health score, coaching nudges for underused teams, and trend analytics leadership can defend in a board deck. No agents to install and no changes to how employees work."
+  ],
+  "features": [
+   "Read-only connections to ChatGPT Enterprise, Claude, Copilot, Gemini, Cursor",
+   "Normalized usage, spend, and outcome data in one governed model",
+   "Workspace health score rolling up adoption, depth, and spend",
+   "Coaching nudges and playbooks for teams leaving value on the table",
+   "Analytics sliced by department, tool, and seniority",
+   "Team leaderboard of AI adoption",
+   "Board-ready exports with confidence labels on every number"
+  ],
+  "pros": [
+   "Read-only setup means nothing to install and no workflow changes",
+   "One auditable view across all AI vendors",
+   "Defensible numbers with open methodology for leadership"
+  ],
+  "cons": [
+   "Hosted on a vercel.app domain — appears very early stage",
+   "Pricing not published",
+   "No independent third-party reviews found"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "detect-gpt": {
+  "verdict": "Free Chrome extension detecting AI content on webpages.",
+  "overview": [
+   "Detect GPT, from Taiwan-based thomas.io, is a free Chrome extension that detects AI-generated content on webpages."
+  ],
+  "features": [
+   "On-page AI content detection"
+  ],
+  "pros": [
+   "Free"
+  ],
+  "cons": [
+   "Chrome only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "devhawk": {
+  "verdict": "AI project manager that spots stalled work and manages dev team momentum",
+  "overview": [
+   "DevHawk is an AI project manager for software teams that goes beyond reporting problems to actively solving them. It sends intelligent stall alerts by starting conversations with developers in Slack or Teams when tickets sit unfinished, detects empty queues before developers go idle, analyzes velocity trends, and calculates story points with consistent benchmarks. It integrates in minutes and surfaces insights within hours."
+  ],
+  "features": [
+   "Intelligent stall alerts via Slack/Teams",
+   "Zero task detection",
+   "Velocity trend analysis",
+   "AI-calculated story points"
+  ],
+  "pros": [
+   "Proactive instead of just reporting",
+   "Fast setup with quick insights",
+   "14-day free trial"
+  ],
+  "cons": [
+   "$20/month per user adds up for large teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "devplan": {
+  "verdict": "AI agents that map engineering activity into a living product and organization knowledge graph.",
+  "overview": [
+   "DevPlan runs AI agents over software development activity, continuously reading commits, tickets, meetings, documents, and chat across GitHub, Linear, Slack, and Google Workspace. It builds a persistent knowledge graph anchored on an AI-generated map of the product and organization, then produces role-specific daily digests, derives project status, and flags emerging risks. Teams can ask plain-language questions via Slack or chat with every claim tied to evidence."
+  ],
+  "features": [
+   "Engineering activity knowledge graph",
+   "Role-specific daily digests",
+   "Risk signal clustering",
+   "Plain-language Q&A over evidence"
+  ],
+  "pros": [
+   "Connects engineering and leadership context",
+   "Evidence-linked answers"
+  ],
+  "cons": [
+   "Broad data access required"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dewstack": {
+  "verdict": "AI documentation platform that turns scattered content into docs.",
+  "overview": [
+   "Dewstack (SmartDocs) is an AI-powered documentation platform that helps teams generate and maintain polished docs from their existing content and knowledge. It targets startups and product teams that need public or internal documentation without a dedicated tech-writing function. A free version is available, with paid plans from around $29/month."
+  ],
+  "features": [
+   "AI-generated documentation",
+   "Knowledge base hosting",
+   "SmartDocs editor",
+   "Team collaboration"
+  ],
+  "pros": [
+   "Turns rough notes into clean docs",
+   "Free version to start",
+   "Low maintenance for small teams"
+  ],
+  "cons": [
+   "Relatively new vendor",
+   "$29/month is steep for solo users"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dia-browser": {
+  "verdict": "AI-native browser from The Browser Company with a built-in assistant, Skills, and Memory.",
+  "overview": [
+   "Dia is The Browser Company's AI-first browser, built as the successor to Arc. The address bar doubles as a chat interface that can search the web, summarize tabs, compare sites, and write in-line, while Skills automate repeatable workflows and an optional Memory personalizes answers from your browsing context. After Atlassian's acquisition, Dia is now publicly available on Apple Silicon Macs."
+  ],
+  "features": [
+   "Chat-based address bar with AI assistant",
+   "Custom Skills for repeatable tasks",
+   "Optional Memory for personalization",
+   "Tab groups and meeting tab views",
+   "In-line copy editing and summarization",
+   "Built-in ad and tracker blocking"
+  ],
+  "pros": [
+   "Deeply integrated AI across every tab",
+   "Chromium-based, fast and familiar",
+   "Now publicly available on macOS"
+  ],
+  "cons": [
+   "macOS Apple Silicon only",
+   "Windows version still waitlisted"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "diet-claude": {
+  "verdict": "Free Chrome extension that meters Claude's usage limits with a soda-can gauge.",
+  "overview": [
+   "Diet Claude is a free Chrome extension that makes Claude's usage limits visible instead of surprising. Its signature soda-can meter drains as you use your session and refills when the limit resets, showing session and weekly consumption, reset countdowns, and threshold alerts. It also compresses long conversations into fresh chats, refines prompts to save tokens, organizes chat history, and hands a summarized context to ChatGPT, Gemini, or Grok when Claude runs dry."
+  ],
+  "features": [
+   "Live soda-can usage meter for Claude's session limits",
+   "Session and weekly consumption tracking with reset countdowns",
+   "Threshold alerts before hitting limits",
+   "Conversation compression into new chats to reclaim context",
+   "Prompt improvement suggestions to save tokens",
+   "Chat history organization",
+   "Context handoff to ChatGPT, Gemini, or Grok when limits hit",
+   "Free on the Chrome Web Store (by maker Surbhi Singla)"
+  ],
+  "pros": [
+   "Solves a genuinely painful problem: surprise Claude rate limits",
+   "Context handoff preserves work instead of forcing a manual restart",
+   "Memorable soda-can branding; finished #2 on a Product Hunt daily leaderboard"
+  ],
+  "cons": [
+   "Depends entirely on Anthropic's UI and limits policy, which could change",
+   "Claude-only: no support for ChatGPT, Gemini, or other models' limits",
+   "Free, Claude-specific, and easy to replicate, so moat is thin"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "digest": {
+  "verdict": "AI-powered personalized newsletter built from all your content sources.",
+  "overview": [
+   "Digest is an AI-powered personalized newsletter builder. Users connect sources — social media, newsletters, RSS, Hacker News, YouTube, podcasts, Product Hunt, calendar, weather, stocks — and receive a scheduled AI-summarized daily digest via email, web app, or mobile homescreen. Digests can also be made public to collect email subscribers."
+  ],
+  "features": [
+   "20+ content source integrations",
+   "AI bullet summaries per item",
+   "Customizable digest schedules",
+   "Public digests with subscriber metrics",
+   "Dedicated newsletter intake address"
+  ],
+  "pros": [
+   "Unifies many feeds into one briefing",
+   "Public digest option for creators",
+   "Flexible scheduling"
+  ],
+  "cons": [
+   "No permanent free tier",
+   "Company not disclosed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "digitbiteai": {
+  "verdict": "All-in-one AI suite for content and business tasks.",
+  "overview": [
+   "DigitbiteAI bundles content generation, image generation, AI chat, text-to-speech, and transcription into one suite aimed at businesses. It is positioned as a single subscription that covers the most common AI tasks for marketing and operations."
+  ],
+  "features": [
+   "Content generation",
+   "Image generation",
+   "AI chat",
+   "Text-to-speech",
+   "Transcription"
+  ],
+  "pros": [
+   "Free trial and free version",
+   "API access"
+  ],
+  "cons": [
+   "Plan at $25.25/mo",
+   "Jack-of-all-trades depth varies"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dim0": {
+  "verdict": "Open-source infinite thinking canvas where a board-aware AI agent reads, acts, and writes results back.",
+  "overview": [
+   "Dim0 is an open-source (MIT), real-time collaborative thinking canvas. An infinite board unifies notes, sketches, code, charts, docs, and AI-generated mini-apps, while a board-aware AI agent reads the workspace, searches and synthesizes information, runs code, and drops editable results directly onto the canvas. It supports multiple AI models with bring-your-own keys, stores notes as plain Markdown, and can be self-hosted or used via the cloud at app.dim0.net."
+  ],
+  "features": [],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docci-ai": {
+  "verdict": "No-code AI chatbot builder trained on your documents and website.",
+  "overview": [
+   "Docci.ai is a no-code AI chatbot builder that trains on your documents and website to answer customer questions automatically. It supports multiple file formats and over 95 languages, and embeds into any site as a widget. It offers a free plan, with paid plans from $49 per month on Starter."
+  ],
+  "features": [
+   "Trains on documents and website URLs",
+   "Embeddable chat widget",
+   "95+ languages",
+   "Usage analytics"
+  ],
+  "pros": [
+   "Free plan available",
+   "Trains on your own content"
+  ],
+  "cons": [
+   "No free tier on paid-only advanced features"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docs-ai": {
+  "verdict": "AI writing and knowledge assistant inside Coda docs.",
+  "overview": [
+   "Docs AI is the current identity of what launched as Coda AI, renamed in July 2026 as Coda became part of Superhuman. It embeds AI assistance directly into Coda documents for drafting, summarizing, and working with structured data. It is available on Coda's freemium plans."
+  ],
+  "features": [
+   "AI drafting in docs",
+   "Summarization",
+   "Data Q&A"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docshound": {
+  "verdict": "AI-native knowledge base that converts product demos into docs, chatbots and support content.",
+  "overview": [
+   "DocsHound is an AI-native knowledge base platform that automates customer-facing documentation. It records product demos and turns them into structured docs, step-by-step guides and FAQs with screenshots, then trains AI support chatbots on that knowledge. The knowledge base can also be exposed as an MCP endpoint so AI agents can query verified product knowledge."
+  ],
+  "features": [
+   "Record product demos and auto-generate documentation",
+   "Automatic screenshots and step-by-step guides",
+   "Self-organizing, branded documentation sites",
+   "AI chatbots trained on your knowledge base",
+   "Automated changelogs and announcements",
+   "Knowledge base exposed as an MCP endpoint",
+   "AI agents for sales, support and operations"
+  ],
+  "pros": [
+   "Turns a single product demo into docs, chatbots and insights",
+   "Keeps documentation self-updating as the product changes",
+   "MCP endpoint makes product knowledge queryable by AI agents",
+   "Free trial available"
+  ],
+  "cons": [
+   "Paid plans start at $80/month — no free tier",
+   "Built for product teams; overkill for simple static docs",
+   "Requires product demos to get the most value"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docsloop": {
+  "verdict": "AI document extraction that turns PDFs into clean Excel in under a minute.",
+  "overview": [
+   "DocsLoop takes PDFs, invoices, and bank statements and converts them into structured Excel spreadsheets automatically. Its AI extracts tables and text with claimed 99% accuracy, with no OCR fiddling or manual setup. Teams can collaborate on document workflows, and free credits let you try it without a credit card. Paid plans start from a $19 credit pack."
+  ],
+  "features": [
+   "PDF-to-Excel AI extraction",
+   "99% accuracy claim",
+   "Pre-built templates for invoices and statements",
+   "Team collaboration",
+   "Free credits with no card required"
+  ],
+  "pros": [
+   "Genuinely fast document turnaround",
+   "Try before you pay with free credits"
+  ],
+  "cons": [
+   "Complex tables may still need a double-check",
+   "Credit-based pricing can be hard to predict"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docsmint": {
+  "verdict": "Open-source document workspace with hybrid search and MCP access so AI agents can use your knowledge.",
+  "overview": [
+   "DocsMint is an AI-first documentation platform that turns scattered documents into knowledge both people and AI agents can use. You write and organize notes, guides and project docs in a single workspace with folders, categories, tags and version history, then search them with hybrid full-text and semantic search. The same knowledge can be exposed to AI agents through an MCP server, REST API, SDK or CLI with scoped access, and the whole stack is Apache-2.0 open source, self-hostable with Docker or usable via DocsMint Cloud."
+  ],
+  "features": [
+   "Visual document editor with version history and templates",
+   "Folders, nested categories, tags and flexible document placement",
+   "Hybrid search: full-text plus semantic (pgvector) with GraphRAG retrieval",
+   "MCP server with 31 tools so agents can read and manage docs",
+   "REST API with workspace/category-scoped keys",
+   "Typed SDK and CLI for agent integrations",
+   "Share links with password protection and expiration",
+   "Apache-2.0 open source; self-host with Docker or use DocsMint Cloud"
+  ],
+  "pros": [
+   "One knowledge home for both humans and AI agents",
+   "Open source with a real self-hosting path",
+   "Scoped API keys keep agent access controlled",
+   "Hybrid + GraphRAG search finds conceptually related content"
+  ],
+  "cons": [
+   "Self-hosting requires Docker/Postgres operations",
+   "Young project (v1.0.5, 2026) with a small user base",
+   "AI editing and MCP access are paywalled behind Pro/Advanced"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "docufast": {
+  "verdict": "Records your workflows automatically and turns them into step-by-step guides, narrated videos, and interactive walkthroughs.",
+  "overview": [
+   "DocuFast captures the processes you perform on screen and automatically turns them into documentation: step-by-step guides with screenshots, AI-narrated video docs, and interactive walkthroughs. Everything lands in a central, searchable workspace so company knowledge survives employee turnover. It is built and hosted in Europe with GDPR compliance and ISO 27001 certified infrastructure."
+  ],
+  "features": [
+   "Automatic workflow capture (clicks, inputs, steps)",
+   "Auto-generated step descriptions and screenshots",
+   "AI-narrated video documentation",
+   "Interactive step-by-step walkthroughs",
+   "Central searchable knowledge workspace",
+   "GDPR-compliant, hosted in Europe",
+   "ISO 27001 certified infrastructure",
+   "Granular access roles"
+  ],
+  "pros": [
+   "Documents processes by simply performing them",
+   "Combines guides, videos, and interactive training in one workspace",
+   "Strong EU compliance posture",
+   "Free trial with no commitment"
+  ],
+  "cons": [
+   "Pricing not published on the site",
+   "Current site is German-focused — English availability unclear"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dokie": {
+  "verdict": "AI presentation maker that turns ideas into polished slide decks",
+  "overview": [
+   "Dokie is an AI-powered presentation platform that transforms ideas, documents, and URLs into professional slide decks quickly. It generates structured narratives with clean design, supports interactive slides, custom company templates, and natural-language editing. Finished decks export to PDF, PNG, and PowerPoint or share via link, serving founders, teams, educators, and marketers."
+  ],
+  "features": [
+   "Prompt-to-presentation generation",
+   "Interactive slides and custom templates",
+   "Natural language slide editing",
+   "PDF, PNG and PPTX export"
+  ],
+  "pros": [
+   "Fast full-deck generation",
+   "Custom brand templates",
+   "Flexible editing workflow"
+  ],
+  "cons": [
+   "Advanced features need paid plans"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dokkio": {
+  "verdict": "AI-powered document hub that keeps files organized with smart tagging and instant search.",
+  "overview": [
+   "Dokkio is a document management tool that gathers files from scattered sources into one organized workspace. Its AI tags and categorizes uploads automatically so content stays findable without manual sorting. It offers a free tier with paid plans starting around six to seven dollars a month."
+  ],
+  "features": [
+   "Centralized document library",
+   "AI-powered auto-tagging and organization",
+   "Full-text search across files"
+  ],
+  "pros": [
+   "Cuts down on manual filing work",
+   "Free tier available",
+   "Simple to set up"
+  ],
+  "cons": [
+   "Paid features require a subscription",
+   "Less suited to large enterprise document workflows"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dokubrain": {
+  "verdict": "AI document intelligence that classifies, extracts, and syncs document data to your accounting tools.",
+  "overview": [
+   "DokuBrain is an AI document intelligence platform that turns messy documents into structured data. Upload invoices, contracts, or receipts from Google Drive, WhatsApp, email, or its Chrome extension, and it classifies, extracts, and pushes data to QuickBooks, Xero, or Google Sheets. It adds a visual no-code workflow builder, a searchable document corpus you can chat with, 50+ language translation, and a free forever plan."
+  ],
+  "features": [
+   "Intelligent document classification (16+ types)",
+   "Structured data extraction with templates",
+   "Visual drag-and-drop workflow builder",
+   "Chat with your document corpus",
+   "Translation into 50+ languages",
+   "QuickBooks, Xero, Google Sheets sync",
+   "Chrome extension and WhatsApp ingestion"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dr-lambda": {
+  "verdict": "AI knowledge-sharing platform that converts documents into slides, videos, and posts.",
+  "overview": [
+   "Dr Lambda is an AI platform that transforms documents, PDFs, web links, and videos into slides, narrated videos, charts, and social posts. Its ChatSlide product line focuses on document-to-slide conversion with voice cloning, AI avatars, and multilingual export. It offers a free tier with paid plans for heavier use."
+  ],
+  "features": [
+   "Document-to-slides conversion",
+   "AI avatars and voice cloning",
+   "Narrated video generation",
+   "Chart generation from data",
+   "29-language support"
+  ],
+  "pros": [
+   "One input becomes slides, video, and posts",
+   "Strong multilingual coverage",
+   "Free tier available"
+  ],
+  "cons": [
+   "Paid plans get expensive at scale",
+   "Automated design still needs human polish"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "drawer-ai": {
+  "verdict": "AI takeoff and estimation software for electrical contractors",
+  "overview": [
+   "Drawer AI is an AI takeoff and estimation tool for electrical contractors that turns drawings and plans into quantity takeoffs and estimates. It is designed to cut the manual counting and measurement work out of bidding electrical jobs. The product targets contractors who need faster, more consistent bid preparation."
+  ],
+  "features": [
+   "AI electrical takeoff from plans and drawings",
+   "Automated quantity measurement and counting",
+   "Estimation support for contractors"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dreambeans": {
+  "verdict": "Google Labs app that turns your own data into daily AI-illustrated stories.",
+  "overview": [
+   "Dreambeans is an experimental app from Google Labs that turns your own data into a small daily set of AI-illustrated stories. With permission it draws on Gmail, Calendar, Photos, YouTube, Search, and Gemini to generate 10–14 personalized suggestions each morning — places to visit, things to try, upcoming events — framed as a 'doomscrolling antidote'. It is free for all US adults and runs on iOS and Android."
+  ],
+  "features": [
+   "10–14 AI-illustrated personal stories generated daily",
+   "Connects Gmail, Calendar, Photos, YouTube, Search, and Gemini",
+   "Personal Intelligence framework for cross-service context",
+   "Nano Banana 2 personalized image illustrations",
+   "Personalized recommendations for places, activities, and events",
+   "Finite daily feed designed as a doomscrolling antidote",
+   "User controls which Google services connect",
+   "One-tap data deletion and feedback controls"
+  ],
+  "pros": [
+   "Genuinely personalized from your own Google data",
+   "Finite feed encourages less screen time",
+   "Free for all eligible US users since Sept 2026",
+   "Clear privacy controls and data deletion"
+  ],
+  "cons": [
+   "US-only and 18+; not available in the EU or other regions",
+   "Needs broad access to your data to be genuinely useful",
+   "Google Labs experiment — could be shut down",
+   "No web version; mobile apps only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "dume-ai": {
+  "verdict": "AI knowledge assistant that answers questions across your connected work apps.",
+  "overview": [
+   "Dume AI is an AI assistant that connects to Confluence, Jira, Notion, Slack, Google Drive, and other work tools to answer questions from your company's knowledge. Its model-agnostic design works with multiple LLMs and emphasizes source traceability and hallucination suppression. Teams use it as an enterprise search layer that unlocks insights buried across documents and chats."
+  ],
+  "features": [
+   "Unified search across work apps",
+   "Source-traceable answers",
+   "Multiple LLM support",
+   "Free trial and free version"
+  ],
+  "pros": [
+   "Deep integration catalog",
+   "Traceable, trustworthy answers"
+  ],
+  "cons": [
+   "Young company, founded 2025"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "easy-folders": {
+  "verdict": "AI file organizer that sorts chats and files into folders automatically.",
+  "overview": [
+   "Easy Folders is a web-based AI file organization tool that automatically sorts chats and files into folders, with integrations around ChatGPT conversations. It is aimed at users whose AI chat history and downloads have become unmanageable. FutureTools tags it as Freemium, though detailed pricing was not independently verifiable."
+  ],
+  "features": [
+   "AI-powered automatic file organization",
+   "ChatGPT conversation organization",
+   "Web-based with no install"
+  ],
+  "pros": [
+   "Tackles the growing problem of chat-history clutter",
+   "No installation required"
+  ],
+  "cons": [
+   "Pricing details not publicly documented"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "easy-prompt": {
+  "verdict": "Community prompt library and builder for getting more from ChatGPT.",
+  "overview": [
+   "Easy Prompt (easyprompt.xyz) is a free web hub built around better prompting. Its core is a browsable library of ready-made, community-rated prompts tuned for ChatGPT, with a structured prompt editor where you can set tone, length, format, and keywords, then test the result against an integrated bot. The site also touches the web3 chatbot scene it grew out of, with a Telegram-facing companion and custom chatbot options. Everything core is free to use without a credit card."
+  ],
+  "features": [
+   "Community prompt library with voting",
+   "Structured prompt editor (tone, length, format, keywords)",
+   "Test prompts against the integrated bot",
+   "Share and reuse prompts easily",
+   "Web3-oriented chatbot modes"
+  ],
+  "pros": [
+   "Free to use with no credit card required",
+   "Ready-made prompts save trial-and-error",
+   "Community voting surfaces quality"
+  ],
+  "cons": [
+   "Multiple unrelated products share the 'EasyPrompt' name, which confuses search",
+   "Quality of community prompts varies",
+   "Telegram-centric extras don't suit every workflow"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "easychat-ai": {
+  "verdict": "Native Windows desktop app for chatting with ChatGPT.",
+  "overview": [
+   "EasyChat AI is a third-party native Windows application for using ChatGPT on the desktop. It offers a streamlined chat interface with features like markdown rendering and dark mode, aimed at users who want ChatGPT as a proper Windows app rather than a browser tab. It is not affiliated with OpenAI."
+  ],
+  "features": [
+   "Native Windows ChatGPT client",
+   "Markdown support",
+   "Dark mode",
+   "Desktop-focused chat experience"
+  ],
+  "pros": [
+   "Proper desktop app experience",
+   "Clean, simple interface",
+   "Lightweight"
+  ],
+  "cons": [
+   "Windows only",
+   "Paid, while ChatGPT web is free",
+   "Unofficial third-party client"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "easyclaw": {
+  "verdict": "One-click desktop installer that puts an OpenClaw AI agent on your computer without touching a terminal.",
+  "overview": [
+   "EasyClaw is a desktop application for Mac and Windows that removes the setup friction from OpenClaw, the open-source personal AI agent framework. Instead of configuring servers, Docker, or SSH by hand, users install the app and get a working agent that connects to familiar chat channels such as WhatsApp, Telegram, Signal, and iMessage. Everything runs locally on the user's machine, which keeps data private, and it supports a broad set of models including GPT, Claude, Gemini, and local models through Ollama. A free tier with daily compute credits lets people try it before paying."
+  ],
+  "features": [
+   "One-click OpenClaw setup with graphical dashboard",
+   "200 free daily compute credits",
+   "Support for 15+ models including GPT-5, Claude, Gemini",
+   "Local model support via Ollama",
+   "Chat channel connections: WhatsApp, Telegram, Signal, iMessage",
+   "All execution happens locally for privacy"
+  ],
+  "pros": [
+   "No DevOps, Docker, or terminal knowledge required",
+   "Runs locally so data stays on your machine",
+   "Wide model choice plus free daily credits",
+   "Connects the agent to everyday messaging apps"
+  ],
+  "cons": [
+   "Managed layer means less visibility into keys, data, and agent runs",
+   "Paid terms beyond the free credits are thinly documented",
+   "Desktop-only; no hosted always-on option"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "echofox-ai": {
+  "verdict": "WhatsApp bot that transcribes and summarizes voice messages.",
+  "overview": [
+   "EchoFox is an AI service that lives inside WhatsApp as a contact: forward it a voice message and it returns a transcription plus a summary. It supports 90+ languages and deletes voice data after 24 hours. It targets professionals who receive long voice notes they cannot always listen to."
+  ],
+  "features": [
+   "Voice message transcription",
+   "AI summaries",
+   "90+ languages",
+   "Searchable transcripts"
+  ],
+  "pros": [
+   "No app install needed",
+   "Privacy-focused deletion"
+  ],
+  "cons": [
+   "WhatsApp-only"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "effie": {
+  "verdict": "Distraction-free writing app with notes and mind maps.",
+  "overview": [
+   "Effie is a minimalist writing app from 7S2P Inc. that combines a markdown editor, note-taking and mind mapping in one calm workspace. It syncs across devices with cloud autosave, exports to PDF, DOCX and markdown, and publishes directly to WordPress. Pricing starts at $4.99 per month with a free trial and free version."
+  ],
+  "features": [
+   "Markdown-based writing editor",
+   "Mind mapping alongside notes",
+   "Cloud autosave and sync",
+   "Export to PDF, DOCX and markdown",
+   "Direct WordPress publishing"
+  ],
+  "pros": [
+   "Clean, distraction-free interface",
+   "Affordable at $4.99/month"
+  ],
+  "cons": [
+   "No built-in AI writing features",
+   "Smaller ecosystem than big note apps"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "eigent": {
+  "verdict": "Open-source desktop cowork agent and local alternative to Claude Cowork and Codex.",
+  "overview": [
+   "Eigent is an open-source desktop agent positioned as a local, free alternative to Claude Cowork and Codex. It lets users build agent workforces that run on their own machines rather than in a vendor cloud. Apache-2.0 licensed, it targets individuals and teams who want cowork-style automation with full data control."
+  ],
+  "features": [
+   "Desktop cowork agent for building agent workforces",
+   "Local execution keeps data on your machine",
+   "Free and open alternative to proprietary cowork tools",
+   "Apache-2.0 licensed"
+  ],
+  "pros": [
+   "Runs locally with no subscription required",
+   "Strong early traction and active commits"
+  ],
+  "cons": [
+   "Newer project with a maturing feature set",
+   "Multi-agent orchestration still evolving"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "eightfold": {
+  "verdict": "Enterprise talent intelligence platform that matches people to roles by skills and plans workforce needs with AI.",
+  "overview": [
+   "Eightfold AI is an enterprise talent intelligence platform that uses deep-learning AI to match people to roles by skills and potential rather than resume keywords. It covers talent acquisition, a personalized candidate experience portal, internal mobility and career pathing, plus workforce planning and skills-gap intelligence across the whole organization."
+  ],
+  "features": [
+   "AI talent matching based on skills, not keywords",
+   "Talent intelligence engine predicting potential and career trajectories",
+   "Internal mobility and career pathing tools",
+   "Workforce planning and skills-gap analytics",
+   "Personalized candidate experience and talent community portal",
+   "Automated talent pipeline nurturing and re-engagement",
+   "Diversity and bias-reduction features",
+   "ATS and HRIS integrations"
+  ],
+  "pros": [
+   "Industry-leading AI matching that goes beyond resume keywords",
+   "Strong internal mobility, succession and retention tooling",
+   "Comprehensive skills intelligence and workforce planning",
+   "Model continuously improves with the organization's own hiring data"
+  ],
+  "cons": [
+   "No public pricing; enterprise contracts run into six figures annually",
+   "Full deployment takes weeks with heavy data integration and training",
+   "Out of reach for SMBs and mid-market teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "elephas": {
+  "verdict": "AI writing assistant for Mac and iOS.",
+  "overview": [
+   "Elephas is an AI writing assistant built for Apple platforms, working system-wide on macOS and iOS. It rewrites, summarizes, and generates text in any app via keyboard shortcuts. The freemium tool targets professionals who write all day."
+  ],
+  "features": [
+   "System-wide AI writing",
+   "Rewrite and summarize",
+   "Keyboard shortcuts",
+   "Works in any app"
+  ],
+  "pros": [
+   "Deep macOS/iOS integration",
+   "Fast keyboard workflow",
+   "Free tier available"
+  ],
+  "cons": [
+   "Apple-only",
+   "Advanced features paid"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "ellie-planner": {
+  "verdict": "Visual daily planner with a brain-dump inbox, timeboxing and Siri capture — built for intentional days.",
+  "overview": [
+   "Ellie Planner is a calm, visual daily planner from independent developer Chris Raroque: you brain-dump everything on your mind, then drag tasks into a weekly timebox next to your meetings. It pairs planning with a focus timer, daily shutdown reviews, and time insights comparing estimated versus actual time. An AI layer lets you plan via ChatGPT, Claude or Ellie's own assistant, and it two-way syncs with Notion, Todoist and Slack. A free plan covers unlimited tasks; Pro ($9.99/month) unlocks calendar integration and timeboxing."
+  ],
+  "features": [
+   "Brain Dump inbox for fast capture (including Siri voice capture)",
+   "Drag-and-drop timeboxing next to calendar meetings",
+   "Weekly column view and kanban board",
+   "Focus timer and daily shutdown review",
+   "Time insights: estimated vs actual time per task",
+   "AI-assisted planning via ChatGPT, Claude or Ellie's own assistant",
+   "Two-way sync with Notion and Todoist, Slack message-to-task",
+   "Recurring tasks, subtasks, labels and email-to-task"
+  ],
+  "pros": [
+   "Genuinely calm, visual timeboxing that ADHD planners repeatedly praise",
+   "Affordable: $9.99/mo Pro is less than half of Sunsama with a usable free tier",
+   "AI layer plugs into the assistants you already use (ChatGPT, Claude) rather than locking you in"
+  ],
+  "cons": [
+   "Free plan omits the core features — calendar integration and timeboxing require Pro",
+   "No Android support; best experience is on iOS and web/desktop",
+   "Limited integrations (~3: Notion, Todoist, Slack) compared to Sunsama or Akiflow"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "emaze": {
+  "verdict": "AI-assisted presentation maker with 3D templates, analytics, and business website tools.",
+  "overview": [
+   "Emaze is a long-running presentation platform that uses its AI engine to auto-generate presentations, websites, and business content from templates. It offers hundreds of animated and 3D designs, audience insight analytics, PowerPoint import, and team collaboration. A free plan exists, with Pro starting around $13/month."
+  ],
+  "features": [
+   "AI engine for automated presentation and website creation",
+   "Hundreds of business presentation templates with 3D and animation",
+   "Audience insight analytics on viewer engagement",
+   "PowerPoint and PDF import",
+   "Custom domains and branding tools",
+   "Download to PDF, MP4, HTML, and offline",
+   "Team collaboration and custom team templates",
+   "Remote presenting tools"
+  ],
+  "pros": [
+   "Rich library of animated and 3D templates out of the box.",
+   "Built-in viewer analytics without extra tools.",
+   "Doubles as a website and e-card builder."
+  ],
+  "cons": [
+   "AI generation is less prominent than its template-first workflow.",
+   "Less flexible rearrangement than full design tools.",
+   "Pricing details vary across third-party listings."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "emberly": {
+  "verdict": "AI note-taking and mind mapping with auto quizzes and a writing assistant.",
+  "overview": [
+   "Emberly is an AI-powered note-taking and mind-mapping tool for organizing knowledge visually. Notes, files and bookmarks live inside interconnected nodes, and AI features generate mind maps from your content, create automatic quizzes from your notes for better retention, assist your writing, and even simulate discussions to test your understanding. Real-time collaborative editing, bi-directional links and a browser plug-in for one-click bookmarking round it out."
+  ],
+  "features": [
+   "Visual note-taking and mind mapping",
+   "AI-generated mind maps",
+   "Automatic quizzes from notes",
+   "AI writing assistant",
+   "Discussion simulator",
+   "Real-time collaboration",
+   "Bi-directional links",
+   "Browser plug-in for bookmarking"
+  ],
+  "pros": [
+   "Combines notes, files and bookmarks in one visual space",
+   "AI quizzes genuinely aid learning",
+   "Generous free basic plan"
+  ],
+  "cons": [
+   "Free plan limits maps and AI quizzes",
+   "Learning curve for the node-based interface",
+   "Smaller team behind the product"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "emma": {
+  "verdict": "Build custom AI chatbot assistants trained on your business data",
+  "overview": [
+   "Emma is a platform for building custom AI chatbot assistants powered by GPT technology, trained on your organization's own data and files. It connects to Slack, support tools, Zapier, email software, and dozens more integrations, so teams can spin up help-desk or knowledge assistants fast. Pricing runs from $12 per month for individuals to $249 for enterprise."
+  ],
+  "features": [
+   "Custom AI assistants trained on your data",
+   "Dozens of business tool integrations",
+   "Multi-assistant management"
+  ],
+  "pros": [
+   "Quick setup with no existing data needed",
+   "Wide integration coverage",
+   "Unlimited users on all plans"
+  ],
+  "cons": [
+   "Starts at $12/month with no free plan on official pricing",
+   "GPT-3.5-era product facing newer competition",
+   "Pricing tiers scale quickly for teams"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "enhancv": {
+  "verdict": "Design-forward resume builder with real-time AI writing feedback and hundreds of customizable templates.",
+  "overview": [
+   "Enhancv is a design-forward resume builder that pairs real-time AI writing feedback with hundreds of professional templates. As you type, its Improve Text feature flags spelling, grammar, weak wording, cliches and missing metrics, while the ATS Check scores your resume against a pasted job description across 16 details. It offers 20+ specialized resume sections, a matching cover letter builder, multi-language support and a separate Business plan for teams."
+  ],
+  "features": [
+   "Real-time AI content suggestions while writing",
+   "ATS compatibility checker against job descriptions",
+   "Hundreds of ATS-friendly resume templates",
+   "20+ specialized resume sections",
+   "Matching cover letter builder",
+   "Built-in grammar, spelling and style checker",
+   "Resume tailoring to specific job openings",
+   "Thousands of design customization options",
+   "30+ language support",
+   "Business plan with custom templates and branding"
+  ],
+  "pros": [
+   "Live AI feedback while writing helps you improve wording on the spot",
+   "Hundreds of design-forward templates with deep customization",
+   "20+ specialized sections for non-standard backgrounds",
+   "Pro-rated refunds on longer plans and user-friendly cancellation"
+  ],
+  "cons": [
+   "Free plan is a 7-day trial with branding, section caps and limited resumes",
+   "No DOCX export; downloads are PDF or TXT only",
+   "All plans auto-renew, so inactive accounts keep getting billed"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "enzo": {
+  "verdict": "Self-hosted AI workspace with agents, 74 skills, and Gmail/Calendar tools",
+  "overview": [
+   "ENZO is a self-hosted AI workspace that bundles agents with 74 ready-made skills and real tools like Gmail and Calendar. It runs from a single Docker container and lets you bring your own API keys from providers like Groq, OpenRouter, or NVIDIA. The result is a personal AI operations hub that lives on your own hardware."
+  ],
+  "features": [
+   "Agents plus 74 bundled skills",
+   "Gmail and Calendar tool integrations",
+   "Bring-your-own-keys model support",
+   "One-container Docker setup"
+  ],
+  "pros": [
+   "One-command Docker self-hosting",
+   "Bring your own keys keeps data private",
+   "Apache 2.0 licensed"
+  ],
+  "cons": [
+   "Relatively small project with limited traction",
+   "BYOK means ongoing model API costs",
+   "Single-install Docker model limits scaling"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "epsillion": {
+  "verdict": "AI document automation and data extraction platform.",
+  "overview": [
+   "Epsillion is a document automation tool that uses AI to extract structured data from files like invoices, contracts, and forms. It is designed to replace manual data entry in back-office workflows with automated pipelines. The company was founded in 2025."
+  ],
+  "features": [
+   "document data extraction",
+   "workflow automation",
+   "structured output"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "eraser-io": {
+  "verdict": "AI co-pilot for technical diagrams and documentation built for engineering teams.",
+  "overview": [
+   "Eraser is a docs and diagramming tool built for engineering teams, combining a canvas with a diagram-as-code workflow. Its AI co-pilot generates flowcharts, ER diagrams, cloud architecture, and sequence diagrams from plain descriptions. Engineers can then edit diagrams by typing rather than dragging shapes."
+  ],
+  "features": [
+   "AI diagram generation",
+   "Diagram-as-code",
+   "Markdown docs",
+   "Team collaboration"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "everyday": {
+  "verdict": "Personal AI assistant that executes everyday tasks and multi-step workflows.",
+  "overview": [
+   "Everyday is an AI productivity assistant that takes plain-English requests and carries out everything from simple tasks to complex, multi-step workflows across apps. It acts as a digital partner for managing emails, schedules, and work processes, turning intentions into completed outcomes. The platform features community-shared workflow examples users can adopt."
+  ],
+  "features": [
+   "Plain-English task execution",
+   "Multi-step workflow automation",
+   "Email and schedule management",
+   "Community workflow examples",
+   "Cross-app actions"
+  ],
+  "pros": [
+   "Handles complex multi-step workflows",
+   "Community examples to start from"
+  ],
+  "cons": [
+   "Pricing details not public"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "excel-formularizer": {
+  "verdict": "Get Excel formulas written by AI",
+  "overview": [
+   "Excel Formularizer is an AI assistant that writes and explains Excel and Google Sheets formulas from plain-language descriptions. It offers a free tier with a Pro plan at $4.99 per month. The tool suits anyone who struggles with spreadsheet syntax."
+  ],
+  "features": [
+   "AI formula generation",
+   "Formula explanations",
+   "Free and Pro $4.99/mo"
+  ],
+  "pros": [
+   "Cheap Pro plan",
+   "Solves a common pain point"
+  ],
+  "cons": [
+   "Pro at $4.99/mo for full power",
+   "Limited to formula help"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "excel-whisper": {
+  "verdict": "AI Excel analysis tool that processes spreadsheets privately in the browser.",
+  "overview": [
+   "Excel Whisper is an AI-powered Excel analysis tool with a privacy-first design: files are parsed locally in the browser and nothing is stored on its servers. It can analyze uploads, generate charts and insights, and teach Excel skills through interactive guides. A free plan with no login covers basic use; paid tiers raise file and field limits."
+  ],
+  "features": [
+   "Browser-based AI spreadsheet analysis",
+   "Privacy-first processing",
+   "Interactive Excel guides"
+  ],
+  "pros": [],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "excelmatic": {
+  "verdict": "AI Excel copilot that turns plain-language questions into formulas and insights.",
+  "overview": [
+   "ExcelMatic is an AI assistant for spreadsheets that answers questions, writes formulas, and analyzes data from natural-language prompts. It works with Excel and helps users handle complex tasks without memorizing functions. It offers a free version, with paid plans from $9.99 per month."
+  ],
+  "features": [
+   "Natural-language formulas",
+   "Data analysis in plain English",
+   "Excel compatibility",
+   "Chart generation"
+  ],
+  "pros": [
+   "Free version available",
+   "Affordable paid plans"
+  ],
+  "cons": [],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fathom": {
+  "verdict": "Free AI notetaker with unlimited recordings, instant summaries, and shareable highlight clips.",
+  "overview": [
+   "Fathom records, transcribes, and summarizes Zoom, Google Meet, and Teams calls with one of the most generous free plans in the category: unlimited recordings and storage, with five advanced AI summaries a month. It offers bot or bot-free capture, highlight clips, Ask Fathom search, CRM sync, and coaching scorecards. Superhuman acquired Fathom in September 2026; it keeps running as a standalone app."
+  ],
+  "features": [
+   "Automatic recording, transcription, and summaries for Zoom, Meet, and Teams",
+   "Bot or bot-free capture options",
+   "Unlimited recordings and storage on the free plan",
+   "Instant AI summaries and action items after each call",
+   "Highlight clips of key moments to share with the team",
+   "Ask Fathom: search across past conversations",
+   "CRM sync with HubSpot, Salesforce, Close, and Asana",
+   "Summary templates (BANT, Sandler, custom) and AI Scorecards coaching"
+  ],
+  "pros": [
+   "Most generous free tier in the category: unlimited recordings with no time limit",
+   "Clean, simple setup with a minimal learning curve",
+   "Bot-free capture option available for sensitive calls"
+  ],
+  "cons": [
+   "Advanced AI summaries limited to five a month on the free plan",
+   "Zoom, Meet, and Teams only — no Webex or other platforms",
+   "Desktop apps are Mac and Windows only; no mobile or Linux support"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "featureshark": {
+  "verdict": "AI-powered customer feedback platform with prioritization, roadmaps, and changelogs.",
+  "overview": [
+   "FeatureShark is a product management suite that pulls customer feedback from multiple channels into one place and uses AI to analyze, score, and prioritize feature requests. It pairs feedback management with roadmaps, surveys, support tooling, and automated changelogs, helping teams decide what to build next based on evidence rather than noise. Impact analytics surface which requests would move the needle most."
+  ],
+  "features": [
+   "Centralized customer feedback inbox",
+   "AI-powered prioritization scoring",
+   "Public roadmaps and changelogs",
+   "In-app surveys",
+   "AI writing assistant for content",
+   "Impact analytics and trend detection",
+   "Support tools integration"
+  ],
+  "pros": [
+   "All-in-one feedback + roadmap + changelog",
+   "AI removes noise from feedback triage",
+   "Automated changelog generation saves time",
+   "Data-driven prioritization"
+  ],
+  "cons": [
+   "Paid-only with no free tier mentioned",
+   "Competes with well-established players like Canny and Productboard",
+   "Best suited to teams, not solo founders"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "feedlog": {
+  "verdict": "Open-source feedback boards, roadmap, and changelog with built-in AI.",
+  "overview": [
+   "FeedLog is an open-source (MIT) feedback management tool with built-in AI: collect user feedback, manage feature requests, run a public roadmap, and publish changelogs, either self-hosted on your own infrastructure or on the free managed cloud. Its AI detects duplicate requests, merges similar feedback, and generates release notes in your brand voice. The self-hosted version has no limits on tracked users, boards, or admin seats."
+  ],
+  "features": [
+   "Feedback boards with voting and comments",
+   "Interactive product roadmap (Kanban)",
+   "Standalone changelog with emoji reactions",
+   "Embeddable feedback widget for any website",
+   "AI duplicate detection and semantic merge",
+   "AI changelog generator in your brand voice",
+   "MIT-licensed, self-hostable via Docker/Vercel/Cloudflare",
+   "Bring-your-own Postgres, full data sovereignty"
+  ],
+  "pros": [
+   "Fully open-source under MIT.",
+   "Built-in AI included, not a paid add-on.",
+   "Board + roadmap + changelog in one tool.",
+   "Zero arbitrary limits when self-hosted."
+  ],
+  "cons": [
+   "AI features are optional and need your own API key for full power.",
+   "Small team project, not an enterprise vendor.",
+   "Migration tooling from Canny/Featurebase is still being built."
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fellow-ai": {
+  "verdict": "AI meeting assistant built around collaborative agendas, bot-free capture, and strict org-level recording controls.",
+  "overview": [
+   "Fellow AI covers the full meeting lifecycle: shared agendas, recording, transcription, summaries, and action-item tracking. Its defining strength is governance — org-wide recording policies, botless capture, transcript redaction, and SOC 2 Type II, HIPAA, and GDPR compliance. Ask Fellow searches the company's entire meeting history, and notes sync into CRMs and AI tools like ChatGPT and Claude via MCP."
+  ],
+  "features": [
+   "AI meeting summaries, transcripts, and action items across Zoom, Teams, Meet, and in-person",
+   "Collaborative agendas and org-wide meeting templates",
+   "Ask Fellow: AI search across the entire meeting history",
+   "Botless recording option alongside bot-based capture",
+   "Configurable retention policies including zero-day retention",
+   "Transcript and summary redaction with consent capture",
+   "CRM sync (Salesforce, HubSpot) and MCP connector for Claude and ChatGPT",
+   "Org-wide meeting analytics and compliance portal"
+  ],
+  "pros": [
+   "Collaborative pre-meeting agendas and templates suit manager-led meeting cultures",
+   "Granular recording, retention, and redaction controls fit regulated industries",
+   "Ask Fellow surfaces decisions and updates from across the whole meeting history"
+  ],
+  "cons": [
+   "Free plan is capped at 5 lifetime AI notes, too tight to build a habit on",
+   "Meaningful CRM integrations require the Business tier, making it one of the pricier options"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ },
+ "fenn": {
+  "verdict": "Precision macOS file search powered by natural-language queries.",
+  "overview": [
+   "Fenn is a precision file-search tool for macOS that finds files using natural-language queries instead of exact filenames. Made by France-based MY LITTLE PLANET, it searches inside documents as well as by name, helping users locate buried files quickly. It offers a free version with a $9/month paid tier."
+  ],
+  "features": [
+   "Natural-language file search on macOS",
+   "In-file content search",
+   "Precision search over filenames and contents"
+  ],
+  "pros": [
+   "Finds files by meaning, not just filename",
+   "Free version available",
+   "Fast, lightweight macOS utility"
+  ],
+  "cons": [
+   "macOS only",
+   "AI capability is narrow — centered on natural-language file search"
+  ],
+  "bestFor": null,
+  "pricingTiers": null,
+  "pakistanAvailability": null,
+  "faq": []
+ }
+}
