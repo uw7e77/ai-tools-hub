@@ -94,7 +94,16 @@ export default function ToolPage() {
     return sortTools(
       getCategoryTools(category.slug).filter((item) => item.slug !== tool.slug),
       'trending',
-    ).slice(0, 3)
+    ).slice(0, 4)
+  }, [tool, category])
+  const featuredSidebar = useMemo(() => {
+    if (!tool || !category) return []
+    const pool = getCategoryTools(category.slug).filter((item) => item.slug !== tool.slug)
+    const featured = pool
+      .filter((item) => item.featuredRank != null)
+      .sort((a, b) => (a.featuredRank ?? 0) - (b.featuredRank ?? 0))
+    const rest = pool.filter((item) => item.featuredRank == null)
+    return [...featured, ...rest].slice(0, 3)
   }, [tool, category])
 
   const jsonLd = useMemo(() => {
@@ -308,7 +317,8 @@ export default function ToolPage() {
       </nav>
 
       <div className="container">
-        <div className={css.content}>
+        <div className={css.contentWrap}>
+          <div className={css.content}>
           <section id="overview" className={css.section}>
             <h2>What is {tool.name}?</h2>
             {detail?.overview?.length ? (
@@ -456,7 +466,7 @@ export default function ToolPage() {
             <h2>Alternatives to {tool.name}</h2>
             {related.length > 0 ? (
               <CardGrid
-                columns={3}
+                columns={4}
                 items={related.map((item) => (
                   <ToolCard key={item.slug} tool={item} />
                 ))}
@@ -509,6 +519,26 @@ export default function ToolPage() {
               <p className={css.missing}>FAQs for {tool.name} are coming soon.</p>
             )}
           </section>
+          </div>
+          {featuredSidebar.length > 0 ? (
+            <aside className={css.sidebar} aria-label="Featured tools">
+              <h2 className={css.sidebarTitle}>Featured tools</h2>
+              <ul className={css.sidebarList}>
+                {featuredSidebar.map((item) => (
+                  <li key={item.slug}>
+                    <Link to={`/tool/${item.slug}`} className={css.sidebarCard}>
+                      <BrandLogo logo={item.logo} name={item.name} size={40} />
+                      <span className={css.sidebarCardBody}>
+                        <span className={css.sidebarCardName}>{item.name}</span>
+                        <span className={css.sidebarCardDesc}>{item.shortDescription}</span>
+                      </span>
+                      <PricingBadge pricing={item.pricing} />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </aside>
+          ) : null}
         </div>
       </div>
 
