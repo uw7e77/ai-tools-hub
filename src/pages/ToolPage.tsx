@@ -24,15 +24,6 @@ import { cx } from '../utils/cx'
 import css from './ToolPage.module.css'
 
 const reviewCountFormatter = new Intl.NumberFormat('en-US')
-const testedDateFormatter = new Intl.DateTimeFormat('en-US', {
-  month: 'short',
-  day: 'numeric',
-  year: 'numeric',
-})
-
-function formatTestedDate(isoDate: string): string {
-  return testedDateFormatter.format(new Date(`${isoDate}T00:00:00`))
-}
 
 function HelpfulVote() {
   const [vote, setVote] = useState<'up' | 'down' | null>(null)
@@ -187,16 +178,15 @@ export default function ToolPage() {
               { label: tool.name },
             ]}
           />
-          <div className={css.layout}>
-            <div className={css.main}>
+          <div className={css.heroGrid}>
+            <div className={css.heroMain}>
               <header className={css.hero}>
-                <BrandLogo logo={tool.logo} name={tool.name} size={64} />
+                <BrandLogo logo={tool.logo} name={tool.name} size={72} />
                 <div className={css.heroBody}>
                   <h1>{tool.name}</h1>
                   <div className={css.badges}>
                     {tool.tested ? <TestedBadge /> : null}
                     {tool.isNew ? <NewBadge /> : null}
-                    <PricingBadge pricing={tool.pricing} />
                     {tool.rating != null ? (
                       <span className={css.heroRating}>
                         <Rating value={tool.rating} />
@@ -210,90 +200,50 @@ export default function ToolPage() {
                   </div>
                   <p className={css.description}>{tool.shortDescription}</p>
                   {detail ? <p className={css.verdict}>{detail.verdict}</p> : null}
+                  <dl className={css.heroMeta}>
+                    {category ? (
+                      <div className={css.heroMetaRow}>
+                        <dt>AI Categories:</dt>
+                        <dd>
+                          <Link className={css.factLink} to={`/category/${category.slug}`}>
+                            {category.name}
+                          </Link>
+                          {tool.subcategory ? `, ${tool.subcategory}` : null}
+                        </dd>
+                      </div>
+                    ) : null}
+                    {tool.pricing ? (
+                      <div className={css.heroMetaRow}>
+                        <dt>Pricing Model:</dt>
+                        <dd>{PRICING_LABELS[tool.pricing]}</dd>
+                      </div>
+                    ) : null}
+                  </dl>
                   <div className={css.actions}>
+                    <BookmarkButton slug={tool.slug} name={tool.name} />
                     <ButtonAnchor
                       href={tool.affiliateUrl ?? tool.officialUrl}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
                     >
-                      Try {tool.name}
+                      Visit Site
                       <ArrowRight size={16} aria-hidden="true" />
                     </ButtonAnchor>
-                    <BookmarkButton slug={tool.slug} name={tool.name} />
                   </div>
                   <p className={css.affiliateNote}>
-                    Affiliate disclosure: the &ldquo;Try&rdquo; button may earn us a commission. It
-                    never affects our ratings or verdicts.
+                    Affiliate disclosure: the &ldquo;Visit Site&rdquo; button may earn us a
+                    commission. It never affects our ratings or verdicts.
                   </p>
                 </div>
               </header>
             </div>
-            <aside className={css.facts}>
-              <h2 className={css.factsTitle}>Quick facts</h2>
-              <dl className={css.factList}>
-                {category ? (
-                  <div className={css.fact}>
-                    <dt>Category</dt>
-                    <dd>
-                      <Link className={css.factLink} to={`/category/${category.slug}`}>
-                        {category.name}
-                      </Link>
-                    </dd>
-                  </div>
-                ) : null}
-                {tool.company ? (
-                  <div className={css.fact}>
-                    <dt>Company</dt>
-                    <dd>
-                      {company ? (
-                        <Link className={css.factLink} to={`/company/${company.slug}`}>
-                          {company.name}
-                        </Link>
-                      ) : (
-                        tool.company
-                      )}
-                    </dd>
-                  </div>
-                ) : null}
-                {tool.pricing ? (
-                  <div className={css.fact}>
-                    <dt>Pricing</dt>
-                    <dd>{PRICING_LABELS[tool.pricing]}</dd>
-                  </div>
-                ) : null}
-                {tool.rating != null ? (
-                  <div className={css.fact}>
-                    <dt>Rating</dt>
-                    <dd className={css.factRating}>
-                      <Rating value={tool.rating} />
-                      {tool.reviewCount != null ? (
-                        <span>{reviewCountFormatter.format(tool.reviewCount)} reviews</span>
-                      ) : null}
-                    </dd>
-                  </div>
-                ) : null}
-                {tool.platforms.length > 0 ? (
-                  <div className={css.fact}>
-                    <dt>Platforms</dt>
-                    <dd>{tool.platforms.join(' · ')}</dd>
-                  </div>
-                ) : null}
-                {tool.tags.length > 0 ? (
-                  <div className={css.fact}>
-                    <dt>Tags</dt>
-                    <dd>{tool.tags.join(' · ')}</dd>
-                  </div>
-                ) : null}
-                <div className={css.fact}>
-                  <dt>Tested</dt>
-                  <dd>
-                    {tool.tested && tool.testedDate
-                      ? `Last tested ${formatTestedDate(tool.testedDate)}`
-                      : 'Not tested yet'}
-                  </dd>
-                </div>
-              </dl>
-            </aside>
+            <div className={css.heroShot}>
+              <img
+                src={`https://s0.wp.com/mshots/v1/${encodeURIComponent(tool.officialUrl)}?w=1280`}
+                alt={`${tool.name} website preview`}
+                loading="lazy"
+              />
+            </div>
           </div>
         </div>
       </section>
@@ -430,30 +380,24 @@ export default function ToolPage() {
                 </p>
               </div>
             ) : null}
-            {toolVideo || tutorial ? (
+            {tutorial ? (
               <div className={css.video}>
                 <div className={css.videoPlaceholder} aria-hidden="true">
                   <PlayCircle size={48} />
                 </div>
                 <div className={css.videoMeta}>
-                  {tutorial ? (
-                    <>
-                      <p className={css.videoTitle}>
-                        <Link className={css.videoLink} to={`/tutorial/${tutorial.slug}`}>
-                          {tutorial.title}
-                        </Link>
-                      </p>
-                      <p className={css.videoDetail}>
-                        {tutorial.difficulty} · {tutorial.durationMinutes} min · {tutorial.category}
-                      </p>
-                    </>
-                  ) : null}
-                  {tutorial ? (
-                    <ButtonLink to={`/tutorial/${tutorial.slug}`}>
-                      Open tutorial
-                      <ArrowRight size={16} aria-hidden="true" />
-                    </ButtonLink>
-                  ) : null}
+                  <p className={css.videoTitle}>
+                    <Link className={css.videoLink} to={`/tutorial/${tutorial.slug}`}>
+                      {tutorial.title}
+                    </Link>
+                  </p>
+                  <p className={css.videoDetail}>
+                    {tutorial.difficulty} · {tutorial.durationMinutes} min · {tutorial.category}
+                  </p>
+                  <ButtonLink to={`/tutorial/${tutorial.slug}`}>
+                    Open tutorial
+                    <ArrowRight size={16} aria-hidden="true" />
+                  </ButtonLink>
                   <ButtonAnchor
                     href={tool.officialUrl}
                     target="_blank"
@@ -465,27 +409,7 @@ export default function ToolPage() {
                   </ButtonAnchor>
                 </div>
               </div>
-            ) : (
-              <div className={css.toolPreview}>
-                <img
-                  src={`https://s0.wp.com/mshots/v1/${encodeURIComponent(tool.officialUrl)}?w=1280`}
-                  alt={`${tool.name} website preview`}
-                  className={css.toolPreviewImage}
-                  loading="lazy"
-                />
-                <div className={css.toolPreviewBar}>
-                  <span className={css.toolPreviewLabel}>Live preview of {tool.name}</span>
-                  <ButtonAnchor
-                    href={tool.affiliateUrl ?? tool.officialUrl}
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                  >
-                    Try {tool.name} now
-                    <ArrowRight size={16} aria-hidden="true" />
-                  </ButtonAnchor>
-                </div>
-              </div>
-            )}
+            ) : null}
 
             {company ? (
               <>
