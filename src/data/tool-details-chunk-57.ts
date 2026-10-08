@@ -1,0 +1,1495 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk57: Partial<Record<ToolSlug, ToolDetail>> = {
+  "i10x": {
+    "verdict": "One workspace for chatting, agents, and automations across top AI models.",
+    "overview": [
+      "i10x is a unified AI platform that puts chat, agents, and automations under one roof. Users can talk to multiple leading AI models, spin up agents for recurring tasks, and stitch everything together in workflows. Based in Singapore, it is built as a daily-driver workspace rather than a single-model chatbot."
+    ],
+    "features": [
+      "Multi-model chat",
+      "AI agents",
+      "Workflow automations"
+    ],
+    "pros": [
+      "Many models in one place",
+      "Agents plus chat plus automation"
+    ],
+    "cons": [
+      "Young platform still building out"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ideaboard": {
+    "verdict": "AI-powered online whiteboard that generates custom brainstorming templates from a prompt.",
+    "overview": [
+      "IdeaBoard is MockFlow's AI whiteboard: an infinite canvas where you type what you want — a strategy framework, flowchart, mindmap, Kanban board, or technical diagram — and its AI Toolbox generates a tailored, editable template instantly. You can transform boards between formats (a mindmap becomes a journey map becomes a document), edit with real-time multiplayer cursors, and connect Claude or ChatGPT via an MCP server to draw on your canvas directly. It is aimed at product teams, project managers, and remote workers who need structured visuals fast."
+    ],
+    "features": [
+      "AI Toolbox generates templates from text prompts",
+      "Infinite canvas with 20+ board types (flowcharts, mindmaps, Kanban, journey maps, DB diagrams)",
+      "One-click format transformation",
+      "Real-time multiplayer co-editing",
+      "MCP server for Claude/ChatGPT integration",
+      "Presentation mode"
+    ],
+    "pros": [
+      "Skips tedious whiteboard setup with AI-generated structure",
+      "Works inside Google Meet and MS Teams",
+      "No-login MCP option for AI assistants"
+    ],
+    "cons": [
+      "Core AI features may be gated behind paid plans",
+      "Newer product with evolving feature set"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ideabuddy": {
+    "verdict": "AI business-planning software that turns ideas into investor-ready plans.",
+    "overview": [
+      "IdeaBuddy is an AI-assisted business planning platform that guides founders from raw idea to a complete business plan. It offers an interactive business canvas, step-by-step guidance, and automatic financial projections so users can validate and shape their concept before launch. A dedicated plan editor helps produce investor-ready documents for pitching and fundraising."
+    ],
+    "features": [
+      "AI-assisted business plan builder",
+      "Interactive business canvas",
+      "Financial projections",
+      "Investor-ready plan editor",
+      "Step-by-step guidance"
+    ],
+    "pros": [
+      "Covers the whole journey from idea to funding",
+      "Automatic financial projections save setup time",
+      "Free trial available"
+    ],
+    "cons": [
+      "Paid tiers start around $15/month",
+      "Focused on planning, not execution"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ideapulley": {
+    "verdict": "AI-powered sandbox for generating and validating startup ideas",
+    "overview": [
+      "IdeaPulley is a hands-on ideation workspace that helps founders move from a spark to an action plan: it generates startup ideas, then pressure-tests them with AI feedback across 50+ tools covering market research, competitor analysis, business model canvases, pitch decks, and MVP roadmaps. Unlike a generic chatbot, it understands startup context and teaches business intuition as you work. A community marketplace lets unused ideas find new builders, and there is an open database of ~10,000 AI-generated startup ideas on GitHub."
+    ],
+    "features": [
+      "AI startup idea generation",
+      "50+ validation and planning tools",
+      "Pitch deck, business model canvas, MVP roadmap builders",
+      "AI chat to pressure-test your thinking",
+      "Community idea marketplace",
+      "Open 10,000-idea database on GitHub"
+    ],
+    "pros": [
+      "Purpose-built for startup ideation, not generic chat",
+      "Free to explore and practice",
+      "Large open idea database"
+    ],
+    "cons": [
+      "Official site on a subdomain, still maturing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ideaspark": {
+    "verdict": "Multilingual AI generator for personalized business ideas with planning and validation tools.",
+    "overview": [
+      "IdeaSpark is an AI platform that generates personalized business ideas across industries in multiple languages. Beyond ideation, it bundles tools for market research, business model canvases, business plans, pitch decks, and financial forecasts to help founders validate concepts. The free tier covers up to 50 ideas, with setup taking only a couple of minutes."
+    ],
+    "features": [
+      "AI-generated personalized business ideas in multiple languages",
+      "Market research and competitive analysis tools",
+      "Business model canvas builder",
+      "Business plan and pitch deck resources",
+      "Financial forecasting and risk assessment tools"
+    ],
+    "pros": [
+      "Free for up to 50 ideas with quick setup",
+      "Multilingual idea generation",
+      "Goes beyond ideation into validation and planning"
+    ],
+    "cons": [
+      "No mobile app",
+      "Free access is capped at 50 ideas",
+      "No collaboration or investor-connection features"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "igenflow": {
+    "verdict": "Chrome extension that turns web workflows into AI-written step-by-step guides.",
+    "overview": [
+      "iGenflow is a Chrome and Edge extension that records what you do on a webpage — clicks, typing, screenshots, even voice notes — and uses AI to turn it into a polished step-by-step guide. You get annotated screenshots, auto-written descriptions, one-click blurring of sensitive data, and exports to PDF, Word, Markdown, images, or even a walkthrough video. It is made for support teams, onboarding, and anyone who documents processes repeatedly."
+    ],
+    "features": [
+      "Automatic capture of clicks, typing, and screenshots",
+      "AI-polished step descriptions",
+      "Screenshot annotation and sensitive-data blurring",
+      "Exports to PDF, Word, PPT, Markdown, HTML, images, and video",
+      "Shareable links and visual flow editing"
+    ],
+    "pros": [
+      "Document a task once by simply doing it",
+      "Always-free sensitive-data blurring",
+      "Multiple export formats including video"
+    ],
+    "cons": [
+      "Browser-only, no desktop app capture",
+      "In-app purchases needed for heavier use"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "image-metahub": {
+    "verdict": "Local-first library manager for organizing AI-generated image collections",
+    "overview": [
+      "Image MetaHub is a desktop application for browsing, searching, and organizing large local libraries of AI-generated images and videos without uploading anything to the cloud. It scans folders in place, parses generation metadata from ComfyUI, Automatic1111, InvokeAI, Forge, Midjourney, and other tools, and lets users filter by prompt, model, LoRA, sampler, seed, tags, ratings, and visual similarity. It is open source with optional Pro features like comparison tools and an analytics dashboard."
+    ],
+    "features": [
+      "Local AI image library browsing",
+      "Rich generation metadata parsing",
+      "Search by prompt, model, LoRA and seed",
+      "Tags, ratings and collections"
+    ],
+    "pros": [
+      "Open source and fully offline",
+      "Handles huge collections fast",
+      "No accounts or telemetry"
+    ],
+    "cons": [
+      "Pro features cost $39"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "inbox-ai": {
+    "verdict": "Voice-driven AI automation for Mac with one-time pricing.",
+    "overview": [
+      "Inbox AI is a voice-driven automation tool for Mac that works like Siri meets Zapier. It lets you build custom AI assistants that draft emails, filter junk, extract tasks to Notion or Obsidian, and run workflows by voice. Sold as a one-time purchase with no recurring fees, it can run fully on-device for privacy."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "inboxpro": {
+    "verdict": "AI email assistant for Gmail with compose, sequences, and tracking.",
+    "overview": [
+      "InboxPro is an AI email assistant for Gmail offering Magic Compose, follow-up sequences, email tracking, and templates. It has a free-forever tier with a Basic plan around $10/month, aimed at salespeople and professionals living in Gmail."
+    ],
+    "features": [
+      "AI email composer",
+      "Follow-up sequences",
+      "Email tracking",
+      "Templates and snippets",
+      "Free forever tier"
+    ],
+    "pros": [
+      "Free tier available",
+      "Works inside Gmail",
+      "Sequences automate follow-ups"
+    ],
+    "cons": [
+      "Gmail only",
+      "Tracking privacy concerns",
+      "Paid for full features"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "inkscan": {
+    "verdict": "AI handwriting OCR that converts messy notes and manuscripts to editable text.",
+    "overview": [
+      "InkScan is an AI handwriting OCR service that turns photos, screenshots, and PDFs of messy handwriting, cursive, and historical manuscripts into editable, structured text. It delivers 90-95% accuracy on clear handwriting across 100+ languages, with bounding boxes, markdown export, and a simple REST API for batch processing. Pricing is pay-as-you-go at $0.01 per page with 5 free scans daily, and no subscriptions or expiring credits. Students, teachers, researchers, genealogists, and businesses digitize notes, forms, and archives at scale."
+    ],
+    "features": [
+      "Handwriting OCR for photos, scans, screenshots, PDFs",
+      "90-95% accuracy on clear handwriting",
+      "100+ languages with auto-detection",
+      "Structured output: text, markdown, bounding boxes",
+      "REST API with batch processing",
+      "5 free scans per day, no signup",
+      "Images deleted after processing"
+    ],
+    "pros": [
+      "Free tier with no signup required",
+      "Pay-as-you-go credits never expire",
+      "Strong accuracy on cursive and historical manuscripts"
+    ],
+    "cons": [
+      "Accuracy drops on very messy handwriting",
+      "API access requires paid credits"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "instafill": {
+    "verdict": "AI PDF form filler that completes single or thousands of documents automatically",
+    "overview": [
+      "Instafill is an AI-powered PDF form filler that reads your documents and completes the fields for you. It handles one-off forms as well as bulk jobs — upload a CSV and it fills thousands of PDFs at once, with e-signatures, reusable templates, and an API. It's built for paperwork-heavy work like immigration, insurance, legal, and finance forms."
+    ],
+    "features": [
+      "AI-powered field detection and auto-fill for PDFs",
+      "Bulk fill thousands of PDFs from CSV or API",
+      "E-signatures and reusable templates",
+      "Chrome extension and developer API"
+    ],
+    "pros": [
+      "Huge time-saver for bulk paperwork",
+      "API enables integration into existing workflows",
+      "Handles complex government and legal forms"
+    ],
+    "cons": [
+      "No free tier for serious use",
+      "Accuracy still needs a human review pass on legal documents"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "instinct": {
+    "verdict": "Invite-only personal AI agent you text or call on iMessage and WhatsApp to handle real errands.",
+    "overview": [
+      "Instinct, from Spear Street Technology, is a consumer AI agent that lives inside familiar messaging threads instead of a dedicated app. Users text or call it on iMessage, WhatsApp, or SMS and it takes real action on its own cloud computer: booking travel, ordering groceries, checking in to flights, canceling subscriptions, and chasing threads the user dropped. It stands out for proactivity, suggesting and executing tasks rather than waiting for detailed prompts, and keeps working after the phone is put down. Access is invite-only and free during the private beta, with no published pricing."
+    ],
+    "features": [
+      "Messaging-native agent on iMessage, WhatsApp, SMS plus phone calls",
+      "Runs errands on its own persistent cloud computer",
+      "Proactive suggestions and follow-ups",
+      "Long-term memory of tastes, contacts, trips, and open tasks",
+      "Handles bookings, purchases, cancellations, and email on the user's behalf"
+    ],
+    "pros": [
+      "No new interface to learn; lives in chat threads",
+      "Genuinely proactive rather than waiting for prompts",
+      "Free during the invite-only beta"
+    ],
+    "cons": [
+      "Invite-only access with no public pricing",
+      "Trains on user data by default unless opted out",
+      "Acts on real accounts and payments, so mistakes carry financial risk"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "intellimail": {
+    "verdict": "Free Chrome extension that drafts emails with AI.",
+    "overview": [
+      "IntelliMail is a free Chrome extension that drafts and improves emails with AI right inside your inbox. It is a lightweight productivity tool for anyone who writes lots of email and wants faster replies."
+    ],
+    "features": [
+      "AI email drafting",
+      "Reply generation",
+      "Tone adjustment",
+      "Works in-browser",
+      "Free"
+    ],
+    "pros": [
+      "Free",
+      "Works where you write email",
+      "Simple to use"
+    ],
+    "cons": [
+      "Extension-only",
+      "Limited advanced features",
+      "Small vendor"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "intellisay": {
+    "verdict": "Voice-activated productivity app that turns spoken plans into an organized daily schedule.",
+    "overview": [
+      "Intellisay is a voice-first productivity tool that converts spoken plans into structured tasks and events. Its AI transcribes and analyzes what you say, then produces an optimized daily plan with personalized task recommendations. Unfinished tasks roll over to the next day automatically, so nothing gets lost."
+    ],
+    "features": [
+      "Voice-to-task and voice-to-event creation",
+      "AI analysis of daily plans",
+      "Personalized task recommendations",
+      "Automatic carry-over of incomplete tasks",
+      "Multi-language voice understanding",
+      "Unlimited AI voice transcription on paid plans"
+    ],
+    "pros": [
+      "Faster than manual task entry",
+      "Simple 30-second setup",
+      "Affordable monthly and lifetime pricing"
+    ],
+    "cons": [
+      "Web-focused; mobile experience unverified",
+      "Smaller user community"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "interviewbot": {
+    "verdict": "Practice job interviews with an AI coach and customizable avatars.",
+    "overview": [
+      "InterviewBot is a practice-interview platform with an AI coach. It offers interview simulations across many subjects with customizable avatars, a free short practice session, and paid upgrades that add more questions, coaching tips, and professional feedback. The long-standing domain has served interview preparation content for years."
+    ],
+    "features": [
+      "Mock interviews across 20 subjects",
+      "Customizable interviewer avatars",
+      "AI coaching feedback",
+      "Record and playback sessions",
+      "Subscription for extended practice"
+    ],
+    "pros": [
+      "Free trial interview included",
+      "Wide subject coverage",
+      "Long-established domain"
+    ],
+    "cons": [
+      "Scamadviser flags its low traffic rank",
+      "Feature depth behind paywall is unverified"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "intescene": {
+    "verdict": "All-in-one film production management with AI storyboards and breakdowns.",
+    "overview": [
+      "InteScene is an all-in-one production management platform for film and television, built by filmmakers. It combines screenwriting, AI script breakdowns, scheduling, budgeting on a formal Chart of Accounts, call sheets, AI storyboards and shot lists, casting, locations, and crew management in one connected workspace where a detail entered once flows to every department. A free plan is available forever; paid plans start at GBP 12/mo."
+    ],
+    "features": [
+      "Professional script editing with Fountain/Final Draft support",
+      "AI script breakdowns and shot lists",
+      "AI storyboard generation",
+      "Scheduling, budgeting, and call sheets",
+      "Live crew check-in, timesheets, turnaround alerts",
+      "Casting, locations, and crew management",
+      "Client review and unbranded exports",
+      "Shared database: enter a detail once, use everywhere"
+    ],
+    "pros": [
+      "Built by filmmakers for real production workflows.",
+      "Deep pre-production toolset in one workspace.",
+      "Free plan forever for small projects.",
+      "Every AI tool can be switched off."
+    ],
+    "cons": [
+      "Paid plans start at GBP 12/mo; no USD starting price shown.",
+      "Niche focus: only useful for film/TV production.",
+      "Smaller vendor than legacy production tools."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ironclaw": {
+    "verdict": "NEAR AI's Rust rewrite of the OpenClaw agent runtime with WASM sandboxing.",
+    "overview": [
+      "IronClaw is a ground-up Rust rewrite of the OpenClaw AI assistant runtime, built by NEAR AI to close the security gaps of autonomous agents. Every tool and snippet of AI-generated code executes inside a WebAssembly sandbox, credentials live in an encrypted vault the model never sees, and capability-based permissions bound what each agent can do. It supports chat channels, skills, MCP servers, and one-click deployment to NEAR AI Cloud."
+    ],
+    "features": [
+      "Rust agent runtime with WASM tool sandboxing",
+      "Encrypted credential vault with domain-bound policies",
+      "Capability-based permissions and prompt-injection defenses",
+      "Multi-channel support and MCP integration",
+      "NEAR AI Cloud one-click deployment",
+      "Extension SDK for building tools"
+    ],
+    "pros": [
+      "Strongest security story in the OpenClaw family",
+      "Fast, memory-safe Rust implementation",
+      "Actively maintained with regular releases"
+    ],
+    "cons": [
+      "Alpha software — interfaces may still change",
+      "Heavier than the minimalist alternatives"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jamie": {
+    "verdict": "Bot-free AI meeting assistant that turns online and in-person meetings into structured notes, transcripts and action items.",
+    "overview": [
+      "Jamie captures meeting audio directly from your device instead of joining the call as a participant bot. It produces transcripts, structured summaries and action items in 100+ languages, with speaker recognition, customizable templates and cross-meeting search. Meeting data is processed and hosted in the EU under GDPR."
+    ],
+    "features": [
+      "Bot-free meeting capture from device audio",
+      "Automatic transcription, summaries and action items",
+      "Speaker recognition and speaker memory",
+      "Executive assistant sidebar to query past meetings",
+      "Custom note templates and company terminology",
+      "Integrations with Notion, Google Docs, OneNote and HubSpot",
+      "Desktop apps for Windows and macOS, mobile apps for iOS and Android"
+    ],
+    "pros": [
+      "No meeting bot joining your calls",
+      "GDPR-compliant EU data hosting; audio deleted after transcription",
+      "Works for online and in-person meetings",
+      "Free plan available"
+    ],
+    "cons": [
+      "Notes live in a vendor-managed workspace, not your own files",
+      "Cannot attend meetings on your behalf like bot-based assistants",
+      "Accuracy may vary across accents, audio conditions and specialized vocabulary"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jeda-ai": {
+    "verdict": "Visual AI workspace with infinite canvas.",
+    "overview": [
+      "Jeda.ai is a visual AI workspace combining an infinite canvas with 11 AI commands and 300+ AI Recipes across multiple LLMs. Teams brainstorm, plan, and create with an agentic workflow. Freemium pricing includes a free Whitebelt tier with paid plans from $10 per user per month."
+    ],
+    "features": [
+      "Infinite canvas",
+      "11 AI commands",
+      "300+ AI Recipes",
+      "Multi-LLM agent"
+    ],
+    "pros": [
+      "Visual plus AI workflow",
+      "Generous recipe library",
+      "Free tier available"
+    ],
+    "cons": [
+      "New paradigm to learn",
+      "Paid for teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jetwriter-ai": {
+    "verdict": "AI email writing assistant, formerly ChatGPT Writer.",
+    "overview": [
+      "Jetwriter AI is an AI email writing assistant for Gmail, previously known as ChatGPT Writer before rebranding. It helps draft and polish emails directly in the browser. The current identity and site are at jetwriter.ai."
+    ],
+    "features": [
+      "Gmail email drafting",
+      "AI reply suggestions",
+      "Tone adjustment",
+      "Browser integration"
+    ],
+    "pros": [
+      "Works where you write email",
+      "Rebrand keeps the same tool alive",
+      "Free to try"
+    ],
+    "cons": [
+      "Pricing details unverified at check time",
+      "Chrome-focused"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jira-ai": {
+    "verdict": "Atlassian Intelligence inside Jira: Rovo search, chat, and AI agents, AI summaries, and natural-language automation — on paid plans.",
+    "overview": [
+      "Jira AI is the artificial-intelligence layer of Atlassian's Jira, delivered through Atlassian Intelligence and Rovo. It brings AI search across Jira, Confluence, and connected apps, AI agents that research and take action, automatic summaries and content generation, natural-language automation rules, and alert grouping. AI is bundled into Standard, Premium, and Enterprise plans with a monthly allowance of AI credits per user, and is off by default until an admin enables it."
+    ],
+    "features": [
+      "Rovo AI agents that research, draft, and act inside Jira",
+      "AI enterprise search across Jira, Confluence, and connected apps",
+      "Natural-language automation rule creation",
+      "AI-generated issue summaries and content",
+      "AI alert grouping and incident triage",
+      "Teamwork Graph context via MCP and CLI for coding agents",
+      "Automatic linking of similar issues",
+      "Automation rules across the Atlassian suite"
+    ],
+    "pros": [
+      "AI bundled into paid plans — no separate AI purchase needed",
+      "Deep integration with Confluence, Bitbucket, and the Atlassian ecosystem",
+      "300,000+ companies use Atlassian products, including 85% of the Fortune 500",
+      "Free tier covers up to 10 users"
+    ],
+    "cons": [
+      "AI features require a paid plan and are off by default",
+      "Credit-based AI quotas can be hard to predict at scale",
+      "Reviewers note costs rise with advanced features and add-ons"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jobcopilot": {
+    "verdict": "AI copilots that search company career pages, match jobs to your profile, and auto-apply on your behalf.",
+    "overview": [
+      "JobCopilot creates AI 'copilots' that continuously search official company career pages, match roles to your criteria, and auto-apply on your behalf with AI-built resumes and cover letters. It offers both fully automatic submission and a review-before-submit mode, plus an application tracker and AI mock interviews."
+    ],
+    "features": [
+      "AI copilots searching company career pages 24/7",
+      "Automatic or review-before-submit application modes",
+      "AI resume builder with per-application tailoring (Elite)",
+      "AI cover letter builder",
+      "Application tracking dashboard",
+      "AI mock interviews and career tools",
+      "Hiring manager contact credits (Elite)",
+      "Match feedback loop: accept/reject roles to improve relevance"
+    ],
+    "pros": [
+      "Broadest company-career-page coverage in the category, per independent reviews.",
+      "Review-before-submit mode gives more control than fully hands-off rivals.",
+      "50% student discount available with verified student status."
+    ],
+    "cons": [
+      "No free plan or free trial: you pay before evaluating the product.",
+      "Weekly billing (~$38–$56/mo equivalent) adds up over a multi-month job search.",
+      "Users report cancellation and billing headaches, including charges after cancellation attempts."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jobquest-ai": {
+    "verdict": "AI resume builder with job-match scoring and one-click resume tailoring.",
+    "overview": [
+      "JobQuest.ai is an AI resume builder aimed at getting resumes past applicant tracking systems. It scores how well your resume matches a job posting, then tailors it in one click with role-specific wording. Also generates cover letters, so the whole application packet is coherent."
+    ],
+    "features": [
+      "Job Match Score",
+      "One-click resume tailoring",
+      "Cover letter generation"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jobright": {
+    "verdict": "AI job-search copilot with matching, ATS-optimized resumes, and one-click applications.",
+    "overview": [
+      "Jobright is an AI job-search copilot that rebuilds job hunting as an agent-first workflow. It proactively matches users to roles, builds ATS-optimized resumes, autofills applications through a Chrome extension, and provides Orion, an AI career co-pilot for guidance and interview prep. It was founded by former Google, Twitter, Box, and TikTok AI engineers."
+    ],
+    "features": [
+      "Proactive AI job matching",
+      "ATS-optimized resume builder",
+      "One-click autofill applications",
+      "Orion AI career co-pilot",
+      "Insider connection discovery and application tracking"
+    ],
+    "pros": [
+      "Covers the whole job-hunt funnel",
+      "Strong founder pedigree",
+      "Mobile app plus extension"
+    ],
+    "cons": [
+      "Premium features behind paid tiers",
+      "US-centric job market"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jobscan": {
+    "verdict": "ATS scanner that compares your resume against a specific job posting with AI-drafted keyword fixes.",
+    "overview": [
+      "Jobscan is an end-to-end job-search platform centered on deep ATS optimization rather than pure resume creation. Paste a job description and upload your resume to get a match-rate score across 30+ factors: hard and soft skills, keyword variation, formatting, measurable results and section structure, with AI Optimize drafting fixes you can accept per suggestion. It adds an AI resume coach that interviews you section by section, a LinkedIn optimizer, cover letter generator and job tracker."
+    ],
+    "features": [
+      "ATS match-rate scan across 30+ factors against a specific job description",
+      "Keyword and skills gap analysis with missing-keyword lists",
+      "AI Optimize drafting per-suggestion fixes with real-time score updates",
+      "AI resume coach that guides section-by-section writing",
+      "LinkedIn profile optimizer with keyword suggestions",
+      "AI cover letter generator",
+      "Job tracker with match reports per job",
+      "ATS system detection (Workday, Taleo, Greenhouse, iCIMS, Lever)",
+      "Formatting and parsing checks",
+      "ATS-safe resume templates"
+    ],
+    "pros": [
+      "Deepest ATS analysis of the group: 30+ factors tied to real ATS vendor behavior",
+      "Free tier gives 5 scans/month with no watermark and no expiry",
+      "AI Optimize shows exactly what to change per suggestion, keeping user control",
+      "Long-running brand featured by Forbes and Time with a 4.5 Trustpilot rating"
+    ],
+    "cons": [
+      "Among the most expensive options at $49.95/month on the monthly plan",
+      "Free tier capped at 5 scans per month",
+      "Score measures keyword overlap, not how a specific employer's ATS will behave"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jobsync": {
+    "verdict": "Self-hosted AI job search assistant with resume review and job matching.",
+    "overview": [
+      "JobSync is a self-hosted job application tracker and AI-powered job search assistant. It helps seekers manage their pipeline with AI resume review, job matching, and cover-letter generation, plus a built-in MCP server. MIT-licensed, it keeps the entire job hunt on your own infrastructure."
+    ],
+    "features": [
+      "Job application tracking dashboard",
+      "AI resume review and scoring",
+      "Job matching against your profile",
+      "Cover-letter generation and built-in MCP server"
+    ],
+    "pros": [
+      "End-to-end job hunt in one self-hosted app",
+      "MCP server enables agent integrations"
+    ],
+    "cons": [
+      "Smaller community than commercial job tools",
+      "AI features depend on configured model access"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kai": {
+    "verdict": "AI writing assistant built into an iPhone keyboard.",
+    "overview": [
+      "kAI, also known as KeyboardAI, is an iPhone keyboard that brings an AI writing assistant into any app you type in. It can rewrite, summarize, and help draft messages without switching apps. The product is a free AI keyboard from KAI with premium options."
+    ],
+    "features": [
+      "AI keyboard for iPhone",
+      "Rewrite and summarize anywhere you type",
+      "In-app AI writing help"
+    ],
+    "pros": [
+      "Works inside any app",
+      "Free to install"
+    ],
+    "cons": [
+      "iOS only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kaya": {
+    "verdict": "Create personal AI assistants for chat",
+    "overview": [
+      "Kaya is a free platform for building personal AI assistants that users can chat with. It lets people set up custom assistants for different roles or topics without technical setup. The product is free and web-based at kaya.chat."
+    ],
+    "features": [
+      "Custom personal AI assistants",
+      "Chat-based interface",
+      "Free to use"
+    ],
+    "pros": [
+      "Free",
+      "Simple to set up assistants"
+    ],
+    "cons": [
+      "Limited public feature detail",
+      "Narrow differentiation"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "keep-it-shot": {
+    "verdict": "AI Mac app that renames and indexes screenshots.",
+    "overview": [
+      "Keep It Shot is a Mac app that uses AI to automatically rename screenshots with descriptive titles based on their content. It turns cluttered files like 'Screenshot 2024.png' into searchable names and builds a private offline search index. It works entirely on-device for privacy."
+    ],
+    "features": [
+      "AI-generated descriptive file names",
+      "Batch renaming of screenshots",
+      "Private offline search index",
+      "One-click revert to original names"
+    ],
+    "pros": [
+      "Fully offline and private",
+      "Makes screenshots searchable"
+    ],
+    "cons": [
+      "macOS only",
+      "Paid features needed for full automation"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "keepi": {
+    "verdict": "AI personal knowledge app that captures and organizes what you learn.",
+    "overview": [
+      "Keepi is an AI-powered personal knowledge and assistant app that stores your notes, links, and ideas in one searchable place. A Chrome extension and integrations let you save from anywhere, with the AI surfacing what you need when you need it. A free version exists alongside paid plans."
+    ],
+    "features": [
+      "AI personal knowledge base",
+      "Chrome extension capture",
+      "Smart search and recall",
+      "Integration with messaging apps"
+    ],
+    "pros": [
+      "Free version available.",
+      "Capture from browser and chat.",
+      "AI surfaces relevant notes."
+    ],
+    "cons": [
+      "Pricing details not fully transparent.",
+      "Feature set overlaps with general note apps."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kerlig": {
+    "verdict": "Contextual AI writing assistant that works in any macOS app.",
+    "overview": [
+      "Kerlig is a macOS AI assistant that brings writing help into any app: it drafts replies in Slack and Mail, fixes grammar, summarizes articles, chats with PDFs and adjusts tone, all in the user's own voice. It supports models from OpenAI, Anthropic, Google, Groq and local Ollama models. It costs $47 as a one-time purchase."
+    ],
+    "features": [
+      "AI writing assistance in any app",
+      "Reply drafting in your own tone",
+      "PDF and document chat",
+      "Summarization and translation",
+      "Multi-model support including local models"
+    ],
+    "pros": [
+      "Works system-wide on macOS",
+      "Pay-once pricing, no subscription"
+    ],
+    "cons": [
+      "macOS only",
+      "$47 upfront cost"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "khoj": {
+    "verdict": "Open-source personal AI assistant that searches your notes and files.",
+    "overview": [
+      "Khoj is an open-source personal AI assistant designed to act as a second brain. It can search through personal notes, documents, and the web, answer questions, and automate knowledge work. Users can self-host it for full privacy or use the hosted cloud version."
+    ],
+    "features": [
+      "Personal knowledge search across notes and files",
+      "Web and document Q&A",
+      "Self-hostable for full privacy",
+      "Open-source codebase"
+    ],
+    "pros": [
+      "Open source and self-hostable",
+      "Searches your own knowledge base",
+      "Privacy-friendly design"
+    ],
+    "cons": [
+      "AI answers can be inaccurate on niche topics",
+      "Cloud features require trusting third-party storage",
+      "Self-hosting requires technical setup"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kickresume": {
+    "verdict": "Resume and cover letter builder with a GPT writer, 20,000 pre-written phrases and a personal website maker.",
+    "overview": [
+      "Kickresume is a resume, cover letter and personal-website builder powered by a GPT-based AI writer. It ships 40+ ATS-friendly templates, a library of 20,000 pre-written phrases for tricky sections, an ATS resume checker and a one-page website builder that turns your resume into a shareable link. Students and teachers get Premium free for six months via ISIC, ITIC or UNiDAYS verification, and native iOS and Android apps extend it to mobile."
+    ],
+    "features": [
+      "AI Resume Writer powered by GPT",
+      "ATS Resume Checker",
+      "40+ resume and cover letter templates",
+      "20,000+ pre-written phrases library",
+      "Personal website builder with custom URL",
+      "LinkedIn profile import",
+      "1,500+ real resume examples",
+      "Native iOS and Android apps",
+      "AI resume translation to 8 languages",
+      "Optional human proofreading service"
+    ],
+    "pros": [
+      "Verified students and teachers get Premium free, a rare differentiator",
+      "Phrase library speeds up writing for people short on experience",
+      "Personal website builder turns your resume into a shareable page",
+      "Mobile apps for iOS and Android with premium sync"
+    ],
+    "cons": [
+      "Every AI feature (writer, ATS checker) is locked behind Premium; free is templates only",
+      "Exports are PDF-only, no Word format",
+      "Human proofreading costs extra on top of Premium ($30 per resume)"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kimi-claw": {
+    "verdict": "Moonshot AI's official one-click cloud deployment of OpenClaw inside the Kimi app.",
+    "overview": [
+      "Kimi Claw is Moonshot AI's official OpenClaw offering: a 24/7 personal AI agent deployed to the cloud with a single click from within Kimi's interface. Rather than being a new agent built from scratch, it migrates the open-source OpenClaw framework into Moonshot's cloud, giving users a persistent assistant with long-term memory, proactive task execution, and 24/7 availability. It runs on Kimi's K2.5 model, taps into the ClawHub skill marketplace, and stays online even when the user's own devices are off. Requires a paid Kimi membership tier during its beta."
+    ],
+    "features": [
+      "One-click OpenClaw deployment in the browser",
+      "24/7 cloud availability with persistent long-term memory",
+      "Proactive execution on rules, schedules, and triggers",
+      "ClawHub skill marketplace with 5000+ community skills",
+      "Powered by Kimi K2.5",
+      "40GB cloud workspace for files and context"
+    ],
+    "pros": [
+      "Official Moonshot deployment of OpenClaw, no DIY hosting",
+      "Runs 24/7 with memory that persists across sessions",
+      "Deep integration with the Kimi ecosystem and mobile apps"
+    ],
+    "cons": [
+      "Requires a paid Kimi membership tier",
+      "Still in beta",
+      "Tied to Moonshot's ecosystem and model lineup"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kin": {
+    "verdict": "A private AI companion for everyday personal life.",
+    "overview": [
+      "Kin is a personal AI designed around your private life rather than your work. It remembers context about your routines, relationships, and goals to give thoughtful, personalized support. Free to use, it positions itself as a calm, trustworthy assistant for reflection and organization."
+    ],
+    "features": [
+      "Personal memory and context",
+      "Everyday planning and reminders",
+      "Reflective conversation",
+      "Private, personal focus"
+    ],
+    "pros": [
+      "Completely free.",
+      "Focuses on personal life, not work.",
+      "Privacy-oriented positioning."
+    ],
+    "cons": [
+      "Free-only model may limit advanced features.",
+      "Newer product with a smaller user base."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "klarops": {
+    "verdict": "AI visibility platform for workforce productivity, burnout, and quiet-quitting signals.",
+    "overview": [
+      "Klarops is an AI platform that gives leaders visibility into how their teams actually work, surfacing productivity patterns, burnout risk, and disengagement signals. It generates reports and alerts through channels like Slack while taking a privacy-first stance toward employee monitoring. Founded in Canada in 2024, it is currently in public beta with per-user pricing."
+    ],
+    "features": [
+      "AI productivity and activity reports",
+      "Burnout and disengagement alerts",
+      "Slack integration for notifications",
+      "Privacy-first monitoring design"
+    ],
+    "pros": [
+      "Early warning on burnout and quiet quitting",
+      "Privacy-conscious approach to workforce analytics"
+    ],
+    "cons": [
+      "Monitoring tools can affect team trust",
+      "Still in beta with evolving features"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "klutch": {
+    "verdict": "AI knowledge base and wiki for teams.",
+    "overview": [
+      "Klutch is a team knowledge base where AI helps you capture, organize, and find company information. It works like a wiki that answers questions from your own docs instead of making you search. The Israeli company charges around $5 per user per month with a free version available. It is a straightforward fit for teams tired of answers lost in chat threads."
+    ],
+    "features": [
+      "AI-powered team knowledge base",
+      "Natural-language search over company docs",
+      "Collaborative wiki editing"
+    ],
+    "pros": [
+      "Answers from your own documentation",
+      "Affordable per-seat pricing"
+    ],
+    "cons": [
+      "Not to be confused with Klutch AI (klutch.ai), a different construction product"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "knolli": {
+    "verdict": "No-code workspace where teams build custom AI copilots and multi-agent workflows on their own knowledge.",
+    "overview": [
+      "Knolli is a no-code AI copilot platform aimed at teams that want practical AI assistants without managing infrastructure. Users describe an idea in plain language and the workspace assembles an AI copilot from their documents, datasets, and knowledge sources, backed by encrypted private knowledge bases. A single copilot can run multiple specialized agents inside it, pull live data from CRMs, file storage, and databases, and automate multi-step workflows. It also offers pre-built templates, white-labeling, analytics, and monetization options for selling copilots to customers."
+    ],
+    "features": [
+      "No-code AI copilot builder from plain-language descriptions",
+      "Multi-agent architecture inside each copilot",
+      "Encrypted private knowledge bases",
+      "Live integrations with CRMs, file storage, and databases",
+      "Pre-built templates, white-labeling, and custom branding",
+      "Built-in monetization: subscriptions and pay-per-use",
+      "Analytics on performance, usage, and ROI"
+    ],
+    "pros": [
+      "No engineering or infrastructure work required",
+      "Multi-agent design covers complex multi-step workflows",
+      "White-label and monetization support for resale"
+    ],
+    "cons": [
+      "Enterprise-grade pricing, not aimed at individuals",
+      "Positioned as structured copilots, not free-roaming autonomous agents",
+      "Effectiveness depends on the quality of the knowledge sources fed in"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "knowledg-io": {
+    "verdict": "AI automation workspace that runs grouped prompts and automates repetitive AI tasks.",
+    "overview": [
+      "Knowledg.io is an AI automation workspace for streamlining repetitive prompt-based work. Users group prompts into contextual sets called AI Runners, execute many prompts at once, automate recurring AI tasks in the background, and collaborate with teams in real time, with third-party integrations for a unified workspace."
+    ],
+    "features": [
+      "AI Runners for grouped prompt execution",
+      "Background automation of repetitive tasks",
+      "Real-time team collaboration",
+      "Third-party integrations"
+    ],
+    "pros": [
+      "Automates repetitive prompting at scale",
+      "Free forever plan",
+      "Real-time collaboration"
+    ],
+    "cons": [
+      "Niche product with a small public footprint",
+      "Pricing details rely on directory listings",
+      "Overlaps with broader automation tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "knowly": {
+    "verdict": "Proactive AI knowledge platform: saves anything, auto-clusters sources, and builds guided learning journeys.",
+    "overview": [
+      "Knowly is a Chrome extension and personal knowledge platform built around a proactive AI agent. It captures what you save (webpages, PDFs, videos) and continuously reads your corpus to auto-cluster sources into topics, surface cross-source connections, and build guided learning journeys called Flows. Rather than waiting for prompts, it proposes digests and next steps on its own. The extension offers in-app purchases and the platform lives at goknowly.ai."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kolva": {
+    "verdict": "Pay-as-you-go AI workspace for meetings, tasks, and documents.",
+    "overview": [
+      "Kolva is an AI-powered work operating system that combines meeting transcription, task management, smart documents, and AI search in one browser-based workspace — with no subscriptions, just pay-per-use pricing. It records meetings directly in Chrome without bots, producing transcripts with speaker identification, summaries, and action items. Its AI assistant breaks goals into subtasks, organizes documents, and answers questions across your files."
+    ],
+    "features": [
+      "Meeting transcription and summaries",
+      "AI task breakdown",
+      "Smart document search",
+      "AI assistant with command bar",
+      "Pay-as-you-go pricing"
+    ],
+    "pros": [
+      "No subscription, pay only for use",
+      "Bot-free meeting capture"
+    ],
+    "cons": [
+      "Usage costs can surprise heavy users"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kome": {
+    "verdict": "Browser extension that summarizes web pages and videos and drafts AI replies.",
+    "overview": [
+      "Kome is an AI browser extension that summarizes web pages, YouTube videos, and PDFs, and helps draft emails and social-media comments. It adds floating AI actions such as summarize, explain, and write to your browsing with one-click prompts."
+    ],
+    "features": [
+      "Web page and PDF summarization",
+      "YouTube video summaries",
+      "AI email and comment writer",
+      "Floating toolbar with quick prompts"
+    ],
+    "pros": [
+      "Free and lightweight",
+      "Works across Chrome, Edge, Opera, Brave, and Arc"
+    ],
+    "cons": [
+      "Delisted from Firefox Add-ons in 2024",
+      "Free tier has usage limits",
+      "Summary quality varies with page complexity"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "komo-search": {
+    "verdict": "AI-powered search engine with cited answers.",
+    "overview": [
+      "Komo Search is an AI search engine that returns direct answers with sources alongside traditional results. It emphasizes privacy and fast, ad-light searching. The interface supports follow-up questions in a conversational flow."
+    ],
+    "features": [
+      "AI-generated answers with citations",
+      "Conversational follow-ups",
+      "Privacy-focused",
+      "Fast results"
+    ],
+    "pros": [
+      "Cited answers reduce hallucination risk",
+      "Clean, fast interface",
+      "Privacy-friendly"
+    ],
+    "cons": [
+      "Smaller index than Google",
+      "Free tier limits advanced features"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kompas-ai": {
+    "verdict": "All-in-one AI productivity assistant workspace.",
+    "overview": [
+      "Kompas AI is an all-in-one AI productivity assistant from South Korea that bundles everyday AI helpers into one workspace. It can draft, summarize, and search across your tasks so you spend less time switching between tools. It offers a free tier alongside a paid per-seat plan."
+    ],
+    "features": [
+      "All-in-one AI assistant workspace",
+      "Drafting, summarizing and search helpers",
+      "Free tier plus paid per-user plan"
+    ],
+    "pros": [
+      "One workspace covers many daily AI tasks",
+      "Free tier to start"
+    ],
+    "cons": [
+      "Pricing is per-seat, so team costs scale quickly",
+      "Niche brand with a smaller ecosystem than big AI suites"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kortex": {
+    "verdict": "AI productivity assistant with prebuilt workflows for creators and marketers.",
+    "overview": [
+      "Kortex is an AI assistant built for creative professionals and solopreneurs. It offers more than 25 prebuilt workflows covering landing pages, social content, planning, and learning, plus an AI chat that can reference PDFs dropped into your library. The free Starter tier covers the basics, with Pro at $12 a month."
+    ],
+    "features": [
+      "25+ prebuilt AI workflows",
+      "AI chat with PDF referencing",
+      "Capture inbox for quick notes"
+    ],
+    "pros": [
+      "Practical workflow templates",
+      "Free tier available"
+    ],
+    "cons": [
+      "Small company, new product",
+      "Scam copycats share the name, use kortex.co"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kosmik": {
+    "verdict": "Infinite-canvas visual workspace with built-in AI for ideas and research.",
+    "overview": [
+      "Kosmik is an infinite-canvas visual workspace with built-in AI features for organizing ideas, notes, and research. It combines a freeform board with AI assistance to help users plan projects and synthesize information. Available on web and desktop, it fits visual thinkers who want structure plus flexibility."
+    ],
+    "features": [
+      "Infinite canvas workspace",
+      "Built-in AI assistance",
+      "Notes, files, and web content organization",
+      "Cross-platform desktop and web apps"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kpi-tree": {
+    "verdict": "Decision-intelligence platform mapping business metrics into causal trees with AI agent workflows.",
+    "overview": [
+      "KPI Tree maps a company's metrics into causal trees that connect every outcome to the drivers beneath it, validating each relationship with statistical tests re-run nightly rather than LLM guesswork. Its Canopy layer brings business context — owners, RACI, recorded facts — to people and AI agents, and Canopy Agentic Workflows automate follow-ups when metrics miss targets. Data stays in the customer's warehouse behind read-only queries."
+    ],
+    "features": [
+      "Causal metric trees linking outcomes to drivers with named owners and RACI",
+      "Nightly statistical validation (correlation, Granger causality, false-discovery control)",
+      "Canopy business context layer for humans and AI agents",
+      "Daily and weekly metric briefings via Slack, email or WhatsApp",
+      "Canopy Agentic Workflows with metric triggers, approvals and escalations",
+      "Ready-made agents: action plans, briefings, RACI assignment, Slack assistant",
+      "Warehouse-native with scoped read-only credentials (no data copying)",
+      "MCP access for Claude, ChatGPT, Cursor, Copilot, Gemini and Databricks agents",
+      "SOC 2 Type II with CREST penetration testing"
+    ],
+    "pros": [
+      "Proves driver relationships statistically instead of relying on LLM pattern-matching",
+      "Data stays in the customer's warehouse — no bulk data extraction",
+      "Enterprise-grade security (SOC 2 Type II, CREST testing) and MCP-native agent access"
+    ],
+    "cons": [
+      "Pricing is not public — an enterprise sales motion is required",
+      "New product with limited public track record and case studies"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "krisp": {
+    "verdict": "AI noise cancellation for calls, from Krisp Technologies.",
+    "overview": [
+      "Krisp removes background noise from calls in real time using AI, working with any conferencing app. It also offers AI meeting notes and transcription on higher tiers. The freemium product by Krisp Technologies Inc. is widely used by remote workers."
+    ],
+    "features": [
+      "Real-time noise cancellation",
+      "AI meeting notes",
+      "Works with any call app",
+      "Voice cancellation"
+    ],
+    "pros": [
+      "Excellent noise removal",
+      "Works everywhere",
+      "Free tier available"
+    ],
+    "cons": [
+      "Desktop only",
+      "Full features need paid plan"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "krock": {
+    "verdict": "Video review and media collaboration platform with AI features.",
+    "overview": [
+      "Krock.io is a video review and media collaboration platform for animation studios, post-production teams, and creative agencies. Reviewers can leave frame-accurate comments on videos, images, and audio; auto-versioning tracks changes; and production stages with Gantt charts and deadlines keep projects on schedule. AI features include storyboard generation from scripts, and desktop plugins let editors comment without leaving their editing software."
+    ],
+    "features": [
+      "Frame-accurate video review and commenting",
+      "AI storyboard generation from scripts",
+      "Automatic version control",
+      "Production stages with Gantt and calendar",
+      "Desktop plugins for editors",
+      "Client review links"
+    ],
+    "pros": [
+      "Purpose-built for video and animation teams",
+      "Unlimited reviewers on the free plan",
+      "Review directly inside editing software"
+    ],
+    "cons": [
+      "AI features are auxiliary rather than the core product",
+      "Per-user pricing adds up for large teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kroma-ai": {
+    "verdict": "AI pitch deck platform focused on data visualization and brand governance.",
+    "overview": [
+      "Kroma.ai is an enterprise-leaning AI presentation platform focused on data visualization, pitch decks, and brand governance. Describe your idea in a brief prompt or answer a guided questionnaire, and it produces a polished, on-brand deck in minutes. Freemium model with paid plans starting at $49.99/user/month."
+    ],
+    "features": [
+      "AI deck generation from a brief text prompt",
+      "Data-visualization-focused presentation templates",
+      "Brand alignment and governance controls",
+      "Guided questionnaire for tailored presentations",
+      "Animation, text, and media libraries",
+      "API access for integrations",
+      "ChatGPT integration",
+      "Export and share options"
+    ],
+    "pros": [
+      "Strong data-visualization angle for investor decks.",
+      "Enterprise-ready positioning with brand governance.",
+      "Free version available to evaluate before committing."
+    ],
+    "cons": [
+      "High entry price at $49.99 per user per month.",
+      "Relatively small public review footprint.",
+      "AI output still needs human polish for niche industries."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kroolo": {
+    "verdict": "AI work management platform for projects, docs, and goals.",
+    "overview": [
+      "Kroolo is a productivity suite that combines project management, documents, and goal tracking with AI assistance. It gives teams one workspace for planning, writing, and executing instead of juggling separate tools. Integrations pull in data from the apps teams already use. The Singapore-based company offers a free version with paid plans around $15 per month."
+    ],
+    "features": [
+      "AI-assisted project management",
+      "Docs and knowledge workspace",
+      "Goal tracking and OKRs",
+      "Third-party integrations"
+    ],
+    "pros": [
+      "Combines projects, docs, and goals in one place",
+      "Free version available"
+    ],
+    "cons": [
+      "Crowded category; competes with Notion, ClickUp, Asana"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kuse-ai": {
+    "verdict": "Web-based AI work platform for getting tasks done through conversational agents.",
+    "overview": [
+      "KUSE AI is an AI work platform that handles everyday tasks through chat-style agents in the browser. Users delegate research, writing, and productivity tasks to the assistant and receive completed work back. It positions itself as a general-purpose cowork tool for knowledge work."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kwirk": {
+    "verdict": "AI writing and workflow tools",
+    "overview": [
+      "AI-powered writing assistant and workflow automation platform with document organization and an AI coach."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [
+      "Limited public information"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "launchbay": {
+    "verdict": "AI-powered client portals and onboarding workflows — collect files, signatures, and approvals without chasing clients.",
+    "overview": [
+      "LaunchBay is a client onboarding and customer success platform that wraps the messy work between you and your clients — forms, documents, signatures, invoices, approvals — into a branded, loginless portal. Clients access their tasks through a magic link with no signup, while your team gets automated reminders, AI agents that flag at-risk accounts, and live reporting on every onboarding. It even plugs into Claude, ChatGPT, and Gemini through MCP."
+    ],
+    "features": [
+      "Branded client portals with loginless magic-link access",
+      "Structured forms with conditional logic and AI validation",
+      "Item-by-item file and document requests",
+      "Built-in digital contracts and e-signatures",
+      "Automated reminders and follow-ups that chase clients for you",
+      "Reusable project and workflow templates",
+      "AI agents that watch account sentiment and overdue work",
+      "MCP integration plus native HubSpot and Zapier connections"
+    ],
+    "pros": [
+      "Loginless portals remove client signup friction",
+      "AI validation catches incomplete forms before they reach your team",
+      "E-signatures built in — no separate DocuSign needed",
+      "High marks on G2 (4.8) and Capterra (4.7)"
+    ],
+    "cons": [
+      "Per-team-member pricing adds up quickly for larger teams ($19/member/mo to start)",
+      "Built for client-facing teams — overkill if you don't run onboarding workflows",
+      "No permanently free plan; only a 14-day trial"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "laxis": {
+    "verdict": "AI meeting assistant with bot-free recording, transcription, and CRM sync.",
+    "overview": [
+      "Laxis is an AI meeting assistant that records, transcribes, and summarizes conversations in real time across Zoom, Google Meet, Microsoft Teams, and in-person meetings. Its bot-free Mac and Windows apps capture calls discreetly without a bot joining, while AI summaries extract action items, decisions, and customer requirements that sync to Salesforce and HubSpot. It offers a free plan, with Premium at $15.99/month and Business at $29.99/month, and is used by around 100,000 professionals and 4,000 organizations."
+    ],
+    "features": [
+      "Bot-free meeting recording and transcription",
+      "AI summaries with action items and decisions",
+      "Calendar integration for Zoom, Meet, and Teams",
+      "CRM sync with Salesforce and HubSpot",
+      "100+ languages supported",
+      "Global voice keyboard and dictation"
+    ],
+    "pros": [
+      "No intrusive bot joins calls",
+      "Free plan available",
+      "Salesforce and HubSpot integrations",
+      "Wide platform coverage"
+    ],
+    "cons": [
+      "Premium tiers cost $15.99 to $29.99/mo",
+      "Meeting data lives in a second system",
+      "Bot-free recording relies on local capture"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lazy-so": {
+    "verdict": "AI note-taking and capture tool for effortless idea management",
+    "overview": [
+      "Lazy is an AI-powered note-taking and capture tool designed to make saving and managing ideas effortless. Founded in 2020, it integrates with services like YouTube, Slack, Spotify, Superhuman Mail, and WhatsApp for capture from anywhere. It follows a paid pricing model."
+    ],
+    "features": [
+      "AI note capture",
+      "Multi-service integrations",
+      "Idea organization"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lazyapply": {
+    "verdict": "Chrome-extension auto-apply tool that mass-submits job applications across LinkedIn, Indeed, and other boards.",
+    "overview": [
+      "LazyApply is a Chrome-extension auto-apply tool that submits job applications for you across LinkedIn, Indeed, ZipRecruiter, Glassdoor, Dice, and other boards. It offers daily application volumes from 15 up to 1,500 depending on plan, plus resume profiles, an analytics dashboard, and automated cover letters and referral emails."
+    ],
+    "features": [
+      "Chrome extension auto-apply on LinkedIn, Indeed, ZipRecruiter, Glassdoor, Dice, and more",
+      "Daily application limits from 15 to 1,500 by plan",
+      "Multiple resume profiles (1–20 by plan)",
+      "Analytics dashboard with day-wise application stats",
+      "AI cover letter generation",
+      "Automated referral emails to relevant employees",
+      "CV improvement tips",
+      "Cloud-based processing via web dashboard"
+    ],
+    "pros": [
+      "High daily application volumes suit aggressive job searches.",
+      "Simple setup: install the extension, upload your resume, and start applying.",
+      "Works best on LinkedIn Easy Apply, where users report the most consistent results."
+    ],
+    "cons": [
+      "No free tier or free trial: you must commit to an annual plan (from $99/yr) before trying it.",
+      "Trustpilot rating around 2.2/5, with complaints about incorrect form entries, automation failures, and difficult refunds.",
+      "Its automation violates LinkedIn's User Agreement, carrying a risk of profile restrictions."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "leania-ai": {
+    "verdict": "AI consultant that recommends the right AI tools and forecasts ROI for businesses.",
+    "overview": [
+      "Leania.ai acts as an AI consultant, helping companies discover which AI tools fit their needs and workflows. It provides ROI forecasts and practical guidance on AI adoption for business teams. It offers a free trial and free version alongside paid options."
+    ],
+    "features": [
+      "AI tool recommendations",
+      "ROI forecasting",
+      "AI adoption guidance",
+      "Free trial"
+    ],
+    "pros": [
+      "Free trial and free version",
+      "Business-focused AI advice"
+    ],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "leiga": {
+    "verdict": "AI-native project management platform for planning and tracking team work.",
+    "overview": [
+      "Leiga is an AI-native project management platform that helps teams plan, track, and ship work. AI assists with breaking down tasks, estimating effort, and keeping projects on schedule. It aims to replace scattered docs and spreadsheets with one intelligent workspace."
+    ],
+    "features": [
+      "AI task planning",
+      "Project tracking",
+      "Team collaboration"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lemon": {
+    "verdict": "Mac voice-activated AI agent that turns spoken instructions into emails, documents, and actions across apps.",
+    "overview": [
+      "Hey Lemon (listed as Lemon) is a Mac voice-activated AI agent that turns spoken instructions into finished work across your apps. You press a key and dictate to draft and reply to emails, create documents, research, and delegate actions without switching tabs. Its AI interprets intent and tone to produce polished text and take context-aware actions, aimed at knowledge workers who want to cut typing and context switching."
+    ],
+    "features": [
+      "Voice-controlled task execution across apps",
+      "Voice email composition and replies",
+      "Tone and style adjustment",
+      "Hands-free document editing",
+      "Context-aware text generation",
+      "Function-key activation"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

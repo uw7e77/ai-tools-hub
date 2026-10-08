@@ -1,0 +1,18 @@
+.tile {
+  display: grid;
+  place-items: center;
+  flex: none;
+  border-radius: var(--radius-logo);
+  background: var(--logo-tile-bg);
+  border: 1px solid transparent;
+}
+
+.image {
+  width: 55%;
+  height: 55%;
+  object-fit: contain;
+}
+
+.monogram {
+  font-weight: var(--fw-bold);
+}

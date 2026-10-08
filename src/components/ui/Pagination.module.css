@@ -1,0 +1,90 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-32);
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  max-width: 100%;
+}
+
+.control {
+  display: grid;
+  place-items: center;
+  min-width: 44px;
+  height: 44px;
+  padding-inline: var(--space-8);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  transition:
+    background-color var(--duration) var(--ease-out),
+    border-color var(--duration) var(--ease-out),
+    color var(--duration) var(--ease-out);
+}
+
+.link:hover {
+  background: var(--surface-muted);
+  border-color: var(--border-hover);
+  color: var(--text);
+}
+
+.current {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.disabled {
+  border-color: transparent;
+  color: var(--text-placeholder);
+}
+
+.gap {
+  display: grid;
+  place-items: center;
+  min-width: 24px;
+  height: 44px;
+  color: var(--text-tertiary);
+  user-select: none;
+}
+
+.statusItem {
+  display: none;
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  height: 44px;
+  padding-inline: var(--space-8);
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  white-space: nowrap;
+}
+
+/* Narrow viewports can't fit the windowed page numbers — keep prev/next
+   plus a compact "Page X of N" status instead of overflowing. */
+@media (max-width: 560px) {
+  .numberItem,
+  .gapItem {
+    display: none;
+  }
+
+  .statusItem {
+    display: list-item;
+  }
+}
+
+.ellipsis {
+  border-color: transparent;
+  color: var(--text-tertiary);
+}

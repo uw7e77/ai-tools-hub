@@ -1,0 +1,2235 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk32: Tool[] = [
+  {
+    "slug": "ask-your-pdf",
+    "name": "Ask Your PDF",
+    "logo": "/logos/ask-your-pdf.png",
+    "company": "AskYourPDF",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI chatbot toolkit for PDFs and websites — chat with documents and embed AI assistants.",
+    "pricing": "freemium",
+    "tags": [
+      "chat-with-pdf",
+      "ai-chatbot",
+      "document-ai",
+      "website-widget"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://askyourpdf.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "askai-free",
+    "name": "AskAI.free",
+    "logo": "/logos/askai-free.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "A free team of specialized AI assistants for everyday professional tasks.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-team",
+      "assistants",
+      "multi-model",
+      "teamsmart-ai"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://teamsmart.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "astrbot",
+    "name": "AstrBot",
+    "logo": "/logos/astrbot.png",
+    "company": "AstrBotDevs",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Agentic IM chatbot infrastructure with broad messaging-platform and plugin support.",
+    "pricing": "open-source",
+    "tags": [
+      "chatbots",
+      "im",
+      "self-hosted",
+      "plugins",
+      "ai-agents"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/astrbotdevs/astrbot",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "atomicwork",
+    "name": "Atomicwork",
+    "logo": "/logos/atomicwork.png",
+    "company": "Atomicwork",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI-native ITSM and ESM platform where governed AI Coworkers own service workflows end to end.",
+    "pricing": "paid",
+    "tags": [
+      "itsm",
+      "ai-coworkers",
+      "enterprise-ai",
+      "it-support",
+      "service-management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.atomicwork.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "atono",
+    "name": "Atono",
+    "logo": "/logos/atono.png",
+    "company": "Atono",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "All-in-one product development platform unifying roadmapping, stories and project management.",
+    "pricing": "freemium",
+    "tags": [
+      "roadmap",
+      "project management",
+      "product development"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://atono.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "atua",
+    "name": "Atua",
+    "logo": "/logos/atua.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Mac app that brings AI assistance to any app with one shortcut key.",
+    "pricing": "paid",
+    "tags": [
+      "mac",
+      "chatgpt",
+      "shortcut",
+      "productivity",
+      "ai-assistant"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://atua.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "auri-ai",
+    "name": "Auri.AI",
+    "logo": "/logos/auri-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI keyboard and assistant for Apple devices with chat, voice, and notes.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-keyboard",
+      "writing-assistant",
+      "voice-transcription",
+      "ios-app",
+      "productivity"
+    ],
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "officialUrl": "https://auri.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "aurora-ai",
+    "name": "Aurora AI",
+    "logo": "/logos/aurora-ai.png",
+    "company": "Aurora",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI workspace that turns company knowledge into smart, collaborative workflows.",
+    "pricing": "paid",
+    "tags": [
+      "ai-workspace",
+      "knowledge-management",
+      "team-collaboration"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://hiaurora.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "auteng",
+    "name": "AutEng",
+    "logo": "/logos/auteng.png",
+    "company": "AutEng",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI-native editor for technical docs with Markdown, Mermaid diagrams, and KaTeX math.",
+    "pricing": "paid",
+    "tags": [
+      "documentation",
+      "markdown",
+      "mermaid",
+      "technical-writing",
+      "docs-as-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://auteng.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "autoapplyai",
+    "name": "AutoApplyAI",
+    "logo": "/logos/autoapplyai.png",
+    "company": "WonsultingAI",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "AI that auto-applies to jobs for you.",
+    "pricing": "freemium",
+    "tags": [
+      "job search",
+      "auto apply",
+      "career"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://wonsulting.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "autogpt-hugging-face",
+    "name": "AutoGPT (Hugging Face)",
+    "logo": "/logos/autogpt-hugging-face.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Run autonomous AutoGPT agents directly in the browser via a Hugging Face space.",
+    "pricing": "free",
+    "tags": [
+      "autogpt",
+      "ai-agents",
+      "autonomous",
+      "hugging-face"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://huggingface.co/spaces/aliabid94/AutoGPT",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "autopia-labs",
+    "name": "Autopia Labs",
+    "logo": "/logos/autopia-labs.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI co-pilot for JIRA that automates ticket work",
+    "pricing": "freemium",
+    "tags": [
+      "jira",
+      "project management",
+      "AI assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://autopia-labs.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "autoscaled",
+    "name": "AutoScaled",
+    "logo": "/logos/autoscaled.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "Agentic AI that auto-generates on-brand presentations from your CRM and data.",
+    "pricing": "freemium",
+    "tags": [
+      "presentations",
+      "sales decks",
+      "crm automation",
+      "ai agents",
+      "powerpoint"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://autoscaled.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "autype",
+    "name": "Autype",
+    "logo": "/logos/autype.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Governed AI document automation with reusable content blocks and controlled exports.",
+    "pricing": "paid",
+    "tags": [
+      "document automation",
+      "reports",
+      "proposals",
+      "templates",
+      "governance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://autype.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "avoma",
+    "name": "Avoma",
+    "logo": "/logos/avoma.png",
+    "company": "Avoma, Inc.",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "All-in-one AI platform for meeting notes, scheduling, conversation intelligence, and revenue coaching.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting-notes",
+      "sales",
+      "conversation-intelligence",
+      "scheduler",
+      "crm-integration",
+      "coaching",
+      "transcription",
+      "revenue-intelligence"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.avoma.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "b7labs",
+    "name": "B7Labs",
+    "logo": "/logos/b7labs.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI summarizer and chat companion for articles, PDFs, and YouTube videos.",
+    "pricing": "freemium",
+    "tags": [
+      "summarizer",
+      "chat-with-pdf",
+      "youtube-summary"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://b7labs.co/converse",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "backplane",
+    "name": "Backplane",
+    "logo": "/logos/backplane.png",
+    "company": "valaris.studio",
+    "category": "productivity",
+    "subcategory": "team-collaboration",
+    "shortDescription": "Open-source shared board for teams and AI coding agents, with persistent project context.",
+    "pricing": "open-source",
+    "tags": [
+      "open-source",
+      "kanban",
+      "ai-agents",
+      "mcp",
+      "self-hosted",
+      "project-management",
+      "shared-context",
+      "docker"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://getbackplane.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "beamery",
+    "name": "Beamery",
+    "logo": "/logos/beamery.png",
+    "company": "Beamery",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "Enterprise AI talent platform with a Talent Graph for skills-based matching, CRM and workforce planning.",
+    "pricing": "paid",
+    "tags": [
+      "talent-crm",
+      "talent-intelligence",
+      "workforce-planning",
+      "skills-based-hiring",
+      "talent-marketing",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.beamery.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bearly-ai",
+    "name": "BearlyAI",
+    "logo": "/logos/bearly-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI reading and writing assistant for professionals.",
+    "pricing": "freemium",
+    "tags": [
+      "ai assistant",
+      "summarizer",
+      "writing help",
+      "research"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://bearly.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "beautiful-ai",
+    "name": "Beautiful.ai",
+    "logo": "/logos/beautiful-ai.png",
+    "company": "Beautiful.ai",
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "AI presentation software with auto-aligning Smart Slides that design on-brand, work-ready decks from a prompt or outline.",
+    "pricing": "freemium",
+    "tags": [
+      "ai presentations",
+      "smart slides",
+      "brand control",
+      "pitch decks",
+      "team collaboration",
+      "data visualization",
+      "pptx export",
+      "viewer analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.beautiful.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "beedone",
+    "name": "BeeDone",
+    "logo": "/logos/beedone.png",
+    "company": "BeeDone",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Gamified AI productivity app that turns tasks, habits, and focus sessions into an XP-driven game.",
+    "pricing": "freemium",
+    "tags": [
+      "gamified-productivity",
+      "habit-tracker",
+      "ai-coach",
+      "focus-timer",
+      "adhd",
+      "task-manager"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "officialUrl": "https://beedone.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "beesift",
+    "name": "BeeSift",
+    "logo": "/logos/beesift.png",
+    "company": "BeeSift",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI Chrome extension that extracts goal-aligned insights from webpages",
+    "pricing": "freemium",
+    "tags": [
+      "chrome extension",
+      "insights",
+      "web browsing"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://beesift.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "beforesunset-ai",
+    "name": "BeforeSunset AI",
+    "logo": "/logos/beforesunset-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "AI daily planner that turns rough notes into a time-blocked day, with focus mode, analytics and time tracking.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-planner",
+      "time-blocking",
+      "focus-mode",
+      "pomodoro",
+      "notes",
+      "time-tracking",
+      "analytics",
+      "eisenhower"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://beforesunset.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bika-ai",
+    "name": "Bika AI",
+    "logo": "/logos/bika-ai.png",
+    "company": "AI Organizer Company",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "An AI organizer that coordinates multiple AI agents like a digital workforce.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-agents",
+      "digital-workforce",
+      "automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://bika.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bit-ai",
+    "name": "Bit.ai",
+    "logo": "/logos/bit-ai.png",
+    "company": "Bit.ai",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI-powered collaborative documents and wikis for teams.",
+    "pricing": "freemium",
+    "tags": [
+      "documents",
+      "collaboration",
+      "wiki"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://bit.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "blendedcal",
+    "name": "BlendedCal",
+    "logo": "/logos/blendedcal.png",
+    "company": "BlendedCal",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Calendar aggregator that merges family, team, and school feeds into one shareable view.",
+    "pricing": "freemium",
+    "tags": [
+      "calendar",
+      "scheduling",
+      "family-organizer",
+      "ics",
+      "calendar-sync",
+      "time-management"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://blendedcal.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bloks",
+    "name": "Bloks",
+    "logo": "/logos/bloks.png",
+    "company": "Bloks",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI note-taker and personal CRM for relationship-driven professionals.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting-notes",
+      "productivity",
+      "crm",
+      "ai-assistant"
+    ],
+    "platforms": [
+      "web",
+      "macos",
+      "windows",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.bloks.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bluedot",
+    "name": "Bluedot",
+    "logo": "/logos/bluedot.png",
+    "company": "Bluedot",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Bot-free AI meeting recorder that turns calls into transcripts, notes, and action items.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting notes",
+      "transcription",
+      "AI notetaker",
+      "sales enablement",
+      "remote work"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension",
+      "windows",
+      "macos",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://bluedothq.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bluf",
+    "name": "BLUF",
+    "logo": "/logos/bluf.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI browser extension that summarizes websites, PDFs and YouTube videos.",
+    "pricing": "freemium",
+    "tags": [
+      "summarizer",
+      "chrome extension",
+      "youtube summaries",
+      "pdf"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://bluf.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bolt-ai",
+    "name": "BoltAI",
+    "logo": "/logos/bolt-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Native macOS AI assistant that works inside any app on your Mac.",
+    "pricing": "paid",
+    "tags": [
+      "macos",
+      "ai-assistant",
+      "productivity",
+      "chatgpt",
+      "coding"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://boltai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "boords",
+    "name": "Boords",
+    "logo": "/logos/boords.png",
+    "company": "Boords",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI storyboard and pre-production platform for video teams",
+    "pricing": "paid",
+    "tags": [
+      "storyboard",
+      "video-production",
+      "planning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://boords.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "brainsoup",
+    "name": "BrainSoup",
+    "logo": "/logos/brainsoup.png",
+    "company": "Nurgo",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI communication and productivity platform by Nurgo.",
+    "pricing": null,
+    "tags": [
+      "productivity",
+      "communication",
+      "enterprise"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.nurgo-software.com/products/brainsoup",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "brewnote",
+    "name": "Brewnote",
+    "logo": "/logos/brewnote.png",
+    "company": "LoopPanel",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free AI tool that converts user-interview recordings into structured notes.",
+    "pricing": "free",
+    "tags": [
+      "user research",
+      "interview notes",
+      "transcription",
+      "UX research"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://app.looppanel.com/brewnote",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "breyta",
+    "name": "Breyta",
+    "logo": "/logos/breyta.png",
+    "company": "Breyta",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI search across your company's internal data and documents",
+    "pricing": "paid",
+    "tags": [
+      "enterprise search",
+      "knowledge management",
+      "ai search",
+      "internal docs"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.breyta.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "brieflyai",
+    "name": "BrieflyAI",
+    "logo": "/logos/brieflyai.png",
+    "company": "Daylight Labs Inc.",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting assistant that summarizes calls and extracts action items.",
+    "pricing": "freemium",
+    "tags": [
+      "meetings",
+      "summaries",
+      "notes",
+      "chrome-extension"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.brieflyai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "briefy",
+    "name": "Briefy",
+    "logo": "/logos/briefy.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting summarizer that turns calls into structured briefs.",
+    "pricing": "freemium",
+    "tags": [
+      "meetings",
+      "summaries",
+      "action-items"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://briefy.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "broadcast",
+    "name": "Broadcast",
+    "logo": "/logos/broadcast.png",
+    "company": "Broadcast",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting assistant that captures notes, decisions, and follow-ups.",
+    "pricing": "freemium",
+    "tags": [
+      "meetings",
+      "notes",
+      "productivity",
+      "managers",
+      "transcription"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://withbroadcast.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "browseros",
+    "name": "BrowserOS",
+    "logo": "/logos/browseros.png",
+    "company": "BrowserOS AI",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Open-source agentic browser: a Chromium fork with the AI agent embedded.",
+    "pricing": "open-source",
+    "tags": [
+      "agentic-browser",
+      "chromium",
+      "mcp",
+      "open-source"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/browseros-ai/browseros",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "bugasura",
+    "name": "Bugasura",
+    "logo": "/logos/bugasura.png",
+    "company": "Bugasura",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "AI-assisted bug tracking and issue management for software teams.",
+    "pricing": "freemium",
+    "tags": [
+      "bug tracking",
+      "qa",
+      "issue management",
+      "teams"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://bugasura.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "buildin-ai",
+    "name": "BuildIn.AI",
+    "logo": "/logos/buildin-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI workspace that turns documents and notes into an organized knowledge base.",
+    "pricing": "freemium",
+    "tags": [
+      "knowledge management",
+      "notes",
+      "AI search",
+      "productivity"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://buildin.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "buildpad",
+    "name": "Buildpad",
+    "logo": "/logos/buildpad.png",
+    "company": "Buildpad",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Validate startup ideas and get guided from idea to MVP.",
+    "pricing": "freemium",
+    "tags": [
+      "startup",
+      "idea-validation",
+      "mvp"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://buildpad.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "burntop",
+    "name": "Burntop",
+    "logo": "/logos/burntop.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Gamified tracking of your AI coding tool usage and spend.",
+    "pricing": "open-source",
+    "tags": [
+      "usage-tracking",
+      "analytics",
+      "developer-tools",
+      "costs"
+    ],
+    "platforms": [
+      "web",
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://burntop.dev",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "buzz",
+    "name": "Buzz",
+    "logo": "/logos/buzz.png",
+    "company": "Block, Inc.",
+    "category": "productivity",
+    "subcategory": "Team Collaboration",
+    "shortDescription": "Block's free, open-source workspace where humans and AI agents collaborate side by side on the Nostr protocol.",
+    "pricing": "free",
+    "tags": [
+      "collaboration",
+      "ai-agents",
+      "open-source",
+      "nostr",
+      "team-chat",
+      "git",
+      "self-hosted",
+      "workspace"
+    ],
+    "platforms": [
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "officialUrl": "https://buzz.xyz",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "buzz-mail",
+    "name": "Buzz Mail",
+    "logo": "/logos/buzz-mail.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free AI Gmail add-on for professional replies.",
+    "pricing": "free",
+    "tags": [
+      "gmail",
+      "email",
+      "ai-writing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://workspace.google.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "calendhub",
+    "name": "CalendHub",
+    "logo": "/logos/calendhub.png",
+    "company": "CalendHub",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Unified calendar scheduling across unlimited Google and Outlook calendars.",
+    "pricing": "paid",
+    "tags": [
+      "scheduling",
+      "calendar",
+      "meetings",
+      "booking"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://calendhub.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "camp",
+    "name": "camp.",
+    "logo": "/logos/camp.png",
+    "company": "Studiolanes",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI app that extracts text, people, and music from your screenshots.",
+    "pricing": "freemium",
+    "tags": [
+      "screenshots",
+      "OCR",
+      "image analysis",
+      "iOS",
+      "productivity"
+    ],
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "officialUrl": "https://getcamp.xyz",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "canyon",
+    "name": "Canyon",
+    "logo": "/logos/canyon.png",
+    "company": "Canyon",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "AI career platform with resume builder, job tracker, and mock interviewer.",
+    "pricing": "freemium",
+    "tags": [
+      "career",
+      "resume",
+      "job search",
+      "interview prep"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.usecanyon.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "career-ops",
+    "name": "career-ops",
+    "logo": "/logos/career-ops.png",
+    "company": "career-ops-hq",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "Open-source AI job-search agent that runs inside your coding CLI.",
+    "pricing": "open-source",
+    "tags": [
+      "job-search",
+      "career",
+      "resume",
+      "ai-agents",
+      "open-source"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/career-ops-hq/career-ops",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "careerflow",
+    "name": "Careerflow",
+    "logo": "/logos/careerflow.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "AI career platform with resume/LinkedIn optimization, ATS scoring, application autofill, and a job tracker.",
+    "pricing": "freemium",
+    "tags": [
+      "resume-builder",
+      "linkedin-optimizer",
+      "ats-scoring",
+      "autofill",
+      "job-tracker",
+      "cover-letters",
+      "mock-interviews"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.careerflow.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "caret",
+    "name": "Caret",
+    "logo": "/logos/caret.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "System-wide AI writing assistant for Mac with tab-to-complete everywhere.",
+    "pricing": "paid",
+    "tags": [
+      "writing assistant",
+      "macos",
+      "tab complete",
+      "productivity",
+      "autocomplete"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://trycaret.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cassidy",
+    "name": "Cassidy",
+    "logo": "/logos/cassidy.png",
+    "company": "Cassidy AI",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Custom AI assistants and automations that live inside your company's tools.",
+    "pricing": "freemium",
+    "tags": [
+      "ai assistants",
+      "knowledge base",
+      "workflow automation",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension",
+      "api"
+    ],
+    "officialUrl": "https://www.cassidyai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chaindesk",
+    "name": "Chaindesk",
+    "logo": "/logos/chaindesk.png",
+    "company": "Chaindesk",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "No-code platform for building AI customer-support chatbots trained on your own data.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "customer-support",
+      "ai-agent",
+      "no-code"
+    ],
+    "platforms": [
+      "web",
+      "api",
+      "whatsapp"
+    ],
+    "officialUrl": "https://www.chaindesk.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chapple",
+    "name": "Chapple",
+    "logo": "/logos/chapple.png",
+    "company": "Chapple",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "All-in-one AI content platform with writing, image, code, and multi-model chat tools.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-assistant",
+      "content-creation",
+      "chatbot",
+      "image-generation",
+      "code-generation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://chapple.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatba",
+    "name": "ChatBA",
+    "logo": "/logos/chatba.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "Prompt-based AI tool that instantly generates structured slide decks with text and images for business and education.",
+    "pricing": "freemium",
+    "tags": [
+      "ai presentations",
+      "prompt to slides",
+      "instant decks",
+      "example prompts",
+      "business decks",
+      "educational slides",
+      "ai images",
+      "web app"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.chatba.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatd",
+    "name": "chatd",
+    "logo": "/logos/chatd.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Private desktop app for chatting with your documents using local AI.",
+    "pricing": "open-source",
+    "tags": [
+      "document chat",
+      "local LLM",
+      "privacy",
+      "open source",
+      "Ollama"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://chatd.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatdoc",
+    "name": "ChatDOC",
+    "logo": "/logos/chatdoc.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Chat with PDFs and documents, with answers backed by clickable citations.",
+    "pricing": "freemium",
+    "tags": [
+      "pdf-chat",
+      "document-ai",
+      "research",
+      "summarizer",
+      "citations"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://chatdoc.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatgpt-buddy",
+    "name": "ChatGPT Buddy",
+    "logo": "/logos/chatgpt-buddy.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Use ChatGPT inside WhatsApp and the web",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "whatsapp",
+      "AI assistant"
+    ],
+    "platforms": [
+      "whatsapp",
+      "web"
+    ],
+    "officialUrl": "https://chatgptbuddy.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatgpt-file-uploader",
+    "name": "ChatGPT File Uploader",
+    "logo": "/logos/chatgpt-file-uploader.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free Chrome extension for uploading and analyzing files inside ChatGPT.",
+    "pricing": "free",
+    "tags": [
+      "Chrome extension",
+      "ChatGPT",
+      "file upload",
+      "document analysis"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatgpt-for-amazon",
+    "name": "ChatGPT for Amazon",
+    "logo": "/logos/chatgpt-for-amazon.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free Chrome extension that brings ChatGPT-powered shopping help to Amazon pages.",
+    "pricing": "free",
+    "tags": [
+      "chrome-extension",
+      "shopping",
+      "amazon",
+      "chatgpt"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://chromewebstore.google.com/detail/chatgpt-for-amazon/aaionafjdcpmogbbhglkhompliakihaa",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatgpt-for-search-engines",
+    "name": "ChatGPT for Search Engines",
+    "logo": "/logos/chatgpt-for-search-engines.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free Chrome extension showing ChatGPT answers beside search results.",
+    "pricing": "free",
+    "tags": [
+      "search",
+      "chrome extension",
+      "ai answers",
+      "productivity"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://chatonai.org",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatgpt-mail-responder",
+    "name": "ChatGPT Mail Responder",
+    "logo": "/logos/chatgpt-mail-responder.png",
+    "company": "Klart AI",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI email drafting and thread summaries inside Gmail, by Klart AI.",
+    "pricing": "freemium",
+    "tags": [
+      "email",
+      "gmail",
+      "ai-assistant",
+      "drafting",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.klartai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatgpt4youtube",
+    "name": "ChatGPT4YouTube",
+    "logo": "/logos/chatgpt4youtube.png",
+    "company": "LELU TECH LTD",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Summarize and chat with YouTube videos using AI.",
+    "pricing": "freemium",
+    "tags": [
+      "youtube",
+      "video-summarizer",
+      "chatgpt"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://chatgpt4youtube.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chathub",
+    "name": "ChatHub",
+    "logo": "/logos/chathub.png",
+    "company": "ChatHub",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Browser extension to chat with multiple AI models side by side.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-chat",
+      "multi-model",
+      "comparison",
+      "browser-extension",
+      "productivity"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://chathub.gg",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatmind",
+    "name": "Chatmind",
+    "logo": "/logos/chatmind.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI mind-mapping tool that builds visual maps from chat conversations.",
+    "pricing": "freemium",
+    "tags": [
+      "mind-mapping",
+      "brainstorming",
+      "chat",
+      "outlining"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://chatmind.tech",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatpc",
+    "name": "ChatPC",
+    "logo": "/logos/chatpc.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Native macOS AI agent that automates everyday Mac tasks through conversational commands.",
+    "pricing": "paid",
+    "tags": [
+      "mac automation",
+      "ai agent",
+      "productivity",
+      "macos",
+      "file organizer",
+      "writing assistant"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://www.chatpc.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatpdf",
+    "name": "ChatPDF",
+    "logo": "/logos/chatpdf.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Chat with any PDF: ask questions, get cited answers.",
+    "pricing": "freemium",
+    "tags": [
+      "pdf",
+      "document chat",
+      "rag",
+      "research"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.chatpdf.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatslide-ai",
+    "name": "ChatSlide AI",
+    "logo": "/logos/chatslide-ai.png",
+    "company": "ChatSlide.ai",
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "AI slide maker that turns research papers and lecture notes into citation-preserving decks.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-presentations",
+      "education",
+      "research",
+      "ai-avatar"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.chatslide.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chattab",
+    "name": "ChatTab",
+    "logo": "/logos/chattab.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Mac-native desktop app for quick, shortcut-driven access to ChatGPT.",
+    "pricing": "paid",
+    "tags": [
+      "ChatGPT client",
+      "macOS",
+      "desktop app",
+      "productivity"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://chattab.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chattube",
+    "name": "ChatTube",
+    "logo": "/logos/chattube.png",
+    "company": "ChatTube",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Chat with any YouTube video: ask questions and get AI answers grounded in the video content.",
+    "pricing": "freemium",
+    "tags": [
+      "youtube",
+      "chat",
+      "video summaries",
+      "learning"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://chattube.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chattydocs",
+    "name": "ChattyDocs",
+    "logo": "/logos/chattydocs.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Chat with your documents, PDFs, and websites through a customizable AI assistant.",
+    "pricing": "freemium",
+    "tags": [
+      "document chat",
+      "RAG",
+      "PDF",
+      "knowledge base",
+      "AI assistant"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://chattydocs.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chatwp",
+    "name": "ChatWP",
+    "logo": "/logos/chatwp.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free AI chat for WordPress documentation.",
+    "pricing": "free",
+    "tags": [
+      "wordpress",
+      "chatbot",
+      "documentation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://wpdocs.chat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "checklist-gg",
+    "name": "checklist.gg",
+    "logo": "/logos/checklist-gg.png",
+    "company": "checklist.gg",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI checklist and SOP generator.",
+    "pricing": "freemium",
+    "tags": [
+      "checklists",
+      "sop",
+      "productivity"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://checklist.gg",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cherry-studio",
+    "name": "Cherry Studio",
+    "logo": "/logos/cherry-studio.png",
+    "company": "CherryHQ",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI productivity studio with smart chat, autonomous agents and 300+ assistants.",
+    "pricing": "open-source",
+    "tags": [
+      "ai-assistant",
+      "desktop",
+      "multi-llm",
+      "autonomous-agents",
+      "productivity"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/cherryhq/cherry-studio",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chopdi-ai",
+    "name": "Chopdi AI",
+    "logo": "/logos/chopdi-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Multi-model AI assistant for everyday productivity tasks.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-assistant",
+      "multi-model",
+      "chatbot",
+      "productivity"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://chopdi.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "chronicle",
+    "name": "Chronicle",
+    "logo": "/logos/chronicle.png",
+    "company": "Chronicle",
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "Modern AI presentation platform with brand themes and an AI editing agent.",
+    "pricing": "freemium",
+    "tags": [
+      "ai presentation maker",
+      "smart templates",
+      "brand themes",
+      "sales decks",
+      "real-time collaboration",
+      "muse agent",
+      "web publishing",
+      "pitch decks"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://chroniclehq.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "circleback",
+    "name": "Circleback",
+    "logo": "/logos/circleback.png",
+    "company": "Circleback",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting notes, action items and searchable transcripts from every call.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting notes",
+      "transcription",
+      "action items",
+      "calendar",
+      "AI assistant"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "ios",
+      "api"
+    ],
+    "officialUrl": "https://circleback.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "clarilayer",
+    "name": "ClariLayer",
+    "logo": "/logos/clarilayer.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "ai-memory",
+    "shortDescription": "Persistent memory layer connecting past AI conversations to new sessions, delivered over MCP.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-memory",
+      "mcp",
+      "context-layer",
+      "persistent-memory",
+      "claude-code",
+      "cursor",
+      "semantic-recall",
+      "agents"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://clarilayer.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "clearword",
+    "name": "Clearword",
+    "logo": "/logos/clearword.png",
+    "company": "Clearword",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting assistant with live transcription, summaries, and action items.",
+    "pricing": "freemium",
+    "tags": [
+      "meetings",
+      "transcription",
+      "summaries",
+      "productivity"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://clearword.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "clickup-ai",
+    "name": "ClickUp AI",
+    "logo": "/logos/clickup-ai.png",
+    "company": "ClickUp",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "ClickUp Brain: workspace-wide AI search, writing help, meeting notes, and autonomous agents — a $9/mo add-on to ClickUp.",
+    "pricing": "freemium",
+    "tags": [
+      "project-management",
+      "ai-assistant",
+      "ai-agents",
+      "enterprise-search",
+      "task-management",
+      "meeting-notes",
+      "workflow-automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://clickup.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cloudairy",
+    "name": "Cloudairy",
+    "logo": "/logos/cloudairy.png",
+    "company": "Cloudairy",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI visual collaboration and diagramming platform across every OS.",
+    "pricing": "freemium",
+    "tags": [
+      "diagramming",
+      "whiteboard",
+      "collaboration"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://cloudairy.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cloudeagle-ai",
+    "name": "CloudEagle.ai",
+    "logo": "/logos/cloudeagle-ai.png",
+    "company": "CloudEagle.ai",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI-powered SaaS management, AI governance, and identity governance platform",
+    "pricing": "paid",
+    "tags": [
+      "saas-management",
+      "ai-governance",
+      "spend-management",
+      "enterprise"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.cloudeagle.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cluely-ai",
+    "name": "Cluely AI",
+    "logo": "/logos/cluely-ai.png",
+    "company": "Cluely, Inc.",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Invisible AI copilot that feeds you answers during live meetings and interviews.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting assistant",
+      "ai copilot",
+      "interviews",
+      "real-time ai",
+      "desktop app"
+    ],
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://cluely.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cobbai",
+    "name": "Cobbai",
+    "logo": "/logos/cobbai.png",
+    "company": "Cobbai",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI agents for customer service: Front, Companion, and Tasks.",
+    "pricing": "paid",
+    "tags": [
+      "customer service",
+      "ai agents",
+      "support"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://cobbai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "codeguide",
+    "name": "CodeGuide",
+    "logo": "/logos/codeguide.png",
+    "company": "CodeGuide",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI documentation tool that auto-generates PRDs, flows, and prompts for coding projects.",
+    "pricing": "paid",
+    "tags": [
+      "AI documentation",
+      "PRD generator",
+      "AI coding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://codeguide.dev",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "collie",
+    "name": "Collie",
+    "logo": "/logos/collie.png",
+    "company": "Mixpeek",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Turns website content into an AI search hub.",
+    "pricing": "freemium",
+    "tags": [
+      "site search",
+      "ai search",
+      "knowledge base",
+      "embed"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://collie.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "comet-by-perplexity",
+    "name": "Comet by Perplexity",
+    "logo": "/logos/comet-by-perplexity.png",
+    "company": "Perplexity",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI-native browser from Perplexity with a built-in AI agent",
+    "pricing": "free",
+    "tags": [
+      "browser",
+      "AI agent",
+      "Perplexity"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://perplexity.ai/comet",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "comfy-workflows",
+    "name": "Comfy Workflows",
+    "logo": "/logos/comfy-workflows.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Gallery of free, ready-to-run ComfyUI workflow templates for AI image and video.",
+    "pricing": "free",
+    "tags": [
+      "comfyui",
+      "workflows",
+      "templates",
+      "image-generation",
+      "video"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://comfy.org/workflows",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "constella",
+    "name": "Constella",
+    "logo": "/logos/constella.png",
+    "company": "Constella",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI note-taking app with a graph-first infinite canvas and smart retrieval",
+    "pricing": "freemium",
+    "tags": [
+      "note-taking",
+      "PKM",
+      "visual graph",
+      "AI notes"
+    ],
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "officialUrl": "https://constella.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "constructable",
+    "name": "Constructable",
+    "logo": "/logos/constructable.png",
+    "company": "Constructable",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI construction management platform for commercial contractors.",
+    "pricing": "paid",
+    "tags": [
+      "construction",
+      "project-management",
+      "field-work"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://constructable.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "consul-ai",
+    "name": "Consul",
+    "logo": "/logos/consul-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Trust-first AI executive assistant that executes scheduling, email, and admin tasks end-to-end.",
+    "pricing": "paid",
+    "tags": [
+      "ai-assistant",
+      "executive-assistant",
+      "scheduling",
+      "email",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://consul.so",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "conversai",
+    "name": "ConversAI",
+    "logo": "/logos/conversai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Chrome extension AI assistant for conversations and writing.",
+    "pricing": "paid",
+    "tags": [
+      "chrome extension",
+      "email replies",
+      "writing assistant"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://conversai.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "coommit",
+    "name": "Coommit",
+    "logo": "/logos/coommit.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "video-meetings",
+    "shortDescription": "Video meetings on a shared canvas with Echo, an AI agent that turns discussions into tasks and recaps.",
+    "pricing": "paid",
+    "tags": [
+      "meetings",
+      "video-calls",
+      "ai-agent",
+      "collaboration",
+      "canvas",
+      "recaps",
+      "tasks",
+      "teams"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://coommit.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "copaw",
+    "name": "CoPaw",
+    "logo": "/logos/copaw.png",
+    "company": "Alibaba",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AgentScope's self-hosted personal AI assistant with multi-chat-app support and plugins.",
+    "pricing": "open-source",
+    "tags": [
+      "personal-assistant",
+      "self-hosted",
+      "chatbots",
+      "plugins"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/agentscope-ai/copaw",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cospace",
+    "name": "Cospace",
+    "logo": "/logos/cospace.png",
+    "company": "Twigex",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Self-hosted all-in-one workspace combining files, projects, chat, video and data dashboards.",
+    "pricing": "freemium",
+    "tags": [
+      "workspace",
+      "self-hosted",
+      "collaboration",
+      "data analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://twigex.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cosupport-ai",
+    "name": "CoSupport AI",
+    "logo": "/logos/cosupport-ai.png",
+    "company": "CoSupport AI",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI customer support platform that auto-resolves repetitive tickets across chat, email and voice.",
+    "pricing": "paid",
+    "tags": [
+      "customer support",
+      "AI agent",
+      "chatbot"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://cosupport.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cotypist",
+    "name": "Cotypist",
+    "logo": "/logos/cotypist.png",
+    "company": "Accelerated Thought GmbH",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "On-device AI autocomplete for Mac that predicts words in every app.",
+    "pricing": "freemium",
+    "tags": [
+      "autocomplete",
+      "mac",
+      "writing",
+      "privacy",
+      "on-device"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://cotypist.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "craft",
+    "name": "Craft",
+    "logo": "/logos/craft.png",
+    "company": "Craft",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Beautiful notes and documents app with a built-in AI assistant that understands your entire workspace.",
+    "pricing": "freemium",
+    "tags": [
+      "notes",
+      "documents",
+      "ai assistant",
+      "writing",
+      "knowledge management",
+      "notion alternative"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "macos",
+      "windows"
+    ],
+    "officialUrl": "https://www.craft.do",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "crawlchat",
+    "name": "CrawlChat",
+    "logo": "/logos/crawlchat.png",
+    "company": "CrawlChat",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Turns any website's documentation into an AI chatbot that answers questions.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "documentation",
+      "customer support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://crawlchat.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "creatormind",
+    "name": "CreatorMind",
+    "logo": "/logos/creatormind.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Build AI chatbots trained on your blog or newsletter content",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "content-creation",
+      "audience-engagement"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://creatormind.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cubeone-ai",
+    "name": "CubeOne AI",
+    "logo": "/logos/cubeone-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "AI slide maker that generates fully editable decks from a prompt or existing PowerPoint.",
+    "pricing": "freemium",
+    "tags": [
+      "presentations",
+      "pitch-decks",
+      "slide-design",
+      "ai-decks"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://getcube.one",
+    "affiliateUrl": null
+  }
+]

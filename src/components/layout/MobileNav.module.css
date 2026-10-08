@@ -1,0 +1,106 @@
+.backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-backdrop);
+  background: rgba(3, 7, 14, 0.6);
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity var(--duration-slow) var(--ease-out),
+    visibility var(--duration-slow) var(--ease-out);
+}
+
+.open .backdrop {
+  opacity: 1;
+  visibility: visible;
+}
+
+.panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: var(--z-drawer);
+  display: flex;
+  flex-direction: column;
+  width: min(320px, 88vw);
+  height: 100dvh;
+  background: var(--surface-raise);
+  border-left: 1px solid var(--border);
+  box-shadow: var(--shadow-dropdown);
+  transform: translateX(100%);
+  transition: transform var(--duration-slow) var(--ease-out);
+}
+
+.open .panel {
+  transform: translateX(0);
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: var(--nav-height);
+  padding-inline: var(--space-20);
+  border-bottom: 1px solid var(--border);
+  flex: none;
+}
+
+.headLabel {
+  color: var(--text);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-semibold);
+}
+
+.close {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  transition:
+    background-color var(--duration) var(--ease-out),
+    color var(--duration) var(--ease-out);
+}
+
+.close:hover {
+  background: var(--surface-muted);
+  color: var(--text);
+}
+
+.nav {
+  overflow-y: auto;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--space-12);
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  min-height: 44px;
+  padding-inline: var(--space-12);
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  font-size: 1rem;
+  font-weight: var(--fw-medium);
+  transition:
+    background-color var(--duration) var(--ease-out),
+    color var(--duration) var(--ease-out);
+}
+
+.link:hover {
+  background: var(--surface-muted);
+  color: var(--text);
+}
+
+.linkExtra {
+  color: var(--text-tertiary);
+  font-size: var(--text-caption);
+}

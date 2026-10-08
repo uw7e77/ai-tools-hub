@@ -1,0 +1,82 @@
+.panel {
+  position: absolute;
+  top: calc(100% + var(--space-8));
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: var(--surface-raise);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-dropdown);
+  overflow: hidden;
+  text-align: left;
+}
+
+.list {
+  max-height: 380px;
+  overflow-y: auto;
+  padding: var(--space-8);
+}
+
+.group {
+  padding: var(--space-4) 0;
+}
+
+.groupLabel {
+  padding: var(--space-4) var(--space-12);
+  font-size: var(--text-meta);
+  font-weight: var(--fw-semibold);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  padding: var(--space-8) var(--space-12);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+}
+
+.option:hover,
+.optionActive {
+  background: var(--surface-muted);
+}
+
+.iconTile {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  flex: none;
+  border-radius: var(--radius-sm);
+  background: var(--surface-muted);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+}
+
+.optionText {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.optionTitle {
+  color: var(--text);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-semibold);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.optionMeta {
+  color: var(--text-tertiary);
+  font-size: var(--text-meta);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

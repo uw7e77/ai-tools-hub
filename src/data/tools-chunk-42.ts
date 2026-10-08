@@ -1,0 +1,2231 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk42: Tool[] = [
+  {
+    "slug": "morph-studio",
+    "name": "Morph Studio",
+    "logo": "/logos/morph-studio.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Free multi-model AI video studio with text-to-video, image-to-video, and editing.",
+    "pricing": "free",
+    "tags": [
+      "text-to-video",
+      "image-to-video",
+      "kling",
+      "veo",
+      "ai-video"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.morphstudio.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "morphic",
+    "name": "Morphic",
+    "logo": "/logos/morphic.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI cinematic storytelling studio with a Canvas, Copilot, and Compose workflow.",
+    "pricing": "freemium",
+    "tags": [
+      "AI video",
+      "storytelling",
+      "filmmaking",
+      "animation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://morphic.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "motorica",
+    "name": "MOTORICA",
+    "logo": "/logos/motorica.png",
+    "company": "Motorica",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Generative AI mocap that creates AAA-quality character animation without suits or cleanup.",
+    "pricing": "free",
+    "tags": [
+      "motion capture",
+      "character animation",
+      "game dev",
+      "AI animation",
+      "Unreal"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://motorica.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "move-ai",
+    "name": "MOVE Ai",
+    "logo": "/logos/move-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI motion capture from video, no suits or markers.",
+    "pricing": "paid",
+    "tags": [
+      "motion capture",
+      "3d animation",
+      "video to 3d",
+      "game dev"
+    ],
+    "platforms": [
+      "ios",
+      "api"
+    ],
+    "officialUrl": "https://move.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "movmi",
+    "name": "Movmi",
+    "logo": "/logos/movmi.png",
+    "company": "Movmi LLC",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "2D video to 3D motion capture with text-to-pose.",
+    "pricing": "freemium",
+    "tags": [
+      "motion capture",
+      "3d animation",
+      "video to 3d",
+      "game dev"
+    ],
+    "platforms": [
+      "web",
+      "windows"
+    ],
+    "officialUrl": "https://movmi.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mubert",
+    "name": "Mubert",
+    "logo": "/logos/mubert.png",
+    "company": "Mubert",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI-generated royalty-free music for creators.",
+    "pricing": "freemium",
+    "tags": [
+      "music",
+      "ai-music",
+      "royalty-free"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://mubert.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mumble-note",
+    "name": "Mumble Note",
+    "logo": "/logos/mumble-note.png",
+    "company": "Mumble Note",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice note-taker that turns spoken thoughts into structured, actionable notes.",
+    "pricing": "freemium",
+    "tags": [
+      "voice notes",
+      "note-taking",
+      "transcription",
+      "ai assistant"
+    ],
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "officialUrl": "https://www.mumblenote.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "munch-ai",
+    "name": "Munch",
+    "logo": "/logos/munch-ai.png",
+    "company": "Munch",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI video repurposing platform.",
+    "pricing": "paid",
+    "tags": [
+      "video-repurposing",
+      "shorts",
+      "content"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.getmunch.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "munch-studio",
+    "name": "Munch Studio",
+    "logo": "/logos/munch-studio.png",
+    "company": "Munch Studio",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI video repurposing that mines long videos for trend-aligned clips, then auto-captions, crops, and writes the social post copy.",
+    "pricing": "paid",
+    "tags": [
+      "ai-clips",
+      "video-repurposing",
+      "trend-analysis",
+      "captions",
+      "auto-crop",
+      "social-posts",
+      "marketing-analytics",
+      "multilingual"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://munchstudio.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "murf-ai",
+    "name": "Murf AI",
+    "logo": "/logos/murf-ai.png",
+    "company": "Murf AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Studio-grade AI voiceover platform with 200+ voices in 35+ languages, a fast TTS API, and AI dubbing.",
+    "pricing": "freemium",
+    "tags": [
+      "text-to-speech",
+      "voiceover",
+      "ai-voice",
+      "dubbing",
+      "voice-api",
+      "elearning",
+      "voice-agents"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://murf.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "musicfy",
+    "name": "Musicfy",
+    "logo": "/logos/musicfy.png",
+    "company": "Musicfy",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI music creation platform for generating songs, voice covers, and vocal clones from text or audio.",
+    "pricing": "freemium",
+    "tags": [
+      "ai music",
+      "voice cloning",
+      "text to music",
+      "song covers",
+      "stem splitter"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://musicfy.lol",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "musiclips",
+    "name": "Musiclips",
+    "logo": "/logos/musiclips.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Swipe-based AI music discovery app that recommends songs and saves them to Spotify.",
+    "pricing": "freemium",
+    "tags": [
+      "music discovery",
+      "Spotify",
+      "recommendations",
+      "iOS app",
+      "playlist"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "officialUrl": "https://musiclips.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "musicstar-ai",
+    "name": "MusicStar.AI",
+    "logo": "/logos/musicstar-ai.png",
+    "company": "MusicStar.AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI music generator with beats, lyrics, and vocals.",
+    "pricing": "paid",
+    "tags": [
+      "music-generation",
+      "ai-music",
+      "vocals",
+      "royalty-free"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.musicstar.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "muzaic-studio",
+    "name": "Muzaic Studio",
+    "logo": "/logos/muzaic-studio.png",
+    "company": "Muzaic",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI soundtrack composer that creates tailored music for videos.",
+    "pricing": "freemium",
+    "tags": [
+      "soundtrack",
+      "music",
+      "video",
+      "composition"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://muzaic.studio",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "myvocal-ai",
+    "name": "MyVocal.ai",
+    "logo": "/logos/myvocal-ai.png",
+    "company": "MyVocal",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice cloning, text-to-speech, and text-to-song.",
+    "pricing": "freemium",
+    "tags": [
+      "voice-cloning",
+      "text-to-speech",
+      "ai-voice"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.myvocal.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "narration-box",
+    "name": "Narration Box",
+    "logo": "/logos/narration-box.png",
+    "company": "Narration Box",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI voiceovers for videos and courses",
+    "pricing": "paid",
+    "tags": [
+      "voiceover",
+      "narration",
+      "text to speech"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://narrationbox.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "naturalreader",
+    "name": "NaturalReader",
+    "logo": "/logos/naturalreader.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Text-to-speech service that reads documents, PDFs, and e-books aloud.",
+    "pricing": "freemium",
+    "tags": [
+      "text-to-speech",
+      "TTS",
+      "accessibility",
+      "reading"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://naturalreaders.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nero-ai-video-upscaler",
+    "name": "Nero AI Video Upscaler",
+    "logo": "/logos/nero-ai-video-upscaler.png",
+    "company": "Nero",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Windows app that upscales videos to 4K and 8K with AI.",
+    "pricing": "freemium",
+    "tags": [
+      "video upscaler",
+      "4k",
+      "enhancement",
+      "restoration"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "officialUrl": "https://www.nero.com/enu/products/ai-video-upscaler-pro",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "neural-frames",
+    "name": "Neural Frames",
+    "logo": "/logos/neural-frames.png",
+    "company": "Neural Frames",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI music video generator that turns audio into synced visuals.",
+    "pricing": "freemium",
+    "tags": [
+      "music-video",
+      "audio-reactive",
+      "ai-video",
+      "musicians"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.neuralframes.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "neutone-morpho",
+    "name": "Neutone Morpho",
+    "logo": "/logos/neutone-morpho.png",
+    "company": "Neutone",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Real-time AI tone-morphing audio plugin for music producers.",
+    "pricing": "freemium",
+    "tags": [
+      "music-production",
+      "audio-plugin",
+      "sound-design",
+      "vst"
+    ],
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://neutone.ai/morpho",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "neverclosed-ai",
+    "name": "NeverClosed.AI",
+    "logo": "/logos/neverclosed-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI phone agent that answers calls and books appointments for businesses 24/7.",
+    "pricing": "paid",
+    "tags": [
+      "phone agent",
+      "appointment booking",
+      "voice ai",
+      "receptionist",
+      "local business"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://neverclosed.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ngram",
+    "name": "ngram",
+    "logo": "/logos/ngram.png",
+    "company": "ngram",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI video generator that turns docs and prompts into branded videos.",
+    "pricing": "freemium",
+    "tags": [
+      "video-generation",
+      "marketing",
+      "avatars",
+      "localization"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension",
+      "api"
+    ],
+    "officialUrl": "https://ngram.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "noiz-ai",
+    "name": "Noiz AI",
+    "logo": "/logos/noiz-ai.png",
+    "company": "Noiz",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Text-to-speech, voice cloning and dubbing platform for realistic AI voiceovers.",
+    "pricing": "freemium",
+    "tags": [
+      "text to speech",
+      "voice cloning",
+      "dubbing",
+      "voiceover",
+      "tts"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://noiz.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nonoisy",
+    "name": "Nonoisy",
+    "logo": "/logos/nonoisy.png",
+    "company": "Nonoisy",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI audio enhancer that removes background noise and levels volume for podcasts, videos, and voice recordings.",
+    "pricing": "freemium",
+    "tags": [
+      "audio-enhancement",
+      "noise-removal",
+      "podcasts",
+      "audio-editing",
+      "volume-leveling"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.nonoisy.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "note67",
+    "name": "Note67",
+    "logo": "/logos/note67.png",
+    "company": "zapyap-com",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Open-source local meeting assistant that transcribes and summarizes meetings on-device.",
+    "pricing": "open-source",
+    "tags": [
+      "open source",
+      "meeting notes",
+      "transcription",
+      "local ai",
+      "privacy",
+      "whisper"
+    ],
+    "platforms": [
+      "macos",
+      "windows"
+    ],
+    "officialUrl": "https://github.com/zapyap-com/note67",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "observe-ai",
+    "name": "Observe.AI",
+    "logo": "/logos/observe-ai.png",
+    "company": "Observe.AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Contact-center AI platform with agent assist, conversation intelligence, and automation.",
+    "pricing": "paid",
+    "tags": [
+      "contact center",
+      "voice ai",
+      "ai agent",
+      "agent assist",
+      "qa",
+      "conversation intelligence",
+      "compliance"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://observe.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "onecliq",
+    "name": "OneCliq",
+    "logo": "/logos/onecliq.png",
+    "company": "OneCliq",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI assistant that turns long videos into short clips, blogs, and social content.",
+    "pricing": "freemium",
+    "tags": [
+      "video-repurposing",
+      "clips",
+      "content-creation",
+      "social-media",
+      "captions"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://onecliq.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "onetake-ai",
+    "name": "OneTake AI",
+    "logo": "/logos/onetake-ai.png",
+    "company": "OneTake AI",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI video editor that auto-edits, captions, and repurposes footage.",
+    "pricing": "paid",
+    "tags": [
+      "video editing",
+      "captions",
+      "repurposing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.onetake.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openai-realtime-agents",
+    "name": "OpenAI Realtime Agents",
+    "logo": "/logos/openai-realtime-agents.png",
+    "company": "OpenAI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "OpenAI's reference demo of multi-agent voice patterns on the Realtime API.",
+    "pricing": "open-source",
+    "tags": [
+      "voice-agents",
+      "realtime-api",
+      "demo",
+      "openai",
+      "handoffs"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/openai/openai-realtime-agents",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opentypeless",
+    "name": "OpenTypeless",
+    "logo": "/logos/opentypeless.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Free open-source macOS voice-typing tool — press Fn, dictate, get Whisper-transcribed text polished by an LLM pasted at your cursor.",
+    "pricing": "open-source",
+    "tags": [
+      "speech-to-text",
+      "dictation",
+      "voice-typing",
+      "whisper",
+      "macos",
+      "open-source",
+      "productivity",
+      "accessibility"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://github.com/wkwunju/opentypeless",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openvoice",
+    "name": "OpenVoice",
+    "logo": "/logos/openvoice.png",
+    "company": "MyShell",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Open-source AI voice cloning with multi-language support.",
+    "pricing": "open-source",
+    "tags": [
+      "voice cloning",
+      "text to speech",
+      "open source"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://github.com/myshell-ai/OpenVoice",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openvoiceos",
+    "name": "OpenVoiceOS",
+    "logo": "/logos/openvoiceos.png",
+    "company": "OpenVoiceOS",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Community-driven open-source privacy-respecting voice assistant platform.",
+    "pricing": "open-source",
+    "tags": [
+      "voice-assistant",
+      "privacy",
+      "raspberry-pi",
+      "mycroft",
+      "smart-speaker"
+    ],
+    "platforms": [
+      "linux"
+    ],
+    "officialUrl": "https://github.com/openvoiceos/ovos-core",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "operator",
+    "name": "Operator",
+    "logo": "/logos/operator.png",
+    "company": "Operator",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Converts your text messages into real voice phone calls.",
+    "pricing": "paid",
+    "tags": [
+      "text-to-speech",
+      "phone-calls",
+      "accessibility"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://operator.tel",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "optimizerai",
+    "name": "OptimizerAI",
+    "logo": "/logos/optimizerai.png",
+    "company": "OptimizerAI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI sound-effect generator that creates custom SFX from text prompts.",
+    "pricing": "freemium",
+    "tags": [
+      "sound effects",
+      "SFX",
+      "text-to-audio",
+      "game audio",
+      "sound design"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://optimizerai.xyz",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opus-ai-video",
+    "name": "Opus",
+    "logo": "/logos/opus-ai-video.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI text-to-video creation platform",
+    "pricing": "freemium",
+    "tags": [
+      "text to video",
+      "AI video",
+      "content creation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://opus.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opus-clip",
+    "name": "Opus Clip",
+    "logo": "/logos/opus-clip.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Paste a YouTube link and let AI find the highlights, score their virality, and generate captioned, reframed shorts in minutes.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-clips",
+      "long-to-short",
+      "video-repurposing",
+      "captions",
+      "virality-score",
+      "tiktok",
+      "youtube-shorts",
+      "auto-reframe",
+      "social-media"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.opus.pro",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "orphiq",
+    "name": "Orphiq",
+    "logo": "/logos/orphiq.png",
+    "company": "Orphiq",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI strategist that plans music releases and careers for artists and teams",
+    "pricing": "freemium",
+    "tags": [
+      "music",
+      "artist management",
+      "release planning",
+      "ai strategist"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://orphiq.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "osam-ai",
+    "name": "OSAM.ai",
+    "logo": "/logos/osam-ai.png",
+    "company": "OSAM",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice agent that answers dealership calls and books service appointments",
+    "pricing": "paid",
+    "tags": [
+      "voice ai",
+      "auto dealers",
+      "appointments",
+      "call automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://osam.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "outcast",
+    "name": "Outcast",
+    "logo": "/logos/outcast.png",
+    "company": "Outcast",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI content studio that turns one video or podcast recording into clips, transcripts, show notes, and social posts (formerly ToastyAI).",
+    "pricing": "paid",
+    "tags": [
+      "podcasts",
+      "content-repurposing",
+      "video-clips",
+      "show-notes",
+      "transcription",
+      "social-media"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://outcast.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "outtloud",
+    "name": "Outtloud",
+    "logo": "/logos/outtloud.png",
+    "company": "Outtloud",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Turns PDFs, ebooks, and articles into natural-sounding spoken audio.",
+    "pricing": "freemium",
+    "tags": [
+      "text-to-speech",
+      "audiobook",
+      "TTS",
+      "reading",
+      "accessibility",
+      "voice-cloning"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://outtloud.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "overlap",
+    "name": "Overlap",
+    "logo": "/logos/overlap.png",
+    "company": "Overlap",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI repurposing tool that turns long videos into captioned shorts with scheduling.",
+    "pricing": "freemium",
+    "tags": [
+      "repurposing",
+      "shorts",
+      "captions",
+      "clips"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://overlap.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "oxolo",
+    "name": "Oxolo",
+    "logo": "/logos/oxolo.png",
+    "company": "Oxolo GmbH",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "Turn a product URL into an AI-avatar marketing video in minutes.",
+    "pricing": "freemium",
+    "tags": [
+      "video-generation",
+      "ai-avatar",
+      "ecommerce",
+      "product-video",
+      "text-to-video"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://oxolo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "palmier-pro",
+    "name": "Palmier Pro",
+    "logo": "/logos/palmier-pro.png",
+    "company": "Palmier, Inc.",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI-native video editor where AI generation is a timeline primitive; Mac app.",
+    "pricing": "freemium",
+    "tags": [
+      "video-editing",
+      "mcp",
+      "ai-agents",
+      "open-source",
+      "macos"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://www.palmier.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pandastudio",
+    "name": "PandaStudio",
+    "logo": "/logos/pandastudio.png",
+    "company": "PandaStudio",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Local-first desktop AI video editor with recipes and MCP-driven editing.",
+    "pricing": "paid",
+    "tags": [
+      "video-editor",
+      "ai-editing",
+      "transcript-editing",
+      "captions",
+      "desktop-app",
+      "mcp",
+      "local-first",
+      "creators"
+    ],
+    "platforms": [
+      "macos",
+      "windows"
+    ],
+    "officialUrl": "https://writepanda.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "paper-animator",
+    "name": "Paper Animator",
+    "logo": "/logos/paper-animator.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Turn photos into paper cut-out animations in seconds.",
+    "pricing": "freemium",
+    "tags": [
+      "paper-animation",
+      "video-effects",
+      "motion"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://paperanimator.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parloa",
+    "name": "Parloa",
+    "logo": "/logos/parloa.png",
+    "company": "Parloa",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Voice-AI agent management platform for enterprise contact centers.",
+    "pricing": "paid",
+    "tags": [
+      "voice ai",
+      "contact center",
+      "enterprise",
+      "agentic ai",
+      "multilingual"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://parloa.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "peech",
+    "name": "Peech",
+    "logo": "/logos/peech.png",
+    "company": "Peech",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI video repurposing and automated editing for marketing teams.",
+    "pricing": "freemium",
+    "tags": [
+      "video editing",
+      "video repurposing",
+      "transcription",
+      "marketing",
+      "social clips"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.peech-ai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "perso-ai",
+    "name": "Perso AI",
+    "logo": "/logos/perso-ai.png",
+    "company": "ESTsoft",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI video dubbing with voice cloning and lip-sync in 30+ languages",
+    "pricing": "freemium",
+    "tags": [
+      "dubbing",
+      "voice cloning",
+      "lip-sync",
+      "translation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://perso.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "phonely-ai",
+    "name": "Phonely AI",
+    "logo": "/logos/phonely-ai.png",
+    "company": "Phonely",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice agents that handle business calls like booking and inquiries.",
+    "pricing": "freemium",
+    "tags": [
+      "voice ai",
+      "voice agents",
+      "call answering"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.phonely.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pictory",
+    "name": "Pictory",
+    "logo": "/logos/pictory.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Turns scripts, blog posts, and PPTs into captioned videos with AI voices, and repurposes long recordings into social clips.",
+    "pricing": "paid",
+    "tags": [
+      "script-to-video",
+      "blog-to-video",
+      "auto-captions",
+      "ai-voiceover",
+      "content-repurposing",
+      "video-clipping",
+      "ai-avatars"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pictory.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pika",
+    "name": "Pika",
+    "logo": "/logos/pika.png",
+    "company": "Pika Labs",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI creative platform combining video, image and sound generation with multiple leading models under one roof.",
+    "pricing": "freemium",
+    "tags": [
+      "text-to-video",
+      "ai-video",
+      "image-generation",
+      "ai-audio",
+      "soundtrack",
+      "api",
+      "image-to-video"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "api"
+    ],
+    "officialUrl": "https://pika.art",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pixverse",
+    "name": "PixVerse",
+    "logo": "/logos/pixverse.png",
+    "company": "MOTIVAI PRIVATE LIMITED",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI video platform that converts text, images, and clips into cinematic videos via web, apps, and API.",
+    "pricing": "freemium",
+    "tags": [
+      "AI video",
+      "text to video",
+      "mobile app",
+      "video effects",
+      "creator economy"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://pixverse.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plainscribe",
+    "name": "PlainScribe",
+    "logo": "/logos/plainscribe.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI transcription service built for podcasters and content creators.",
+    "pricing": "freemium",
+    "tags": [
+      "transcription",
+      "podcasting",
+      "speech-to-text",
+      "show notes"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://plainscribe.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plask",
+    "name": "Plask",
+    "logo": "/logos/plask.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "Turn any video into 3D character animation with AI motion capture.",
+    "pricing": "freemium",
+    "tags": [
+      "motion-capture",
+      "3d-animation",
+      "character-animation",
+      "game-development",
+      "vtuber"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://plask.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "play-ht",
+    "name": "Play.ht",
+    "logo": "/logos/play-ht.png",
+    "company": "Play.ht",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice generator with 800+ voices in 142 languages, built for creators and developers.",
+    "pricing": "freemium",
+    "tags": [
+      "text-to-speech",
+      "ai-voice",
+      "voice-cloning",
+      "podcast",
+      "voice-api",
+      "multilingual",
+      "wordpress"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://play.ht",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "playcast",
+    "name": "Playcast",
+    "logo": "/logos/playcast.png",
+    "company": "Playcast",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Turns articles, PDFs, and books into private, on-demand podcasts.",
+    "pricing": "freemium",
+    "tags": [
+      "podcast",
+      "text-to-speech",
+      "reading",
+      "summarization"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://playcast.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "playlistai",
+    "name": "PlaylistAI",
+    "logo": "/logos/playlistai.png",
+    "company": "PlaylistAI",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "Generate custom playlists with AI",
+    "pricing": "freemium",
+    "tags": [
+      "playlists",
+      "music",
+      "AI curation"
+    ],
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "officialUrl": "https://www.playlistai.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "playphrase-me",
+    "name": "PlayPhrase.me",
+    "logo": "/logos/playphrase-me.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "Type any phrase and instantly watch every movie or TV clip where it is spoken.",
+    "pricing": "freemium",
+    "tags": [
+      "movie-quotes",
+      "language-learning",
+      "video-search",
+      "memes",
+      "subtitles"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://playphrase.me",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plazmapunk",
+    "name": "Plazmapunk",
+    "logo": "/logos/plazmapunk.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI music-video generator with beat-synced visuals and a scene editor.",
+    "pricing": "freemium",
+    "tags": [
+      "music videos",
+      "ai video",
+      "visuals",
+      "creators"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.plazmapunk.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plexigen-ai",
+    "name": "PlexiGen AI",
+    "logo": "/logos/plexigen-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI video generator with native audio sync and lip-sync.",
+    "pricing": "paid",
+    "tags": [
+      "ai-video",
+      "lip-sync",
+      "audio-sync",
+      "text-to-video"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://plexigen.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plotaverse",
+    "name": "Plotaverse",
+    "logo": "/logos/plotaverse.png",
+    "company": "Plotaverse",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Photo-animation suite that turns still images into looping motion art with AI-generated effects.",
+    "pricing": "freemium",
+    "tags": [
+      "photo-animation",
+      "plotagraph",
+      "motion-art",
+      "creative-community",
+      "looping-video"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://plotaverse.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plym",
+    "name": "plym",
+    "logo": "/logos/plym.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Automates faceless YouTube channels: research, script, voiceover, visuals and publishing.",
+    "pricing": "freemium",
+    "tags": [
+      "faceless-youtube",
+      "video-automation",
+      "voiceover",
+      "script-writing",
+      "thumbnails",
+      "auto-publish",
+      "8-languages",
+      "content-creation"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://plym.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pocketpod",
+    "name": "PocketPod",
+    "logo": "/logos/pocketpod.png",
+    "company": "Pocket AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Personalized daily news podcast generated by AI each morning.",
+    "pricing": "free",
+    "tags": [
+      "podcast",
+      "news briefing",
+      "personalized",
+      "ai audio"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "officialUrl": "https://pocketpod.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pod-ai",
+    "name": "Pod AI",
+    "logo": "/logos/pod-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice agents that answer your business phone calls 24/7 and book appointments.",
+    "pricing": null,
+    "tags": [
+      "voice-agents",
+      "phone-calls",
+      "ai-receptionist",
+      "appointment-booking",
+      "lead-qualification",
+      "customer-support"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.callpod.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podcastai",
+    "name": "PodcastAI",
+    "logo": "/logos/podcastai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI suite for producing podcasts end to end.",
+    "pricing": "freemium",
+    "tags": [
+      "podcast",
+      "audio production",
+      "creators"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podcastai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podfy-ai",
+    "name": "Podfy AI",
+    "logo": "/logos/podfy-ai.png",
+    "company": "Podfy AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI platform for generating podcasts and videos with scriptwriting and voice synthesis.",
+    "pricing": "freemium",
+    "tags": [
+      "podcasting",
+      "video creation",
+      "voiceover",
+      "content creation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podfy.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podmanager-ai",
+    "name": "PodManager.AI",
+    "logo": "/logos/podmanager-ai.png",
+    "company": "Knowledge Formula FZCO",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Free AI platform for producing and managing podcasts.",
+    "pricing": "free",
+    "tags": [
+      "podcast",
+      "audio-editing",
+      "production",
+      "free"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podmanager.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podnotes",
+    "name": "Podnotes",
+    "logo": "/logos/podnotes.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI podcast notes: transcripts, summaries, and chat.",
+    "pricing": "freemium",
+    "tags": [
+      "podcast",
+      "transcription",
+      "summaries"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podnotes.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podpilot",
+    "name": "PodPilot",
+    "logo": "/logos/podpilot.png",
+    "company": "PodPilot",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI-assisted podcast hosting platform for creating and publishing shows.",
+    "pricing": "paid",
+    "tags": [
+      "podcast hosting",
+      "podcasting",
+      "audio creation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podpilot.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podsnap-ai",
+    "name": "PodSnap.AI",
+    "logo": "/logos/podsnap-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI podcast summaries emailed after each episode, in text and audio formats.",
+    "pricing": "freemium",
+    "tags": [
+      "podcasts",
+      "summaries",
+      "newsletter",
+      "audio"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podsnap.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podsqueeze",
+    "name": "Podsqueeze",
+    "logo": "/logos/podsqueeze.png",
+    "company": "Podsqueeze",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Repurpose podcast episodes into show notes, clips, timestamps, and social content with AI.",
+    "pricing": "freemium",
+    "tags": [
+      "podcast",
+      "repurposing",
+      "show notes",
+      "clips"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podsqueeze.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podsuite",
+    "name": "Podsuite",
+    "logo": "/logos/podsuite.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "One-upload podcast repurposing into clips, notes, blogs, and social posts.",
+    "pricing": "freemium",
+    "tags": [
+      "podcast",
+      "repurposing",
+      "transcription",
+      "clips",
+      "show-notes",
+      "content-marketing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://podsuite.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "podwise",
+    "name": "Podwise",
+    "logo": "/logos/podwise.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI app that condenses podcasts into structured summaries and mind maps.",
+    "pricing": "freemium",
+    "tags": [
+      "podcasts",
+      "summaries",
+      "mind-maps"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://podwise.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pointa-video",
+    "name": "Pointa.video",
+    "logo": "/logos/pointa-video.png",
+    "company": "Pointa",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI video creation tool with one-click zoom effects, subtitles, and voiceovers for demos and tutorials.",
+    "pricing": "freemium",
+    "tags": [
+      "video editing",
+      "zoom effects",
+      "subtitles",
+      "product demos",
+      "tutorials"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pointa.video",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "polyai",
+    "name": "PolyAI",
+    "logo": "/logos/polyai.png",
+    "company": "PolyAI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Voice-first AI agents replacing IVR for high-volume enterprise customer service.",
+    "pricing": "paid",
+    "tags": [
+      "voice ai",
+      "ivr",
+      "contact center",
+      "enterprise",
+      "call deflection"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://poly.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "potion",
+    "name": "Potion",
+    "logo": "/logos/potion.png",
+    "company": "Potion",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Generates personalized AI sales videos with your cloned face, voice, and gestures.",
+    "pricing": "freemium",
+    "tags": [
+      "personalized video",
+      "AI avatar",
+      "sales outreach",
+      "video marketing",
+      "script-to-video"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://sendpotion.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "precallai",
+    "name": "PreCallAI",
+    "logo": "/logos/precallai.png",
+    "company": "PreCallAI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "24/7 AI voice-agent platform for automated inbound and outbound sales calls.",
+    "pricing": "freemium",
+    "tags": [
+      "voice ai",
+      "sales automation",
+      "call center"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.precallai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "producer",
+    "name": "Producer",
+    "logo": "/logos/producer.png",
+    "company": "Google",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Google Labs' conversational AI music studio for full songs with vocals.",
+    "pricing": "freemium",
+    "tags": [
+      "music generation",
+      "AI music",
+      "Lyria",
+      "songwriting",
+      "Google Labs"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://producer.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "promo-com",
+    "name": "Promo.com",
+    "logo": "/logos/promo-com.png",
+    "company": "Promo.com",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "Create marketing videos with AI assistance",
+    "pricing": "paid",
+    "tags": [
+      "video marketing",
+      "ads",
+      "templates"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.promo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "puppetry",
+    "name": "Puppetry",
+    "logo": "/logos/puppetry.png",
+    "company": "ELBO AI Inc.",
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "iOS app that animates faces into talking characters with AI.",
+    "pricing": "freemium",
+    "tags": [
+      "talking-avatar",
+      "face-animation",
+      "ios-app",
+      "ai-video"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "officialUrl": "https://apps.apple.com/us/app/puppetry/id1671248086",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qlip-ai",
+    "name": "Qlip.ai",
+    "logo": "/logos/qlip-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-audio",
+    "shortDescription": "AI clipping that turns long videos into social-ready short clips.",
+    "pricing": "paid",
+    "tags": [
+      "video-clipping",
+      "repurposing",
+      "shorts",
+      "podcasts",
+      "subtitles"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://qlip.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "quickmagic",
+    "name": "QuickMagic",
+    "logo": "/logos/quickmagic.png",
+    "company": "QuickMagic",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Markerless AI motion capture that turns regular video into 3D animation data.",
+    "pricing": "freemium",
+    "tags": [
+      "motion capture",
+      "3d animation",
+      "fbx",
+      "bvh",
+      "markerless"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://quickmagic.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "quso-ai",
+    "name": "Quso.ai",
+    "logo": "/logos/quso-ai.png",
+    "company": "Quso",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "All-in-one AI repurposing workspace: clip highlights, add captions, remove filler words, and schedule posts across 7 social platforms.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-clips",
+      "video-repurposing",
+      "captions",
+      "filler-removal",
+      "social-scheduling",
+      "brand-kit",
+      "virality-predictor",
+      "analytics"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://quso.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qwen3-tts",
+    "name": "Qwen3-TTS",
+    "logo": "/logos/qwen3-tts.png",
+    "company": "Alibaba",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Alibaba's open-source multilingual text-to-speech model family.",
+    "pricing": "open-source",
+    "tags": [
+      "tts",
+      "voice-cloning",
+      "open-source",
+      "multilingual"
+    ],
+    "platforms": [
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://github.com/QwenLM/Qwen3-TTS",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ramblefix",
+    "name": "RambleFix",
+    "logo": "/logos/ramblefix.png",
+    "company": "RambleFix",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Voice-to-text that polishes rambles into finished writing (formerly TalkText).",
+    "pricing": "freemium",
+    "tags": [
+      "voice-to-text",
+      "dictation",
+      "writing",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "macos"
+    ],
+    "officialUrl": "https://ramblefix.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reap-video",
+    "name": "Reap.video",
+    "logo": "/logos/reap-video.png",
+    "company": "Reap",
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI clipping tool that turns long videos into viral shorts and reels for social media.",
+    "pricing": "freemium",
+    "tags": [
+      "video-clipping",
+      "shorts",
+      "reels",
+      "tiktok",
+      "content-repurposing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://reap.video",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "recast-studio",
+    "name": "Recast Studio",
+    "logo": "/logos/recast-studio.png",
+    "company": "Recast Studio",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Repurposes podcasts into social clips, notes, and blog posts.",
+    "pricing": "freemium",
+    "tags": [
+      "podcast",
+      "repurposing",
+      "video clips",
+      "content marketing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://recast.studio",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reccloud",
+    "name": "RecCloud",
+    "logo": "/logos/reccloud.png",
+    "company": "RecCloud",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI audio and video platform with transcription, subtitles, translation, and voice tools.",
+    "pricing": "freemium",
+    "tags": [
+      "transcription",
+      "subtitles",
+      "video translation",
+      "text-to-speech",
+      "audio tools"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://reccloud.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reclip",
+    "name": "Reclip",
+    "logo": "/logos/reclip.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "AI video clipper and creator workspace that turns long videos into share-ready clips, voiceovers, and assets.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-clipper",
+      "short-form-video",
+      "ai-voiceover",
+      "caption-remover",
+      "video-repurposing",
+      "creators",
+      "transcription",
+      "ai-video-generator"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://reclip.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "record-once",
+    "name": "Record Once",
+    "logo": "/logos/record-once.png",
+    "company": "Record Once",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI tool that turns one screen recording into polished tutorial videos.",
+    "pricing": "freemium",
+    "tags": [
+      "tutorial videos",
+      "screen recording",
+      "ai video editing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://recordonce.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "recut",
+    "name": "Recut",
+    "logo": "/logos/recut.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Automatically removes silent segments from video and audio files.",
+    "pricing": "paid",
+    "tags": [
+      "silence removal",
+      "video editing",
+      "podcast editing",
+      "post-production"
+    ],
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://getrecut.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reelbase",
+    "name": "ReelBase",
+    "logo": "/logos/reelbase.png",
+    "company": "ReelBase",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Create short-form videos with AI, built for social feeds.",
+    "pricing": "freemium",
+    "tags": [
+      "short-form-video",
+      "reels",
+      "tiktok",
+      "video-generation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://reelbase.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reelify",
+    "name": "Reelify",
+    "logo": "/logos/reelify.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "On-device Mac AI clipper turning long videos into viral shorts with no credits.",
+    "pricing": "paid",
+    "tags": [
+      "video clipping",
+      "shorts",
+      "reels",
+      "captions",
+      "privacy-first"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://reelifyclips.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reelio",
+    "name": "Reelio",
+    "logo": "/logos/reelio.png",
+    "company": "Reelio",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "Turn ideas into faceless short-video series for TikTok, Reels, and Shorts.",
+    "pricing": "freemium",
+    "tags": [
+      "faceless-video",
+      "short-form-video",
+      "ai-series"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://reelio.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "regal-ai",
+    "name": "Regal AI",
+    "logo": "/logos/regal-ai.png",
+    "company": "Regal",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Enterprise Voice AI agents for support, sales, and operations calls.",
+    "pricing": "paid",
+    "tags": [
+      "voice ai",
+      "ai agent",
+      "call center",
+      "enterprise",
+      "customer support"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://regal.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "repoclip",
+    "name": "RepoClip",
+    "logo": "/logos/repoclip.png",
+    "company": "RepoClip",
+    "category": "video-audio",
+    "subcategory": "video-generation",
+    "shortDescription": "AI turns your GitHub repo into a professional demo video.",
+    "pricing": "freemium",
+    "tags": [
+      "demo-video",
+      "github",
+      "developer-tools",
+      "video-generation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://repoclip.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "retell-ai",
+    "name": "Retell AI",
+    "logo": "/logos/retell-ai.png",
+    "company": "Retell AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Voice AI infrastructure for building production conversational phone agents.",
+    "pricing": "freemium",
+    "tags": [
+      "voice ai",
+      "phone agents",
+      "api",
+      "contact center",
+      "conversational ai"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://retellai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "retellio",
+    "name": "Retellio",
+    "logo": "/logos/retellio.png",
+    "company": "Retellio",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "Turns customer calls into internal podcasts for leadership teams.",
+    "pricing": "paid",
+    "tags": [
+      "podcast",
+      "customer calls",
+      "sales insights",
+      "voice of customer",
+      "ai audio"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://retellio.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "revid-ai",
+    "name": "Revid AI",
+    "logo": "/logos/revid-ai.png",
+    "company": null,
+    "category": "video-audio",
+    "subcategory": "video-editing",
+    "shortDescription": "Generates complete viral short-form videos from a prompt or script, with editing, captions, and direct social publishing.",
+    "pricing": "freemium",
+    "tags": [
+      "short-form-video",
+      "viral-shorts",
+      "tiktok",
+      "ai-avatars",
+      "voice-cloning",
+      "auto-publishing",
+      "reels",
+      "faceless-video"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.revid.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "revocalize-ai",
+    "name": "Revocalize AI",
+    "logo": "/logos/revocalize-ai.png",
+    "company": "Revocalize AI",
+    "category": "video-audio",
+    "subcategory": "audio-voice",
+    "shortDescription": "AI voice transformation platform with a VST plugin for music producers.",
+    "pricing": "freemium",
+    "tags": [
+      "voice",
+      "music",
+      "vst",
+      "voice transformation",
+      "producer"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://www.revocalize.ai",
+    "affiliateUrl": null
+  }
+]

@@ -1,0 +1,44 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 10px;
+  border: 1px solid;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-meta);
+  font-weight: var(--fw-semibold);
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.tested {
+  color: var(--tested-text);
+  background: var(--tested-bg);
+  border-color: var(--tested-border);
+}
+
+.new {
+  color: var(--new-text);
+  background: var(--new-bg);
+  border-color: var(--new-border);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.neutral {
+  color: var(--text-muted);
+  background: var(--surface-muted);
+  border-color: var(--border);
+}
+
+.paid {
+  color: var(--paid-text);
+  background: var(--paid-bg);
+  border-color: var(--paid-border);
+}
+
+.popular {
+  color: var(--accent-soft-text);
+  background: var(--accent-soft);
+  border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+}

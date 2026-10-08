@@ -1,0 +1,2373 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk9: Tool[] = [
+  {
+    "slug": "tailride",
+    "name": "Tailride",
+    "logo": "/logos/tailride.png",
+    "company": "Tailride",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI invoice collection that auto-fetches invoices from portals and email",
+    "pricing": "freemium",
+    "tags": [
+      "invoices",
+      "accounting",
+      "automation",
+      "finance"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://tailride.so",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "talently-ai",
+    "name": "Talently.ai",
+    "logo": "/logos/talently-ai.png",
+    "company": "Remotebase",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI interviewer that runs live technical and cultural interviews for you.",
+    "pricing": "paid",
+    "tags": [
+      "AI interviewer",
+      "recruiting",
+      "hiring",
+      "candidate screening",
+      "live coding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://talently.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "talkpush",
+    "name": "Talkpush",
+    "logo": "/logos/talkpush.png",
+    "company": "Talkpush",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI-powered ATS + CRM for high-volume hiring, screening candidates via WhatsApp, voice, SMS.",
+    "pricing": "paid",
+    "tags": [
+      "high-volume-hiring",
+      "ai-ats",
+      "whatsapp",
+      "voice-interviews",
+      "conversational-ai",
+      "screening",
+      "applicant-tracking",
+      "multilingual"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://talkpush.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tallyrus",
+    "name": "Tallyrus",
+    "logo": "/logos/tallyrus.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI document data extraction for business teams.",
+    "pricing": "freemium",
+    "tags": [
+      "document extraction",
+      "data entry automation",
+      "OCR"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://tallyrus.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tars",
+    "name": "Tars",
+    "logo": "/logos/tars.png",
+    "company": "Tars",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "No-code platform for building conversational AI agents for lead capture, support and sales.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "conversational-ai",
+      "lead-generation",
+      "customer-support",
+      "no-code",
+      "whatsapp",
+      "sales",
+      "rag"
+    ],
+    "platforms": [
+      "web",
+      "api",
+      "whatsapp"
+    ],
+    "officialUrl": "https://hellotars.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tavrn",
+    "name": "Tavrn",
+    "logo": "/logos/tavrn.png",
+    "company": "Tavrn",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI platform drafting demand letters and medical chronologies for attorneys.",
+    "pricing": "paid",
+    "tags": [
+      "legal",
+      "demand-letters",
+      "medical-chronology"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.tavrn.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "taxgpt",
+    "name": "TaxGPT",
+    "logo": "/logos/taxgpt.png",
+    "company": "TaxGPT",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI tax research and workflow assistant for accounting professionals.",
+    "pricing": "freemium",
+    "tags": [
+      "tax",
+      "accounting",
+      "research",
+      "compliance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://taxgpt.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "taxhacker",
+    "name": "TaxHacker",
+    "logo": "/logos/taxhacker.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Self-hosted AI app that analyzes financial documents for small-business bookkeeping",
+    "pricing": "open-source",
+    "tags": [
+      "ai-agent",
+      "accounting",
+      "finance",
+      "bookkeeping",
+      "self-hosted",
+      "llm"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/vas3k/taxhacker",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "teable",
+    "name": "Teable",
+    "logo": "/logos/teable.png",
+    "company": "Teable",
+    "category": "business-data",
+    "subcategory": "no-code-databases",
+    "shortDescription": "AI-native spreadsheet database on PostgreSQL, with AI chat, automations and an app builder.",
+    "pricing": "freemium",
+    "tags": [
+      "spreadsheet",
+      "database",
+      "postgresql",
+      "no-code",
+      "ai-automation",
+      "airtable-alternative",
+      "self-hosted",
+      "app-builder"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://teable.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "teamtailor",
+    "name": "Teamtailor",
+    "logo": "/logos/teamtailor.png",
+    "company": "Teamtailor",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Candidate-first ATS with employer branding, AI Co-pilot and multilingual career sites for 13,000+ companies.",
+    "pricing": "paid",
+    "tags": [
+      "ats",
+      "employer-branding",
+      "ai-co-pilot",
+      "career-sites",
+      "multilingual",
+      "analytics",
+      "triggers",
+      "gdpr"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://teamtailor.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tesorio",
+    "name": "Tesorio",
+    "logo": "/logos/tesorio.png",
+    "company": "Tesorio",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI-driven AR automation and cash flow forecasting — predicts invoice payments and automates collections.",
+    "pricing": "paid",
+    "tags": [
+      "accounts-receivable",
+      "ar-automation",
+      "collections",
+      "cash-flow-forecasting",
+      "dunning",
+      "cash-application",
+      "dso-reduction",
+      "machine-learning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.tesorio.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "testgorilla",
+    "name": "TestGorilla",
+    "logo": "/logos/testgorilla.png",
+    "company": "TestGorilla",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "350+ validated pre-employment tests with AI auto-scoring, anti-cheating, and a free plan.",
+    "pricing": "freemium",
+    "tags": [
+      "assessments",
+      "skills-tests",
+      "cognitive-tests",
+      "personality-tests",
+      "anti-cheating",
+      "ai-scoring",
+      "video-interviews",
+      "free-plan"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.testgorilla.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "thoughtspot-sage",
+    "name": "ThoughtSpot Sage",
+    "logo": "/logos/thoughtspot-sage.png",
+    "company": "ThoughtSpot",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI-powered analytics platform: ask business questions in plain English and get trusted charts and insights.",
+    "pricing": "paid",
+    "tags": [
+      "ai-analyst",
+      "natural-language-query",
+      "bi-platform",
+      "search-analytics",
+      "dashboards",
+      "embedded-analytics",
+      "self-service-bi",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://www.thoughtspot.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "thunderbit",
+    "name": "Thunderbit",
+    "logo": "/logos/thunderbit.png",
+    "company": "Thunderbit",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI web scraper Chrome extension that extracts site data in two clicks.",
+    "pricing": "freemium",
+    "tags": [
+      "web scraping",
+      "data extraction",
+      "lead generation",
+      "no-code",
+      "sales prospecting"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://thunderbit.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tidio",
+    "name": "Tidio",
+    "logo": "/logos/tidio.png",
+    "company": "Tidio",
+    "category": "business-data",
+    "subcategory": "AI Chatbots for Business",
+    "shortDescription": "Customer service platform combining live chat, helpdesk and the Lyro AI agent, which auto-resolves 67% of conversations and drives ecommerce sales.",
+    "pricing": "freemium",
+    "tags": [
+      "live-chat",
+      "ai-chatbot",
+      "ecommerce",
+      "lyro-ai",
+      "helpdesk",
+      "sales-automation",
+      "customer-support",
+      "chatbot-builder"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.tidio.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tiledesk",
+    "name": "Tiledesk",
+    "logo": "/logos/tiledesk.png",
+    "company": "Tiledesk",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Open-source platform to automate customer service with no-code AI agents across web, WhatsApp, email, and voice.",
+    "pricing": "open-source",
+    "tags": [
+      "AI agents",
+      "customer support",
+      "open source",
+      "chatbots",
+      "omnichannel"
+    ],
+    "platforms": [
+      "web",
+      "whatsapp",
+      "api"
+    ],
+    "officialUrl": "https://tiledesk.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tipalti",
+    "name": "Tipalti",
+    "logo": "/logos/tipalti.png",
+    "company": "Tipalti",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI finance automation suite for accounts payable, global mass payments, procurement, expenses, and treasury.",
+    "pricing": "paid",
+    "tags": [
+      "accounts payable",
+      "global payments",
+      "mass payouts",
+      "procurement",
+      "expense management",
+      "treasury",
+      "supplier management",
+      "compliance"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.tipalti.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tomat-ai",
+    "name": "Tomat.AI",
+    "logo": "/logos/tomat-ai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Desktop app that applies AI to spreadsheets and databases row by row.",
+    "pricing": "freemium",
+    "tags": [
+      "data-analysis",
+      "spreadsheets",
+      "ai-enrichment",
+      "csv",
+      "privacy"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://tomat.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "top-producer",
+    "name": "Top Producer",
+    "logo": "/logos/top-producer.png",
+    "company": "Top Producer Systems",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "Veteran real estate CRM with AI-assisted follow-up and automated MLS market reports, deeply integrated with 320+ MLSs.",
+    "pricing": "paid",
+    "tags": [
+      "crm",
+      "mls",
+      "market-reports",
+      "lead-nurturing",
+      "transaction-management",
+      "email-marketing",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.topproducer.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "trademark-owl",
+    "name": "Trademark Owl",
+    "logo": "/logos/trademark-owl.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI trademark availability search with a one-time fee.",
+    "pricing": "paid",
+    "tags": [
+      "trademark",
+      "legal",
+      "brand"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://trademarkowl.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tradeui",
+    "name": "TradeUI",
+    "logo": "/logos/tradeui.png",
+    "company": "Traderead Inc",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI trading signals and market analysis for stocks, forex, and crypto.",
+    "pricing": "freemium",
+    "tags": [
+      "trading",
+      "signals",
+      "stocks",
+      "crypto",
+      "forex"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://tradeui.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tradingagents",
+    "name": "TradingAgents",
+    "logo": "/logos/tradingagents.png",
+    "company": "Tauric Research",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Multi-agent LLM framework that runs a simulated AI trading desk",
+    "pricing": "open-source",
+    "tags": [
+      "ai-agent",
+      "multi-agent",
+      "trading",
+      "finance",
+      "algorithmic-trading",
+      "research"
+    ],
+    "platforms": [
+      "linux",
+      "macos",
+      "api"
+    ],
+    "officialUrl": "https://github.com/tauricresearch/tradingagents",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "truewind",
+    "name": "Truewind",
+    "logo": "/logos/truewind.png",
+    "company": "Truewind",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI-powered digital accountant that automates bookkeeping and month-end close for startups.",
+    "pricing": "paid",
+    "tags": [
+      "accounting",
+      "bookkeeping",
+      "finance",
+      "ai-agents",
+      "startup-finance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.truewind.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "truffle",
+    "name": "Truffle",
+    "logo": "/logos/truffle.png",
+    "company": "Truffle",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI candidate screening combining resume, video interview, and assessments.",
+    "pricing": "paid",
+    "tags": [
+      "screening",
+      "video interviews",
+      "assessments",
+      "resume parsing",
+      "recruiting"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://hiretruffle.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "turbodoc",
+    "name": "TurboDoc",
+    "logo": "/logos/turbodoc.png",
+    "company": "TurboDoc",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Template-free AI data extraction from invoices, receipts, and contracts.",
+    "pricing": "freemium",
+    "tags": [
+      "document-processing",
+      "ocr",
+      "invoices",
+      "accounting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://turbodoc.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "twig-ai-support",
+    "name": "Twig",
+    "logo": "/logos/twig-ai-support.png",
+    "company": "Twig",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Autonomous AI support agents that resolve Tier 1 tickets end-to-end inside your helpdesk.",
+    "pricing": "freemium",
+    "tags": [
+      "customer-support",
+      "ai-agents",
+      "ticket-resolution",
+      "helpdesk",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.twig.so",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "undatasio",
+    "name": "UnDatasIO",
+    "logo": "/logos/undatasio.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Document parsing API that turns files into RAG-ready structured data.",
+    "pricing": "paid",
+    "tags": [
+      "document parsing",
+      "ocr",
+      "rag",
+      "structured data",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://undatas.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "unsiloed-ai",
+    "name": "Unsiloed AI",
+    "logo": "/logos/unsiloed-ai.png",
+    "company": "Unsiloed AI",
+    "category": "business-data",
+    "subcategory": "document-processing",
+    "shortDescription": "Document-processing API that turns PDFs, scans, and spreadsheets into structured data for LLMs and AI agents.",
+    "pricing": "paid",
+    "tags": [
+      "document-ai",
+      "pdf-parsing",
+      "ocr",
+      "data-extraction",
+      "rag",
+      "llm-pipelines",
+      "api",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.unsiloed-ai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "unstract",
+    "name": "Unstract",
+    "logo": "/logos/unstract.png",
+    "company": "Zipstack",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "LLM-driven document extraction turning invoices and statements into structured JSON",
+    "pricing": "open-source",
+    "tags": [
+      "ai-agent",
+      "document-extraction",
+      "etl",
+      "data",
+      "api",
+      "agpl"
+    ],
+    "platforms": [
+      "web",
+      "linux",
+      "api"
+    ],
+    "officialUrl": "https://github.com/zipstack/unstract",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "urbiverse",
+    "name": "Urbiverse",
+    "logo": "/logos/urbiverse.png",
+    "company": "SWITCH",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Agent-based simulation environment for testing urban mobility decisions",
+    "pricing": "paid",
+    "tags": [
+      "simulation",
+      "digital twin",
+      "urban mobility",
+      "fleet management",
+      "scenario planning"
+    ],
+    "platforms": [],
+    "officialUrl": "https://getswitch.io/urbiverse",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "urecruits",
+    "name": "uRecruits",
+    "logo": "/logos/urecruits.png",
+    "company": "uRecruits Inc.",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "All-in-one hiring platform with recruiter-controlled AI screening agents.",
+    "pricing": "paid",
+    "tags": [
+      "ATS",
+      "AI agents",
+      "pre-screening",
+      "interview scheduling",
+      "recruiting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://urecruits.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "usermaven",
+    "name": "Usermaven",
+    "logo": "/logos/usermaven.png",
+    "company": "Usermaven",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Privacy-friendly product and web analytics with AI insights.",
+    "pricing": "freemium",
+    "tags": [
+      "product analytics",
+      "web analytics",
+      "attribution",
+      "funnels"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://usermaven.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "validatorai",
+    "name": "ValidatorAI",
+    "logo": "/logos/validatorai.png",
+    "company": "ValidatorAI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Free AI startup idea validator.",
+    "pricing": "free",
+    "tags": [
+      "startup",
+      "idea-validation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://validatorai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "velvet",
+    "name": "Velvet",
+    "logo": "/logos/velvet.png",
+    "company": "Velvet",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI-first data pipeline for LLM applications on PostgreSQL.",
+    "pricing": "free",
+    "tags": [
+      "data-pipeline",
+      "llm-data",
+      "postgresql",
+      "developer-tools"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://usevelvet.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vena",
+    "name": "Vena",
+    "logo": "/logos/vena.png",
+    "company": "Vena Solutions",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Microsoft-native FP&A platform that runs budgeting, forecasting and close inside Excel with a governed OLAP database underneath.",
+    "pricing": "paid",
+    "tags": [
+      "fp&a",
+      "budgeting",
+      "forecasting",
+      "excel",
+      "financial-close",
+      "scenario-modeling",
+      "microsoft-365",
+      "power-bi"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://www.venasolutions.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "venturekit",
+    "name": "Venturekit",
+    "logo": "/logos/venturekit.png",
+    "company": "Venturekit",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI platform that turns a startup idea into a full business plan with financial forecasts, pitch deck, and market research.",
+    "pricing": "freemium",
+    "tags": [
+      "business plan",
+      "startup",
+      "financial forecasts",
+      "pitch deck",
+      "entrepreneur",
+      "market research",
+      "AI assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://venturekit.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "venturusai",
+    "name": "VenturusAI",
+    "logo": "/logos/venturusai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI business idea validator with strategy frameworks.",
+    "pricing": "freemium",
+    "tags": [
+      "idea validation",
+      "startup",
+      "business plan",
+      "swot"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://venturusai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "verifast",
+    "name": "Verifast",
+    "logo": "/logos/verifast.png",
+    "company": "Verifast AI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI chatbot and lead-capture platform for ecommerce stores and WhatsApp.",
+    "pricing": "paid",
+    "tags": [
+      "ecommerce",
+      "chatbot",
+      "lead capture",
+      "WhatsApp",
+      "Shopify"
+    ],
+    "platforms": [
+      "web",
+      "whatsapp"
+    ],
+    "officialUrl": "https://verifast.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vervoe",
+    "name": "Vervoe",
+    "logo": "/logos/vervoe.png",
+    "company": "Vervoe",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI-graded skills assessments built on real job tasks, with conversational chat screening.",
+    "pricing": "paid",
+    "tags": [
+      "skills-assessment",
+      "job-simulations",
+      "ai-grading",
+      "chat-screening",
+      "explainable-ai",
+      "bias-audit",
+      "report-cards",
+      "ats-integration"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://vervoe.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vic-ai",
+    "name": "Vic.ai",
+    "logo": "/logos/vic-ai.png",
+    "company": "Vic.ai",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Autonomous AI platform that processes invoices, routes approvals and executes payments with up to 99% accuracy.",
+    "pricing": "paid",
+    "tags": [
+      "accounts-payable",
+      "invoice-processing",
+      "ap-automation",
+      "autonomous-accounting",
+      "invoice-approval",
+      "spend-analytics",
+      "ai-accounting",
+      "erp-integration"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.vic.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "videovector",
+    "name": "VideoVector",
+    "logo": "/logos/videovector.png",
+    "company": "VectorMethods",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI media intelligence turning video, audio, and image libraries into searchable metadata.",
+    "pricing": "paid",
+    "tags": [
+      "media-intelligence",
+      "video-search",
+      "embeddings",
+      "mcp",
+      "rag"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.vectormethods.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vidur",
+    "name": "VIDUR",
+    "logo": "/logos/vidur.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI research assistant for corporate, tax, and regulatory law with expert-verified answers.",
+    "pricing": "freemium",
+    "tags": [
+      "legal research",
+      "tax research",
+      "chartered accountants",
+      "lawyers",
+      "compliance",
+      "corporate law",
+      "ai assistant"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "whatsapp"
+    ],
+    "officialUrl": "https://vidur.in",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vincent",
+    "name": "Vincent",
+    "logo": "/logos/vincent.png",
+    "company": "vLex",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "vLex's AI legal assistant that researches, analyzes, and drafts from a database of 1B+ legal documents.",
+    "pricing": "paid",
+    "tags": [
+      "legal-research",
+      "ai-assistant",
+      "case-law",
+      "document-analysis",
+      "litigation-intelligence",
+      "citations",
+      "drafting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://vlex.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "virtual-staging-ai",
+    "name": "Virtual Staging AI",
+    "logo": "/logos/virtual-staging-ai.png",
+    "company": "Virtual Staging AI",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "AI virtual staging that furnishes empty rooms in seconds, from $16/month with a free no-signup trial.",
+    "pricing": "freemium",
+    "tags": [
+      "virtual-staging",
+      "furniture-removal",
+      "renovation",
+      "listing-photos",
+      "real-estate-marketing",
+      "ai-rendering",
+      "freemium"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.virtualstagingai.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vizologi",
+    "name": "Vizologi",
+    "logo": "/logos/vizologi.png",
+    "company": "Vizologi",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI tool for business models and market strategy",
+    "pricing": "paid",
+    "tags": [
+      "business models",
+      "strategy",
+      "market analysis"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://vizologi.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vocxai",
+    "name": "VocxAI",
+    "logo": "/logos/vocxai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "product-intelligence",
+    "shortDescription": "Turns scattered customer feedback into ranked feature ideas and ships them with AI agents.",
+    "pricing": "freemium",
+    "tags": [
+      "voice-of-customer",
+      "product-management",
+      "feedback-analysis",
+      "ai-agents",
+      "prd-generation",
+      "crm-integration",
+      "codebase-analysis"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.vocxai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "webbotify",
+    "name": "Webbotify",
+    "logo": "/logos/webbotify.png",
+    "company": "Webbotify",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI chatbot builder with NLP, payments, and human handoff.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "customer support",
+      "conversational AI",
+      "automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.webbotify.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "webscrape-ai",
+    "name": "Webscrape AI",
+    "logo": "/logos/webscrape-ai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "No-code AI web scraper — paste a URL, get structured data.",
+    "pricing": "freemium",
+    "tags": [
+      "web-scraping",
+      "data-extraction",
+      "no-code",
+      "lead-generation",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://webscrapeai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "webwhiz",
+    "name": "WebWhiz",
+    "logo": "/logos/webwhiz.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "No-code AI chatbots trained on your website's content.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbots",
+      "customer-support",
+      "lead-generation",
+      "no-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.webwhiz.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "willo",
+    "name": "Willo",
+    "logo": "/logos/willo.png",
+    "company": "Willo",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Async video interviews and AI screening that surface top candidates with benchmarked evidence.",
+    "pricing": "paid",
+    "tags": [
+      "async-interviews",
+      "video-interviewing",
+      "screening",
+      "ai-scoring",
+      "identity-verification",
+      "high-volume-hiring",
+      "scorecards",
+      "ats-integration"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.willo.video",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wisdomai",
+    "name": "WisdomAI",
+    "logo": "/logos/wisdomai.png",
+    "company": "WisdomAI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Embedded agentic analytics with conversational BI and white-label dashboards.",
+    "pricing": "free",
+    "tags": [
+      "embedded analytics",
+      "business intelligence",
+      "agentic ai",
+      "dashboards"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://wisdomai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wizy-chat",
+    "name": "WizyChat",
+    "logo": "/logos/wizy-chat.png",
+    "company": "WizyChat",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI chatbots for businesses, trained on your own data.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "customer support",
+      "ai assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://wizy.chat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "workable",
+    "name": "Workable",
+    "logo": "/logos/workable.png",
+    "company": "Workable",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI-powered ATS with agentic sourcing, screening and engagement agents built on 400M+ candidate profiles.",
+    "pricing": "paid",
+    "tags": [
+      "ats",
+      "ai-sourcing",
+      "recruiting-agents",
+      "talent-crm",
+      "job-boards",
+      "interview-scheduling",
+      "offer-management",
+      "hr-platform"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome-extension",
+      "api"
+    ],
+    "officialUrl": "https://www.workable.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "workday-contract-intelligence",
+    "name": "Workday Contract Intelligence",
+    "logo": "/logos/workday-contract-intelligence.png",
+    "company": "Workday",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI contract intelligence platform, now sold as Workday Contract Intelligence post-acquisition.",
+    "pricing": "paid",
+    "tags": [
+      "contract-ai",
+      "clm",
+      "contract-intelligence",
+      "obligation-tracking",
+      "renewal-management",
+      "workday",
+      "enterprise",
+      "legal-tech",
+      "evisort"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://evisort.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "workday-recruiting",
+    "name": "Workday Recruiting",
+    "logo": "/logos/workday-recruiting.png",
+    "company": "Workday",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Enterprise talent acquisition suite unified with Workday HCM, from sourcing to hire.",
+    "pricing": "paid",
+    "tags": [
+      "ats",
+      "talent acquisition",
+      "hcm",
+      "candidate management",
+      "job posting",
+      "interview management",
+      "recruiting analytics",
+      "enterprise hr"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.workday.com/en-us/products/talent-management/talent-acquisition.html",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "xavier-ai",
+    "name": "Xavier AI",
+    "logo": "/logos/xavier-ai.png",
+    "company": "Xavier AI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI strategy consultant for competitor analysis, market sizing, and financial modeling.",
+    "pricing": "freemium",
+    "tags": [
+      "strategy",
+      "consulting",
+      "competitor-analysis",
+      "market-research",
+      "ai"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.xavier.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "xero",
+    "name": "Xero",
+    "logo": "/logos/xero.png",
+    "company": "Xero Limited",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Cloud accounting platform with JAX, its AI accounting assistant.",
+    "pricing": "paid",
+    "tags": [
+      "accounting",
+      "bookkeeping",
+      "invoicing",
+      "AI assistant",
+      "small business"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://xero.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "xylo-ai",
+    "name": "Xylo AI",
+    "logo": "/logos/xylo-ai.png",
+    "company": "Xylo AI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI that reads client communications to predict churn and measure relationship health.",
+    "pricing": "paid",
+    "tags": [
+      "churn prediction",
+      "sentiment analysis",
+      "customer success"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://xylo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ylopo",
+    "name": "Ylopo",
+    "logo": "/logos/ylopo.png",
+    "company": "Ylopo",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "AI marketing platform whose voice AI calls leads, qualifies them, and transfers hot prospects to agents live.",
+    "pricing": "paid",
+    "tags": [
+      "voice-ai",
+      "lead-generation",
+      "remarketing",
+      "ai-texting",
+      "appointment-setting",
+      "paid-ads",
+      "automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.ylopo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "yorph-ai",
+    "name": "Yorph AI",
+    "logo": "/logos/yorph-ai.png",
+    "company": "Yorph AI",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Agentic data engineering platform for no-code analytics pipelines.",
+    "pricing": "freemium",
+    "tags": [
+      "data engineering",
+      "analytics",
+      "agentic ai",
+      "no code"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://yorph.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zefi-ai",
+    "name": "Zefi AI",
+    "logo": "/logos/zefi-ai.png",
+    "company": "ZEFI S.R.L.",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI-powered customer feedback analytics platform that turns scattered feedback into prioritized product insights",
+    "pricing": "freemium",
+    "tags": [
+      "customer feedback",
+      "voice of customer",
+      "sentiment analysis",
+      "product insights",
+      "CX analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://zefi.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zeni",
+    "name": "Zeni",
+    "logo": "/logos/zeni.png",
+    "company": "Zeni Inc.",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI bookkeeping platform with a dedicated finance team covering daily books, bill pay, payroll, taxes and fractional CFO services.",
+    "pricing": "paid",
+    "tags": [
+      "bookkeeping",
+      "ai-accounting",
+      "bill-pay",
+      "payroll",
+      "tax-services",
+      "fractional-cfo",
+      "startups",
+      "finance-team"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.zeni.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zerve-ai",
+    "name": "Zerve AI",
+    "logo": "/logos/zerve-ai.png",
+    "company": "Zerve",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Collaborative data science platform with notebooks, pipelines, and AI assistance.",
+    "pricing": "freemium",
+    "tags": [
+      "data-science",
+      "notebooks",
+      "collaboration",
+      "analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://zerve.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zoho-analytics",
+    "name": "Zoho Analytics",
+    "logo": "/logos/zoho-analytics.png",
+    "company": "Zoho Corporation",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Affordable self-service BI with Zia AI: ask questions in plain language and auto-build dashboards.",
+    "pricing": "freemium",
+    "tags": [
+      "bi-platform",
+      "dashboards",
+      "zia-ai",
+      "data-visualization",
+      "self-service-bi",
+      "reporting",
+      "data-integration",
+      "zoho-ecosystem"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://www.zoho.com/analytics",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zoho-recruit",
+    "name": "Zoho Recruit",
+    "logo": "/logos/zoho-recruit.png",
+    "company": "Zoho",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Affordable cloud ATS + recruitment CRM with Zia AI, 200+ integrations and mobile apps from $25/user/mo.",
+    "pricing": "freemium",
+    "tags": [
+      "ats",
+      "recruiting-crm",
+      "zia-ai",
+      "staffing-agencies",
+      "automation",
+      "career-pages",
+      "e-signatures",
+      "zoho-ecosystem"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.zoho.com/recruit",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zola-analytics",
+    "name": "Zola Analytics",
+    "logo": "/logos/zola-analytics.png",
+    "company": "Zola Analytics Ltd",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI-powered business analytics platform with forecasts and plain-language insights",
+    "pricing": "paid",
+    "tags": [
+      "analytics",
+      "business-intelligence",
+      "forecasting",
+      "finance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.zolaanalytics.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zoodata",
+    "name": "ZooData",
+    "logo": "/logos/zoodata.png",
+    "company": "SerendipityOne Inc",
+    "category": "business-data",
+    "subcategory": "E-commerce Data API",
+    "shortDescription": "Agent-native commerce data API giving AI agents structured Amazon and TikTok Shop data — clean JSON, real-time signals.",
+    "pricing": "freemium",
+    "tags": [
+      "api",
+      "ecommerce",
+      "amazon",
+      "ai-agents",
+      "market-intelligence",
+      "competitor-analysis",
+      "mcp",
+      "data-infrastructure"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://zoodata.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zuma",
+    "name": "Zuma",
+    "logo": "/logos/zuma.png",
+    "company": "Zuma",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "AI assistant 'Kelsey' that covers the full resident lifecycle: leasing, rent collections, and property calls.",
+    "pricing": "paid",
+    "tags": [
+      "leasing",
+      "collections",
+      "voice-ai",
+      "property-management",
+      "multifamily",
+      "automation",
+      "lead-conversion",
+      "resident-communication"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.getzuma.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zurple",
+    "name": "Zurple",
+    "logo": "/logos/zurple.png",
+    "company": "Zurple",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "Lead generation and nurturing software that converts online leads on autopilot with behavior-triggered follow-up.",
+    "pricing": "paid",
+    "tags": [
+      "lead-generation",
+      "lead-nurturing",
+      "automation",
+      "landing-pages",
+      "lead-scoring",
+      "email-marketing",
+      "behavior-tracking"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.zurple.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "0cody",
+    "name": "0Cody",
+    "logo": "/logos/0cody.png",
+    "company": "0Cody",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Real-time AI coding partner with screen sharing and live collaboration",
+    "pricing": "freemium",
+    "tags": [
+      "coding-assistant",
+      "pair-programming",
+      "collaboration",
+      "debugging"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://0cody.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "10web",
+    "name": "10Web",
+    "logo": "/logos/10web.png",
+    "company": "10Web",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "Agentic AI builder that generates real WordPress sites — prompt in, production-ready site out.",
+    "pricing": "paid",
+    "tags": [
+      "ai-website-builder",
+      "wordpress",
+      "woocommerce",
+      "elementor",
+      "agencies",
+      "seo",
+      "hosting",
+      "ecommerce"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://10web.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "a0-dev",
+    "name": "A0.dev",
+    "logo": "/logos/a0-dev.png",
+    "company": "A0.dev",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Turn prompts into React and React Native UI code for web and mobile apps.",
+    "pricing": "paid",
+    "tags": [
+      "code generation",
+      "react",
+      "react native",
+      "ui",
+      "tailwind",
+      "prototyping",
+      "mobile apps"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://a0.dev",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "abliteration",
+    "name": "Abliteration",
+    "logo": "/logos/abliteration.png",
+    "company": "Abliteration AI, Inc.",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Unrestricted LLM API with a policy gateway, from $20 per month.",
+    "pricing": "freemium",
+    "tags": [
+      "llm api",
+      "unrestricted",
+      "open models",
+      "developers",
+      "policy gateway"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://abliteration.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "accelq",
+    "name": "ACCELQ",
+    "logo": "/logos/accelq.png",
+    "company": "ACCELQ",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Fully codeless, AI-native enterprise QA platform unifying web, mobile, API, desktop, and packaged-app testing.",
+    "pricing": "freemium",
+    "tags": [
+      "codeless testing",
+      "test automation",
+      "enterprise qa",
+      "ai testing",
+      "salesforce testing",
+      "api testing",
+      "mobile testing",
+      "test management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.accelq.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "acebuilder",
+    "name": "Acebuilder",
+    "logo": "/logos/acebuilder.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "Chat-driven AI builder that creates landing pages from the real Aceternity UI template library.",
+    "pricing": "freemium",
+    "tags": [
+      "landing-pages",
+      "ai-builder",
+      "aceternity-ui",
+      "templates",
+      "code-export",
+      "nextjs",
+      "design",
+      "no-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://acebuilder.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "adal",
+    "name": "AdaL",
+    "logo": "/logos/adal.png",
+    "company": "SylphAI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Self-evolving coding agent by SylphAI that adapts to your codebase's patterns.",
+    "pricing": "freemium",
+    "tags": [
+      "coding-agent",
+      "cli",
+      "self-evolving",
+      "multi-model",
+      "mcp"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux",
+      "web"
+    ],
+    "officialUrl": "https://sylph.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "adps-ai",
+    "name": "Adps AI",
+    "logo": "/logos/adps-ai.png",
+    "company": "Adps AI",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Autonomous AI SRE platform for incident detection and remediation.",
+    "pricing": "paid",
+    "tags": [
+      "SRE",
+      "incident response",
+      "DevOps",
+      "Kubernetes",
+      "observability"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.adps.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "aepto",
+    "name": "Aepto",
+    "logo": "/logos/aepto.png",
+    "company": "Limitless Hosting Ltd",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI domain monitoring across registrars, hosting, DNS and email.",
+    "pricing": "freemium",
+    "tags": [
+      "domains",
+      "monitoring",
+      "dns",
+      "uptime",
+      "devops"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://aepto.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ag2",
+    "name": "AG2",
+    "logo": "/logos/ag2.png",
+    "company": "ag2ai",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Community continuation of AutoGen: open-source AgentOS for multi-agent AI systems.",
+    "pricing": "open-source",
+    "tags": [
+      "multi-agent",
+      "autogen",
+      "framework",
+      "open-source"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/ag2ai/ag2",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "agent37",
+    "name": "Agent 37 Cloud",
+    "logo": "/logos/agent37.png",
+    "company": "Agent37",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Managed hosting giving every customer their own always-on agent in a persistent sandbox.",
+    "pricing": "paid",
+    "tags": [
+      "ai-agents",
+      "hosting",
+      "sandbox",
+      "devops",
+      "hermes",
+      "openclaw",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://agent37.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "agentdock",
+    "name": "AgentDock",
+    "logo": "/logos/agentdock.png",
+    "company": "AgentDock",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source framework for building and deploying production-ready AI agents.",
+    "pricing": "open-source",
+    "tags": [
+      "open-source",
+      "ai-agents",
+      "framework",
+      "github",
+      "workflows"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/AgentDock/AgentDock",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "agentscope",
+    "name": "AgentScope",
+    "logo": "/logos/agentscope.png",
+    "company": "Alibaba DAMO Academy",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Alibaba DAMO Academy's open-source multi-agent platform with actor-based distribution.",
+    "pricing": "open-source",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "python",
+      "distributed",
+      "workstation"
+    ],
+    "platforms": [
+      "web",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "officialUrl": "https://github.com/modelscope/agentscope",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "agentskit-js",
+    "name": "AgentsKit.js",
+    "logo": "/logos/agentskit-js.png",
+    "company": "AgentsKit",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source composable toolkit for building AI agents in JavaScript.",
+    "pricing": "open-source",
+    "tags": [
+      "ai-agents",
+      "javascript",
+      "typescript",
+      "open-source",
+      "agent-framework",
+      "rag",
+      "mcp",
+      "sdk"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://www.agentskit.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "agno",
+    "name": "Agno",
+    "logo": "/logos/agno.png",
+    "company": "agno-agi",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Lightweight high-performance framework for multi-modal agents with native memory.",
+    "pricing": "open-source",
+    "tags": [
+      "agent-framework",
+      "multi-modal",
+      "memory",
+      "open-source"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/agno-agi/agno",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "aiml-api",
+    "name": "AI/ML API",
+    "logo": "/logos/aiml-api.png",
+    "company": "AI/ML API",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "One API for 1,000+ AI models across chat, image, video, and audio, with OpenAI-compatible integration.",
+    "pricing": "freemium",
+    "tags": [
+      "model-gateway",
+      "unified-api",
+      "multimodal",
+      "playground",
+      "openai-compatible",
+      "pay-as-you-go",
+      "crypto",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://aimlapi.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "aider",
+    "name": "Aider",
+    "logo": "/logos/aider.png",
+    "company": "Paul Gauthier / Aider-AI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI pair-programming in your terminal that edits whole repos from chat prompts.",
+    "pricing": "open-source",
+    "tags": [
+      "ai-coding",
+      "pair-programming",
+      "cli",
+      "git"
+    ],
+    "platforms": [
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "officialUrl": "https://aider.chat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "alloy",
+    "name": "Alloy",
+    "logo": "/logos/alloy.png",
+    "company": "Alloy",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI prototyping tool that captures your live web app and generates lifelike, editable prototypes.",
+    "pricing": "freemium",
+    "tags": [
+      "prototyping",
+      "React",
+      "UI design",
+      "AI coding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://alloy.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "amazon-q-developer",
+    "name": "Amazon Q Developer",
+    "logo": "/logos/amazon-q-developer.png",
+    "company": "Amazon Web Services",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AWS's AI coding assistant for building, testing, and operating software in the cloud.",
+    "pricing": "freemium",
+    "tags": [
+      "coding",
+      "aws",
+      "developer",
+      "code assistant",
+      "debugging"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://aws.amazon.com/q/developer",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "amp",
+    "name": "Amp",
+    "logo": "/logos/amp.png",
+    "company": "Amp Frontier",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Agentic coding environment from Sourcegraph: coding agent across CLI, web, and mobile.",
+    "pricing": "freemium",
+    "tags": [
+      "coding-agent",
+      "ai-agent",
+      "developer-tools",
+      "cli",
+      "sourcegraph"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "ios"
+    ],
+    "officialUrl": "https://ampcode.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "anyapi",
+    "name": "AnyAPI",
+    "logo": "/logos/anyapi.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "coding-development",
+    "shortDescription": "Free API discovery tool in beta.",
+    "pricing": "free",
+    "tags": [
+      "api",
+      "developers"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://anyapi.netlify.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "anyscale",
+    "name": "Anyscale",
+    "logo": "/logos/anyscale.png",
+    "company": "Anyscale",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Production-scale AI compute built on Ray, for distributed training, data pipelines, and serving.",
+    "pricing": "freemium",
+    "tags": [
+      "ray",
+      "distributed-training",
+      "data-pipelines",
+      "post-training",
+      "multi-cloud",
+      "batch-inference",
+      "mlops",
+      "compute"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.anyscale.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "anything",
+    "name": "Anything",
+    "logo": "/logos/anything.png",
+    "company": "Anything",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Prompt-to-app builder that ships production web and mobile apps with auth, database, and payments.",
+    "pricing": "freemium",
+    "tags": [
+      "app-builder",
+      "vibe-coding",
+      "no-code",
+      "mobile-apps",
+      "web-apps",
+      "prompt-to-app",
+      "startups"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://createanything.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "apodex",
+    "name": "Apodex",
+    "logo": "/logos/apodex.png",
+    "company": "Apodex AI",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Long-context reasoning AI model for complex professional work, exposed through a first-party API.",
+    "pricing": "paid",
+    "tags": [
+      "llm",
+      "reasoning",
+      "long-context",
+      "api",
+      "ai-agents",
+      "research",
+      "coding"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://www.apodex.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "app0",
+    "name": "App0",
+    "logo": "/logos/app0.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI app builder: from a written idea to a working full-stack app in minutes.",
+    "pricing": "paid",
+    "tags": [
+      "app-builder",
+      "ai-coding",
+      "full-stack",
+      "no-code",
+      "prototyping",
+      "gpt",
+      "claude"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://app0.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "appdeploy",
+    "name": "AppDeploy",
+    "logo": "/logos/appdeploy.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Chat-native app deployment powered by MCP.",
+    "pricing": "free",
+    "tags": [
+      "deployment",
+      "devops",
+      "mcp",
+      "chat-interface"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://appdeploy.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "applitools",
+    "name": "Applitools",
+    "logo": "/logos/applitools.png",
+    "company": "Applitools",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "AI-powered visual testing platform that validates app appearance across every browser, device, and screen size.",
+    "pricing": "paid",
+    "tags": [
+      "visual testing",
+      "visual ai",
+      "regression testing",
+      "cross-browser",
+      "selenium",
+      "playwright",
+      "cypress",
+      "self-healing"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://applitools.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "appwizzy",
+    "name": "AppWizzy",
+    "logo": "/logos/appwizzy.png",
+    "company": "AppWizzy",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI app builder that turns plain-English specs into full-stack apps on real dev VMs.",
+    "pricing": "freemium",
+    "tags": [
+      "vibe-coding",
+      "app-builder",
+      "full-stack",
+      "ai-coding",
+      "no-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://appwizzy.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "aptible",
+    "name": "Aptible",
+    "logo": "/logos/aptible.png",
+    "company": "Aptible",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Compliant container PaaS with automated HIPAA, SOC 2 and HITRUST security controls.",
+    "pricing": "paid",
+    "tags": [
+      "paas",
+      "hipaa",
+      "soc2",
+      "containers",
+      "compliance",
+      "devops",
+      "docker",
+      "healthcare"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.aptible.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "archformation",
+    "name": "ArchFormation",
+    "logo": "/logos/archformation.png",
+    "company": "ArchFormation",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "No-code visual designer for AWS infrastructure that generates Terraform",
+    "pricing": "paid",
+    "tags": [
+      "aws",
+      "terraform",
+      "infrastructure as code",
+      "cloud"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://archformation.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "archyl",
+    "name": "Archyl",
+    "logo": "/logos/archyl.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI-assisted development tool for writing and reviewing code faster.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-coding",
+      "code-review",
+      "developer-tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://archyl.com",
+    "affiliateUrl": null
+  }
+]

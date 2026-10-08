@@ -1,0 +1,1636 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk37: Partial<Record<ToolSlug, ToolDetail>> = {
+  "picsart-ai": {
+    "verdict": "All-in-one AI creative platform for photo, video and design with huge template library",
+    "overview": [
+      "Picsart is an all-in-one creative platform with a large user community, combining AI photo editing, video tools, stickers, templates and a stock library. AI features include background and object removal, image generation, AI enhance and style transfer. Free tier available; Pro starts at $10.50/month billed yearly."
+    ],
+    "features": [
+      "AI background and object removal",
+      "AI image generator",
+      "AI Enhance (sharpen, denoise)",
+      "AI style transfer and sketch",
+      "AI background generator",
+      "Bulk edit up to 50 images",
+      "Templates, stickers and fonts library",
+      "Developer API and SDKs"
+    ],
+    "pros": [
+      "Huge creative community and template library",
+      "Both photo and video AI tools in one subscription",
+      "Developer API and SDKs for embedding",
+      "Free tier with daily AI credits"
+    ],
+    "cons": [
+      "Free tier is limited with ads and capped AI credits",
+      "High-resolution editing can be slow or crash",
+      "No native macOS desktop app"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "picsi-ai": {
+    "verdict": "Face-swap studio and AI image platform for consistent-persona creative visuals.",
+    "overview": [
+      "Picsi.AI is an AI creative platform built on InsightFace technology, offering high-quality face swapping, face morphing, aging simulations, and face animation for artists, creators, and marketers. Its PersonaMagic Canvas feature lets users generate entirely new scenes from text prompts and reference photos while keeping a subject's persona consistent across lighting and angles. The platform enforces consent guidelines, prohibiting non-consensual deepfakes and adult content."
+    ],
+    "features": [
+      "State-of-the-art AI face swapping",
+      "PersonaMagic Canvas for consistent-character image generation",
+      "Face morphing, cartoonify, and age simulation",
+      "Short-form face-to-video morphing",
+      "Multi-resolution output up to 4K"
+    ],
+    "pros": [
+      "Strong character consistency across generated scenes",
+      "Free tier with higher-limit paid options"
+    ],
+    "cons": [
+      "Face-swap tools carry misuse risk despite ethical guidelines",
+      "Web-only, no mobile app"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "picwish": {
+    "verdict": "All-in-one AI photo editor: background removal, unblur, batch enhance",
+    "overview": [
+      "PicWish is an all-in-one AI photo editor with background removal, photo enhancement, object removal, image generation and an AI Designer that edits via chat. It supports batch processing up to 100 images on desktop and runs on web, desktop and mobile. Free tier covers basic use; Pro from $9.99/month."
+    ],
+    "features": [
+      "AI background remover",
+      "Photo enhancer and unblur",
+      "Object removal",
+      "AI image generator (GPT Image 2.0)",
+      "AI Designer (chat-based editing)",
+      "Batch processing up to 100 images",
+      "Photo colorization and restoration",
+      "Developer API"
+    ],
+    "pros": [
+      "Broad toolset in one editor",
+      "Batch processing on desktop",
+      "Apps across all platforms plus API",
+      "Free tier with daily limits"
+    ],
+    "cons": [
+      "HD downloads require Pro",
+      "Credit-based usage on top of plans",
+      "Results quality varies by tool"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "piktochart-ai": {
+    "verdict": "AI design tool that turns text prompts into infographics, presentations, and visuals.",
+    "overview": [
+      "Piktochart AI generates infographics, reports, banners, and presentations from a simple text prompt, applying your brand's fonts and colors automatically. It suits marketers and teams that need polished visuals without design skills. The free plan includes monthly AI credits, with Pro plans around $14 to $29 per month."
+    ],
+    "features": [
+      "Text-to-infographic generation",
+      "AI presentations and reports",
+      "Brand kit auto-application",
+      "Template library"
+    ],
+    "pros": [
+      "Professional-looking output from plain text",
+      "Brand consistency built in"
+    ],
+    "cons": [
+      "Free AI credits are limited each month",
+      "Less flexible than full design software"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pikzels": {
+    "verdict": "AI thumbnail maker for YouTube creators.",
+    "overview": [
+      "Pikzels is an AI-powered thumbnail maker built specifically for YouTube creators. It generates click-worthy thumbnails from prompts and templates, aimed at improving click-through rates. Operated by Pikzels Ltd, it is a paid product with plans roughly between $14 and $30 per month and no free plan."
+    ],
+    "features": [
+      "AI thumbnail generation",
+      "YouTube-focused templates",
+      "Prompt-based design"
+    ],
+    "pros": [
+      "Purpose-built for YouTube thumbnails",
+      "Fast way to produce CTR-focused designs"
+    ],
+    "cons": [
+      "No free plan",
+      "Niche scope outside thumbnails"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixalice": {
+    "verdict": "Multi-model AI image and video studio with 70+ style presets and 4K-ready outputs from text prompts or images.",
+    "overview": [
+      "Pixalice is a multi-model AI image and video studio that puts several leading generators behind one prompt box. You pick a model, write a prompt, and get polished visuals in seconds, with 70+ curated style presets, image-to-image editing, and 4K-ready outputs. It also generates short AI videos from text or a reference image, making it a compact creative suite for creators and marketers."
+    ],
+    "features": [
+      "Text-to-image generation across multiple AI models",
+      "Image-to-image generation and built-in AI editing tools",
+      "AI video generation from text or a reference image",
+      "70+ curated style presets",
+      "Side-by-side model comparison to refine results",
+      "4K-ready high-resolution outputs",
+      "Guided studio workflow for marketing visuals, thumbnails, product shots",
+      "Free starter credits for new users"
+    ],
+    "pros": [
+      "Many leading image and video models under one subscription",
+      "Fast draft-to-4K rendering with an extensive style library",
+      "Free credits let you test before buying a plan",
+      "Guided studio flow is friendly for non-designers"
+    ],
+    "cons": [
+      "No free tier — paid credits required from the start",
+      "No mobile app available",
+      "Pricing structure reported as confusing in directory reviews"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixamotion": {
+    "verdict": "AI photo animator that brings still images to life.",
+    "overview": [
+      "PixaMotion is a photo animation app from Imagix AI that brings still photos to life with AI motion effects. Users can add flowing water, drifting clouds, and other animated elements to ordinary images. It follows a freemium model with paid upgrades."
+    ],
+    "features": [
+      "AI photo-to-motion animation",
+      "Animated effects like water and clouds",
+      "Freemium model"
+    ],
+    "pros": [
+      "Turns static photos into living images",
+      "Easy to use"
+    ],
+    "cons": [
+      "Smaller app with limited reviews",
+      "Watermarking or limits on free tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixel-dojo": {
+    "verdict": "AI image generation and editing studio with character training and video tools.",
+    "overview": [
+      "Pixel Dojo is a web-based creative studio offering AI image generation, editing, and character model training in one place. Users can generate images from text, train custom characters or styles, and produce short videos from their creations. It targets hobbyists and creators who want one subscription instead of juggling several tools. Plans start around $8 per month, with a free trial that includes a small credit allotment."
+    ],
+    "features": [
+      "Text-to-image generation",
+      "Custom character and style training",
+      "Image editing tools",
+      "Text-to-video"
+    ],
+    "pros": [
+      "Affordable entry plans",
+      "Character consistency tools",
+      "All-in-one creative suite"
+    ],
+    "cons": [
+      "No free tier beyond trial credits",
+      "Quality varies by model used"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixela-ai": {
+    "verdict": "Free AI image generation platform.",
+    "overview": [
+      "Pixela.ai is a free AI image generation site offering text-to-image creation in the browser. It provides a straightforward prompt interface with style options. The service is aimed at casual creators who want quick visuals without cost."
+    ],
+    "features": [
+      "Text-to-image generation",
+      "Style options",
+      "Free access",
+      "Browser-based"
+    ],
+    "pros": [
+      "Free to use",
+      "Simple interface",
+      "Quick results"
+    ],
+    "cons": [
+      "Quality below premium tools",
+      "Limited advanced controls"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixelcrew": {
+    "verdict": "Crew of specialized AI agents that turns a written brief into production-quality design.",
+    "overview": [
+      "PixelCrew is an alpha design platform where a crew of specialized AI agents works a brief like a real agency: Elena researches and maps the audience, Marcus pitches three visual directions and writes the creative brief, Mira builds wireframes, and the crew finishes with copy, a design system, and QA. Every stage produces reviewable artifacts, and the final output is production-ready HTML with Tailwind and a complete design system. It runs on your own OpenRouter, Anthropic, or Gemini API key."
+    ],
+    "features": [
+      "Multi-agent pipeline: research, creative direction, wireframes, copy, design system, QA",
+      "Three visual pitches per brief, agency-style",
+      "Production HTML + Tailwind with a complete design system",
+      "Every stage produces reviewable artifacts",
+      "Watch agents discuss decisions while it runs",
+      "Bring your own API key: OpenRouter, Anthropic, or Gemini",
+      "Free in alpha; a few dollars per brief in model costs"
+    ],
+    "pros": [
+      "Real design process with handoffs instead of one-shot mockups",
+      "Transparent pipeline: see which decision went wrong and where",
+      "No subscription markup; you pay only model costs"
+    ],
+    "cons": [
+      "Alpha: expect rough edges",
+      "25-45 minutes per brief is slow for quick iterations"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixelcut": {
+    "verdict": "AI photo studio for e-commerce: background removal, product photos and upscaling",
+    "overview": [
+      "Pixelcut is an AI photo studio aimed at sellers and creators, focused on product imagery. It offers one-click background removal, AI-generated product backgrounds, generative retouching, and upscaling up to 16x. Free tier covers limited use; Pro from $10/month adds unlimited removals and batch exports."
+    ],
+    "features": [
+      "Ultra-high-quality background removal",
+      "AI background generator",
+      "Upscaling up to 16x",
+      "Generative retouch and expand",
+      "AI product photos with brand consistency",
+      "Smart crop and resize for marketplaces",
+      "Batch editing and exports",
+      "Developer API"
+    ],
+    "pros": [
+      "Purpose-built for e-commerce product photos",
+      "Unlimited background removal on paid plans",
+      "Upscaling up to 16x with Topaz models",
+      "API and batch workflows for sellers"
+    ],
+    "cons": [
+      "Free tier is limited with daily credit caps",
+      "Narrow focus — not a general photo editor",
+      "Team features only on higher tiers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixelicious": {
+    "verdict": "Free AI image product.",
+    "overview": [
+      "Pixelicious is a live AI image product at pixelicious.xyz offered free. Public details on its feature set are limited."
+    ],
+    "features": [],
+    "pros": [
+      "Free"
+    ],
+    "cons": [
+      "Limited public information"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixelpanda": {
+    "verdict": "AI product photography studio that turns one photo into listing images, virtual try-ons, and UGC video ads.",
+    "overview": [
+      "PixelPanda replaces the product photoshoot for e-commerce sellers: upload a single product photo or paste a product URL and it generates studio and lifestyle shots, multi-view collections, virtual try-on with 111 AI actors, and lip-synced UGC video ads with auto-written scripts. It also ships free static ad creatives for eight social platforms and a REST API with batch jobs. Free tools and watermarked trial; subscriptions from $7/month."
+    ],
+    "features": [
+      "One-photo AI product photography in studio, lifestyle, and multi-view scenes",
+      "111 ready-made AI actors plus custom avatar builder for virtual try-on",
+      "UGC video ads: auto-written scripts with lip-synced talking-head avatars",
+      "Free static ad creatives laid out for 8 platforms (Instagram, TikTok, Facebook, LinkedIn, X, Pinterest, YouTube, Snapchat)",
+      "URL-to-Ad-Pack: one product link becomes images, clips, a UGC video, ads, and captions",
+      "Image tools: 2x/4x/8x upscale, background removal, text removal, AI enhance",
+      "Direct publishing to Shopify, WooCommerce, Etsy, eBay, and more",
+      "REST API with batch jobs and webhooks, Python SDK, MCP server, Zapier app"
+    ],
+    "pros": [
+      "Full ad stack in one purchase: photos, UGC videos, and free static creatives",
+      "Credits roll over and never expire, even after canceling"
+    ],
+    "cons": [
+      "Fewer avatars than competitors like HeyGen; no voice cloning",
+      "Video generation runs on credits, so heavy video users need a higher plan"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pixlr-ai": {
+    "verdict": "Browser-based AI photo editor with generative fill, background removal and upscaling",
+    "overview": [
+      "Pixlr is a browser-first photo editing suite blending classic layer-based editing with a full set of AI tools. It runs entirely online with no install, across web and mobile apps. Paid tiers unlock more AI credits, premium assets and an ad-free workspace."
+    ],
+    "features": [
+      "AI background removal",
+      "AI object removal",
+      "AI generative fill",
+      "AI image expand (outpainting)",
+      "AI Super Scale upscaling up to 25MP",
+      "AI image generator (Flux, Recraft)",
+      "AI face swap",
+      "AI denoise and super sharp"
+    ],
+    "pros": [
+      "Full-featured editor free in the browser with no install",
+      "Wide AI toolkit powered by top models like Flux and Kling",
+      "Cheap entry tier from $1.99/month",
+      "Apps for web, iOS and Android"
+    ],
+    "cons": [
+      "Free tier is ad-supported with limited saves",
+      "Heavy AI use requires paid credits",
+      "No named-source public rating to verify"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "planner-5d": {
+    "verdict": "Drag-and-drop home design app that turns 2D floor plans into interactive 3D rooms with photorealistic renders.",
+    "overview": [
+      "Planner 5D is a cross-platform home and interior design tool that lets anyone draw floor plans and furnish rooms in 2D or 3D without CAD skills. Its catalog of 10,000+ furniture items, AI floor-plan recognition, and built-in AI Studio turn sketches, photos, or uploaded plans into styled rooms and photorealistic 4K renders. A free plan covers core designing, while Premium and Professional tiers unlock the full catalog, AI tools, and client-ready exports."
+    ],
+    "features": [
+      "2D/3D floor plan editor with drag-and-drop furniture",
+      "10,000+ item furniture and decor catalog",
+      "AI floor plan recognition turns uploaded plans into 3D",
+      "AI Studio with Nano Banana, GPT Image and Seedream models",
+      "Photorealistic 4K renders and standard renders",
+      "360° panoramas and immersive walkthroughs",
+      "Real-time collaboration with view/edit access",
+      "CAD export and Specs & Docs Organizer (Professional)"
+    ],
+    "pros": [
+      "Very easy to learn — reviewers praise intuitive drag-and-drop and rapid 2D/3D visualization",
+      "Generous free tier with unlimited projects across web and mobile",
+      "Huge 10K+ furniture catalog plus AI tools for plan recognition and styling",
+      "120M+ users with an active community, design battles, and tutorials"
+    ],
+    "cons": [
+      "Many advanced features and catalog items are locked behind paid plans",
+      "Free renders are limited in quality and quantity compared to the Professional tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "playbook-ai": {
+    "verdict": "AI media management platform that auto-tags, searches, and organizes creative assets.",
+    "overview": [
+      "Playbook is an AI-powered media management platform for creative teams. Instead of folders and filenames, it automatically tags every uploaded image, video, 3D model, or PDF by subject, mood, brand elements, and more, and lets you search the library by describing what you need. Chained AI actions can copy, crop, or share assets from a single prompt, an MCP server lets AI assistants like Claude search and organize the library directly, and built-in review tools support frame-accurate comments, approvals, and version history."
+    ],
+    "features": [
+      "AI auto-tagging of images, videos, 3D models, and PDFs",
+      "Conversational search by visual description",
+      "Chained AI actions (copy, crop, share) from a single prompt",
+      "MCP server for AI-agent integration",
+      "Review and approval workflows with frame-accurate comments",
+      "Version history and secure share links",
+      "Enterprise controls: SSO, SCIM, audit trails"
+    ],
+    "pros": [
+      "Powerful AI search and auto-tagging for large asset libraries",
+      "MCP integration lets agents work in the library",
+      "Generous free plan at $0 for small teams"
+    ],
+    "cons": [
+      "Free plan limited to 100GB storage or 300 assets",
+      "Paid tiers are per member, which adds up for larger teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "playground": {
+    "verdict": "Accessible AI image studio for generating and editing artwork from text prompts.",
+    "overview": [
+      "Playground is an accessible AI image studio for creating and editing artwork from text prompts. A free tier makes it easy to start experimenting, while paid plans unlock higher-quality models and more generations. It suits designers, marketers, and hobbyists who want a friendly canvas for AI visuals."
+    ],
+    "features": [
+      "Text-to-image generation",
+      "Image editing tools",
+      "Style templates",
+      "Free tier"
+    ],
+    "pros": [
+      "Easy entry with free tier",
+      "Beginner-friendly studio"
+    ],
+    "cons": [
+      "Advanced features need a paid plan",
+      "Generation queues at peak times"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "playtex-ai": {
+    "verdict": "Browser-based tool that generates seamless textures and full 7-channel PBR material maps from text or images.",
+    "overview": [
+      "PLAYTEX AI is a browser-based creation system for game developers and 3D artists: it generates seamless textures from a text prompt, converts photos or screenshots into repeatable tileable surfaces, and derives seven aligned PBR maps (albedo, normal, roughness, metallic, height, AO, emission). It also builds 360-degree HDRI environments and exports for Roblox, Unity, Unreal Engine, Minecraft, and Blender. Free to start; paid plans from $9/month."
+    ],
+    "features": [
+      "AI texture generator from text descriptions",
+      "Image-to-texture: convert photos or screenshots into repeating surfaces",
+      "Seven aligned PBR channels: albedo, normal, roughness, metallic, height, AO, emission",
+      "360-degree HDRI sphere/environment generator",
+      "Game-ready exports for Roblox, Minecraft, Unity, Unreal Engine, Blender",
+      "World builder to assemble assets into editable 3D worlds",
+      "Community texture library for download",
+      "7-day money-back guarantee on paid plans"
+    ],
+    "pros": [
+      "Generates a complete aligned PBR map stack in seconds, not just diffuse textures",
+      "Purpose-built exports for engines and games (LabPBR, MER Texture Sets, SurfaceAppearance presets)"
+    ],
+    "cons": [
+      "AI creation requires a paid plan; free tier is limited",
+      "Map estimates need review in the target shader before shipping"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "plurana": {
+    "verdict": "Generative AI design tool for creating vector graphics, logos, and illustrations",
+    "overview": [
+      "Plurana is a generative design platform from the Netherlands that creates vector graphics with AI. It produces logos, illustrations, and design assets in editable vector format, giving designers and marketers a fast starting point that stays scalable for print and digital use."
+    ],
+    "features": [
+      "AI vector graphic generation",
+      "Logo and illustration creation",
+      "Editable SVG output",
+      "Design style customization"
+    ],
+    "pros": [
+      "True vector output, not just raster images",
+      "Fast starting point for brand assets"
+    ],
+    "cons": [
+      "AI output still needs designer polish",
+      "Pricing details not widely published"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "plusvector": {
+    "verdict": "AI vector illustration engine that turns text prompts into editable SVG graphics.",
+    "overview": [
+      "PlusVector is an AI vector illustration engine that turns plain-text prompts into custom, scalable vector graphics. It produces crisp, resolution-independent artwork suited to logos, icons, and illustrations, with built-in editing tools for adjusting colors, shapes, and sizes before export. Creations download as SVG or PNG, generated work is cleared for personal and commercial use, and subscribers get access to a community library of previously generated vectors plus monthly generation credits."
+    ],
+    "features": [
+      "Prompt-to-SVG vector generation with transparency",
+      "Built-in editor for colors, shapes, and sizes",
+      "SVG and PNG export",
+      "Community vector library of previously generated artwork",
+      "Commercial-use license on generated graphics",
+      "Rollover monthly generation credits"
+    ],
+    "pros": [
+      "True vector output that scales cleanly for print and web",
+      "Commercial license included, no attribution required",
+      "Community library offers ready-made starting points"
+    ],
+    "cons": [
+      "Paid-only with no free tier, so testing requires a subscription",
+      "AI output quality varies with prompt detail and may need editing",
+      "Niche focus on vectors means it cannot replace a full design suite"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "polycam": {
+    "verdict": "3D scanning app for iPhone, Android, and web.",
+    "overview": [
+      "Polycam turns phone LiDAR scans, photogrammetry, and drone imagery into 3D meshes, point clouds, Gaussian splats, and floor plans, with 34M+ captures created. Scanning is free on iPhone 13 and newer with no LiDAR required; pro exports need paid plans from $150 per year on a freemium model."
+    ],
+    "features": [
+      "LiDAR and photogrammetry capture",
+      "AI floor plan digitizer",
+      "Gaussian splats",
+      "12+ export formats"
+    ],
+    "pros": [
+      "Free capture tier",
+      "Cross-platform"
+    ],
+    "cons": [
+      "Pro exports are paid"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "portrait-pal": {
+    "verdict": "Turn a few selfies into studio-quality professional headshots for LinkedIn and resumes, starting at $35 one-time.",
+    "overview": [
+      "Portrait Pal turns 3–5 casual selfies into studio-quality professional headshots without a photographer. It charges one-time per package rather than a subscription, and positions privacy as its differentiator: uploads are never sold or used for model training, and photos are deleted after processing. Paid packages start at $35 with same-day delivery, and a slower free tier exists for users who cannot afford paid headshots."
+    ],
+    "features": [
+      "AI headshots from 3–5 casual selfies",
+      "High-resolution 800x1024 output",
+      "Style and outfit selection on paid packages",
+      "Batch generation of 20–100 headshots per order",
+      "Same-day delivery on paid plans",
+      "Free watermarked headshot tier",
+      "Automatic photo deletion after processing",
+      "No app download; works in a mobile browser"
+    ],
+    "pros": [
+      "Only needs 3–5 selfies, fewer than many competitors",
+      "Strong privacy story: photos deleted, never used for training",
+      "One-time pricing, no subscription required",
+      "Free tier available for users on a budget"
+    ],
+    "cons": [
+      "Free-tier headshots are watermarked, lower resolution, and built on older models",
+      "No background customization options",
+      "Results can take a few hours to a full day on the free tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "postshot": {
+    "verdict": "Turns photos and video into detailed 3D scenes with radiance field tech.",
+    "overview": [
+      "Postshot by Jawset turns ordinary photos and smartphone video into detailed 3D scenes using radiance field and Gaussian splatting technology. It accepts common formats like JPG, RAW, MOV, and MP4, processes everything locally on the user's computer, and supports unlimited image counts and 4K/8K inputs. A command-line interface and export options make it usable in professional 3D pipelines."
+    ],
+    "features": [
+      "Photo and video to 3D scenes",
+      "Radiance field and Gaussian splatting processing",
+      "Local-only processing, full content ownership",
+      "Unlimited image count and model size",
+      "4K/8K image support",
+      "Image masking and background removal",
+      "Graphical and command-line interfaces",
+      "Model export to third-party viewers"
+    ],
+    "pros": [
+      "No specialized scanning hardware needed",
+      "Keeps content private with local processing",
+      "Handles huge images and unlimited photos",
+      "CLI plus GUI for technical users"
+    ],
+    "cons": [
+      "Desktop app only, no browser version",
+      "Paid product after trial/beta phases",
+      "Quality depends on capture technique and hardware"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "prime-ai": {
+    "verdict": "Neural-network AI suite for fashion e-commerce: size finders, visual search, and auto-generated product descriptions.",
+    "overview": [
+      "Prime AI builds neural-network AI tools for fashion e-commerce: size and fit finders (its tech powers Zyler's size recommendations), visual search, and auto-generated product descriptions. It also offers a product recommendation engine that only surfaces items in stock in the shopper's size. Integration takes as little as two working days on platforms like Shopify."
+    ],
+    "features": [
+      "Size & fit finder",
+      "Visual search",
+      "AI product description generation",
+      "Personalized recommendation engine",
+      "Shoe size finder via camera",
+      "Advanced retail analytics"
+    ],
+    "pros": [
+      "Neural-network approach, not just statistics",
+      "Powers Zyler's size recommendations",
+      "Fast two-day integration"
+    ],
+    "cons": [
+      "Small vendor — limited brand recognition",
+      "Pricing not public",
+      "Broad toolset, narrower specialization"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "prodia": {
+    "verdict": "Blazing-fast text-to-image API for developers.",
+    "overview": [
+      "Prodia is a developer-focused image generation API that renders text prompts in about two seconds, backed by a large GPU fleet. It also offers a free playground for experimenting with AI image generation before wiring the API into an app."
+    ],
+    "features": [
+      "Text-to-image API",
+      "2-second generation",
+      "Free playground"
+    ],
+    "pros": [
+      "Very fast generation",
+      "Free playground to experiment"
+    ],
+    "cons": [
+      "Developer-oriented, not a casual app"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "profilepicture-ai": {
+    "verdict": "Free AI profile picture maker from Postcraft.",
+    "overview": [
+      "ProfilePicture.AI generates stylized profile pictures from your photos using AI. It offers multiple artistic styles for avatars suited to social and professional profiles. The tool is run by the Postcraft/HeadshotPro team."
+    ],
+    "features": [
+      "AI avatar styles",
+      "Photo upload",
+      "Free generation",
+      "Social-ready exports"
+    ],
+    "pros": [
+      "Free profile pictures",
+      "Many style options",
+      "Quick turnaround"
+    ],
+    "cons": [
+      "Free tier has style limits",
+      "Results vary by input photo"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "promeai": {
+    "verdict": "AI image and video platform for designers: turn sketches, photos, or 3D models into photorealistic renders.",
+    "overview": [
+      "PromeAI is an AI image and video generation platform with a strong focus on design workflows, especially architecture and interiors. Its sketch-rendering tools turn hand drawings, photos, or 3D model screenshots into photorealistic renders, with extras like texture-lock rendering, region-based edits, and HD upscaling. A free tier with no credit card gets users started, and the 2M+ user community shares featured projects."
+    ],
+    "features": [
+      "Sketch Rendering — photos or sketches to photorealistic renders",
+      "Consistency Rendering — train a personal AI model for repeat styles",
+      "TextureLock Rendering — retain material textures in renders",
+      "Region Rendering — controlled edits on selected areas",
+      "Magic Editor — prompt-based precise image editing",
+      "HD Upscaler for high-definition output",
+      "Mockup Generator for furniture, logos, and patterns",
+      "Image-to-video and text-to-video generation"
+    ],
+    "pros": [
+      "Specialized rendering modes built for architecture and interior workflows",
+      "Free to start with no credit card required",
+      "Broad toolkit covering generation, editing, upscaling, and video",
+      "Large active community with featured projects"
+    ],
+    "cons": [
+      "Positioned for designers and architects — casual users face a learning curve",
+      "AI renders do not carry CAD-level precision for construction use",
+      "Paid plan pricing is not detailed on the homepage"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "prompt2cad": {
+    "verdict": "Turns plain-language prompts into CAD-style 3D models for making things",
+    "overview": [
+      "Prompt2CAD is a browser-based tool that converts natural-language descriptions into CAD-style 3D models of practical physical objects — brackets, fixtures, housings, furniture parts, and prototypes. Unlike artistic text-to-3D generators, it aims at fabrication-ready geometry and exports STEP, DXF, STL, OBJ, and GLB, so output flows straight into CNC, 3D printing, or CAD handoff workflows. It is built for makers, engineers, and product designers who want to draft parts in minutes instead of modeling from scratch."
+    ],
+    "features": [
+      "Text-to-CAD model generation in the browser",
+      "Fabrication-oriented parametric geometry",
+      "Exports STEP, DXF, STL, OBJ, GLB",
+      "Mechanical parts, fixtures, furniture, prototypes"
+    ],
+    "pros": [
+      "Purpose-built for physical parts, not decorative meshes",
+      "Direct CNC/3D-print export formats",
+      "No CAD expertise required to start"
+    ],
+    "cons": [
+      "Output still needs review before manufacturing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "promptomania": {
+    "verdict": "Free AI art prompt builder for Midjourney, Stable Diffusion, and more.",
+    "overview": [
+      "promptoMANIA is a free online prompt builder and generator for AI art diffusion models including CF Spark, Midjourney, Stable Diffusion, DALL-E 2, Disco Diffusion, and WOMBO Dream. Users pick a model, enter a subject, add base images and artist-inspired styles, and run the prompt to generate images. It also includes a Grid Splitter that separates composite index images into individual pictures. No signup or subscription is required."
+    ],
+    "features": [
+      "Visual prompt builder",
+      "Multi-model support (Midjourney, Stable Diffusion, CF Spark)",
+      "Artist-inspired style presets",
+      "Grid Splitter tool",
+      "No signup required"
+    ],
+    "pros": [
+      "Completely free",
+      "No registration needed",
+      "Multiple diffusion models",
+      "Grid splitter is handy"
+    ],
+    "cons": [
+      "Relies on external models for generation",
+      "No API for integration",
+      "Inconsistent updates"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "prophotos-ai": {
+    "verdict": "Photorealistic AI headshots from casual photos with tiered one-time pricing from $39.",
+    "overview": [
+      "ProPhotos AI generates photorealistic professional headshots from 10-30 casual photos uploaded on different days. Three one-time tiers (Starter $39, Premium $49, Professional $59) scale headshot count, styles, and turnaround speed. Higher tiers include a free background changer, and every plan grants a full commercial license."
+    ],
+    "features": [
+      "AI headshot generation from 10-30 casual uploads",
+      "Up to 40 outfit and background combinations",
+      "Free background changer (Premium and Professional plans)",
+      "Turnaround from 30 to 90 minutes depending on plan",
+      "Full commercial license on every generated headshot",
+      "AI model and uploads auto-delete after 30 days",
+      "Suit, blazer, and dress-shirt styling options",
+      "Simple 4-step guided setup"
+    ],
+    "pros": [
+      "Clear tiered pricing with no subscription",
+      "Full commercial license included",
+      "Privacy-friendly: models auto-delete after 30 days",
+      "Background changer for extra variety on upper tiers"
+    ],
+    "cons": [
+      "No free tier; payment is required before generation starts",
+      "Output quality depends on uploading varied source photos",
+      "Subtle AI smoothing visible on very close inspection"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pseudoface": {
+    "verdict": "AI face filters and masks for faceless creators.",
+    "overview": [
+      "Pseudoface gives faceless creators AI-generated face masks tailored to their facial shape and features, so they can appear on camera while protecting their privacy. The app ships on iOS and Android with unlimited masks, HD video, and 4K photos."
+    ],
+    "features": [
+      "AI face masks",
+      "Custom mask fitting",
+      "HD video at 25fps",
+      "4K photos"
+    ],
+    "pros": [
+      "Built for faceless creators",
+      "Free trial included"
+    ],
+    "cons": [
+      "Mobile only",
+      "Undetectability claims hard to verify"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "public-prompts": {
+    "verdict": "Free community library of AI art prompts, models, and embeddings.",
+    "overview": [
+      "Public Prompts is a free, open, community-driven library of AI art prompts, models, and embeddings hosted at publicprompts.art. It offers browseable prompt examples across categories like 3D, anime, pixel art, and fantasy, plus fine-tuned DreamBooth models and embeddings for Stable Diffusion workflows. Run by a medical doctor and AI enthusiast, it deliberately keeps everything free rather than selling prompts, and hosts a Discord community for support."
+    ],
+    "features": [
+      "Free AI art prompt library",
+      "Fine-tuned and DreamBooth model downloads",
+      "Embeddings for style-specific outputs",
+      "Category browsing (3D, anime, pixel art, fantasy)",
+      "Discord community support"
+    ],
+    "pros": [
+      "Completely free to use",
+      "Community-driven and open",
+      "Good fit for Stable Diffusion workflows",
+      "Regularly updated"
+    ],
+    "cons": [
+      "Prompts skewed toward Stable Diffusion",
+      "No formal support or clear licensing",
+      "Relies on donations to continue"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "pxz-ai": {
+    "verdict": "AI image and video generation platform with multiple models in one place.",
+    "overview": [
+      "PXZ.AI is a platform for generating AI images and videos from text prompts and inputs. It offers creative generation tools for users who want quick visual content without juggling separate apps. It has a freemium model with a free trial and free version, and paid plans from $4.90 per month."
+    ],
+    "features": [
+      "AI image generation",
+      "AI video generation",
+      "Multiple models in one platform",
+      "Free trial"
+    ],
+    "pros": [
+      "Very low-cost entry plan",
+      "Free trial and free version"
+    ],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "qlone": {
+    "verdict": "Mobile 3D scanner that turns real objects into 3D models.",
+    "overview": [
+      "Qlone by EyeCue Vision Technologies is an all-in-one 3D scanning app for iOS and Android. Users scan objects with a printed AR mat or mat-free AR/photo modes, edit models in-app, and export to 3D formats, platforms, and printers, including AR animation. Scanning is free; exporting models, 4K scans, and AR animations are premium features."
+    ],
+    "features": [
+      "AR-guided 3D scanning",
+      "Mat-free scan modes",
+      "In-app model editing",
+      "Export to 3D formats and printers",
+      "AR model animation"
+    ],
+    "pros": [
+      "Real-time on-device scanning",
+      "Easy AR-guided process",
+      "Affordable vs dedicated scanners"
+    ],
+    "cons": [
+      "Exports require premium upgrade",
+      "Scan quality depends on lighting and setup"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "qr-code-ai-art-generator": {
+    "verdict": "Free Hugging Face Space that turns scannable QR codes into AI-generated artwork with Stable Diffusion.",
+    "overview": [
+      "QR Code AI Art Generator is a free Hugging Face Space by the huggingface-projects team that converts functional QR codes into styled AI artwork. Enter a URL or upload a QR image, add a text prompt, and the Gradio app blends the code into photos, illustrations, or posters using a QR-aware ControlNet model for Stable Diffusion, keeping the result scannable while matching your visual theme."
+    ],
+    "features": [
+      "QR codes blended into AI artwork via ControlNet",
+      "URL or text payload with custom prompt support",
+      "Example presets with tuned parameters",
+      "Duplicate the Space to run on your own hardware"
+    ],
+    "pros": [
+      "Free to use in the browser, no install",
+      "Codes usually remain scannable",
+      "Open-source and educational",
+      "Active community usage"
+    ],
+    "cons": [
+      "Public queue can be slow at peak times",
+      "Requires tuning strength and conditioning scale",
+      "Not a polished commercial UX"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "quiverai": {
+    "verdict": "AI vector graphics generator that outputs editable SVG artwork, not flat images.",
+    "overview": [
+      "QuiverAI generates vector graphics instead of flat raster images. Its Arrow models produce editable SVG artwork whose paths, shapes, and groups designers can refine after generation, and it ships an editable SVG workspace plus a developer API. Integrations with tools like Linearity Curve, Paper, and ComfyUI let teams take generated vectors straight into existing design environments or ship them as interface assets and React components."
+    ],
+    "features": [
+      "AI-generated editable SVG graphics",
+      "Arrow and Arrow 2 Telos models",
+      "Editable SVG workspace",
+      "Developer API and MCP support",
+      "Integrations with Linearity Curve, Paper, ComfyUI"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "rawshot-ai": {
+    "verdict": "Click-driven AI fashion photography platform generating on-model imagery and video with compliance labeling.",
+    "overview": [
+      "RAWSHOT AI is an EU-built fashion photography platform that generates studio-quality on-model imagery and video from real garments through a click-driven interface — no prompt writing. Users control camera, pose, lighting, background, and style via buttons and presets, with outputs at 2K/4K resolution and full commercial rights. Every image is C2PA-signed, watermarked, and AI-labeled, with transparent ~$0.50 per-image pricing."
+    ],
+    "features": [
+      "Click-driven photoshoot interface",
+      "On-model imagery and video",
+      "150+ visual style presets",
+      "C2PA provenance metadata",
+      "AI labeling and watermarking",
+      "REST API for catalog automation"
+    ],
+    "pros": [
+      "No prompt engineering needed",
+      "Compliance-ready with AI labeling",
+      "Transparent per-image pricing"
+    ],
+    "cons": [
+      "Per-image pricing adds up at scale",
+      "Newer brand, smaller client roster",
+      "Limited third-party reviews"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "recraft": {
+    "verdict": "AI image generator for brand-consistent design and vector art.",
+    "overview": [
+      "Recraft is an AI image-generation platform focused on design work: brand-consistent visuals, vector art, mockups, and illustrations with fine-grained style controls."
+    ],
+    "features": [
+      "Text-to-image generation",
+      "Vector image generation",
+      "Style controls",
+      "Brand style presets",
+      "Developer API"
+    ],
+    "pros": [
+      "Vector output and brand consistency controls",
+      "Generous free daily credits"
+    ],
+    "cons": [
+      "Photorealism lags behind specialist models",
+      "Some advanced features are paywalled"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "reface": {
+    "verdict": "AI face-swap and avatar app that puts your face into videos, GIFs, memes and stylized portraits.",
+    "overview": [
+      "Reface is a popular mobile app that swaps your face into trending videos, GIFs, memes and character art using realistic AI face mapping. It also includes AI avatars in dozens of art styles, photo animation with lip sync, and hairstyle try-ons. The free version is ad-supported with watermarks; Pro unlocks unlimited swaps and HD exports."
+    ],
+    "features": [
+      "AI face swap for videos, photos and GIFs",
+      "AI avatars in dozens of art styles",
+      "Photo animation with AI lip sync",
+      "Hairstyle try-on and hair color changer",
+      "AI restyle effects for photos and videos",
+      "Trending meme templates"
+    ],
+    "pros": [
+      "4.8/5 Apple App Store rating from 496K+ ratings",
+      "Huge library of viral-ready templates and effects",
+      "Realistic expression and motion tracking in swaps"
+    ],
+    "cons": [
+      "Free tier has ads, watermarks and limited swaps",
+      "Requires explicit consent from identifiable people before face-swapping",
+      "Reviewers flag facial-data collection in privacy analysis"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "remini": {
+    "verdict": "Mobile-first AI enhancer that restores old and blurry photos to HD",
+    "overview": [
+      "Remini is a mobile-first AI photo enhancer by Bending Spoons that turns blurry, pixelated or damaged photos into sharp HD images. It specializes in face restoration, old photo repair and video enhancement. Free tier works with ads; subscriptions unlock unlimited premium features."
+    ],
+    "features": [
+      "Unblur & sharpener",
+      "Old photo restorer",
+      "Denoiser",
+      "Face enhancer",
+      "Color fixer",
+      "Image enlarger up to 2x",
+      "Video enhancement",
+      "AI-generated photos of yourself"
+    ],
+    "pros": [
+      "One-tap enhancement with strong face restoration",
+      "Over 100M monthly active users",
+      "Handles video as well as photos",
+      "Free tier exists with ad-supported access"
+    ],
+    "cons": [
+      "Free tier is limited and ad-heavy",
+      "Results can look overprocessed on some images",
+      "Primarily mobile-focused, not a full editor"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "remodel-ai": {
+    "verdict": "AI home design app covering interiors, exteriors, staging, paint, and landscaping from a single photo.",
+    "overview": [
+      "Remodel AI is a photo-based home design app covering both interiors and exteriors in one account, with eight tools including interior redesign, exterior styling, virtual staging, floor replacement, wall paint preview, landscape design, object removal, and furniture swap. Every user gets 3 free full-quality designs without a credit card, and renders take about ten seconds while keeping the room's structure intact. It runs on web, iOS, and Android, and claims over 2 million designs generated across 170+ countries."
+    ],
+    "features": [
+      "Interior redesign in 30+ styles",
+      "Exterior and facade redesign in 11 architectural styles",
+      "Virtual staging for empty rooms",
+      "Floor replacement preview (hardwood, tile, marble, stone)",
+      "Wall paint color preview",
+      "Landscape design in 10 garden styles",
+      "Object removal to declutter listing photos",
+      "Furniture swap for targeted replacements"
+    ],
+    "pros": [
+      "Handles interior, exterior, and landscape in one app",
+      "3 free full-quality designs with no credit card or watermark",
+      "Photorealistic results in about ten seconds",
+      "Native iOS and Android apps alongside web"
+    ],
+    "cons": [
+      "Cannot draw 2D floor plans with measurements or move walls",
+      "Free tier is limited to 3 designs across all tools",
+      "AI concepts still need a professional for structural work"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "remove-bg": {
+    "verdict": "AI background remover that isolates subjects and erases backgrounds in seconds.",
+    "overview": [
+      "Remove.bg is a one-click AI tool that automatically removes backgrounds from photos in about five seconds. It offers a web app, desktop apps, Photoshop and Figma plugins, and a REST API built for high-volume e-commerce image pipelines."
+    ],
+    "features": [
+      "One-click AI background removal",
+      "Transparent PNG export",
+      "Full HD output on paid plans",
+      "Batch processing",
+      "REST API for automation",
+      "Desktop apps for Windows and Mac",
+      "Photoshop and Figma plugins",
+      "Magic Brush manual refine"
+    ],
+    "pros": [
+      "Extremely fast, results in seconds",
+      "Accurate subject detection with clean edges",
+      "API built for automated pipelines",
+      "Free preview tier to test quality"
+    ],
+    "cons": [
+      "Free tier limited to low-resolution previews",
+      "Credit costs add up at high volume",
+      "Online-only, no offline processing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "rendervi": {
+    "verdict": "Turn sketches and model previews into photorealistic architectural renders.",
+    "overview": [
+      "Rendervi turns sketches and model previews into photorealistic architectural renders. It is built for professional visualization teams: preset 'render recipes' keep materials, lighting, and atmosphere consistent across views, with material and daylight edit modes, upscaling for presentations, and team project history. The free plan includes 12 credits per month."
+    ],
+    "features": [
+      "Sketch and model previews to photorealistic renders",
+      "Preset render recipes for consistent materials, lighting, atmosphere",
+      "Material and daylight edit modes",
+      "Render upscale for presentations",
+      "Prompt-free templates for common workflows",
+      "Team access with project history"
+    ],
+    "pros": [
+      "Consistency-first design aimed at professional viz work",
+      "Supports SketchUp and Revit export previews as input",
+      "Does not train on user project data"
+    ],
+    "cons": [
+      "Niche-only: architects and interior visualization, not a general art tool",
+      "Exact per-render credit costs not published up front"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "rendora": {
+    "verdict": "Text-to-video platform that generates studio-quality 3D AI avatar videos.",
+    "overview": [
+      "Rendora turns a written script into a polished 3D avatar video in seconds, with no filming or editing required. It offers thousands of customizable 3D digital humans plus hundreds of cinematic scenes, and its AI drives facial expressions, body movement, voice, and camera work. The platform covers the full pipeline from script to post-production for marketing, training, and education use."
+    ],
+    "features": [
+      "Text-to-3D-avatar video generation",
+      "3000+ customizable 3D avatars",
+      "500+ 3D scenes and environments",
+      "AI-generated voices, expressions, and camera shots",
+      "Built-in editing and post-production"
+    ],
+    "pros": [
+      "No filming or actors needed",
+      "Highly customizable avatars and scenes",
+      "Full production workflow in one place"
+    ],
+    "cons": [
+      "Paid product",
+      "Style is limited to 3D digital-human aesthetics"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "rephrase-ai": {
+    "verdict": "AI platform that turns text scripts into videos with realistic digital avatars and lip-sync.",
+    "overview": [
+      "Rephrase.ai is a text-to-video platform that generates professional videos featuring digital avatars. Users pick an avatar, type a message, and the AI renders a video with lifelike speech, lip-sync, and body language in minutes. Built for businesses, it specializes in hyper-personalized outreach, marketing campaigns, and stakeholder communications, with API integrations for CRM and messaging tools."
+    ],
+    "features": [
+      "Text-to-video generation with digital avatars",
+      "Realistic lip-sync and speech synthesis",
+      "Personalized video messaging at scale",
+      "API integrations for CRM and messaging tools"
+    ],
+    "pros": [
+      "Create videos in three simple steps, no editing skills needed",
+      "Free video creation option",
+      "Avatar library plus customizable branding",
+      "Reduces video production costs"
+    ],
+    "cons": [
+      "Small traffic footprint, niche product",
+      "Paid plans needed for serious volume",
+      "Avatar realism varies by template"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "replit-design": {
+    "verdict": "Replit's AI design suite: turns text prompts, screenshots, Figma imports, and moodboards into real interfaces — no design or code skills needed.",
+    "overview": [
+      "Replit Design is a creative suite launched by Replit in July 2026 that generates UI designs and interactive sites from natural-language prompts, screenshots, URLs, Figma imports, or design systems. Its Ambient Intelligence suggests variations and progressions at every step, it works with models including Claude, GPT-5, Gemini, Kimi, and GLM, it bundles Mobbin's 600,000-screen UI reference library, and it bakes in brand design systems — with everything living in Replit so designs move straight to a publishable project without handoffs. It is live for every Replit user, with design work starting free inside Replit."
+    ],
+    "features": [
+      "Text-to-design generation from natural language",
+      "Multiple design variations per prompt",
+      "Infinite canvas for exploring concepts",
+      "Ambient Intelligence suggestions at every step",
+      "Mobbin UI reference library built in (600k+ real-world screens)",
+      "Design systems for one-click brand consistency",
+      "Template library from real designers",
+      "Direct publish from Replit with no handoffs"
+    ],
+    "pros": [
+      "Zero-handoff path from design idea to live project",
+      "Mobbin integration wired in without a separate account",
+      "Real brand design systems applied in one click",
+      "Live for every Replit user, start creating free"
+    ],
+    "cons": [
+      "Lives inside Replit's ecosystem — not a standalone, exportable design app",
+      "Requires a Replit account",
+      "Newer than established AI design tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "reroom-ai": {
+    "verdict": "Photorealistic AI interior design renders from your photos.",
+    "overview": [
+      "ReRoom AI generates photorealistic interior design renders from uploaded photos. Users pick from 20+ design styles and get room visualizations in seconds, making it useful for interior designers, real estate professionals staging listings, and homeowners exploring remodel ideas. It also supports virtual staging, SketchUp model enhancement, and iterative refinement of results."
+    ],
+    "features": [
+      "Photorealistic interior renders",
+      "20+ design styles",
+      "Upload and redesign your own photos",
+      "Renders delivered in seconds",
+      "Virtual staging and SketchUp enhancement"
+    ],
+    "pros": [
+      "Fast, high-quality renders",
+      "Practical for designers and real estate agents",
+      "Try-before-you-pay access"
+    ],
+    "cons": [
+      "Free tier has usage limits",
+      "Best results need good source photos"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "retouch4me": {
+    "verdict": "Pro-grade AI retouching plugins for Photoshop and Lightroom",
+    "overview": [
+      "Retouch4me makes AI retouching plugins for photographers that integrate into Photoshop, Lightroom, Capture One and other editors. Single-purpose plugins handle heal, dodge & burn, skin mask, stray hairs, fabric smoothing, eyes and makeup while preserving natural skin texture. Free companion apps (Apex, Arams, Photoshop Panel); plugins from $116 one-time."
+    ],
+    "features": [
+      "AI Heal (skin imperfections)",
+      "AI Dodge & Burn",
+      "AI Skin Mask",
+      "Stray Hairs removal",
+      "AI Fabric (clothing wrinkles)",
+      "AI Eyes and Face Make",
+      "Batch retouching across shoots",
+      "Photoshop panel with layer control"
+    ],
+    "pros": [
+      "Preserves natural skin texture, avoids plastic look",
+      "One-time purchase per plugin, no subscription",
+      "Full Photoshop layer control for fine-tuning",
+      "Free Apex/Arams apps for culling and batch work"
+    ],
+    "cons": [
+      "Plugins sold individually — costs add up",
+      "Needs Photoshop/Lightroom for plugin workflow",
+      "Each plugin is single-purpose"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "retouchia": {
+    "verdict": "Free online AI photo editor — background removal, object eraser, 4K upscale, enhance, restore and colorize, no sign-up.",
+    "overview": [
+      "Retouchia is a free online AI image editor covering the most common photo fixes: background removal, object erasing, 4K upscaling, enhancement, restoration and colorizing old photos. It needs no sign-up, adds no watermark, and processes images with a privacy-first approach. The project reports 200K+ users and 10M+ images edited."
+    ],
+    "features": [
+      "AI background removal",
+      "Object eraser for unwanted elements",
+      "4K image upscaling",
+      "Photo enhancement and restoration",
+      "Colorizing black-and-white photos",
+      "No sign-up required",
+      "No watermark on results",
+      "Privacy-first processing"
+    ],
+    "pros": [
+      "Genuinely free with no account and no watermark",
+      "Broad set of one-click photo fixes in one place",
+      "Works fully in the browser — nothing to install",
+      "Privacy-conscious processing"
+    ],
+    "cons": [
+      "Limited to one-off edits — no batch workflow or advanced suite",
+      "Long-term business model isn't public, so free terms could change",
+      "Resolution and usage limits aren't clearly documented"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "retro-diffusion": {
+    "verdict": "AI design tool that generates authentic retro and vintage-style artwork.",
+    "overview": [
+      "Retro Diffusion is an AI design platform focused on vintage aesthetics, using Stable Diffusion models tuned for retro styles to help designers create nostalgic artwork, posters, and brand assets. Instead of wrestling with long keyword-stuffed prompts, you get the vintage look reliably through a purpose-built generation workflow."
+    ],
+    "features": [
+      "Retro-style-tuned image generation models",
+      "API access for programmatic generation",
+      "Design-focused generation controls",
+      "Free trial and free tier available"
+    ],
+    "pros": [
+      "Reliable vintage aesthetic without prompt engineering",
+      "API access for design automation",
+      "Niche focus that general image tools lack"
+    ],
+    "cons": [
+      "Limited to retro/vintage styles",
+      "Advanced features require paid plans"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "room-ai": {
+    "verdict": "AI interior designer by Marc Köhlbrugge: restyle existing rooms or generate new ones with 40+ styles, smart palettes and materials.",
+    "overview": [
+      "Room AI is a web-based AI interior design tool created by Marc Köhlbrugge that restyles existing room photos or generates new rooms from scratch with photorealistic renders. It offers 40+ design styles, smart color palettes, a material library and a visual editor aimed at homeowners, designers, agents and architects."
+    ],
+    "features": [
+      "Restyle existing rooms from an uploaded photo",
+      "Design new rooms from scratch with design preferences",
+      "40+ interior design styles",
+      "Smart color palettes matched to styles",
+      "Material library: fabrics, woods, stones, glass",
+      "Visual editor that hides prompt-writing complexity",
+      "High-resolution photo-realistic renders",
+      "Commercial license on paid tiers"
+    ],
+    "pros": [
+      "Style, color and material customization combined in one visual editor",
+      "Built with input from industry professionals per the official FAQ",
+      "Commercial usage rights on paid subscriptions",
+      "Free demo available to try before paying"
+    ],
+    "cons": [
+      "Entry Personal plan watermarks and limits resolution",
+      "No verified rating from G2, Capterra, Product Hunt or Trustpilot",
+      "Design-from-scratch quality still depends on input detail"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "roomgpt": {
+    "verdict": "Upload a room photo and get instant AI restyles in multiple interior design themes.",
+    "overview": [
+      "RoomGPT is an AI room redesign tool that turns a single room photo into photorealistic redesigns across many interior design styles. It keeps the room's real walls, windows and layout while swapping the decor, and offers credit packs plus Pro and Business subscription tiers."
+    ],
+    "features": [
+      "Photo-to-redesign generation from one room photo",
+      "Multiple interior design themes to choose from",
+      "Structure preservation keeps real walls, windows and layout",
+      "Free trial redesign with no credit card",
+      "Pay-as-you-go credit packs (30, 100, 200 credits)",
+      "Pro and Business subscription tiers",
+      "Commercial use license on Business plan",
+      "Download and share redesigned rooms"
+    ],
+    "pros": [
+      "Instant results from a single photo with a very simple workflow",
+      "Pay-as-you-go credits avoid locking users into long subscriptions",
+      "Business tier includes a commercial use license for professionals",
+      "Claims over 4 million users with broad press coverage"
+    ],
+    "cons": [
+      "Conflicting pricing models across sources make the current plan structure confusing",
+      "Free tier is very limited at 1-3 designs",
+      "Third-party reviews note occasional gray tones and distorted details"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "roomsgpt": {
+    "verdict": "Free AI interior design from a photo: upload a room and get realistic before-and-after concepts in seconds.",
+    "overview": [
+      "RoomsGPT is a photo-first AI interior design tool that redesigned over 143,900 spaces at the time of review. Upload any room photo and pick from 61+ styles or describe the look in words, and it returns a before-and-after concept in about 15 seconds while keeping walls and windows in place. A free daily credit pool needs no signup, and paid plans add watermark-free downloads; a companion Android app extends it to mobile."
+    ],
+    "features": [
+      "Photo-to-redesign in about 15 seconds",
+      "61+ interior styles plus house exterior and garden modes",
+      "Plain-language refinement ('keep my sofa, warmer walls')",
+      "Free daily credits with no signup required",
+      "Before-and-after comparison slider",
+      "Room-specific design pages (kitchen, bedroom, home office, etc.)",
+      "Design studio for planner, paint, and staging refinements",
+      "Android app for on-the-go redesigns"
+    ],
+    "pros": [
+      "No account needed to generate your first designs",
+      "Walls and windows are preserved, only style changes",
+      "Large style library across rooms, exteriors, and gardens",
+      "Free daily credits make it genuinely usable without paying"
+    ],
+    "cons": [
+      "Paid plans are needed to remove watermarks and daily limits",
+      "iOS app is still in development",
+      "Outdoor and garden results are less consistent than room interiors"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "roomsketcher": {
+    "verdict": "Easy 2D/3D floor plan creator with Live 3D walkthroughs, built for homeowners, designers, and real estate pros.",
+    "overview": [
+      "RoomSketcher is an online floor plan and home design tool that turns simple 2D drawings into interactive 3D floor plans, 3D photos, and 360 views. It offers drag-and-drop editing, an AI blueprint converter, and the option to order professionally drawn floor plans from its team. A free account covers basic drawing, while Pro and Team subscriptions unlock the full furniture library, branding, and high-quality outputs."
+    ],
+    "features": [
+      "2D and 3D floor plans with drag-and-drop editing",
+      "Live 3D interactive floor plans and walkthroughs",
+      "3D Photos and 360 Views for presentations",
+      "AI Convert turns blueprints into editable projects",
+      "Order professionally drawn floor plans from their team",
+      "Measurements, total area calculations, print-to-scale",
+      "Branded floor plans and custom styles",
+      "Cloud storage with access across devices"
+    ],
+    "pros": [
+      "Beginners can produce professional-looking floor plans in minutes",
+      "G2 reviewers rate it strong value, with Pro paying for itself quickly for agents",
+      "Live 3D and 360 views make client presentations compelling",
+      "Flexible options: free plan, pay-as-you-go credits, or subscriptions"
+    ],
+    "cons": [
+      "High-resolution renders and some features require extra credits even on paid plans",
+      "Furniture library is decent but users want more variety and custom uploads"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "roomx-ai": {
+    "verdict": "AI room design and virtual staging for interiors and real estate.",
+    "overview": [
+      "RoomX AI generates interior design concepts, virtual staging, 2D and 3D floor plans and virtual tours from room photos or floor plans. It targets real estate professionals, interior designers and homeowners, offering AI-rendered redesigns, 360 virtual tours with hotspots, lead capture and social sharing. Pricing starts with a free tier of two watermarked images per month, with paid plans unlocking more renders."
+    ],
+    "features": [
+      "AI interior redesign from photos",
+      "Virtual staging for real estate",
+      "2D and 3D floor plans",
+      "360 virtual tours with hotspots",
+      "API access"
+    ],
+    "pros": [
+      "Free plan with 2 images per month",
+      "Built for real-estate workflows",
+      "Multiple output formats in one tool"
+    ],
+    "cons": [
+      "Free images are watermarked",
+      "Watermark removal and volume need paid plans"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "runcomfy": {
+    "verdict": "Cloud ComfyUI and generative model platform on GPU.",
+    "overview": [
+      "RunComfy is a cloud platform for running ComfyUI workflows and generative AI models on demand. It offers a catalog of image models like FLUX and Seedream plus video models like Seedance and Wan, accessible through the web or a CLI with one auth. Creators can also run custom ComfyUI workflows and LoRA training on cloud GPUs."
+    ],
+    "features": [
+      "Cloud ComfyUI workflows on GPU",
+      "Model API for FLUX, Seedream, video models",
+      "CLI and MCP integration for agents"
+    ],
+    "pros": [
+      "No GPU needed - cloud runs the models",
+      "Wide model catalog in one account",
+      "Developer-friendly CLI and API"
+    ],
+    "cons": [
+      "Credit-based pricing - costs scale with usage",
+      "Aimed at creators, not general consumers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "rundiffusion": {
+    "verdict": "Cloud Stable Diffusion without the GPU hassle",
+    "overview": [
+      "RunDiffusion offers cloud-hosted Stable Diffusion environments for generating images without local GPU setup. It is freemium with pay-as-you-go pricing from $0.50 per hour, 30 free minutes, and a Creator's Club at $35.99 per month. The company is Runnit, Inc."
+    ],
+    "features": [
+      "Cloud Stable Diffusion",
+      "Pay-as-you-go from $0.50/hr",
+      "Creator's Club subscription"
+    ],
+    "pros": [
+      "No GPU needed",
+      "Flexible hourly pricing"
+    ],
+    "cons": [
+      "Costs scale with GPU time",
+      "Learning curve for new users"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "scout-by-asseter-ai": {
+    "verdict": "AI visual search engine for finding 3D models.",
+    "overview": [
+      "Scout by Asseter.AI is a visual search engine for 3D models. Upload an image or describe what you need and AI finds matching 3D assets from a large library. It saves designers from scrolling through endless model marketplaces."
+    ],
+    "features": [
+      "Visual search for 3D models",
+      "Image and text-based queries",
+      "Curated 3D asset library"
+    ],
+    "pros": [
+      "Finds models by look, not just keywords",
+      "Speeds up 3D asset discovery",
+      "Free tier available"
+    ],
+    "cons": [
+      "Depends on Asseter's model library coverage",
+      "Niche for 3D workflows only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "second-self": {
+    "verdict": "Platform for chatting with AI versions of creators, with monetization for the creators.",
+    "overview": [
+      "Second Self is a platform where fans chat with AI-powered virtual versions of creators and social media stars. Creators build an AI persona trained on their content and personality, engage fans around the clock, and monetize through credits fans purchase to interact, while retaining control over their digital likeness."
+    ],
+    "features": [
+      "AI personas of creators",
+      "Fan chat and engagement",
+      "Creator monetization via credits",
+      "Likeness controls for creators"
+    ],
+    "pros": [
+      "New revenue stream for creators",
+      "Fans get 24/7 interaction",
+      "Creators control their AI likeness"
+    ],
+    "cons": [
+      "Credit-based pricing can add up for heavy users",
+      "AI personas raise likeness and consent questions",
+      "Limited public track record"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "secta-ai": {
+    "verdict": "High-volume AI headshot generator with Remix editing tools and 130+ styles from $49 one-time.",
+    "overview": [
+      "Secta Labs is an AI headshot generator built around volume and iteration, delivering 100+ headshots per order. Its differentiator is Remix, an on-platform editor that lets you swap clothing, backgrounds, and expressions after generation without re-uploading. It also offers team headshots and a companion style-copy feature called Shook."
+    ],
+    "features": [
+      "AI headshot generation with 100+ HD photos per order",
+      "130+ style themes (corporate, creative, actor looks)",
+      "Remix editor: change clothing, background, expression after generation",
+      "Shook: copy the style/vibe of any photo onto your portrait",
+      "Team headshot plans for consistent company branding",
+      "30-day money-back guarantee",
+      "Full commercial ownership of generated images",
+      "Privacy policies with uploads handled securely"
+    ],
+    "pros": [
+      "Large galleries of 100-300 photos per package",
+      "Post-generation Remix editing avoids re-uploading",
+      "Flat 30-day money-back guarantee",
+      "Business-ready team features"
+    ],
+    "cons": [
+      "Remix editing tool is labelled an add-on rather than an inclusion",
+      "Style and photo counts on their site pages are inconsistent",
+      "$49 entry price is higher than some one-time competitors"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

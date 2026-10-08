@@ -1,0 +1,2352 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk38: Tool[] = [
+  {
+    "slug": "trevor-ai",
+    "name": "Trevor AI",
+    "logo": "/logos/trevor-ai.png",
+    "company": "Trevor Labs Ltd.",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "Affordable AI task planner that predicts task durations and time-blocks Todoist and calendar tasks for you.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-scheduling",
+      "time-blocking",
+      "todoist",
+      "focus-mode",
+      "task-planner",
+      "predictive",
+      "chat-assistant",
+      "daily-coaching"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://trevorai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "tubeonai",
+    "name": "TubeOnAI",
+    "logo": "/logos/tubeonai.png",
+    "company": "TubeOnAI",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI summarizer for YouTube videos, podcasts, and documents.",
+    "pricing": "freemium",
+    "tags": [
+      "summarizer",
+      "youtube",
+      "podcasts",
+      "repurposing"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://tubeonai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "twine",
+    "name": "twine",
+    "logo": "/logos/twine.png",
+    "company": "Twine",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI feed that auto-summarizes Zoom meetings, Slack channels and news for your team.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting summaries",
+      "team updates",
+      "slack",
+      "zoom",
+      "knowledge sharing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://twine.us",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "twinmind",
+    "name": "TwinMind",
+    "logo": "/logos/twinmind.png",
+    "company": "TwinMind",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting capture with on-device transcription and a searchable memory archive.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting notes",
+      "transcription",
+      "memory archive",
+      "mcp"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://twinmind.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "typingmind",
+    "name": "TypingMind",
+    "logo": "/logos/typingmind.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Bring-your-own-key chat UI for LLMs by Tony Dinh.",
+    "pricing": "freemium",
+    "tags": [
+      "chat-ui",
+      "llm",
+      "byok",
+      "ai-assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.typingmind.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "uniscribe",
+    "name": "UniScribe",
+    "logo": "/logos/uniscribe.png",
+    "company": "VanCode LLC",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI transcription with summaries, mind maps, and key-question extraction.",
+    "pricing": "freemium",
+    "tags": [
+      "transcription",
+      "speech to text",
+      "youtube transcribe",
+      "summaries",
+      "mind maps"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://uniscribe.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "unrav-io",
+    "name": "Unrav.io",
+    "logo": "/logos/unrav-io.png",
+    "company": "Unravio, LLC",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Chrome extension that transforms any webpage into summaries, mindmaps, and more",
+    "pricing": "freemium",
+    "tags": [
+      "chrome extension",
+      "summarization",
+      "mindmap"
+    ],
+    "platforms": [
+      "chrome-extension"
+    ],
+    "officialUrl": "https://unrav.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "unsolomind",
+    "name": "UnSoloMind",
+    "logo": "/logos/unsolomind.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI platform that learns from your knowledge files and answers questions 24/7",
+    "pricing": "paid",
+    "tags": [
+      "knowledge base",
+      "chat",
+      "AI assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://unsolomind.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "upheal",
+    "name": "Upheal",
+    "logo": "/logos/upheal.png",
+    "company": "Upheal",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI progress notes and EHR for mental-health providers.",
+    "pricing": "freemium",
+    "tags": [
+      "therapy-notes",
+      "ehr",
+      "mental-health",
+      "clinical-documentation",
+      "hipaa"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.upheal.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "upword",
+    "name": "Upword",
+    "logo": "/logos/upword.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI research assistant that summarizes articles, PDFs, and YouTube into notes.",
+    "pricing": "freemium",
+    "tags": [
+      "summarizer",
+      "research",
+      "notes",
+      "knowledge-management",
+      "chrome-extension"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://upword.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "url-to-any",
+    "name": "URL to Any",
+    "logo": "/logos/url-to-any.png",
+    "company": "URL to Any",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Convert any URL into Markdown, HTML, JSON, PDF, and more in the browser.",
+    "pricing": "freemium",
+    "tags": [
+      "url-converter",
+      "web-scraping",
+      "markdown"
+    ],
+    "platforms": [
+      "web",
+      "api",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://urltoany.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "userdesk",
+    "name": "Userdesk",
+    "logo": "/logos/userdesk.png",
+    "company": "PixelFox AB",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "No-code AI customer-support chatbots trained on your own website and documents.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "customer support",
+      "no-code",
+      "lead generation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://userdesk.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "utah",
+    "name": "Utah",
+    "logo": "/logos/utah.png",
+    "company": "Inngest",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "OpenClaw-style personal agent powered by Inngest durable workflows for reliability.",
+    "pricing": "open-source",
+    "tags": [
+      "personal-assistant",
+      "ai-agents",
+      "openclaw",
+      "durable-workflows",
+      "inngest"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/inngest/utah",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "v0-report",
+    "name": "v0 report",
+    "logo": "/logos/v0-report.png",
+    "company": "v0 Report",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI report generator that builds professional documents from data and URLs.",
+    "pricing": "paid",
+    "tags": [
+      "report generator",
+      "document AI",
+      "PDF summarizer",
+      "research",
+      "business reports"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://v0.report",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vaiz",
+    "name": "Vaiz",
+    "logo": "/logos/vaiz.png",
+    "company": "Vaiz",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "AI project-management workspace with Kanban, Gantt, and an AI assistant.",
+    "pricing": "freemium",
+    "tags": [
+      "project management",
+      "task tracking",
+      "AI assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://vaiz.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vectal",
+    "name": "Vectal",
+    "logo": "/logos/vectal.png",
+    "company": "Vectal",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI assistant platform that connects Slack, Notion, Gmail, WhatsApp, and more.",
+    "pricing": "freemium",
+    "tags": [
+      "AI assistant",
+      "productivity",
+      "workflow automation"
+    ],
+    "platforms": [
+      "web",
+      "whatsapp"
+    ],
+    "officialUrl": "https://vectal.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "veluvanto",
+    "name": "Veluvanto",
+    "logo": "/logos/veluvanto.png",
+    "company": "Veluvanto",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "EU-native AI document management that organizes itself",
+    "pricing": "freemium",
+    "tags": [
+      "document-management",
+      "ai-assistant",
+      "gdpr",
+      "automation",
+      "smb"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://veluvanto.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "verve-ai",
+    "name": "Verve AI",
+    "logo": "/logos/verve-ai.png",
+    "company": "Verve AI",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "Real-time AI interview copilot that transcribes live interviews and suggests tailored answers, plus mocks and a resume builder.",
+    "pricing": "freemium",
+    "tags": [
+      "interview-copilot",
+      "interview-prep",
+      "mock-interviews",
+      "resume-builder",
+      "real-time-answers",
+      "job-search"
+    ],
+    "platforms": [
+      "web",
+      "macos",
+      "windows",
+      "ios"
+    ],
+    "officialUrl": "https://vervecopilot.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vibedash",
+    "name": "VibeDash",
+    "logo": "/logos/vibedash.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "Client-facing project dashboards that sync GitHub activity, milestones, payments, and AI-generated PRDs.",
+    "pricing": null,
+    "tags": [
+      "project-management",
+      "client-portal",
+      "github",
+      "freelancers",
+      "agencies",
+      "prd",
+      "dashboards"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://vibedash.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "victor-ai-email",
+    "name": "Victor",
+    "logo": "/logos/victor-ai-email.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI email assistant for inbox management",
+    "pricing": null,
+    "tags": [
+      "email",
+      "AI assistant",
+      "inbox"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://usevictor.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "video-highlight",
+    "name": "Video Highlight",
+    "logo": "/logos/video-highlight.png",
+    "company": "VHS Media Group LTD",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Summarize any video into notes with key points, timestamps and highlights.",
+    "pricing": "free",
+    "tags": [
+      "video-summarizer",
+      "productivity",
+      "notes",
+      "research"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://videohighlight.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "villa",
+    "name": "Villa",
+    "logo": "/logos/villa.png",
+    "company": "RealVR.ai",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "VR collaboration platform with GenAI world creation for immersive team meetings.",
+    "pricing": "paid",
+    "tags": [
+      "vr",
+      "virtual meetings",
+      "team collaboration",
+      "generative ai",
+      "metaverse"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.villa.rocks",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vimcal",
+    "name": "Vimcal",
+    "logo": "/logos/vimcal.png",
+    "company": "Vimcal",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Keyboard-first AI calendar built for speed.",
+    "pricing": "freemium",
+    "tags": [
+      "calendar",
+      "scheduling",
+      "ai-scheduler",
+      "timezones",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "macos",
+      "windows",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.vimcal.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "viralcanvas-ai",
+    "name": "ViralCanvas AI",
+    "logo": "/logos/viralcanvas-ai.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Visual AI workspace that turns research into creator content",
+    "pricing": "paid",
+    "tags": [],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://viralcanvas.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "visme",
+    "name": "Visme",
+    "logo": "/logos/visme.png",
+    "company": "Visme",
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "AI presentation maker built for data-rich decks, infographics, and brand kits.",
+    "pricing": "freemium",
+    "tags": [
+      "ai presentation maker",
+      "data visualization",
+      "infographics",
+      "interactive content",
+      "brand kit",
+      "charts and graphs",
+      "templates",
+      "animations"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.visme.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "visus",
+    "name": "Visus",
+    "logo": "/logos/visus.png",
+    "company": "Visus",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Train a ChatGPT-style AI on your documents.",
+    "pricing": "freemium",
+    "tags": [
+      "knowledge base",
+      "chatbot",
+      "document ai",
+      "rag"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://visus.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vocol-ai",
+    "name": "Vocol AI",
+    "logo": "/logos/vocol-ai.png",
+    "company": "Vocol.AI",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting transcription with summaries, action items, and multilingual support.",
+    "pricing": "freemium",
+    "tags": [
+      "meeting",
+      "transcription",
+      "productivity",
+      "voice",
+      "summaries"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://vocol.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "voice-calculator",
+    "name": "Voice Calculator",
+    "logo": "/logos/voice-calculator.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Speak your math and get answers — a voice-first calculator for iOS and macOS.",
+    "pricing": "freemium",
+    "tags": [
+      "calculator",
+      "voice",
+      "voice assistant",
+      "math",
+      "ios app"
+    ],
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "officialUrl": "https://voicecalculator.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "voiceline",
+    "name": "VoiceLine",
+    "logo": "/logos/voiceline.png",
+    "company": "VoiceLine GmbH",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Voice messaging with transcription for teams, from VoiceLine GmbH.",
+    "pricing": "free",
+    "tags": [
+      "voice-messaging",
+      "transcription",
+      "async-communication",
+      "team-tools"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://getvoiceline.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "voiset",
+    "name": "Voiset",
+    "logo": "/logos/voiset.png",
+    "company": "Union Smart Tech s.r.o.",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Voice-first AI planner that turns spoken notes into actionable plans and bookings.",
+    "pricing": "paid",
+    "tags": [
+      "voice ai",
+      "planner",
+      "booking",
+      "task management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.voiset.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "vowise",
+    "name": "Vowise",
+    "logo": "/logos/vowise.png",
+    "company": "Vowise",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Voice-first AI workspace for dictation, journals, and personal knowledge.",
+    "pricing": "freemium",
+    "tags": [
+      "voice",
+      "journaling",
+      "dictation",
+      "notes"
+    ],
+    "platforms": [
+      "web",
+      "macos",
+      "windows",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://vowise.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wegodoo",
+    "name": "WeGoDoo",
+    "logo": "/logos/wegodoo.png",
+    "company": "WEGODOO OPC Pvt Ltd",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Cloud task manager with free AI tools built in.",
+    "pricing": "freemium",
+    "tags": [
+      "task-management",
+      "todo",
+      "ai-tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.wegodoo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wellpin",
+    "name": "Wellpin",
+    "logo": "/logos/wellpin.png",
+    "company": "Wellpin",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI appointment-scheduling platform with calendar sync and reminders.",
+    "pricing": "free",
+    "tags": [
+      "scheduling",
+      "calendar",
+      "appointments"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://wellpin.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "willow-voice",
+    "name": "Willow Voice",
+    "logo": "/logos/willow-voice.png",
+    "company": "Willow",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI dictation everywhere — hotkey on desktop, voice keyboard on iOS",
+    "pricing": "freemium",
+    "tags": [
+      "dictation",
+      "speech to text",
+      "voice keyboard",
+      "writing"
+    ],
+    "platforms": [
+      "macos",
+      "windows",
+      "ios"
+    ],
+    "officialUrl": "https://willowvoice.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "witsy",
+    "name": "Witsy",
+    "logo": "/logos/witsy.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free BYOK desktop AI assistant with prompt-anywhere and MCP support.",
+    "pricing": "free",
+    "tags": [
+      "desktop",
+      "ai-assistant",
+      "open-source",
+      "mcp",
+      "byok"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://witsyai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wiz-chat",
+    "name": "Wiz.chat",
+    "logo": "/logos/wiz-chat.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI chatbot bringing ChatGPT and DALL-E into WhatsApp and Instagram.",
+    "pricing": "freemium",
+    "tags": [
+      "whatsapp",
+      "ai-chatbot",
+      "chatgpt",
+      "dalle",
+      "messaging"
+    ],
+    "platforms": [
+      "web",
+      "whatsapp"
+    ],
+    "officialUrl": "https://wiz.chat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wizardshot",
+    "name": "Wizardshot",
+    "logo": "/logos/wizardshot.png",
+    "company": "Helpjuice",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Free AI tool that turns screen captures into step-by-step tutorials.",
+    "pricing": "free",
+    "tags": [
+      "tutorials",
+      "documentation",
+      "chrome extension",
+      "knowledge base"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://wizardshot.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wobo-ai",
+    "name": "Wobo.ai",
+    "logo": "/logos/wobo-ai.png",
+    "company": "Wobo",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "AI job-search copilot that auto-applies to jobs with tailored resumes.",
+    "pricing": "freemium",
+    "tags": [
+      "job search",
+      "auto apply",
+      "resume builder",
+      "careers"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.wobo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wokay",
+    "name": "Wokay",
+    "logo": "/logos/wokay.png",
+    "company": "Wokay",
+    "category": "productivity",
+    "subcategory": "team-collaboration",
+    "shortDescription": "Chat-first all-in-one work platform combining team chat, tasks, ticketing and calendars with a built-in AI assistant.",
+    "pricing": "freemium",
+    "tags": [
+      "team-chat",
+      "task-management",
+      "ticketing",
+      "calendar",
+      "ai-assistant",
+      "collaboration",
+      "intranet",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://wokay.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "workflawless",
+    "name": "WorkFlawless",
+    "logo": "/logos/workflawless.png",
+    "company": "WorkFlawless",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI platform for building workflows, SOPs, and team onboarding paths.",
+    "pricing": "paid",
+    "tags": [
+      "workflows",
+      "sop",
+      "onboarding"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://workflawless.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "workgpt",
+    "name": "WorkGPT",
+    "logo": "/logos/workgpt.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI work assistant for the US market, on web and Chrome.",
+    "pricing": "freemium",
+    "tags": [
+      "ai assistant",
+      "productivity",
+      "chrome extension"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://workgpt.us",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "workhub",
+    "name": "WorkHub",
+    "logo": "/logos/workhub.png",
+    "company": "WorkHub",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Privacy-focused platform combining centralized knowledge management with AI agents and automation.",
+    "pricing": "freemium",
+    "tags": [
+      "AI agents",
+      "knowledge management",
+      "customer support",
+      "automation",
+      "privacy",
+      "self-hosting",
+      "voice agents"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://workhub.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "worksbuddy",
+    "name": "WorksBuddy",
+    "logo": "/logos/worksbuddy.png",
+    "company": "WorksBuddy",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "All-in-one AI business operating system with eight agents covering CRM, tasks, billing, inventory, and automation.",
+    "pricing": "paid",
+    "tags": [
+      "business os",
+      "crm",
+      "invoicing",
+      "project management",
+      "ai agents"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://worksbuddy.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "worxmate",
+    "name": "Worxmate",
+    "logo": "/logos/worxmate.png",
+    "company": "Worxmate",
+    "category": "productivity",
+    "subcategory": "project-management",
+    "shortDescription": "AI-driven OKR and performance management platform for teams.",
+    "pricing": "freemium",
+    "tags": [
+      "OKR",
+      "performance management",
+      "team productivity"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://worxmate.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "writemage",
+    "name": "WriteMage",
+    "logo": "/logos/writemage.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "ChatGPT floating over every macOS and iOS app — no copy-paste.",
+    "pricing": "paid",
+    "tags": [
+      "writing-assistant",
+      "macos",
+      "ios",
+      "chatgpt",
+      "keyboard"
+    ],
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "officialUrl": "https://writemage.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wudpecker",
+    "name": "Wudpecker",
+    "logo": "/logos/wudpecker.png",
+    "company": "Wudpecker",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI meeting assistant that records, transcribes and summarizes your calls",
+    "pricing": "freemium",
+    "tags": [
+      "meeting notes",
+      "transcription",
+      "meeting assistant",
+      "summaries"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.wudpecker.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "wzrd",
+    "name": "WZRD",
+    "logo": "/logos/wzrd.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Turns slides, docs, sheets, and forms into interactive experiences with voice agents people can explore.",
+    "pricing": "paid",
+    "tags": [
+      "ai-slides",
+      "ai-documents",
+      "presentations",
+      "forms",
+      "spreadsheets",
+      "voice-agents",
+      "interactive-docs"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://wzrd.to",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "xten-av",
+    "name": "XTEN-AV",
+    "logo": "/logos/xten-av.png",
+    "company": "XTEN-AV",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI platform that automates AV design, BOMs, proposals, and project management for integrators.",
+    "pricing": "paid",
+    "tags": [
+      "av design",
+      "proposals",
+      "bom",
+      "project management",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://xtenav.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "yoodli",
+    "name": "Yoodli",
+    "logo": "/logos/yoodli.png",
+    "company": "Yoodli",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "AI speech coach that scores interview delivery — filler words, pacing, eye contact — on recorded practice roleplays.",
+    "pricing": "freemium",
+    "tags": [
+      "interview-practice",
+      "speech-coach",
+      "public-speaking",
+      "filler-words",
+      "delivery-feedback",
+      "ai-coach"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.yoodli.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "you-com",
+    "name": "You.com",
+    "logo": "/logos/you-com.png",
+    "company": "You.com",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI search engine blending chat answers, live web results, and research agents.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-search",
+      "chatbot",
+      "research-agent",
+      "web-search",
+      "privacy"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://you.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "youmind",
+    "name": "YouMind",
+    "logo": "/logos/youmind.png",
+    "company": "MIND MOTOR PTE. LTD.",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI research and note-taking studio that organizes what you read and write.",
+    "pricing": "freemium",
+    "tags": [
+      "notes",
+      "research",
+      "ai-assistant",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "officialUrl": "https://youmind.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "youtube-summarized",
+    "name": "YouTube Summarized",
+    "logo": "/logos/youtube-summarized.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI YouTube video summarizer with transcripts and chat (now SummYT).",
+    "pricing": "freemium",
+    "tags": [
+      "youtube",
+      "video-summarizer",
+      "transcripts",
+      "productivity",
+      "learning"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://youtubesummarized.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ytsummary",
+    "name": "YTSummary",
+    "logo": "/logos/ytsummary.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Summarize YouTube videos with AI outlines, mind maps, and chapters.",
+    "pricing": "freemium",
+    "tags": [
+      "youtube",
+      "video-summarizer",
+      "mind-maps",
+      "chrome-extension"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://ytsummary.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zapier",
+    "name": "Zapier",
+    "logo": "/logos/zapier.png",
+    "company": "Zapier",
+    "category": "productivity",
+    "subcategory": "Automation",
+    "shortDescription": "No-code automation connecting 9,000+ apps, now with AI agents and Copilot-assisted building.",
+    "pricing": "freemium",
+    "tags": [
+      "automation",
+      "workflow",
+      "integrations",
+      "no-code",
+      "ai-agents",
+      "api",
+      "productivity",
+      "saas"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://zapier.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zendesk-ai",
+    "name": "Zendesk AI",
+    "logo": "/logos/zendesk-ai.png",
+    "company": "Zendesk",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI layer for customer service: triage, bots, and agent copilot",
+    "pricing": "paid",
+    "tags": [
+      "customer-service",
+      "support",
+      "ai-agents"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.zendesk.com/ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zety-ai",
+    "name": "Zety AI",
+    "logo": "/logos/zety-ai.png",
+    "company": "BOLD",
+    "category": "productivity",
+    "subcategory": "resume-career",
+    "shortDescription": "Expert-guided resume and cover letter builder with 18 templates, resume scoring and instant job matches.",
+    "pricing": "freemium",
+    "tags": [
+      "resume",
+      "ai-writer",
+      "cover-letter",
+      "templates",
+      "ats",
+      "career-advice",
+      "job-search",
+      "career"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://zety.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zev",
+    "name": "Zev",
+    "logo": "/logos/zev.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "ChatGPT assistant bot for Telegram, LINE, and Viber.",
+    "pricing": "freemium",
+    "tags": [
+      "telegram bot",
+      "chatgpt",
+      "messaging",
+      "ai assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://zevbot.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zivy",
+    "name": "Zivy",
+    "logo": "/logos/zivy.png",
+    "company": "Zivy",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "AI co-pilot that triages Slack messages into action items, FYIs, and noise.",
+    "pricing": "paid",
+    "tags": [
+      "slack",
+      "ai assistant",
+      "inbox zero",
+      "team management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://zivy.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zoho-show",
+    "name": "Zoho Show",
+    "logo": "/logos/zoho-show.png",
+    "company": "Zoho Corporation",
+    "category": "productivity",
+    "subcategory": "presentations",
+    "shortDescription": "Free cloud presentation app with Zia AI that generates decks from prompts.",
+    "pricing": "free",
+    "tags": [
+      "presentation software",
+      "zia ai",
+      "slide decks",
+      "real-time collaboration",
+      "broadcast",
+      "powerpoint compatible",
+      "free presentations",
+      "zoho"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.zoho.com/show",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zoom-ai-companion",
+    "name": "Zoom AI Companion",
+    "logo": "/logos/zoom-ai-companion.png",
+    "company": "Zoom",
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "Zoom's built-in AI assistant for meeting summaries, smart recordings, and drafting across Zoom Workplace.",
+    "pricing": "paid",
+    "tags": [
+      "meeting-assistant",
+      "ai-summaries",
+      "transcription",
+      "zoom",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://zoom.us",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "zozo",
+    "name": "ZoZo",
+    "logo": "/logos/zozo.png",
+    "company": null,
+    "category": "productivity",
+    "subcategory": "productivity",
+    "shortDescription": "iOS keyboard extension with custom share shortcuts and built-in ChatGPT access.",
+    "pricing": "freemium",
+    "tags": [
+      "iOS keyboard",
+      "keyboard shortcuts",
+      "ChatGPT",
+      "productivity",
+      "AI assistant"
+    ],
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "officialUrl": "https://www.zozoapp.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "abnormal-ai",
+    "name": "Abnormal AI",
+    "logo": "/logos/abnormal-ai.png",
+    "company": "Abnormal AI, Inc.",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Behavioral AI platform that stops email attacks like BEC, phishing, and account takeover other tools miss.",
+    "pricing": "paid",
+    "tags": [
+      "email-security",
+      "phishing",
+      "bec",
+      "account-takeover",
+      "behavioral-ai",
+      "microsoft-365",
+      "google-workspace",
+      "api-security"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://abnormal.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "agentbeam",
+    "name": "Agentbeam",
+    "logo": "/logos/agentbeam.png",
+    "company": null,
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Open-source AI agent security monitor with MCP and skill scanning",
+    "pricing": "open-source",
+    "tags": [
+      "ai-agent",
+      "security",
+      "monitoring",
+      "mcp",
+      "cybersecurity",
+      "agpl"
+    ],
+    "platforms": [
+      "linux",
+      "macos",
+      "api"
+    ],
+    "officialUrl": "https://github.com/whyashthakker/beam-cli",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "aisafe-labs",
+    "name": "AISafe Labs",
+    "logo": "/logos/aisafe-labs.png",
+    "company": "AISafe Labs",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "On-demand AI penetration tests and code audits for web apps, with reports in hours.",
+    "pricing": "freemium",
+    "tags": [
+      "penetration-testing",
+      "security-audit",
+      "code-review",
+      "ai-agents",
+      "vulnerability-scanning",
+      "appsec",
+      "compliance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://aisafe.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "amplify-security",
+    "name": "Amplify Security",
+    "logo": "/logos/amplify-security.png",
+    "company": null,
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-native security platform for securing AI-assisted code as it ships.",
+    "pricing": "freemium",
+    "tags": [
+      "aspm",
+      "appsec",
+      "ai-security",
+      "vibe-coding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://amplify.security",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "anomali-agentic-ai",
+    "name": "Anomali Agentic AI",
+    "logo": "/logos/anomali-agentic-ai.png",
+    "company": "Anomali",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Agentic AI for the security operations center — automates threat detection, investigation and response.",
+    "pricing": "paid",
+    "tags": [
+      "cybersecurity",
+      "agentic-ai",
+      "SOC",
+      "threat-intelligence",
+      "SIEM",
+      "security-automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.anomali.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "arcjet",
+    "name": "Arcjet",
+    "logo": "/logos/arcjet.png",
+    "company": "Arcjet",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Runtime security platform for AI agents: prompt-injection detection and tool-call authorization.",
+    "pricing": "freemium",
+    "tags": [
+      "security",
+      "ai-agents",
+      "prompt-injection",
+      "sdk",
+      "tool-authorization",
+      "runtime-security"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://arcjet.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "arctic-wolf",
+    "name": "Arctic Wolf",
+    "logo": "/logos/arctic-wolf.png",
+    "company": "Arctic Wolf",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-powered managed detection and response on the Aurora platform with a 24/7 agentic SOC.",
+    "pricing": "paid",
+    "tags": [
+      "mdr",
+      "soc-as-a-service",
+      "agentic-ai",
+      "threat-detection",
+      "incident-response",
+      "managed-security",
+      "vulnerability-management",
+      "msp"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://arcticwolf.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "armis",
+    "name": "Armis",
+    "logo": "/logos/armis.png",
+    "company": "Armis",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-powered cyber exposure management that discovers and secures every asset, including OT, IoT, and medical devices.",
+    "pricing": "paid",
+    "tags": [
+      "asset-management",
+      "exposure-management",
+      "ot-security",
+      "iot-security",
+      "vulnerability-management",
+      "risk-prioritization",
+      "medical-devices",
+      "threat-intelligence"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.armis.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "asqav",
+    "name": "asqav",
+    "logo": "/logos/asqav.png",
+    "company": null,
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI agent governance SDK with cryptographic audit trails",
+    "pricing": "open-source",
+    "tags": [
+      "agent-governance",
+      "audit-trail",
+      "sdk",
+      "open-source"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://asqav.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "blackberry-cylance",
+    "name": "BlackBerry Cylance",
+    "logo": "/logos/blackberry-cylance.png",
+    "company": "BlackBerry",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-driven endpoint protection using predictive machine learning to stop malware before it executes.",
+    "pricing": "paid",
+    "tags": [
+      "endpoint-protection",
+      "edr",
+      "machine-learning",
+      "zero-day",
+      "ransomware",
+      "mdr",
+      "zero-trust",
+      "application-control"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "api"
+    ],
+    "officialUrl": "https://www.blackberry.com/us/en/products/cylance-endpoint-security/cylance-endpoint",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "blurdata",
+    "name": "BlurData",
+    "logo": "/logos/blurdata.png",
+    "company": "BlurData",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI tool that detects and blurs sensitive data in screenshots and videos.",
+    "pricing": "paid",
+    "tags": [
+      "privacy",
+      "redaction",
+      "data-protection",
+      "screenshots"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://blurdata.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "check-point-infinity",
+    "name": "Check Point Infinity",
+    "logo": "/logos/check-point-infinity.png",
+    "company": "Check Point Software Technologies",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-powered unified security platform with ThreatCloud AI, Infinity SOC, and a GenAI copilot.",
+    "pricing": "paid",
+    "tags": [
+      "threat-prevention",
+      "threatcloud-ai",
+      "soc-automation",
+      "firewall",
+      "endpoint-protection",
+      "cloud-security",
+      "genai-copilot",
+      "playbooks"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "api"
+    ],
+    "officialUrl": "https://www.checkpoint.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "contractreader",
+    "name": "ContractReader.io",
+    "logo": "/logos/contractreader.png",
+    "company": null,
+    "category": "security",
+    "subcategory": "security",
+    "shortDescription": "AI reader and security reviewer for Ethereum smart contracts.",
+    "pricing": "freemium",
+    "tags": [
+      "smart-contracts",
+      "blockchain",
+      "security-audit",
+      "ethereum",
+      "gpt-4"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.contractreader.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "corrath",
+    "name": "Corrath",
+    "logo": "/logos/corrath.png",
+    "company": "Corrath",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Security gateway for AI apps: blocks prompt injections, caps LLM spending, and fails over between providers in milliseconds.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-security",
+      "llm-gateway",
+      "prompt-injection",
+      "api-gateway",
+      "cost-control",
+      "threat-detection",
+      "failover",
+      "devtools"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://corrath.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "credal-ai",
+    "name": "Credal.ai",
+    "logo": "/logos/credal-ai.png",
+    "company": "Credal",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Enterprise AI governance: build scoped, audited AI agents with cost visibility and guardrails.",
+    "pricing": "paid",
+    "tags": [
+      "ai governance",
+      "mcp",
+      "enterprise ai",
+      "data security",
+      "audit logs"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://credal.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "crowdstrike-falcon",
+    "name": "CrowdStrike Falcon",
+    "logo": "/logos/crowdstrike-falcon.png",
+    "company": "CrowdStrike",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-native endpoint protection platform with agentic AI SOC capabilities and cloud-scale threat intelligence.",
+    "pricing": "paid",
+    "tags": [
+      "edr",
+      "xdr",
+      "endpoint-protection",
+      "agentic-ai",
+      "threat-intelligence",
+      "ransomware-protection",
+      "cloud-security",
+      "soc-automation"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "api"
+    ],
+    "officialUrl": "https://www.crowdstrike.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cycles",
+    "name": "Cycles",
+    "logo": "/logos/cycles.png",
+    "company": null,
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Runtime guardrails enforcing budgets and actions for AI agents",
+    "pricing": "open-source",
+    "tags": [
+      "agent-safety",
+      "guardrails",
+      "open-source",
+      "budgets"
+    ],
+    "platforms": [],
+    "officialUrl": "https://runcycles.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cynet",
+    "name": "Cynet",
+    "logo": "/logos/cynet.png",
+    "company": "Cynet",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "All-in-one 360 AutoXDR platform with 24/7 managed detection and response for lean security teams.",
+    "pricing": "paid",
+    "tags": [
+      "xdr",
+      "edr",
+      "mdr",
+      "soc-automation",
+      "endpoint-protection",
+      "network-security",
+      "incident-response",
+      "smb-security"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "api"
+    ],
+    "officialUrl": "https://www.cynet.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "darktrace",
+    "name": "Darktrace",
+    "logo": "/logos/darktrace.png",
+    "company": "Darktrace",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI cybersecurity platform that learns your organization's behavior to detect and stop novel threats autonomously.",
+    "pricing": "paid",
+    "tags": [
+      "threat-detection",
+      "ndr",
+      "email-security",
+      "behavioral-ai",
+      "autonomous-response",
+      "ai-analyst",
+      "network-security",
+      "cloud-security"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://darktrace.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "decawork",
+    "name": "Decawork",
+    "logo": "/logos/decawork.png",
+    "company": "Decawork",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Trains company-specific models that approve every AI agent action in real time — one control plane for the internal agent fleet.",
+    "pricing": "paid",
+    "tags": [
+      "ai-agents",
+      "agent-governance",
+      "access-control",
+      "approval-workflows",
+      "audit-trail",
+      "it-security",
+      "soc-2",
+      "policy-enforcement"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://decawork.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "deep-instinct",
+    "name": "Deep Instinct",
+    "logo": "/logos/deep-instinct.png",
+    "company": "Deep Instinct",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Deep-learning endpoint security that predicts and prevents threats in under 20 milliseconds.",
+    "pricing": "paid",
+    "tags": [
+      "endpoint-protection",
+      "deep-learning",
+      "zero-day",
+      "ransomware",
+      "prevention",
+      "genai-assistant",
+      "malware-analysis",
+      "threat-prevention"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "api"
+    ],
+    "officialUrl": "https://www.deepinstinct.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "exabeam",
+    "name": "Exabeam",
+    "logo": "/logos/exabeam.png",
+    "company": "Exabeam",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "New-Scale SIEM with Exabeam Nova, a multi-agent AI system for autonomous threat detection and investigation.",
+    "pricing": "paid",
+    "tags": [
+      "siem",
+      "agentic-ai",
+      "ueba",
+      "soc-automation",
+      "threat-detection",
+      "log-management",
+      "behavioral-analytics",
+      "incident-response"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.exabeam.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "facia",
+    "name": "Facia",
+    "logo": "/logos/facia.png",
+    "company": "Facia",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Face recognition and 3D liveness detection for identity verification.",
+    "pricing": "paid",
+    "tags": [
+      "face-recognition",
+      "liveness-detection",
+      "deepfake-detection",
+      "identity-verification",
+      "kyc"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://facia.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gecko-security",
+    "name": "Gecko Security",
+    "logo": "/logos/gecko-security.png",
+    "company": "Gecko Security",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-powered vulnerability scanner that finds security flaws in your code.",
+    "pricing": "freemium",
+    "tags": [
+      "security",
+      "vulnerability scanning",
+      "code review",
+      "LLM"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.gecko.security",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "google-chronicle",
+    "name": "Google Security Operations",
+    "logo": "/logos/google-chronicle.png",
+    "company": "Google",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Google's cloud-native SecOps platform (formerly Chronicle) unifying SIEM, SOAR, and threat intelligence.",
+    "pricing": "paid",
+    "tags": [
+      "siem",
+      "soar",
+      "threat-intelligence",
+      "gemini-ai",
+      "mandiant",
+      "virustotal",
+      "threat-hunting",
+      "cloud-security"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://chronicle.security",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "hack-my-website",
+    "name": "Hack My Website",
+    "logo": "/logos/hack-my-website.png",
+    "company": "AIVI Intelligence",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Automated website security scanner that audits sites and generates AI-written fix prompts.",
+    "pricing": "paid",
+    "tags": [
+      "security scanner",
+      "vulnerability audit",
+      "penetration testing",
+      "website security",
+      "ai fixes",
+      "owasp",
+      "sast",
+      "dast"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://hmw.aivilabs.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "harden-aif",
+    "name": "Harden AIF",
+    "logo": "/logos/harden-aif.png",
+    "company": "Harden",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Local security layer that checks AI coding-agent actions before they execute and blocks the dangerous ones.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-security",
+      "coding-agents",
+      "cybersecurity",
+      "devtools",
+      "guardrails",
+      "local-first",
+      "agent-safety",
+      "freemium"
+    ],
+    "platforms": [
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://harden.run",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "huntress",
+    "name": "Huntress",
+    "logo": "/logos/huntress.png",
+    "company": "Huntress",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Agentic managed security platform with a 24/7 AI-centric SOC for endpoints, identities, and logs.",
+    "pricing": "paid",
+    "tags": [
+      "mdr",
+      "managed-edr",
+      "itdr",
+      "managed-siem",
+      "soc-as-a-service",
+      "msp",
+      "agentic-ai",
+      "identity-security"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "api"
+    ],
+    "officialUrl": "https://www.huntress.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "illuminarty",
+    "name": "Illuminarty",
+    "logo": "/logos/illuminarty.png",
+    "company": null,
+    "category": "security",
+    "subcategory": "security",
+    "shortDescription": "Detect AI-generated images and text",
+    "pricing": "freemium",
+    "tags": [
+      "AI detection",
+      "deepfake",
+      "authenticity"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://illuminarty.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ironscales",
+    "name": "IRONSCALES",
+    "logo": "/logos/ironscales.png",
+    "company": "IRONSCALES",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI email security with three autonomous agents for red teaming, phishing SOC triage, and phishing simulation.",
+    "pricing": "paid",
+    "tags": [
+      "email-security",
+      "phishing",
+      "ai-agents",
+      "red-teaming",
+      "security-awareness",
+      "soc-automation",
+      "deepfake-detection",
+      "incident-response"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://ironscales.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "luxand-cloud",
+    "name": "Luxand.Cloud",
+    "logo": "/logos/luxand-cloud.png",
+    "company": "Luxand, Inc",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Cloud API for face recognition, detection, and liveness checks.",
+    "pricing": "freemium",
+    "tags": [
+      "face recognition",
+      "api",
+      "kyc",
+      "biometrics"
+    ],
+    "platforms": [
+      "api",
+      "web"
+    ],
+    "officialUrl": "https://luxand.cloud",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "microsoft-security-copilot",
+    "name": "Microsoft Security Copilot",
+    "logo": "/logos/microsoft-security-copilot.png",
+    "company": "Microsoft",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Generative AI security assistant embedded across Microsoft Defender, Sentinel, and Intune.",
+    "pricing": "paid",
+    "tags": [
+      "genai-assistant",
+      "soc-automation",
+      "incident-response",
+      "threat-intelligence",
+      "promptbooks",
+      "defender",
+      "sentinel",
+      "security-agents"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.microsoft.com/en-us/security/business/security-copilot",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mimecast",
+    "name": "Mimecast",
+    "logo": "/logos/mimecast.png",
+    "company": "Mimecast",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-powered email security and human risk management against phishing, BEC, and insider threats.",
+    "pricing": "paid",
+    "tags": [
+      "email-security",
+      "phishing",
+      "bec",
+      "malware-protection",
+      "dlp",
+      "dmarc",
+      "security-awareness",
+      "email-archiving"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.mimecast.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "orca-security",
+    "name": "Orca Security",
+    "logo": "/logos/orca-security.png",
+    "company": "Orca Security",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Agentless-first cloud security with SideScanning and AI agents for detection, investigation, and response.",
+    "pricing": "paid",
+    "tags": [
+      "cnapp",
+      "cloud-security",
+      "agentless",
+      "ai-agents",
+      "vulnerability-management",
+      "compliance",
+      "ai-security",
+      "attack-path"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://orca.security",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "palo-alto-cortex",
+    "name": "Palo Alto Networks Cortex",
+    "logo": "/logos/palo-alto-cortex.png",
+    "company": "Palo Alto Networks",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI-driven SecOps platform with Cortex XSIAM, XDR, XSOAR, and Xpanse for unified threat operations.",
+    "pricing": "paid",
+    "tags": [
+      "xsiam",
+      "xdr",
+      "soar",
+      "soc-automation",
+      "attack-surface",
+      "threat-detection",
+      "ai-analytics",
+      "incident-response"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.paloaltonetworks.com/cortex",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pixee",
+    "name": "Pixee",
+    "logo": "/logos/pixee.png",
+    "company": "Pixee",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Agentic security engineering platform that triages scanner findings and ships validated vulnerability fixes as pull requests.",
+    "pricing": "paid",
+    "tags": [
+      "appsec",
+      "vulnerability remediation",
+      "sast",
+      "ai agents",
+      "autofix",
+      "devsecops"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pixee.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "privacyscrubber",
+    "name": "PrivacyScrubber",
+    "logo": "/logos/privacyscrubber.png",
+    "company": "PrivacyScrubber",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Zero-trust PII redactor that sanitizes prompts locally before they reach cloud AI models.",
+    "pricing": "freemium",
+    "tags": [
+      "pii redaction",
+      "privacy",
+      "data sanitization",
+      "mcp",
+      "compliance"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://privacyscrubber.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "proofpoint",
+    "name": "Proofpoint",
+    "logo": "/logos/proofpoint.png",
+    "company": "Proofpoint",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "Nexus AI-powered email and human-risk security platform protecting people from targeted attacks.",
+    "pricing": "paid",
+    "tags": [
+      "email-security",
+      "phishing",
+      "threat-intelligence",
+      "dlp",
+      "bec",
+      "malware-protection",
+      "security-awareness",
+      "nexus-ai"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.proofpoint.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "proxed-ai",
+    "name": "Proxed.AI",
+    "logo": "/logos/proxed-ai.png",
+    "company": "Proxed",
+    "category": "security",
+    "subcategory": "cybersecurity",
+    "shortDescription": "AI API security with discovery, protection, and bot mitigation.",
+    "pricing": "freemium",
+    "tags": [
+      "api-security",
+      "bot-protection",
+      "cybersecurity"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://proxed.ai",
+    "affiliateUrl": null
+  }
+]

@@ -1,0 +1,313 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk80: Partial<Record<ToolSlug, ToolDetail>> = {
+  "wordai": {
+    "verdict": "AI article rewriter and paraphrasing tool.",
+    "overview": [
+      "WordAi rewrites articles and content at scale while preserving meaning, popular with SEOs and content teams. It restructures sentences and enriches text automatically. Paid plans start around $57 per month with API access."
+    ],
+    "features": [
+      "AI article rewriting",
+      "Bulk processing",
+      "Sentence restructuring",
+      "API access"
+    ],
+    "pros": [
+      "High-volume rewriting",
+      "Readable output",
+      "API for automation"
+    ],
+    "cons": [
+      "Spun content needs review",
+      "Pricey for casual use"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wordfixerbot": {
+    "verdict": "AI paraphraser and grammar checker from Australia.",
+    "overview": [
+      "WordfixerBot, an Australian company, offers AI paraphrasing, grammar checking, summarizing, and text comparison. It is free up to 8K characters per day, with Pro at $7 per month."
+    ],
+    "features": [
+      "Paraphraser",
+      "Grammar checker",
+      "Summarizer",
+      "Text comparison"
+    ],
+    "pros": [
+      "Generous free allowance"
+    ],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wordhero": {
+    "verdict": "AI writing tool for marketing content.",
+    "overview": [
+      "WordHero is an AI writing assistant for marketing copy, blog posts, and business content. Paid plans start at $29 per month, and the company is J1 Holdings in Canada. Note: some listings link an affiliate redirect at aivolut.com, but the official site is wordhero.co."
+    ],
+    "features": [
+      "Marketing copy generation",
+      "Blog post writer",
+      "Content templates",
+      "Long-form editor"
+    ],
+    "pros": [
+      "Wide template range",
+      "Affordable entry price",
+      "Simple interface"
+    ],
+    "cons": [
+      "Paid only",
+      "Output needs editing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wordly": {
+    "verdict": "AI-powered live translation and captions for meetings and events in 25+ languages — no interpreters or headsets needed.",
+    "overview": [
+      "Wordly provides live AI translation, captioning and interpretation for in-person, virtual and hybrid meetings and events. Attendees use a free iOS/Android app to hear or read the session in their preferred language with no account required, while organizers buy based on translation hours and attendees. Custom glossaries and transcripts improve quality and post-event follow-up."
+    ],
+    "features": [
+      "Live AI translation into audio and captions in 25+ languages",
+      "Free attendee mobile app (iOS/Android), no account needed",
+      "Custom translation glossaries for terminology control",
+      "Translated transcripts, summaries and video captions",
+      "Push-to-talk for presenters anywhere in the room",
+      "Integrations with major video conferencing platforms",
+      "Available on-demand 24/7 with no special equipment",
+      "Background play for listening while multitasking"
+    ],
+    "pros": [
+      "Attendees need no account or personal info — low-friction onboarding",
+      "Claims up to 90% cost savings vs human interpreters",
+      "All languages for one price instead of paying per interpreter",
+      "Minutes of setup with no special hardware or IT support"
+    ],
+    "cons": [
+      "Custom quote-based pricing — no public entry price",
+      "Free app is attendees-only; organizers must purchase accounts",
+      "AI accuracy may miss cultural nuance compared to human interpreters"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wordtune": {
+    "verdict": "AI writing assistant that rewrites for clarity",
+    "overview": [
+      "Wordtune is an AI writing assistant from AI21 Labs that rewrites sentences to sound clearer and more natural. It offers a free tier with 10 daily rewrites, Advanced around $13.99 per month, and Unlimited around $19.99 per month. The product works via web editor, browser extension, iOS app, and API."
+    ],
+    "features": [
+      "AI sentence rewriting",
+      "Tone and formality control",
+      "Web, extension, iOS, and API"
+    ],
+    "pros": [
+      "Excellent rewrite quality",
+      "Works across platforms"
+    ],
+    "cons": [
+      "Free tier caps daily rewrites",
+      "Premium from ~$13.99/mo"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "writeme-ai": {
+    "verdict": "AI writing assistant with generous free tier",
+    "overview": [
+      "WriteMe.ai is an AI writing assistant offering 2,000 free words per month, with Freelance at $10 per month, Agency at $25, and Enterprise at $50. It is run by TurboAnchor with web and Chrome extension access. The product targets freelancers and content teams."
+    ],
+    "features": [
+      "AI writing assistant",
+      "2,000 free words/mo",
+      "Web and Chrome extension"
+    ],
+    "pros": [
+      "Generous free word allowance",
+      "Clear tiered pricing"
+    ],
+    "cons": [
+      "Free tier caps words",
+      "Crowded writing market"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "writers-brew": {
+    "verdict": "macOS AI writing assistant that works in any app.",
+    "overview": [
+      "Writers Brew is a macOS AI writing assistant that brings AI rewriting and generation to any app via a global shortcut. Sold for a $39 one-time payment with a free version, it targets Mac writers who want AI help without switching apps."
+    ],
+    "features": [
+      "System-wide AI writing",
+      "Global shortcut access",
+      "Rewrite and generate modes",
+      "Works in any Mac app",
+      "One-time $39 purchase"
+    ],
+    "pros": [
+      "Works everywhere on Mac",
+      "One-time price",
+      "Free version available"
+    ],
+    "cons": [
+      "macOS only",
+      "Needs your own API key costs",
+      "Indie support"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "writesonic": {
+    "verdict": "Budget-friendly AI writing platform with SEO article tools, templates and a chatbot.",
+    "overview": [
+      "Writesonic is an affordable AI writing platform aimed at bloggers, freelancers and SEO-focused teams, combining an AI article writer, the Chatsonic chatbot, SEO tooling and 100+ copy templates. A limited free tier (25 credits/mo) lets users test the platform with no credit card required."
+    ],
+    "features": [
+      "Article Writer 6.0 with live web research",
+      "Chatsonic AI chat with real-time web access",
+      "100+ copywriting templates",
+      "Built-in SEO content optimizer",
+      "Brand voice customization",
+      "Bulk article generation",
+      "API access (separate billing)",
+      "Botsonic chatbot builder"
+    ],
+    "pros": [
+      "Best price-to-quality ratio in the AI writing category (~$16/mo entry)",
+      "Free tier requires no credit card and includes real features",
+      "Strong SEO workflow tooling for content teams"
+    ],
+    "cons": [
+      "Credit system is confusing and generation limits hit fast",
+      "Output quality trails Claude Pro on nuanced long-form writing",
+      "Some features are gated inconsistently between tiers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "writitude": {
+    "verdict": "Automates brand tone and style guidance for content teams.",
+    "overview": [
+      "Writitude is an AI platform that codifies a company's tone of voice and writing style, then helps teams apply it consistently across content. It acts as an always-on style guide that reviews drafts and suggests on-brand rewrites. The company is based in Riga, Latvia, and was founded in 2023."
+    ],
+    "features": [
+      "tone-of-voice automation",
+      "brand style guidance",
+      "draft review and rewrites"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "xtm-cloud": {
+    "verdict": "AI-driven enterprise translation management system for large-scale localization.",
+    "overview": [
+      "XTM Cloud is a web-based enterprise translation management system that centralizes translation memory, terminology, workflows, and translator workbenches in one place. It uses AI-powered automation and quality checks, supports 220+ languages and 50+ out-of-the-box integrations, and serves some of the world's largest LSPs and enterprises. It acquired Transifex to unify its AI localization strategy."
+    ],
+    "features": [
+      "Centralized translation memory and terminology management",
+      "AI-powered workflow automation and quality checks",
+      "50+ out-of-the-box integrations plus a REST API",
+      "Support for 220+ languages",
+      "In-context WYSIWYG review and LQA quality tests",
+      "Usage-based pricing model",
+      "ISO 27001-certified security with audit-ready workflows",
+      "Unlimited words per month on paid plans"
+    ],
+    "pros": [
+      "True enterprise TMS with deep automation and governance controls",
+      "Acquisition of Transifex strengthens its AI content localization strategy",
+      "Supports hundreds of languages and very high volumes"
+    ],
+    "cons": [
+      "No free plan; entry tier is overkill for small teams",
+      "Value-for-money scores lag behind in some review aggregators",
+      "Public pricing figures vary across aggregator listings"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yapify": {
+    "verdict": "Voice-powered AI email assistant that drafts full emails from spoken instructions.",
+    "overview": [
+      "Yapify lets users draft complete emails using voice commands inside Gmail, Outlook, or Superhuman. The AI learns the user's writing style from email history and reads whole threads for context, handling recipients, attachments, and meeting links automatically. It is built for professionals drowning in email who want to stop typing and start talking."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yoink": {
+    "verdict": "AI writing copilot that writes for you in any text field.",
+    "overview": [
+      "Yoink AI is a writing copilot that works directly inside any text field instead of a separate chat window. It captures what you are working on for automatic context, completes your work in place, and lets you build personalized voice profiles from your own examples. It targets professionals who want AI writing help without the tab-switching."
+    ],
+    "features": [
+      "Writes directly in any app's text field",
+      "Automatic work-context capture",
+      "Personalized voice profiles"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "zentask": {
+    "verdict": "AI chat assistant that writes text, code, and images from one workspace.",
+    "overview": [
+      "Zentask is an AI productivity workspace that combines a chatbot with writing tools, code generation, and image creation, plus prompt templates for common tasks."
+    ],
+    "features": [
+      "AI chat",
+      "Writing assistance",
+      "Code generation",
+      "AI image generation",
+      "Prompt templates"
+    ],
+    "pros": [
+      "Multiple AI capabilities in one place",
+      "Simple, approachable interface"
+    ],
+    "cons": [
+      "Crowded market with limited differentiation",
+      "Top-tier models only on the paid plan"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

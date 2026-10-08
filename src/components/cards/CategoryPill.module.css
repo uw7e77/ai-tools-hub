@@ -1,0 +1,38 @@
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-8);
+  min-height: 40px;
+  padding-inline: var(--space-16);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  transition:
+    background-color var(--duration) var(--ease-out),
+    border-color var(--duration) var(--ease-out),
+    color var(--duration) var(--ease-out);
+}
+
+@media (max-width: 767px) {
+  .pill {
+    min-height: 44px;
+  }
+}
+
+.pill:hover {
+  background: var(--surface-raise);
+  border-color: var(--border-hover);
+  color: var(--text);
+}
+
+.icon {
+  color: var(--text-tertiary);
+  transition: color var(--duration) var(--ease-out);
+}
+
+.pill:hover .icon {
+  color: var(--accent-hover);
+}

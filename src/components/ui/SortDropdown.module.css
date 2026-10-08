@@ -1,0 +1,39 @@
+.wrap {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.select {
+  appearance: none;
+  width: 100%;
+  min-width: 0;
+  height: 44px;
+  padding: 0 var(--space-32) 0 var(--space-12);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  cursor: pointer;
+  transition: border-color var(--duration) var(--ease-out);
+}
+
+.select:hover {
+  border-color: var(--border-hover);
+}
+
+.select option {
+  background: var(--surface-raise);
+  color: var(--text);
+}
+
+.chevron {
+  position: absolute;
+  right: var(--space-12);
+  color: var(--text-tertiary);
+  pointer-events: none;
+}

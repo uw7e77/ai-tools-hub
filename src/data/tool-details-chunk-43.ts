@@ -1,0 +1,1592 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk43: Partial<Record<ToolSlug, ToolDetail>> = {
+  "tripo": {
+    "verdict": "Text and image-to-3D generator with an editing stack — retopology, texturing, and animation.",
+    "overview": [
+      "Tripo (by Tripo3D/VAST) generates 3D models from text or images and adds an editing stack with retopology, texturing, and animation. It suits game developers who need more than raw generation — assets can be refined in the same platform. The Basic tier is free with 600 credits per month; Professional is $15.90/mo."
+    ],
+    "features": [
+      "Text-to-3D generation",
+      "Image-to-3D generation",
+      "Retopology tools",
+      "Texture generation and editing",
+      "Model animation features",
+      "Basic free tier (600 credits/mo)",
+      "Professional tier at $15.90/mo"
+    ],
+    "pros": [
+      "Editing stack reduces need for external DCC tools",
+      "Generous free credit allowance",
+      "Affordable Pro tier"
+    ],
+    "cons": [
+      "Credit limits cap heavy production on free tier",
+      "Output quality varies by input complexity"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "trips-by-tripadvisor": {
+    "verdict": "TripAdvisor's free AI trip planner with itineraries from 1B+ reviews.",
+    "overview": [
+      "Trips is TripAdvisor's AI trip planning experience, drawing on more than one billion traveler reviews. Users answer a few questions to get AI-generated personalized itineraries, or build trips manually with a visual planner. Saved hotels, restaurants, and attractions appear on a custom map, and trips can be shared and collaborated on with travel companions."
+    ],
+    "features": [
+      "AI-generated personalized itineraries",
+      "Visual trip builder with custom map",
+      "Backed by 1B+ traveler reviews",
+      "Group collaboration and sharing"
+    ],
+    "pros": [
+      "Completely free to use",
+      "Powered by massive review database",
+      "Collaborative trip planning"
+    ],
+    "cons": [
+      "Suggestions skew toward popular tourist spots",
+      "AI is more of a recommendation engine than a conversational planner",
+      "Flights and hotels planned separately from the trip builder"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ubie": {
+    "verdict": "Free AI symptom checker that predicts likely conditions and guides patients to the right care.",
+    "overview": [
+      "Ubie is a healthcare AI company whose free online Symptom Checker uses a disease-prediction questionnaire engine to guide patients from symptoms to appropriate care, reporting 10M+ monthly users. Its provider solutions power digital front doors and chronic disease management for 1,800+ healthcare organizations in Japan, and it collaborates with Mayo Clinic on US health-system products."
+    ],
+    "features": [
+      "Free online AI symptom checker",
+      "Disease-prediction questionnaire engine",
+      "Next-step guidance to appropriate care",
+      "Ubie Consult and Doctors Note consumer products",
+      "Provider digital front door (Smart Support) with triage-to-booking",
+      "Chronic disease management modules",
+      "1,800+ provider organizations in Japan",
+      "Mayo Clinic collaboration on US products"
+    ],
+    "pros": [
+      "Free consumer symptom checker with strong clinical validation",
+      "Mayo Clinic partnership lends credibility to US expansion",
+      "13M+ monthly users globally (company-reported)",
+      "Full ecosystem: consumer triage plus provider front-door tools"
+    ],
+    "cons": [
+      "Consumer symptom checker, not a clinician documentation tool",
+      "Provider solutions strongest in Japan; US rollout still building",
+      "Patients still need human follow-up for actual care"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ultrahuman": {
+    "verdict": "Subscription-free smart rings and health platform with AI insights for sleep, recovery, HRV and glucose.",
+    "overview": [
+      "Ultrahuman makes the Ring PRO and Ring AIR smart rings plus a wider health ecosystem (CGM sensors, Blood Vision biomarker testing, Ultrahuman Home). Its app converts ring data into sleep, recovery, movement and cycle insights through the UltraSphere decision engine and Jade AI coach, and core health tracking needs no monthly subscription. The app can also ingest data from Apple Watch, Whoop, Polar and Garmin devices."
+    ],
+    "features": [
+      "Sleep Index with sleep-stage breakdown",
+      "Recovery and readiness insights from HRV and resting heart rate",
+      "Movement Index for all-day activity tracking",
+      "Cycle, ovulation and pregnancy tracking",
+      "UltraSphere decision engine for actionable recommendations",
+      "Jade AI coach inside the app",
+      "PowerPlugs modular add-on features",
+      "Third-party device data import (Apple Watch, Whoop, Polar, Garmin)"
+    ],
+    "pros": [
+      "Core tracking free of subscription, unlike key rivals",
+      "Broad ecosystem: rings, CGM, blood testing, home monitoring",
+      "Welcomes third-party wearable data in one app",
+      "Long battery life (up to 15 days on Ring PRO)"
+    ],
+    "cons": [
+      "Requires purchasing a smart ring to get started",
+      "Modular PowerPlugs add-ons may carry extra costs",
+      "Search-result coverage only for some AI feature claims"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "user1st": {
+    "verdict": "SaaS accessibility platform that remediates issues in the cloud, not just scans.",
+    "overview": [
+      "User1st is a US-based SaaS accessibility platform centered on uRemediate, a cloud service that remediates website accessibility issues rather than only flagging them. It combines automated scanning, AI remediation recommendations, dashboards, role-based access, and DevOps integrations. A free light version exists, with paid plans starting around $450/year including a 14-day free trial."
+    ],
+    "features": [
+      "uRemediate cloud-based automated remediation service",
+      "Automated testing against WCAG and ADA standards",
+      "AI remediation recommendations with accessibility scores",
+      "Scheduled weekly, monthly, or annual scans",
+      "Dashboards with advanced filtering and role-based access",
+      "DevOps integrations (GitHub, Jira, WordPress)",
+      "Supports 190+ languages",
+      "Free light version for basic checks"
+    ],
+    "pros": [
+      "Remediates issues, not just reports them",
+      "Cloud-based with no software to install",
+      "DevOps integrations fit engineering workflows",
+      "Affordable annual entry point with free trial"
+    ],
+    "cons": [
+      "No published pricing; quotes come via consultation",
+      "Smaller market footprint than top competitors",
+      "Free tier is light on features"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "userway": {
+    "verdict": "AI accessibility widget with free tier, automated HTML remediation, and managed compliance services.",
+    "overview": [
+      "UserWay is a widely deployed accessibility platform combining a free visitor widget with AI-powered automated remediation on paid plans. The paid widget remediates underlying HTML continuously while the interface lets visitors personalize contrast, fonts, spacing, and navigation. Acquired by Level Access in 2024, it also offers managed audits, real-time monitoring, PDF remediation, and legal support. Paid plans start around $49/month with a free widget tier."
+    ],
+    "features": [
+      "Free widget tier with user-triggered accessibility adjustments",
+      "AI-powered automated remediation of underlying HTML on paid plans",
+      "Full suite of 100+ accessibility tools in the widget menu",
+      "Support for 53+ languages with automatic locale detection",
+      "Customizable widget appearance to match site branding",
+      "Accessibility monitoring and real-time scanning",
+      "Managed services: audits, PDF remediation, legal support",
+      "Integrations with WordPress, Shopify, Wix, Webflow, and 20+ CMS platforms"
+    ],
+    "pros": [
+      "Free widget tier requires no credit card and installs in minutes",
+      "Lightweight embed and broad CMS/platform coverage",
+      "Privacy-by-design with no visitor PII or cookie collection",
+      "Backed by Level Access since the 2024 acquisition"
+    ],
+    "cons": [
+      "Each subdomain requires its own paid subscription",
+      "Manual audits and VPAT reports are paid add-ons",
+      "Widget scripts do not permanently fix underlying code on the free tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "uthana": {
+    "verdict": "Generative AI for 3D character animation and motion capture",
+    "overview": [
+      "Uthana is a generative AI platform that creates lifelike 3D human motion for games, animation, and embodied AI. Its foundation models generate motion from text descriptions or convert 2D video into editable skeletal animation, with retargeting across arbitrary character rigs and robots. A GraphQL API and exports in FBX, GLB, and BVH let studios plug it into existing pipelines without traditional motion capture."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vacay-chatbot": {
+    "verdict": "Free AI chatbot that plans vacations conversationally — hotels, restaurants and activities tailored to your style.",
+    "overview": [
+      "Vacay is a free AI travel chatbot that acts as a personal vacation planner inside one conversation. It generates personalized recommendations for destinations, accommodations, restaurants and activities based on your preferences, budget and travel style, and keeps refining them through chat follow-ups. Multilingual support, visual comparisons and exportable chat history make it useful for both casual travelers and travel advisors."
+    ],
+    "features": [
+      "Conversational AI vacation planning",
+      "Personalized hotel, restaurant and attraction recommendations",
+      "Itinerary refinement through iterative chat",
+      "Budget-aware suggestions",
+      "Multilingual support",
+      "Exportable chat history",
+      "Visual comparisons of options",
+      "Direct-to-source links for booking"
+    ],
+    "pros": [
+      "Free to use with no paywall on core planning",
+      "Chat format makes planning feel natural and iterative",
+      "Exportable chat history keeps your research organized",
+      "Multilingual support broadens its audience"
+    ],
+    "cons": [
+      "Does not handle bookings directly — it only gives recommendations",
+      "Quality of recommendations depends heavily on the detail of your inputs",
+      "Small/new product with limited third-party validation"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "verbit": {
+    "verdict": "AI plus human transcription and captioning platform for education, legal, and media.",
+    "overview": [
+      "Verbit is a unicorn transcription and captioning company (founded 2017) combining in-house AI speech recognition with professional human editors for 99%+ accuracy. It covers live and recorded transcription, captioning, CART services, audio description, translation, and dubbing across education, legal, media, and enterprise. Its Gen.V tool adds AI summaries and insights on top of transcripts, and it merged with 3Play Media to extend its media reach."
+    ],
+    "features": [
+      "AI plus human-reviewed transcription and captioning",
+      "Live captioning and real-time CART services",
+      "Audio description for video content",
+      "Legal transcription and deposition tools (Legal Visor)",
+      "Gen.V AI insights: summaries, titles, keywords",
+      "Voice dubbing and multilingual subtitles",
+      "Zoom, YouTube, and LMS integrations",
+      "SOC 2, HIPAA, GDPR, and VPAT compliance"
+    ],
+    "pros": [
+      "Adaptive AI trained on industry-specific language",
+      "Strong compliance posture for education and legal",
+      "Human review layer lifts accuracy for high-stakes files",
+      "Broad vertical coverage from courts to classrooms"
+    ],
+    "cons": [
+      "Pricing is custom and enterprise-oriented",
+      "Best results pair AI with paid human review",
+      "Platform complexity suits teams more than casual users"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "video2recipe": {
+    "verdict": "Convert cooking videos into written recipes with ingredients and steps.",
+    "overview": [
+      "Video2Recipe turns cooking videos into text recipes you can actually cook from: paste a YouTube, Instagram, TikTok, or Facebook link and the AI analyzes the transcript or audio to pull out the ingredient list and step-by-step instructions, delivered in under 10 seconds. It auto-detects the video's language and returns the recipe in English. The free plan covers 3 YouTube recipes per month; Home Cook and Chef plans (from $9/month) add all platforms, unlimited conversions, and priority support. An API is available for developers."
+    ],
+    "features": [
+      "Video-to-recipe from YouTube, Instagram, TikTok, Facebook",
+      "Ingredient lists and step-by-step instructions",
+      "Multi-language video detection",
+      "Save recipes for later",
+      "Developer API"
+    ],
+    "pros": [
+      "Recipes in under 10 seconds from a link",
+      "Multi-platform and multi-language support",
+      "Free plan to try"
+    ],
+    "cons": [
+      "Accuracy depends on video clarity and narration",
+      "Free plan limited to 3 YouTube recipes/month",
+      "Cooking videos only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "viome": {
+    "verdict": "At-home gut microbiome test using RNA sequencing, with personalized food scores and custom supplement formulas.",
+    "overview": [
+      "Viome is an at-home gut microbiome testing service that uses RNA metatranscriptomic sequencing to measure what your microbes are actually doing, not just what is there. The $279 Gut Intelligence Test generates 20+ health scores and 370+ personalized food recommendations, with optional custom probiotic and supplement formulas. Results are delivered through the Viome app."
+    ],
+    "features": [
+      "At-home stool test using RNA metatranscriptomic sequencing",
+      "25+ personalized gut health scores (inflammation, metabolic health, diversity)",
+      "370+ personalized food recommendations",
+      "Custom-formulated probiotic and supplement blends matched to your microbiome",
+      "Retesting and plan updates every 6 months",
+      "Viome app dashboard with recipes matched to your results",
+      "AI Health Agent for support questions"
+    ],
+    "pros": [
+      "RNA-based testing is technically deeper than DNA-only competitors",
+      "End-to-end system: testing plus personalized supplements",
+      "BBB-accredited business with A+ score",
+      "Company reports 90% of members see measurable improvement within 90 days"
+    ],
+    "cons": [
+      "Among the most expensive at-home microbiome tests and supplement subscriptions",
+      "Test results take 2-4 weeks and retesting is recommended every 6 months",
+      "Not diagnostic and does not replace medical testing",
+      "Trustpilot rating is low (2.4/5) with complaints about delays and weak results"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vital": {
+    "verdict": "AI app generating personalized spoken meditations from your prompt.",
+    "overview": [
+      "Vital is an AI-powered meditation app that generates a personalized spoken meditation from your own prompt. You choose a topic, an AI coach voice, a meditation technique, background audio, and session length, and it produces a guided session in minutes. It is designed for stress relief, focus, and sleep routines tailored to the moment."
+    ],
+    "features": [
+      "Prompt-generated guided meditations",
+      "Multiple AI coach voices",
+      "Eight meditation techniques",
+      "Melodic, binaural, nature, or silent backgrounds",
+      "Adjustable session durations"
+    ],
+    "pros": [
+      "Meditations tailored to your exact situation",
+      "Voice and technique variety",
+      "7-day free trial"
+    ],
+    "cons": [
+      "Paid plans from $9.99/month with no permanent free tier",
+      "Generated audio quality varies by prompt"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wanderlog": {
+    "verdict": "Map-based AI trip planner with route optimization, budgets and live group collaboration.",
+    "overview": [
+      "Wanderlog is a map-based trip planner that keeps your itinerary, reservations, budget, packing lists and route optimization in one shared workspace. The free tier covers unlimited trips, live group collaboration, flight/hotel/car imports and smart recommendations, while Pro at $39.99 a year adds offline access, an AI trip-planning assistant, automatic route optimization, deal alerts and Google Maps export. It shines for road trips and multi-stop group vacations."
+    ],
+    "features": [
+      "Map-based itinerary builder with drag-and-drop stops",
+      "AI trip-planning assistant (full version in Pro)",
+      "Automatic route optimization to minimize driving time",
+      "Real-time collaborative editing with travel companions",
+      "Budget tracking and Splitwise-style expense splitting",
+      "Flight, hotel and car rental import plus Gmail auto-import",
+      "Packing checklists and travel guides",
+      "Offline access and Google Maps export (Pro)"
+    ],
+    "pros": [
+      "Generous free tier with unlimited trips and live collaboration",
+      "Map and itinerary views work together, ideal for road trips",
+      "Built-in budget and expense splitting for group travel",
+      "Strong reviews – 4.9 on app stores per independent comparisons"
+    ],
+    "cons": [
+      "Free users lose offline access, which only comes with Pro",
+      "AI assistant is limited on the free tier",
+      "Not ideal if you want your itinerary in a spreadsheet"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "watchnow-ai": {
+    "verdict": "AI recommendations for what to watch",
+    "overview": [
+      "WatchNow AI helps users find what to watch next using AI recommendations. It offers a free trial period of 5 to 7 days plus a $9.99 one-time option. The company is Working Theory LLC."
+    ],
+    "features": [
+      "AI movie and show recommendations",
+      "Personalized watch suggestions",
+      "Trial plus $9.99 one-time"
+    ],
+    "pros": [
+      "Solves decision fatigue",
+      "Cheap one-time option"
+    ],
+    "cons": [
+      "Limited public detail",
+      "Niche entertainment use"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wave": {
+    "verdict": "WebAIM's free visual accessibility checker that overlays issues right on the page.",
+    "overview": [
+      "WAVE is WebAIM's free web accessibility evaluation tool and one of the most trusted first checks in the industry since 2001. It injects color-coded icons directly into the page to reveal errors, contrast failures, alerts, structural elements, and ARIA usage in context, with sidebar panels for details, structure, and contrast. Available as a free online tool and browser extensions, it evaluates everything client-side with no registration."
+    ],
+    "features": [
+      "Visual in-page icons showing accessibility issues in context",
+      "Summary sidebar with errors, alerts, features, and structural elements",
+      "Built-in color contrast checker panel",
+      "Heading structure and ARIA landmark outline views",
+      "Free browser extensions for Chrome and Firefox",
+      "No registration required; all evaluation runs client-side",
+      "WCAG A, AA, and Section 508 filtering of results",
+      "Paid API tiers for programmatic access"
+    ],
+    "pros": [
+      "Completely free with no account needed",
+      "Visual approach makes issues obvious to non-technical users",
+      "Trusted by universities and recommended by the OCR",
+      "Extensions test private and dynamic pages the server tool cannot"
+    ],
+    "cons": [
+      "Single-page checks do not replace full-site monitoring",
+      "Server version strips scripts, which can change results",
+      "Visual icons require interpretation; no prioritized scoring"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "webability": {
+    "verdict": "AI accessibility fixes plus an MCP server for IDEs and PDF remediation.",
+    "overview": [
+      "WebAbility.io is a Canada-founded accessibility platform (est. 2022) combining a visitor widget with AI-native fixes that apply directly in production. Standout features include an MCP server that runs accessibility scans and fixes locally inside Cursor, Claude Code, GitHub Copilot, VS Code, and Windsurf, plus PDF accessibility rebuilding with veraPDF/PAC validation. It offers a free trial widget with plans from around $12/month."
+    ],
+    "features": [
+      "AI-native accessibility fixes applied in production",
+      "MCP server for IDEs: Cursor, Claude Code, Copilot, VS Code, Windsurf",
+      "Framework-aware fixes for Tailwind, MUI, Bootstrap, Next.js, WordPress",
+      "PDF accessibility rebuilding with veraPDF/PAC validation",
+      "Screen reader compatibility and keyboard navigation enhancements",
+      "Color, contrast, and font adjustment tools",
+      "One-line installation on any platform",
+      "Vision pass detecting focus-visibility and fake-button issues"
+    ],
+    "pros": [
+      "IDE-native MCP workflow is a genuine differentiator",
+      "PDF accessibility coverage most widget tools lack",
+      "Framework-aware fixes reduce developer rework",
+      "Low price point for AI-driven remediation"
+    ],
+    "cons": [
+      "Self-reported review counts are not third-party verified",
+      "Newer company with a smaller track record",
+      "Widget-centric approach suits visitors more than developers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "welcoming-web": {
+    "verdict": "UK platform combining an accessibility widget, WCAG scanning, and AI remediation.",
+    "overview": [
+      "Welcoming Web is a Cambridge, UK-based accessibility platform combining a customizable visitor widget with WCAG 2.2 scanning and AI-assisted remediation. The platform maps every failure to its WCAG criterion, suggests fixes for team review, tracks new versus resolved issues over time, and offers PDF remediation and VPAT add-ons. Pricing starts free, with Pro plans from $19/month based on real traffic."
+    ],
+    "features": [
+      "Customizable accessibility widget for visitors",
+      "WCAG 2.2 and ADA Title III scanning and monitoring",
+      "AI-assisted remediation with guided fixes",
+      "Failure-to-criterion mapping for every issue",
+      "Scheduled scans tracking new, returning, and resolved issues",
+      "Analytics dashboard and compliance reports",
+      "PDF accessibility remediation add-on",
+      "Legal/VPAT documentation and white-label add-ons"
+    ],
+    "pros": [
+      "Widget, scanning, and AI remediation in one platform",
+      "Free browser scan gives an instant risk preview",
+      "Traffic-based pricing scales fairly with site size",
+      "No annual lock-in on Pro plans"
+    ],
+    "cons": [
+      "Newer brand with a smaller track record",
+      "Widget plus scanning is still no substitute for manual audits",
+      "Free tier is limited to getting started"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "where-to": {
+    "verdict": "AI travel planner suggesting destinations, activities, and itineraries.",
+    "overview": [
+      "Where To? is an AI-based travel planning tool created by Gary Meehan that suggests destinations, activities, and attractions based on user preferences. It factors in location, budget, available time, and interests, and provides ratings, reviews, and pricing details for each suggestion. Users can save favorite trips and destinations for later, and the tool is free to use."
+    ],
+    "features": [
+      "AI destination suggestions",
+      "Preference-based filtering by budget, time, and interests",
+      "Ratings, reviews, and pricing details per suggestion",
+      "Save favorite trips and destinations",
+      "Search for nearby and far-away places"
+    ],
+    "pros": [
+      "Free to use",
+      "Personalized recommendations",
+      "Detailed info in one place",
+      "Save trips for later"
+    ],
+    "cons": [
+      "Limited booking functionality",
+      "Smaller dataset than major travel platforms",
+      "Recommendation quality depends on input detail"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "whoop-coach": {
+    "verdict": "GPT-4-powered conversational coach in the WHOOP app that answers health questions from your biometric data.",
+    "overview": [
+      "WHOOP Coach is a generative AI feature inside the WHOOP app, powered by OpenAI's GPT-4, that combines WHOOP's proprietary algorithms with your recovery, strain, sleep and stress data to answer health and fitness questions in 50+ languages. It delivers adaptive strain targets, training-program help and weather-aware nudges, and is included with every WHOOP membership at no extra cost."
+    ],
+    "features": [
+      "Conversational Q&A on your biometrics in 50+ languages",
+      "Adaptive strain targets based on recovery and training history",
+      "Daily coaching cards for recovery, strain and sleep",
+      "Weather-aware workout and hydration recommendations",
+      "140+ behavior journal entries for personalized insights",
+      "Training program creation (e.g. 5K running plans)",
+      "Day in Review bedtime guidance",
+      "Explanations of WHOOP scores and health metrics"
+    ],
+    "pros": [
+      "Included with WHOOP membership at no additional cost",
+      "Deeply integrated with WHOOP's recovery science and sensor data",
+      "Responds in over 50 languages within seconds",
+      "Proactive, context-aware nudges (weather, location, physiology)"
+    ],
+    "cons": [
+      "Requires a WHOOP band plus an active membership (device stops syncing without it)",
+      "Cannot build detailed exercise-level workout plans yet",
+      "Limited conversational memory compared to dedicated chat coaches"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wishes-ai": {
+    "verdict": "AI-generated personalized wishes in 38 languages.",
+    "overview": [
+      "Wishes AI generates personalized greeting messages and images for occasions like birthdays and anniversaries. Users describe the person and event, pick from AI options in 38 languages and 10 image styles, then share. Freemium pricing has a free demo with a one-time-payment Premium tier."
+    ],
+    "features": [
+      "Personalized wish generation",
+      "38 languages",
+      "10 image styles",
+      "Share via social/email"
+    ],
+    "pros": [
+      "Multilingual",
+      "One-time Premium payment",
+      "Easy sharing"
+    ],
+    "cons": [
+      "AI text can feel generic",
+      "Limited customization"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "woebot": {
+    "verdict": "Chat-based AI mental-health companion delivering evidence-based CBT techniques, now focused on enterprise care.",
+    "overview": [
+      "Woebot Health is a chat-based AI mental-health platform offering evidence-based CBT, IPT, and DBT interventions through a relational conversational agent. Founded in 2017 by clinical research psychologist Dr. Alison Darcy and backed by multiple randomized controlled trials, it now focuses on enterprise and health-system deployments with mood tracking, journaling, and population-health analytics."
+    ],
+    "features": [
+      "Chat-based relational AI agent for mental-health support",
+      "Evidence-based CBT, IPT, and DBT intervention content",
+      "Daily mood check-ins with pattern and trigger analysis",
+      "Gratitude journaling exercises",
+      "Guided mindfulness practice",
+      "Progress reflection across conversation history",
+      "Crisis-language detection with external resource referrals",
+      "Enterprise analytics dashboard and EMR integrations"
+    ],
+    "pros": [
+      "Strongest clinical evidence of any mental-health chatbot (multiple RCTs)",
+      "Founded by a clinical psychologist with research-first rigor",
+      "HIPAA-compliant and recognized on Newsweek's digital health list",
+      "Most engagement happens off-hours, supplementing traditional care"
+    ],
+    "cons": [
+      "Pivoted to enterprise/B2B — no direct consumer purchase option currently",
+      "Not a crisis service; refers out for emergencies and is not a therapy replacement",
+      "Rules-based scripts can feel less flexible than generative AI chatbots"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wonderplan": {
+    "verdict": "Free budget-first AI trip planner that builds itineraries and tracks spending as you plan.",
+    "overview": [
+      "Wonderplan is a completely free AI trip planner whose standout angle is budgeting: you set a low, medium or high budget and it builds the itinerary around that limit, tracking in real time how each hotel, activity, meal or transport choice affects total cost. It generates day-by-day plans with accommodation and dining suggestions (including halal and vegan filters), offers drag-and-drop editing, real-time group collaboration, pre-built destination itineraries and PDF export for offline access."
+    ],
+    "features": [
+      "AI day-by-day itinerary generation from interests, budget and party size",
+      "Real-time budget tracking as you build the plan",
+      "Low / medium / high budget tiers for activities and dining",
+      "Drag-and-drop itinerary editing on a single page",
+      "Accommodation recommendations matched to travel style",
+      "Activity and food-preference filters including halal and vegan",
+      "Real-time group collaboration with built-in chat",
+      "PDF download of completed itineraries for offline use"
+    ],
+    "pros": [
+      "Completely free with no subscription required",
+      "Budget-aware planning is a genuine differentiator",
+      "PDF export keeps plans usable offline"
+    ],
+    "cons": [
+      "No direct booking of flights or hotels",
+      "Interface reported as less polished than bigger competitors",
+      "AI recommendation accuracy can vary without customization"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wysa": {
+    "verdict": "Anonymous AI mental-health chatbot with CBT-based exercises, mood tracking, and optional human coaching.",
+    "overview": [
+      "Wysa is an AI mental-wellbeing chatbot that guides users through CBT and DBT-based self-help conversations, journaling, and mindfulness exercises. It is anonymous with no account required, runs 24/7, and offers 150+ therapeutic exercises plus optional paid human coaches. Backed by 45+ peer-reviewed studies and FDA Breakthrough Device designation, it is used by 6 million+ people across 105 countries and integrated into NHS services."
+    ],
+    "features": [
+      "24/7 AI chatbot using CBT and DBT techniques",
+      "150+ guided therapeutic exercises (breathing, sleep, body scan)",
+      "Mood tracking and guided journaling",
+      "Mindfulness and meditation content",
+      "Anonymous use with no account required",
+      "Optional human coaches and therapists",
+      "Employer and healthcare (B2B) programs including NHS partnerships"
+    ],
+    "pros": [
+      "Strong clinical evidence base: 45+ peer-reviewed studies",
+      "Free AI chat with anonymous, no-signup access",
+      "FDA Breakthrough Device designation adds credibility",
+      "Hybrid model adds human coaches when AI is not enough"
+    ],
+    "cons": [
+      "Conversations can feel repetitive or miss complex emotions",
+      "Free version limits the exercise library and premium content",
+      "Not a substitute for therapy and not designed for crises or emergencies"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "x-ray-interpreter": {
+    "verdict": "AI that interprets X-rays, CTs, and MRIs into plain-language reports.",
+    "overview": [
+      "X-ray Interpreter analyzes medical scans — X-ray, CT, MRI, and ultrasound — and produces easy-to-understand written reports. A free preview shows what the AI sees, with detailed analyses starting at $2.50 each. It is positioned as a second opinion and educational aid, not a replacement for a radiologist."
+    ],
+    "features": [
+      "X-ray, CT, MRI, and ultrasound analysis",
+      "Plain-language radiology reports",
+      "Free preview reports",
+      "Affordable per-analysis pricing"
+    ],
+    "pros": [
+      "Free preview before paying.",
+      "Very low per-report cost.",
+      "Fast turnaround on reports."
+    ],
+    "cons": [
+      "Not a substitute for a licensed radiologist.",
+      "Complex cases may need human review."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yakkr-growth": {
+    "verdict": "AI growth toolkit for streamers and gaming creators.",
+    "overview": [
+      "Yakkr Growth gives streamers an AI assistant that writes short-form content, stream titles, and hashtags, plus a growth dashboard with tips and insights. It also bundles mentorship calls, educational videos, and a Discord community. The platform is built for Twitch and YouTube creators trying to grow their audience."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yesil-health": {
+    "verdict": "AI health coach that backs guidance with cited evidence.",
+    "overview": [
+      "Yesil Health is an AI health coaching app that gives personalized wellness guidance while citing the evidence behind its recommendations. It tracks habits and nudges users toward healthier routines. The product is free to start with premium tiers, aimed at people who want an always-on coach grounded in research rather than generic tips."
+    ],
+    "features": [
+      "AI health coaching",
+      "Evidence-cited recommendations",
+      "Habit tracking",
+      "Personalized wellness plans"
+    ],
+    "pros": [
+      "Cites evidence for its advice",
+      "Personalized rather than generic",
+      "Free to start"
+    ],
+    "cons": [
+      "Not a substitute for medical professionals",
+      "Young product with evolving features"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "youper": {
+    "verdict": "AI emotional health assistant combining chatbot check-ins, mood tracking and CBT-based exercises.",
+    "overview": [
+      "Youper is an AI emotional health assistant that combines conversational check-ins with mood tracking. Users describe how they feel each day, and the AI responds with reflective prompts and guided exercises grounded in CBT, ACT and DBT techniques. Over time it builds a picture of emotional patterns so users can see what drives their mood, and progress can be shared with a human therapist."
+    ],
+    "features": [
+      "AI chatbot for daily emotional check-ins",
+      "Mood tracking with pattern and trend analysis",
+      "Guided exercises based on CBT, ACT and DBT",
+      "Personalized plans targeting anxiety, depression or sleep",
+      "Weekly progress summaries",
+      "Shareable data for human therapists",
+      "7-day free trial before annual subscription",
+      "Quick chats for immediate support"
+    ],
+    "pros": [
+      "Evidence-based techniques: a Stanford study confirmed symptom reduction",
+      "Simple pricing: one annual plan at $69.99 with no hidden tiers",
+      "Well-rated on app stores: 4.8 on iOS per 2026 reviews",
+      "Useful as a between-therapy-sessions companion or standalone journal"
+    ],
+    "cons": [
+      "No monthly plan; only annual subscription after the trial",
+      "Free tier is limited to sampling the chat and check-ins",
+      "Text-only chatbot with no voice or human therapist option"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "your-own-story-book": {
+    "verdict": "AI platform creating personalized illustrated storybooks starring your pet.",
+    "overview": [
+      "Your Own Story Book is an AI-powered platform that creates one-of-a-kind illustrated storybooks, originally built around turning pets into storybook heroes. Users can generate a story from scratch with AI-written plots and images, or use templated human-written plots with their pet dropped in as the main character. Finished books can be downloaded as a $5 digital eBook or ordered as a $50 premium hardcover print, and creators keep the rights to their books."
+    ],
+    "features": [
+      "AI-generated story plots and illustrations",
+      "From-scratch or templated story modes",
+      "Pet as the main character",
+      "Editable text and images per page",
+      "Digital eBook and hardcover print options"
+    ],
+    "pros": [
+      "Every book is one-of-a-kind",
+      "You own the rights to your book",
+      "Affordable $5 digital option",
+      "Great gift for pet lovers"
+    ],
+    "cons": [
+      "AI images may not be fully accurate",
+      "Limited editing options on AI content",
+      "Physical copies cost $50"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yourmove": {
+    "verdict": "AI dating assistant for better profiles and openers.",
+    "overview": [
+      "YourMove is an AI dating coach with over 300,000 users: it writes bios, suggests openers and reviews profile photos. Founded by Dmitri Mirakyan and operated by Squip AI LLC, it offers a free bio generator with iOS subscriptions from $12.99 per month."
+    ],
+    "features": [
+      "AI bio generator",
+      "Opener suggestions",
+      "Profile photo reviews",
+      "Dating coaching tips"
+    ],
+    "pros": [
+      "Large user base",
+      "Free bio generator",
+      "Practical dating advice"
+    ],
+    "cons": [
+      "Subscription needed for full features",
+      "Dating-app dependent"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yuna-app": {
+    "verdict": "AI-guided self-therapy companion for stress and anxiety.",
+    "overview": [
+      "Yuna is an AI mental health coach from Mindframes that offers 24/7 guided self-therapy conversations based on cognitive behavioral techniques. It helps users manage stress, curb overthinking, and track emotional wellbeing over time. The app is freemium, with confidential encrypted chats and crisis monitoring."
+    ],
+    "features": [
+      "AI-guided self-therapy",
+      "CBT-based conversations",
+      "Wellness tracking",
+      "Encrypted private chats"
+    ],
+    "pros": [
+      "Available 24/7.",
+      "Built by clinical psychology experts.",
+      "Affordable vs traditional therapy."
+    ],
+    "cons": [
+      "Not a replacement for professional therapy.",
+      "Subscription needed for full access."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "zoe": {
+    "verdict": "AI-personalized nutrition app pairing gut microbiome testing with meal scoring tuned to your biology.",
+    "overview": [
+      "Zoe pairs an at-home gut microbiome test with an app that scores meals using AI-driven food scanning and personalizes nutrition advice to your biology. Built on one of the world's largest nutrition studies by co-founder Tim Spector's team, it ranks thousands of foods for your blood sugar, blood fat, and gut responses. In 2025 it pivoted to cheaper AI-predicted metrics and dropped physical CGMs."
+    ],
+    "features": [
+      "AI food scanning and meal photo logging",
+      "Personalized meal scores based on your biology",
+      "At-home gut microbiome test kit",
+      "AI-predicted blood sugar and blood fat responses (no CGM required)",
+      "Daily diet score for fiber, plants, and processed-food intake",
+      "Access to registered nutritionists",
+      "Processed-food risk scale with ingredient analysis"
+    ],
+    "pros": [
+      "Deep scientific foundation from the world's largest nutrition study",
+      "Truly personalized scores instead of generic calorie targets",
+      "Free app tier in the US; app-only memberships available",
+      "Nutritionist support included with membership"
+    ],
+    "cons": [
+      "High total cost: membership plus a pricey gut-health test kit",
+      "Some experts question how much value glucose monitoring adds for non-diabetics",
+      "Food scoring may trigger guilt in users with disordered-eating history"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "11sight": {
+    "verdict": "One-click video and audio calling platform for sales and customer engagement.",
+    "overview": [
+      "11Sight is a customer engagement platform that lets sales and marketing teams start video or audio calls with prospects in a single click, no downloads required. It adds chat and call analytics to measure engagement. Businesses use it to make outreach feel personal and immediate."
+    ],
+    "features": [
+      "One-click video and audio calls",
+      "Live chat",
+      "Call analytics and engagement tracking",
+      "No-download browser calls"
+    ],
+    "pros": [
+      "Frictionless calling for prospects",
+      "Works across web and mobile",
+      "Sales-focused engagement analytics"
+    ],
+    "cons": [
+      "Paid plans from $24/month",
+      "Competes with built-in meeting tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "11x-ai": {
+    "verdict": "Autonomous AI SDR (Alice) that runs your entire outbound motion end-to-end, plus Julian, an AI phone agent.",
+    "overview": [
+      "11x is a digital-worker platform for B2B sales teams. Its flagship agent, Alice, acts as an AI SDR that researches prospects, builds lists, personalizes outreach across email and LinkedIn, handles replies, and books meetings with minimal human involvement. A second agent, Julian, handles AI phone calls for qualification and follow-up. Teams define the ICP and messaging guardrails; the agents execute around the clock."
+    ],
+    "features": [
+      "Alice AI SDR runs end-to-end outbound (prospecting to booked meetings)",
+      "Julian AI phone agent for calls in 30+ languages",
+      "Signal-based prospecting (job changes, funding rounds, tech-stack shifts)",
+      "Multichannel sequences across email, LinkedIn, and phone",
+      "400M+ contact database with 50+ data sources",
+      "Autonomous reply handling and objection management",
+      "Calendar integration for automatic meeting booking",
+      "CRM integrations (Salesforce, HubSpot)"
+    ],
+    "pros": [
+      "Genuinely autonomous outbound — prospects, researches, writes, follows up, books",
+      "Enterprise-ready compliance (SOC 2 Type II) with named customers like Sage",
+      "Combines outreach and phone calling in one platform"
+    ],
+    "cons": [
+      "No published pricing — custom enterprise quotes only, no free trial or self-serve",
+      "Reviewers flag generic-feeling personalization and inconsistent LinkedIn reply handling",
+      "Contact data accuracy requires extra validation per G2 reviewers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "1of10": {
+    "verdict": "AI YouTube toolkit that finds outlier videos and generates high-CTR thumbnails and titles.",
+    "overview": [
+      "1of10 is a YouTube growth platform that researches videos outperforming their channel averages, then helps creators copy that success. Its AI thumbnail generator is trained on outlier data rather than generic images, and it includes a title and idea generator in the same subscription. A Chrome extension overlays outlier scores directly on YouTube while browsing. The free plan includes research tools and monthly AI credits, with paid plans from $19 per month."
+    ],
+    "features": [
+      "Outlier video research",
+      "AI thumbnail generator",
+      "AI title and idea generators",
+      "Chrome extension for YouTube"
+    ],
+    "pros": [
+      "Data-driven packaging insights",
+      "Genuinely free tier",
+      "Thumbnails trained on real performance"
+    ],
+    "cons": [
+      "Pro plan is expensive",
+      "Credits limit heavy publishers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "247rep": {
+    "verdict": "Team of AI employees for small businesses that sell, book, follow up, and support customers across WhatsApp, email, and web.",
+    "overview": [
+      "247Rep gives small businesses a team of AI employees — a sales rep, receptionist, inbox manager, and follow-up specialist — plus an AI Chief of Staff that manages the whole operation. The AI works across WhatsApp, Telegram, email, web chat, Instagram, and voice/SMS from one shared brain, trained in your brand voice. Every user gets 20 free credits to start, with no card required."
+    ],
+    "features": [
+      "AI sales rep, receptionist, inbox manager, and follow-up specialist in one team",
+      "AI Chief of Staff that reads every conversation and stages actions for approval",
+      "Omnichannel: WhatsApp, Telegram, email, web, Instagram, and voice/SMS",
+      "Official Meta Tech Provider for WhatsApp Business onboarding",
+      "Train the AI in your brand voice by typing or speaking",
+      "Visual product catalog for in-chat browsing and purchasing",
+      "Payment verification and order collection",
+      "Full REST API and webhooks for developers"
+    ],
+    "pros": [
+      "Very affordable entry: 20 free credits, no credit card required",
+      "Manages the entire post-sale loop, not just lead capture",
+      "Official Meta Tech Provider status removes WhatsApp API setup pain"
+    ],
+    "cons": [
+      "Young company (founded 2025) with no independent review ratings",
+      "AI performance claims rely on self-reported launch announcements"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "2pr": {
+    "verdict": "AI agent for the full LinkedIn content cycle: ideas, drafts, carousels, replies, scheduling.",
+    "overview": [
+      "2pr is an AI agent covering the entire LinkedIn content cycle from one place. It sources ideas from a 2M+ viral post library plus X, Reddit, and Hacker News trends; drafts posts in the user's voice with three scored versions side by side; generates carousels, AI images, and video without Canva; replies to comments in the user's voice; and plans with kanban, optimal-time scheduling, and analytics. It uses LinkedIn's official API only, avoiding cookie scraping and ban risk, and offers an MCP server to drive it from Claude Desktop or other AI clients."
+    ],
+    "features": [
+      "Post ideas from 2M+ viral post library plus X, Reddit, HN trends",
+      "Multi-version AI drafts in your voice, scored line by line",
+      "Carousel, AI image, and video generation built in",
+      "AI replies to comments in your voice",
+      "Kanban planning, optimal-time scheduling, and analytics",
+      "MCP server for Claude Desktop and AI clients",
+      "Official LinkedIn API only: no cookies, no ban risk",
+      "Multi-account management for teams and freelancers"
+    ],
+    "pros": [
+      "End-to-end LinkedIn workflow in one tool",
+      "Official API usage removes account ban risk",
+      "Strong community traction and active development"
+    ],
+    "cons": [
+      "LinkedIn-only, no cross-platform publishing",
+      "Paid; free options limited"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "37x": {
+    "verdict": "Launch a custom AI-powered affiliate marketplace in minutes.",
+    "overview": [
+      "37x is a fully hosted platform for launching custom affiliate marketplaces with no coding or affiliate approvals. It connects to thousands of affiliate programs through networks like Amazon, Sovrn, Skimlinks, and Awin, automatically sourcing the best commission rates. You point your own domain, customize the store, and 37x handles SEO content generation, affiliate management, and payout tracking. Plans start at $10 per month."
+    ],
+    "features": [
+      "No-code affiliate marketplace builder",
+      "Aggregated affiliate programs (Amazon, Sovrn, Skimlinks, Awin)",
+      "AI-generated SEO content",
+      "Custom domain support",
+      "Payout tracking"
+    ],
+    "pros": [
+      "Fast path to an affiliate revenue site",
+      "Handles SEO content and payouts for you"
+    ],
+    "cons": [
+      "Affiliate income is never guaranteed",
+      "Depends on third-party network terms"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "60sec-site": {
+    "verdict": "AI website and landing-page builder that publishes a live page in about a minute.",
+    "overview": [
+      "60sec.site turns a short prompt into a full website or landing page in roughly 60 seconds, handling layout, copy, and images automatically. It is aimed at founders and marketers who need a presentable page fast, with free subdomain publishing and paid upgrades for custom domains and deeper edits."
+    ],
+    "features": [
+      "Prompt-to-website generation in about a minute",
+      "AI-generated copy and imagery",
+      "Free subdomain publishing",
+      "Custom domain support on paid tiers",
+      "Editable sections after generation"
+    ],
+    "pros": [
+      "Very fast path from idea to live page",
+      "No design or coding skills needed",
+      "Free tier for quick prototypes"
+    ],
+    "cons": [
+      "Limited design control compared with full builders",
+      "AI copy may need heavy rewriting",
+      "Free tier is subdomain-only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "activecampaign": {
+    "verdict": "All-in-one marketing automation platform with AI-driven campaign intelligence",
+    "overview": [
+      "ActiveCampaign is a marketing automation platform that blends email marketing, CRM, segmentation, and landing pages with AI features like predictive sending, win probability, and sentiment analysis. Its Active Intelligence release (Wavelength) drafts campaigns proactively, tracks external signals, and runs scheduled tasks autonomously. It also connects marketing data to ChatGPT and Claude so teams can query account context from their usual AI tools."
+    ],
+    "features": [
+      "AI campaign drafting with Active Intelligence (Wavelength)",
+      "Predictive sending and win probability scoring",
+      "Sentiment analysis for audience engagement",
+      "Email marketing, segmentation, and dynamic content",
+      "Built-in CRM, landing pages, and forms",
+      "Account context integrations with ChatGPT and Claude"
+    ],
+    "pros": [
+      "Established platform with deep automation capabilities",
+      "AI features woven into existing workflows rather than bolted on",
+      "Strong email deliverability and segmentation"
+    ],
+    "cons": [
+      "Paid plans required; can get expensive as contacts grow",
+      "Learning curve for advanced automation setups"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ad-agency": {
+    "verdict": "Free AI ad agency for TV, radio, billboard, and social ads",
+    "overview": [
+      "Ad Agency is a free AI ad creation platform that turns simple structured prompts into finished, platform-ready ads. Its generative models produce copy and visuals for TV, radio, classifieds, billboards, and social media, with watermark-free, commercially licensed exports for campaign testing. A pay-as-you-go credit system lets small businesses and solo marketers generate extra ads without hiring an agency."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ad-suite-ai": {
+    "verdict": "AI-managed Google and Meta ad campaigns for small businesses.",
+    "overview": [
+      "Ad Suite AI automates the full cycle of paid advertising for small businesses and startups: an AI agent captures the client brief conversationally, runs keyword and competitive research, generates ad creatives from 80+ proven formats, sets up tracking in Google Analytics and Tag Manager, launches the campaigns, and optimizes them continuously. A human team reviews campaigns throughout the month, blending AI speed with expert oversight at a fraction of agency prices."
+    ],
+    "features": [
+      "Conversational AI campaign brief capture",
+      "AI keyword and competitor research",
+      "80+ ad format creative generation",
+      "Google and Meta campaign management",
+      "Human expert campaign review"
+    ],
+    "pros": [
+      "Starter plans from $50 a month",
+      "Human oversight on top of AI automation",
+      "No setup fees"
+    ],
+    "cons": [
+      "Best suited to small service businesses",
+      "Management fee scales with ad spend"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adcontrolcenter": {
+    "verdict": "AI ads manager that builds and optimizes ad campaigns across Google, Meta, Reddit, TikTok, LinkedIn, and X.",
+    "overview": [
+      "AdControlCenter is a web app for small businesses that run their own ads: it scans your website to understand your products and positioning, then generates complete campaigns — targeting, keywords, ad copy, and creative images — for Google Ads, Meta, Reddit, TikTok, LinkedIn, and X. Every campaign is published paused so nothing spends until you approve it, and the AI keeps monitoring performance, fixing critical issues, and sending a daily digest. Founded in 2025 by Shir Gans, it runs on one flat plan: $39.90/mo with a 7-day free trial and money-back guarantee."
+    ],
+    "features": [
+      "AI-generated campaigns for Google, Meta, Reddit, TikTok, LinkedIn, X",
+      "Website scanning to derive products, audience, brand voice, and positioning",
+      "Campaigns publish paused; nothing spends until you approve",
+      "Automatic conversion tracking wiring (gclid, UTMs, GA4)",
+      "24/7 performance monitoring with automatic critical-issue fixes",
+      "Daily digest with key metrics and optimization suggestions",
+      "Cross-network ROI comparison in a single dashboard",
+      "Team workspace with owner, manager, and viewer roles"
+    ],
+    "pros": [
+      "Six ad networks managed from one dashboard",
+      "Safe-by-default: everything deploys paused for human approval",
+      "One flat price, no markup on ad spend",
+      "Profile-driven defaults reduce the budget leaks that hit first-time advertisers"
+    ],
+    "cons": [
+      "No free plan; card required even for the trial",
+      "Small, young company with fewer case studies than incumbents",
+      "No Shopping or Performance Max automation yet"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adcreative-ai": {
+    "verdict": "Generates on-brand ad creatives, AI product photos, and video ads in seconds, then scores them with Creative Scoring AI.",
+    "overview": [
+      "AdCreative.ai generates ad banners, texts, product photoshoots, and videos using AI models trained on real performance data, letting marketers produce dozens of scored ad variations in under a minute. Its Creative Scoring AI predicts which creatives will perform before ad spend is committed. It includes competitor insights, AI-generated buyer personas, and direct integrations with Meta, Google, and LinkedIn ads."
+    ],
+    "features": [
+      "AI-generated ad creatives (images, banners, texts, videos)",
+      "Creative Scoring AI that predicts ad performance before launch",
+      "AI product photography from simple product photos",
+      "AI video ads and UGC-style videos from product shots",
+      "Competitor Insights AI for discovering top-performing competitor ads",
+      "AI-generated buyer personas from website data",
+      "Direct integrations with Meta Ads Manager, Google Ads, and LinkedIn",
+      "Brand asset import (logo, colors, fonts) for on-brand outputs"
+    ],
+    "pros": [
+      "Generates dozens of on-brand creative variations in seconds, ideal for high-volume creative testing",
+      "Creative Scoring AI helps prioritize spend before A/B testing costs pile up",
+      "Won 3rd fastest growing product awards in 2023 and 2024 on G2"
+    ],
+    "cons": [
+      "Credit-based pricing means downloads, not generations, consume credits, and Starter's 10 credits/mo can run out fast",
+      "Recurring billing complaints across Trustpilot/Capterra about unexpected charges after the free trial",
+      "Model is optimized for e-commerce/product-led creative; less effective for abstract B2B messaging"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adease": {
+    "verdict": "Agentic marketing manager built on Claude for ad account management.",
+    "overview": [
+      "Adease is an agentic marketing manager powered by Anthropic's Claude that connects to your Meta, Google, TikTok, LinkedIn, and Pinterest ad accounts. You manage campaigns conversationally — asking why CPA spiked or moving budget to winners — while the agent drafts fixes that only apply with your approval. It runs as a desktop app for macOS and Windows, with Pro at $50 per seat per month and a Max tier at $200."
+    ],
+    "features": [
+      "Conversational ad management",
+      "Multi-platform ad account sync",
+      "Approval-gated optimizations",
+      "Privacy-first local analysis"
+    ],
+    "pros": [
+      "One chat interface for all ad platforms",
+      "Nothing changes without approval"
+    ],
+    "cons": [
+      "Paid tiers needed for ongoing use",
+      "Desktop app only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adkit": {
+    "verdict": "AI ad management platform for Meta, Google, and TikTok with competitor ad spying and an MCP server for AI agents.",
+    "overview": [
+      "AdKit is an AI-powered ad management platform that runs Meta Ads, Google Ads, and TikTok Ads from a single dashboard, starting at $29 per month. It combines campaign management, a competitor ad library for spying on rival creatives, AI generation of ad copy and static creatives, and real-time performance analytics. A remote MCP server (mcp.adkit.so) lets AI coding agents like Claude, Cursor, and Windsurf create campaigns, pull analytics, and browse competitor ads without leaving the editor, and a Chrome extension clones ads from the Facebook Ads Library in two clicks."
+    ],
+    "features": [
+      "Campaign management across Meta, Google, and TikTok from one dashboard",
+      "Competitor ad library to search and analyze rival ads across platforms",
+      "AI creative generation for ad copy, headlines, and descriptions",
+      "AI Static Ads Generator — build from a brief or clone winning ads",
+      "Performance analytics with real-time metrics and spend data",
+      "Remote MCP server letting AI agents manage ads from the editor",
+      "Chrome extension for 2-click ad cloning from Facebook Ads Library",
+      "Multi-account connections across Meta, Google, TikTok, LinkedIn, Microsoft, Reddit, and X"
+    ],
+    "pros": [
+      "One dashboard for Meta, Google, and TikTok campaign management",
+      "MCP integration puts ad management inside coding agents",
+      "Competitor ad spying plus AI creative generation in one workflow",
+      "Full MCP access included on both $29 and $49 plans"
+    ],
+    "cons": [
+      "No free tier — plans start at $29/month",
+      "Video ad generation is still on the horizon, not yet shipped",
+      "Ad spend itself is on top of the subscription"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "admanage-ai": {
+    "verdict": "Bulk ad launcher for Meta and 12 ad channels.",
+    "overview": [
+      "AdManage is a bulk ad-launching platform for performance marketers, covering Meta, TikTok, Google Ads, Snapchat, Pinterest, Reddit, X, LinkedIn, and more from one workspace. It handles creative uploads, auto-grouping, naming conventions, templates, and one-click launches, plus AI tools like ad copy generation and comment sentiment analysis. An official Meta Marketing Partner, it starts at £199.99 per month."
+    ],
+    "features": [
+      "Bulk ad launching across 12 channels",
+      "AI ad naming and copy generation",
+      "Auto-grouping of creatives",
+      "Comment sentiment AI",
+      "Claude/MCP skills integration"
+    ],
+    "pros": [
+      "Official Meta Marketing Partner",
+      "Launch 50-200+ ads in one session"
+    ],
+    "cons": [
+      "Premium pricing aimed at agencies and in-house teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adriselab": {
+    "verdict": "AI performance marketer for Meta ads — research, creatives, fatigue detection, and one-click publishing.",
+    "overview": [
+      "AdRiseLab is an AI performance marketer for Meta advertisers that runs the full creative loop: it analyzes your ad account, researches competitor ads, generates image, video, and UGC creatives from a product URL or photo, and publishes campaigns to Facebook and Instagram with your approval. It also monitors creative fatigue — flagging frequency and CTR decay before ROAS drops — and feeds AI optimization recommendations back into the workspace."
+    ],
+    "features": [
+      "AI Media Buyer agent with analyze-propose-approve workflow",
+      "URL or product-photo to ready-to-publish ad creatives",
+      "Image, video, and AI-presenter UGC ad generation",
+      "Competitor ad research via Meta Ad Library intelligence",
+      "Creative fatigue detection (frequency, CTR, CPM, ROAS decay)",
+      "One-click publishing to Facebook and Instagram",
+      "Revenue analytics with Shopify integration",
+      "Connected-account performance reporting"
+    ],
+    "pros": [
+      "Full loop from research to published ad in one workspace",
+      "Fatigue detection catches dying creatives before ROAS drops",
+      "Free to start with 10 credits, no card required",
+      "Self-reported 4.9/5 rating on G2"
+    ],
+    "cons": [
+      "Meta-only focus — no Google or TikTok ads support",
+      "Publishing still needs Meta account review and eligibility",
+      "New company (2025) with limited third-party track record"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adsby": {
+    "verdict": "AI ad generator for creating and testing ad copy and creatives faster.",
+    "overview": [
+      "Adsby is an AI ad creation platform that helps marketers generate ad copy and creatives for campaigns. It speeds up the production of ad variations so teams can test more ideas faster. The tool is geared toward performance marketers who live in a constant cycle of testing and iteration."
+    ],
+    "features": [
+      "AI ad copy generation",
+      "Creative variation testing",
+      "Campaign-ready outputs"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adspectre": {
+    "verdict": "AI creative director generating on-brand image, video, and music for marketers.",
+    "overview": [
+      "Adspectre positions itself as an AI creative director for brands. You describe what you want in plain English and it generates on-brand images, videos, and music across frontier models, remembering your brand's style so every output stays consistent. Every generation shows its dollar price before it runs, giving marketing teams transparent, pay-as-you-go creative production without subscription lock-in."
+    ],
+    "features": [
+      "Plain-English to on-brand image, video, music",
+      "Brand memory for consistent creative",
+      "Transparent per-generation pricing",
+      "Multi-model generation",
+      "Built for marketing teams and agencies"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adspirer": {
+    "verdict": "AI ads agent that manages campaigns across Google, Meta, TikTok and LinkedIn",
+    "overview": [
+      "Adspirer is an AI advertising agent that connects directly to ad platform APIs and takes real actions from natural language: creating campaigns, reading live performance data, researching keywords, optimizing budgets, and managing ads across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. It runs as an MCP server and official ChatGPT app, with 100+ tools for campaign management, keyword research, budget optimization, and cross-platform ROAS comparison."
+    ],
+    "features": [
+      "Natural-language ad campaign management",
+      "Google, Meta, LinkedIn and TikTok Ads support",
+      "Keyword research and budget optimization",
+      "MCP server and ChatGPT app"
+    ],
+    "pros": [
+      "Free tier with monthly actions",
+      "Official ChatGPT app",
+      "Cross-platform ROAS comparison"
+    ],
+    "cons": [
+      "Needs connected ad accounts to be useful"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "adwhispr": {
+    "verdict": "Agent-first ad platform for researching competitor ads and cloning winning creatives.",
+    "overview": [
+      "adWhispr exposes the full advertising loop to AI agents through an MCP server: research competitor ads on Meta, TikTok, and Google, clone proven winners into image or AI video creatives for your own brand, and launch real campaigns on Google Search, Performance Max, TikTok, and Meta. A web dashboard backs the research and creative library, and campaigns launch paused so nothing spends without approval. A free tier covers research calls; paid plans start at $39 per month."
+    ],
+    "features": [
+      "Competitor ad research across Meta, TikTok, and Google ad libraries",
+      "Ads ranked by days running as an honest performance proxy",
+      "AI classification of hooks, formats, tones, and offers",
+      "Image and video ad cloning rebuilt for your own brand",
+      "Campaign launch on Google Search, Performance Max, TikTok, and Meta",
+      "Campaigns created paused with confirmation before spending",
+      "Semantic ad search by concept, such as social proof or founder story",
+      "Works with Claude, ChatGPT, Cursor, Gemini CLI, and n8n via MCP"
+    ],
+    "pros": [
+      "Full research-to-launch loop usable from inside any AI chat",
+      "Longest-running-ad ranking is a clever proxy for proven winners",
+      "Free tier with no credit card lets marketers test real research first"
+    ],
+    "cons": [
+      "Cloning competitor creative raises ethical and compliance questions for brands",
+      "Meta launch is still in beta at verification time"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "aerochat": {
+    "verdict": "Omnichannel AI chatbot for Shopify stores across WhatsApp, Instagram, and Messenger.",
+    "overview": [
+      "AeroChat is an AI customer communication platform that automates support and sales conversations for e-commerce merchants across website chat, WhatsApp, Instagram DMs, and Facebook Messenger. It syncs deeply with Shopify to answer order-status questions, recover carts, and recommend products from live store data. A free plan is available, with paid tiers unlocking advanced flows and broadcasts."
+    ],
+    "features": [
+      "Omnichannel AI chatbot",
+      "Deep Shopify integration",
+      "Real-time order tracking answers",
+      "Cart recovery flows",
+      "AI product recommendations",
+      "Unified multi-channel inbox"
+    ],
+    "pros": [
+      "Free forever plan",
+      "5.0 rating on Shopify App Store"
+    ],
+    "cons": [
+      "Advanced features need paid plans"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "agent-planners": {
+    "verdict": "Multi-agent AI that plans and runs marketing operations across 29 platforms — every account change pauses for your approval.",
+    "overview": [
+      "Agent Planners is a multi-agent AI platform for marketing operations: an orchestrator splits your plain-language goal across specialist agents for analytics, optimization, creative, research, safety, and reporting. It connects natively to 29 platforms (Google Ads, Meta, TikTok, GA4, BigQuery, Shopify, and more), plans every action in the open, and — critically — pauses for your approval before anything changes on your account. Analysis can run end to end; writes always wait for your yes."
+    ],
+    "features": [
+      "Multi-agent system: orchestrator plus six specialist agents",
+      "29 native platform integrations (Google Ads, Meta, TikTok, LinkedIn, X, GA4, BigQuery, Shopify)",
+      "Approval gate on every account write, in-app or by email",
+      "Per-account memory: target CPA/ROAS, protected campaigns, excluded geos",
+      "24/7 scheduled recurring runs",
+      "Self-building live dashboards with scheduled refresh",
+      "Agent Mail: assign tasks straight from your inbox",
+      "Full audit log of every mutation; bring-your-own-model AI gateway"
+    ],
+    "pros": [
+      "Every account change is approval-gated by default — safer than black-box AI",
+      "2,500 free credits per month with no credit card",
+      "29 native ad/analytics/publisher integrations in one context",
+      "Bring your own model endpoint and skip platform token charges"
+    ],
+    "cons": [
+      "Small public track record so far (3 G2 reviews quoted on its own site)",
+      "Marketing-focused only — not a general-purpose automation tool",
+      "Hands-off mode is opt-in, so real autonomy still needs deliberate configuration"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "agentive-seo": {
+    "verdict": "AI agent that researches, writes, and publishes SEO-optimized blog content on autopilot.",
+    "overview": [
+      "Agentive SEO is an AI agent built to automate the entire SEO content pipeline for websites. It researches keywords, drafts fully optimized articles, scores them in real time, and publishes them on a schedule without manual intervention. The tool connects directly with WordPress and site builders like Bolt.new and Lovable, and supports content in more than 20 languages."
+    ],
+    "features": [
+      "AI-written, SEO-optimized articles generated in seconds",
+      "Automated keyword research with Google autocomplete mining",
+      "One-click publishing to WordPress, Bolt.new, and Lovable",
+      "Real-time SEO scoring with actionable fixes",
+      "Auto content calendar with keyword-targeted topic ideas",
+      "Multi-language article generation (20+ languages)",
+      "Automatic internal linking suggestions"
+    ],
+    "pros": [
+      "True end-to-end automation from research to publishing",
+      "Built by an SEO practitioner with documented traffic results",
+      "Try-before-you-buy: generate up to 3 articles without signing up"
+    ],
+    "cons": [
+      "Still on a waitlist — the full launch is not yet open to the public",
+      "Paid-only pricing may not suit solo bloggers or hobbyists"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "agentkit": {
+    "verdict": "No-code AI chatbots trained on your website and docs, embedded as a 24/7 customer-facing widget.",
+    "overview": [
+      "Agentkit is a no-code platform for building AI chat agents trained on your website and documents. You add URLs, PDFs, or text, pick from major LLMs (OpenAI, Anthropic, Google), and deploy a branded chat widget that answers customers 24/7. It auto-detects visitor language, captures leads, triggers actions like forms and API calls, and logs conversations. A free plan (50 messages/month) sits below Hobby, Standard, and Pro tiers."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ai-social-bio": {
+    "verdict": "Free AI generator for social media bios.",
+    "overview": [
+      "AI Social Bio is a free tool that writes optimized social media bios from a short description of you or your brand. Built by two indie makers, it is a simple single-purpose utility for creators polishing their profiles."
+    ],
+    "features": [
+      "AI bio generation",
+      "Multi-platform formats",
+      "Tone options",
+      "Free to use"
+    ],
+    "pros": [
+      "Free",
+      "Fast",
+      "Simple"
+    ],
+    "cons": [
+      "Very narrow use case",
+      "Bios need personal touch",
+      "Indie project"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "aident-ai": {
+    "verdict": "AI agent that drafts ecommerce product pages automatically.",
+    "overview": [
+      "Aident AI is an AI agent for online stores that generates complete product pages from minimal input. It writes titles, descriptions, and supporting copy in your brand's voice, cutting down listing time for large catalogs. Plans start at $12 per month with a free version available."
+    ],
+    "features": [
+      "product page generation",
+      "catalog copy automation",
+      "brand voice matching"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "aimdoc": {
+    "verdict": "AI sales agents for websites that qualify leads and book meetings.",
+    "overview": [
+      "Aimdoc places AI sales agents on websites to engage visitors, qualify leads, and book meetings automatically. The agents integrate with popular CRMs and calendars so conversations turn into pipeline. It is built for teams that want round-the-clock coverage of their site traffic."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "air-ai": {
+    "verdict": "Autonomous AI voice agents that hold long human-like phone calls for sales and support.",
+    "overview": [
+      "Air AI deploys autonomous voice agents capable of conducting full 10-to-40-minute phone conversations that sound convincingly human. Designed to function as an entire sales or customer-service rep, each agent has infinite memory and perfect recall of past interactions and can autonomously take actions across more than 5,000 integrated applications — qualifying leads, booking appointments, and resolving issues around the clock. Pricing is usage-based per minute, making it a fit for teams that want to scale phone operations without hiring and training staff."
+    ],
+    "features": [
+      "Autonomous 10-40 minute human-like phone conversations",
+      "Infinite memory and perfect recall across interactions",
+      "Actions across 5,000+ integrated business applications",
+      "24/7 operation with no training or management overhead",
+      "Usage-based pricing per minute for outbound and inbound"
+    ],
+    "pros": [
+      "Among the longest autonomous call durations in the category",
+      "Deep app integrations for end-to-end task completion",
+      "Scales to thousands of concurrent calls",
+      "No script-reading — fully dynamic responses"
+    ],
+    "cons": [
+      "Usage-based pricing can add up at high call volume",
+      "Phone-only focus — no email or multichannel outreach",
+      "Lacks human empathy for sensitive situations"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "airops": {
+    "verdict": "AI workflow platform for content operations, SEO, and AI-search visibility.",
+    "overview": [
+      "AirOps is an AI workflow and content operations platform for marketing teams. It lets teams build repeatable AI-powered workflows that combine research, content creation, SEO optimization, and publishing. Its current focus is helping brands get found in the AI search era: it monitors how content performs across traditional SEO and AI platforms (its Page360 insights layer), connects to tools like Google Search Console, Semrush, Ahrefs, Slack, and Gmail, and routes work through human review before publishing. It offers a public API and CLI for agent-driven operations."
+    ],
+    "features": [
+      "No-code AI workflow and agent builder",
+      "AI search visibility monitoring (Page360)",
+      "Integrations with GA4, Search Console, Semrush, Ahrefs, Slack, Gmail, YouTube, Reddit",
+      "Human-in-the-loop review steps",
+      "Public REST API and CLI",
+      "Reusable workflow templates"
+    ],
+    "pros": [
+      "Deep integration ecosystem for content operations",
+      "AI visibility tracking across search and AI platforms",
+      "Strong enterprise controls and API access"
+    ],
+    "cons": [
+      "Enterprise-focused, likely too expensive for individual creators",
+      "Learning curve for building complex workflows"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

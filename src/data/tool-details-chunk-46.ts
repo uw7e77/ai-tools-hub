@@ -1,0 +1,1475 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk46: Partial<Record<ToolSlug, ToolDetail>> = {
+  "dottypost": {
+    "verdict": "AI LinkedIn content studio for posts, carousels, and scheduling.",
+    "overview": [
+      "Dottypost is an AI-powered LinkedIn content platform that turns topics, blogs, and YouTube videos into engaging posts and carousels. It offers a library of over 10,000 posts for inspiration, one-click scheduling, multi-account management, and team collaboration. Creators and marketers use it to grow a consistent LinkedIn presence without daily writing."
+    ],
+    "features": [
+      "AI LinkedIn post generation",
+      "Carousel creation from blogs and videos",
+      "One-click scheduling",
+      "10,000+ post inspiration library",
+      "Multi-account and company page management",
+      "Team collaboration",
+      "API access"
+    ],
+    "pros": [
+      "Purpose-built for LinkedIn growth",
+      "Repurposes existing content into posts",
+      "Free version available"
+    ],
+    "cons": [
+      "Paid plans from $15/month",
+      "LinkedIn-only, no other networks"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "double": {
+    "verdict": "AI lead research and email enrichment.",
+    "overview": [
+      "Double is an AI lead research and enrichment tool that finds verified emails for prospects. It runs at usedouble.com and focuses on sales prospecting workflows. Pricing was not verifiable at check time; it is distinct from the trydouble.ai job agent."
+    ],
+    "features": [
+      "Lead research",
+      "Email enrichment",
+      "Verified emails",
+      "Prospect data"
+    ],
+    "pros": [
+      "AI-driven prospecting",
+      "Verified contact data",
+      "Web-based"
+    ],
+    "cons": [
+      "Pricing undisclosed",
+      "Name confusion with other tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "draftly": {
+    "verdict": "AI LinkedIn suite that creates, schedules, and analyzes posts plus generates smart comments.",
+    "overview": [
+      "Draftly is an all-in-one LinkedIn automation suite built to grow a professional presence without daily effort. Its AI turns rough thoughts, articles, or trending topics into engaging LinkedIn posts and eye-catching carousels, then schedules them into a queue. It also offers smart comment generation so users can engage with their network in their own voice."
+    ],
+    "features": [
+      "AI content creation from thoughts and trending topics",
+      "One-click carousel maker",
+      "Smart scheduling and posting queue",
+      "AI-generated comments in your brand voice",
+      "Analytics dashboard",
+      "Chrome extension and mobile app"
+    ],
+    "pros": [
+      "Combines creation, scheduling, and analytics in one subscription",
+      "Plans from about $9/month per user",
+      "India-based startup with an actively developed platform"
+    ],
+    "cons": [
+      "Paid-only with no permanent free tier",
+      "LinkedIn-focused, so multi-network users still need other tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "drippi-ai": {
+    "verdict": "AI automation for personalized DM outreach and lead prospecting on X (Twitter).",
+    "overview": [
+      "Drippi.ai automates personalized outreach on X (Twitter) through DMs. It helps find leads, writes tailored messages with AI, sends them on a schedule and tracks performance, with a Chrome extension as a companion. The platform is built for founders and sales teams that prospect where their audience already spends time."
+    ],
+    "features": [
+      "AI-personalized X/Twitter DMs",
+      "Lead finding and scraping",
+      "Campaign scheduling and analytics",
+      "Chrome extension companion"
+    ],
+    "pros": [
+      "Automates prospecting on X/Twitter end to end",
+      "Personalized messages instead of generic blasts",
+      "Analytics show what outreach works"
+    ],
+    "cons": [
+      "Outreach automation risks account limits if overused",
+      "X/Twitter-dependent strategy",
+      "Pricing may be steep for solo founders"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "dynamic-yield": {
+    "verdict": "Mastercard's enterprise personalization platform with AI recommendations, testing, and omnichannel experience apps.",
+    "overview": [
+      "Dynamic Yield, now part of Mastercard, is an enterprise personalization platform built around Experience OS, a decisioning layer that selects the content, products, and offers shown to each visitor. It powers recommendations, A/B testing, targeting, and triggered messaging across web, mobile apps, email, and in-store touchpoints, backed by Mastercard's data scale."
+    ],
+    "features": [
+      "Experience OS decisioning layer personalizing content, products, and offers per visitor",
+      "Experience OS Agents: a multi-agent AI system with Personalization Expert, Designer, Developer, Copywriter, and Analyst roles",
+      "Shopping Muse conversational commerce exposed as a server-side API",
+      "Predictive Targeting for automated audience selection",
+      "NextML, AffinityML, VisualML, and AdaptML machine-learning models for ranking and affinity",
+      "Recommendations and Algorithm Studio for building custom recommendation algorithms",
+      "Experience Web for on-site campaigns and A/B testing",
+      "Experience Email and Reconnect for predictive emails and triggered messages",
+      "Audience Hub segmentation and API Campaigns for server-side personalization"
+    ],
+    "pros": [
+      "Deep AI/ML trained on your data plus Mastercard's proprietary spending intelligence",
+      "Named a Gartner Magic Quadrant Leader for Personalization Engines for eight consecutive years",
+      "Omnichannel reach across web, mobile apps, email, and in-store or kiosk experiences"
+    ],
+    "cons": [
+      "Custom enterprise contracts with five-figure-plus annual pricing and no free trial",
+      "Implementation is heavyweight compared with self-serve tools",
+      "Overkill for small and mid-market stores that lack the traffic scale"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "dynares": {
+    "verdict": "AI marketing platform for SEO content built for AI search.",
+    "overview": [
+      "dynares is an AI-powered marketing platform built for creating search-optimized content and campaigns. It helps marketers generate and tune content that performs on modern search engines, including AI answer engines. The platform offers a start-for-free path with paid upgrades for heavier usage. It is aimed at marketers who want organic visibility without building a large content team."
+    ],
+    "features": [
+      "AI-generated SEO-optimized content",
+      "Optimization for AI search and answer engines",
+      "Campaign planning and content workflows",
+      "Performance tracking for organic content",
+      "Free tier to start with upgrade options"
+    ],
+    "pros": [
+      "Free to start, upgrade as you grow",
+      "Built for the AI-search era, not just classic SEO",
+      "Streamlines content production for small teams"
+    ],
+    "cons": [
+      "Newer product with limited public reviews",
+      "Paid upgrades needed for serious content volume",
+      "May overlap with existing SEO tooling"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "easyprai": {
+    "verdict": "AI PR toolkit for journalist outreach, pitches and media analysis.",
+    "overview": [
+      "EasyPR AI is a public-relations assistant that surfaces relevant HARO-style journalist queries and drafts pitches for you. It analyzes media outlets and suggests angles tailored to your story. A free tier exists, with paid plans from $19 per month."
+    ],
+    "features": [
+      "Journalist query matching",
+      "AI pitch writer",
+      "Media outlet analysis",
+      "Campaign tracking"
+    ],
+    "pros": [
+      "Purpose-built for PR workflows",
+      "Affordable entry pricing",
+      "Free tier to start"
+    ],
+    "cons": [
+      "Smaller media database than incumbents",
+      "Pitch quality needs human review"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "echos": {
+    "verdict": "AI social media automation for drafting, scheduling, and managing content.",
+    "overview": [
+      "Echos is an AI automation tool for social media teams that drafts, schedules, and manages content. It helps brands stay consistent across channels without a full-time content team. Paid plans scale with posting volume."
+    ],
+    "features": [
+      "AI content drafting",
+      "Post scheduling",
+      "Multi-channel management"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ecold-ai": {
+    "verdict": "AI bulk personalization for cold email outreach.",
+    "overview": [
+      "eCold.ai generates personalized cold email lines in bulk using prospects' LinkedIn data. Users upload a CSV or LinkedIn URLs and get tailored openers in seconds, exportable to tools like Lemlist and Mailshake. Freemium pricing includes a free trial with plans from $15 per month."
+    ],
+    "features": [
+      "Bulk personalized lines",
+      "LinkedIn prospect research",
+      "CSV import/export",
+      "Lemlist/Mailshake compatible",
+      "Credit system"
+    ],
+    "pros": [
+      "40x faster than manual research",
+      "Credits roll over",
+      "Free trial"
+    ],
+    "cons": [
+      "Does not send emails itself",
+      "Quality depends on LinkedIn data"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "eden": {
+    "verdict": "Chrome extension that generates AI-tailored webpage comments from a single emoji click.",
+    "overview": [
+      "Eden (listed as WithEden AI on the Chrome Web Store) is an AI-powered social plugin that lets users react to any webpage with an emoji. It analyzes the page's content and generates a context-aware comment matched to the selected emoji and attitude, from playful roasts to supportive remarks. Built for social media enthusiasts and creators, it makes online engagement faster and more expressive without typing. It is offered free by developer WithEden Pte. Ltd."
+    ],
+    "features": [
+      "Emoji-triggered AI comment generation on any webpage",
+      "Page content summarization to contextualize comments",
+      "Adjustable attitude from roasting to neutral to supportive",
+      "Works across articles, videos, and social posts"
+    ],
+    "pros": [
+      "Completely free to install and use",
+      "One-click interaction with no typing required",
+      "Fun way to boost engagement on social content"
+    ],
+    "cons": [
+      "Only available as a Chrome extension",
+      "Not an enterprise-grade tool despite FT's Productivity tag"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "embeddable": {
+    "verdict": "AI builder for embeddable widgets and landing pages.",
+    "overview": [
+      "Embeddable is a no-code AI platform for building interactive widgets — forms, quizzes, calculators, popups — and SEO-friendly landing pages you can embed on any site. You describe what you need and the AI generates the design, copy, and code, with A/B testing and analytics built in. It also offers AI agents for tasks like SEO audits and email reports. A free tier is available alongside paid plans."
+    ],
+    "features": [
+      "AI widget builder",
+      "SEO-friendly landing pages",
+      "A/B testing and analytics",
+      "AI agents for marketing tasks"
+    ],
+    "pros": [
+      "Embeds on WordPress, Shopify, Wix, and more",
+      "Built for marketers, no code needed"
+    ],
+    "cons": [
+      "Advanced customization may need paid plans"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "engagico": {
+    "verdict": "AI-powered workflow tool that cleans and prepares contact lists for CRM import.",
+    "overview": [
+      "Engagico is an AI-powered tool that audits, cleans, and organizes contact lists before they enter a CRM. It automates merging lists from multiple sources, removing duplicates, cleaning unsubscribes, and formatting phone numbers. By ensuring HubSpot, Salesforce, and similar CRMs receive accurate, well-structured data, it saves teams hours of manual cleanup and protects deliverability."
+    ],
+    "features": [
+      "Automated contact list merging",
+      "Duplicate removal",
+      "Unsubscribe list cleaning",
+      "Phone number formatting"
+    ],
+    "pros": [
+      "Purpose-built for CRM data prep",
+      "Reduces manual errors"
+    ],
+    "cons": [
+      "Niche single-purpose tool"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "enjo-ai": {
+    "verdict": "AI support and sales agent platform that resolves customer conversations autonomously.",
+    "overview": [
+      "Enjo.ai deploys AI agents that handle customer support and sales conversations across channels like chat and email. The platform integrates with helpdesks, CRMs, and knowledge bases to give agents full context. Businesses use it to deflect tickets and convert leads without expanding headcount."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "etsygenerator": {
+    "verdict": "AI listing and SEO toolkit for Etsy sellers.",
+    "overview": [
+      "EtsyGenerator is an AI toolkit for Etsy sellers that automates listing creation. It generates SEO-optimized titles, descriptions, and tags, plus shop-name ideas and a tailored SEO plan for your store. It runs on a freemium model with paid plans from around $5 per month."
+    ],
+    "features": [
+      "AI title, description and tag generators",
+      "SEO optimization planner",
+      "Shop name generator",
+      "15+ content generators for sellers"
+    ],
+    "pros": [
+      "Purpose-built for Etsy SEO",
+      "Free plan available"
+    ],
+    "cons": [
+      "Limited to Etsy sellers only",
+      "No integrated marketplace analytics"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "eva-brain": {
+    "verdict": "Fully autonomous AI ad agent managing campaigns across Google, Meta, TikTok, and more.",
+    "overview": [
+      "Eva Brain is the fully autonomous advertising agent launched by Nasdaq-listed Eva Live Inc. in 2026, designed to run the whole campaign lifecycle across Google Ads, Meta, TikTok, Taboola, and Outbrain. The system creates campaigns, tunes bids and budgets in real time, generates and iterates creatives, filters fraud, and retrains on performance data, positioning itself as a replacement for traditional campaign teams rather than an assistant to them."
+    ],
+    "features": [
+      "Autonomous campaign creation and deployment",
+      "Real-time bid and budget optimization",
+      "Audience targeting and segmentation",
+      "Creative generation and iteration",
+      "Fraud detection and traffic quality filtering",
+      "White-label deployment options"
+    ],
+    "pros": [
+      "Covers five major ad platforms natively",
+      "Claims up to 40% ROAS improvement in internal benchmarks",
+      "Parent company is Nasdaq-listed (GOAI)",
+      "White-label path for agencies"
+    ],
+    "cons": [
+      "No public pricing or self-serve tiers found",
+      "Autonomy claims rest on company benchmarks",
+      "Small company (3 employees per filings)",
+      "Replace-agencies positioning adds adoption friction"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "everylead": {
+    "verdict": "AI lead generation.",
+    "overview": [
+      "Everylead is a live AI lead-generation product at everylead.ai on a freemium model. Public details on its feature set are limited."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [
+      "Limited public information"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "evolup": {
+    "verdict": "AI affiliate store builder with Amazon sync.",
+    "overview": [
+      "Evolup builds AI-powered affiliate stores with Amazon product import and sync plus an SEO suite. Store owners get product pages generated automatically. Paid plans start at $15 per month with a 7-day trial."
+    ],
+    "features": [
+      "Affiliate store builder",
+      "Amazon import and sync",
+      "SEO suite",
+      "Auto-generated product pages"
+    ],
+    "pros": [
+      "Fast store setup",
+      "Amazon integration",
+      "Built-in SEO tools"
+    ],
+    "cons": [
+      "Paid only",
+      "Affiliate-model dependent"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "exceed-ai": {
+    "verdict": "AI sales assistant by Genesys that engages, qualifies, and nurtures leads around the clock.",
+    "overview": [
+      "Exceed.ai is a conversational AI sales assistant, now part of Genesys, that automates lead outreach and qualification for B2B sales and marketing teams. Its virtual assistant holds two-way conversations with prospects over email, chat, and SMS — following up on inbound leads, reactivating cold ones, asking qualification questions, and booking meetings directly on reps' calendars. Every interaction syncs back to the CRM, and the AI handles the tedious middle of the funnel so human reps spend time only on sales-ready conversations."
+    ],
+    "features": [
+      "Human-like two-way lead conversations via email, chat, and SMS",
+      "Automated lead qualification with customizable criteria",
+      "Intelligent meeting scheduling on rep calendars",
+      "CRM integration with real-time lead record updates",
+      "Lead reactivation and dormant-pipeline nurturing"
+    ],
+    "pros": [
+      "24/7 lead engagement with no manual follow-up",
+      "Backed by Genesys' enterprise customer-experience ecosystem",
+      "Strong CRM integrations keep data current",
+      "Proven with well-known enterprise customers"
+    ],
+    "cons": [
+      "Enterprise pricing starts around $1,950/month",
+      "Email/chat/SMS only — no voice calling",
+      "Best suited to mid-size and larger teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "experimently": {
+    "verdict": "AI landing-page builder with built-in lead forms and flicker-free A/B testing.",
+    "overview": [
+      "Experimently generates tailored landing pages from a text prompt, then lets users edit them in a no-code WYSIWYG editor and publish to a subdomain or custom domain. Every project includes built-in lead capture forms and flicker-free A/B testing with weighted traffic routing, plus embedded analytics to pick a winner. A generous free plan includes 200 form submissions per month."
+    ],
+    "features": [
+      "AI page generation from prompts",
+      "No-code WYSIWYG editor",
+      "Flicker-free A/B testing",
+      "Built-in lead forms",
+      "Custom domain publishing",
+      "Embedded analytics"
+    ],
+    "pros": [
+      "Generous free plan",
+      "A/B testing without flicker"
+    ],
+    "cons": [
+      "Newer product, evolving feature set"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "fanfuel": {
+    "verdict": "AI toolkit for YouTube creators: scripts, thumbnails, SEO, analytics.",
+    "overview": [
+      "Fanfuel is an AI platform built for YouTube creators that helps with the production side of running a channel. It generates video scripts, creates thumbnails, writes SEO-friendly titles and descriptions, and provides channel analytics. The company was founded in 2023 in New York City and operates as an unfunded startup on a paid plan around $19 per month."
+    ],
+    "features": [
+      "AI video script writing",
+      "AI thumbnail generation",
+      "SEO titles and metadata",
+      "Channel analytics"
+    ],
+    "pros": [
+      "Purpose-built for YouTube workflows",
+      "Combines creation and analytics in one place"
+    ],
+    "cons": [
+      "Paid only, no free tier",
+      "Focused exclusively on YouTube, not other platforms"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "feedguardians": {
+    "verdict": "AI comment moderation and engagement for social accounts.",
+    "overview": [
+      "FeedGuardians is an AI moderation tool for Facebook, Instagram, TikTok, and YouTube that automatically hides spam and toxic comments while drafting smart replies in your brand voice. A unified inbox, sentiment tagging, and sales-intent detection help teams protect ad ROI without manual monitoring. Plans start at $49 per month; the founders are Jan and Lenart from Slovenia."
+    ],
+    "features": [
+      "AI comment moderation",
+      "auto-replies in brand voice",
+      "sentiment and intent tagging"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "feedhive": {
+    "verdict": "AI-driven scheduler with visual automation workflows, post conditions, engagement prediction, and AI image generation built in.",
+    "overview": [
+      "FeedHive is an AI social media management and automation tool built for creators, teams, and agencies. Beyond scheduling, it offers a visual workflow builder with post conditions (if/then publishing logic), engagement prediction, recycle suggestions for top posts, and an AI Writing Assistant trained for social copy. Version 2.0 adds AI image generation and deep integration with AI agents like Claude Code via API and MCP."
+    ],
+    "features": [
+      "AI Writing Assistant that learns your brand voice",
+      "Visual automation workflow builder with post conditions",
+      "AI engagement prediction before publishing",
+      "AI image generation (Flux Pro / Nano Banana) in the composer",
+      "AI hashtag generation",
+      "Recycle suggestions for top-performing posts",
+      "3,000+ post and inspiration templates",
+      "Social inbox and approval workflows"
+    ],
+    "pros": [
+      "Workflow builder with conditions goes far beyond basic calendar scheduling",
+      "Combines AI writing, image generation, and automation in one workspace",
+      "Scales from 4 to 500 social accounts across four tiers",
+      "API and MCP support for wiring AI agents into the workflow"
+    ],
+    "cons": [
+      "No permanent free plan; only a 7-day trial",
+      "Creator plan caps scheduling at 30 posts with a 14-day window",
+      "Prices listed in EUR, which can confuse USD-based buyers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "finsi": {
+    "verdict": "AI ad management and optimization across Meta, TikTok, and Google Ads.",
+    "overview": [
+      "Finsi is an AI ad management platform for performance marketers. It supports ad optimization and management across Meta Ads, TikTok Ads, and Google Ads with Shopify integrations, helping teams run and refine paid campaigns. Built for marketers who manage spend across multiple channels, it centralizes AI-driven advertising workflows in one place."
+    ],
+    "features": [
+      "AI ad optimization across Meta, TikTok, Google",
+      "Ad management and AI advertising tools",
+      "Shopify integration",
+      "Multi-channel campaign workflows",
+      "US-based company"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "flick": {
+    "verdict": "AI social media assistant that writes on-brand captions, suggests hashtags, and schedules posts with Instagram analytics.",
+    "overview": [
+      "Flick is an AI-powered social media platform built around caption writing: it generates content ideas, writes personal on-brand captions with tone and length controls, suggests and manages hashtags, and converts long-form content into shareable social snippets. It also offers post scheduling with best-time recommendations and Instagram analytics. A free AI caption generator with weekly limits sits alongside paid plans with a 7-day trial."
+    ],
+    "features": [
+      "AI caption writer with tone, length, and style personalization",
+      "Content idea brainstorming from a topic",
+      "Hashtag search, saved groups, and hashtag analytics",
+      "Long-form content repurposed into social snippets and threads",
+      "Post scheduling with best-time-to-post recommendations",
+      "Instagram analytics and performance benchmarks",
+      "AI image generation plus a stock image library",
+      "Caption and idea organization/planning board"
+    ],
+    "pros": [
+      "Strong hashtag strategy tools: search, grouping, reach-vs-competition data",
+      "Captions feel personal and on-brand rather than generic",
+      "Free AI caption generator lets you test quality before paying",
+      "Instagram scheduling and analytics in one workflow"
+    ],
+    "cons": [
+      "Analytics are limited to Instagram; other platforms get no native analytics",
+      "No video content transformation; it only generates written content plus images",
+      "Plans are billed in GBP, which can be confusing for international customers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "flowcart-ai": {
+    "verdict": "AI commerce platform for selling through WhatsApp chat.",
+    "overview": [
+      "Flowcart AI is an AI commerce platform built around WhatsApp, letting merchants sell through conversational storefronts. It automates product discovery, checkout, and customer follow-ups inside chat. The tool is aimed at businesses whose customers already live on WhatsApp. Pricing is around $70 a month."
+    ],
+    "features": [
+      "Conversational storefronts inside WhatsApp",
+      "AI product recommendations and checkout",
+      "Automated order follow-ups and support",
+      "Catalog and inventory management",
+      "Analytics on chat-commerce performance"
+    ],
+    "pros": [
+      "Meets customers where they already chat",
+      "Automates the full chat-commerce funnel",
+      "Purpose-built for WhatsApp selling"
+    ],
+    "cons": [
+      "WhatsApp-centric — limited if customers are elsewhere",
+      "$70/month is steep for tiny shops",
+      "Dependent on WhatsApp commerce policies"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "flowla": {
+    "verdict": "Digital sales rooms with AI workflows that keep deals moving",
+    "overview": [
+      "Flowla builds digital sales rooms — branded, collaborative workspaces where buyers and sellers share proposals, action plans, documents, and e-signatures in one link. Its native AI workflow builder, AutoPilot, triggers actions from CRM, calendar, and room activity: drafting follow-ups, nudging stakeholders, and syncing data without manual admin. The London-based company also exposes an MCP server so AI assistants can work with Flowla rooms directly."
+    ],
+    "features": [
+      "Branded digital sales rooms with proposals and e-signatures",
+      "AI workflow builder (AutoPilot) with recipe library",
+      "AI agents that draft follow-ups from Gmail threads",
+      "CRM integrations and buyer engagement insights",
+      "MCP server for AI assistant integration",
+      "Free plan with 5 rooms"
+    ],
+    "pros": [
+      "Rooms plus native AI workflows in one product",
+      "Free plan to start",
+      "Strong integrations with the sales stack"
+    ],
+    "cons": [
+      "Starts at $49/seat — pricey for small teams",
+      "Sales-room adoption needs buyer buy-in too"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "flowpoint": {
+    "verdict": "AI web analytics that diagnoses why visitors do not convert.",
+    "overview": [
+      "Flowpoint is an AI-driven web analytics platform focused on finding why conversion rates are poor. It combines traffic analytics, behavioral signals, and AI recommendations to suggest fixes for conversion, SEO, and UX issues. The product can be deployed as SaaS or self-hosted inside a company's own infrastructure, with plain-English reporting through an AI agent interface."
+    ],
+    "features": [
+      "Conversion-rate root-cause analysis",
+      "AI-generated optimization recommendations",
+      "Session and funnel analytics",
+      "Self-hosted or cloud deployment",
+      "Natural-language reporting via AI agent"
+    ],
+    "pros": [
+      "Actionable insights, not just charts",
+      "Self-hosting option for data control",
+      "Free tier available"
+    ],
+    "cons": [
+      "Pricing tiers have changed over time",
+      "On-premise setup demands more effort"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "focia": {
+    "verdict": "Score, rank, and generate content ideas with AI engagement predictions.",
+    "overview": [
+      "Focia is a content-creation platform that scores and ranks content ideas before they are published. It combines idea scoring, AI-assisted content generation, and trend forecasting, learning from the creator's own performance data through customizable workspaces. Positioned for creators of all sizes, it offers a free tier with paid plans for teams and enterprises."
+    ],
+    "features": [
+      "Content idea scoring and comparison",
+      "AI content generation",
+      "Trend forecasting",
+      "Engagement prediction across channels",
+      "Custom workspaces"
+    ],
+    "pros": [
+      "Data-driven content decisions",
+      "Tailors predictions to personal data",
+      "Free option for casual creators"
+    ],
+    "cons": [
+      "Product delisted from some directories in 2025",
+      "Limited recent public updates"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "folk-crm": {
+    "verdict": "AI-native all-in-one CRM with a shared relationship memory for sales teams.",
+    "overview": [
+      "Folk is an AI-native all-in-one CRM that captures interactions across email, WhatsApp, and meetings into a shared relationship memory. It enriches contacts, automates sequences, and helps teams prioritize opportunities. Trusted by 5,000+ companies, it positions itself as a proactive assistant for sales teams."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "followr-ai": {
+    "verdict": "AI social media creation, scheduling, and analytics.",
+    "overview": [
+      "Followr is an AI social media management platform with content creation, scheduling, and analytics plus white-label options. It targets agencies and creators managing multiple accounts. Paid plans start at $14.50 per month with a free trial, no free plan."
+    ],
+    "features": [
+      "AI content creation",
+      "Scheduling",
+      "Analytics",
+      "White-label options"
+    ],
+    "pros": [
+      "All-in-one social toolkit",
+      "White-label for agencies",
+      "Affordable entry"
+    ],
+    "cons": [
+      "No permanent free plan",
+      "AI content needs review"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "fomo-ai": {
+    "verdict": "AI-driven marketing growth engine that turns websites into lead machines.",
+    "overview": [
+      "FOMO.ai is an AI-driven marketing growth engine for local-service businesses that turns the website into the number-one sales channel. One team handles SEO, content, AI-search visibility, and conversion, replacing a stack of agencies with a single accountable bill. It targets high-value practices like med spas, law firms, and clinics."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "forvio": {
+    "verdict": "Marketing analytics platform uniting MTA, MMM, and incrementality for smarter budget decisions.",
+    "overview": [
+      "Forvio is a marketing analytics platform that unites multi-touch attribution, incrementality testing, and marketing mix modeling in one place. It shows which channels and campaigns actually drive results so marketers can allocate budgets with confidence. Trusted by more than a hundred companies, it targets marketing teams, consultants, and agencies managing complex multi-country campaigns."
+    ],
+    "features": [
+      "Multi-touch attribution (MTA) down to campaign level",
+      "Marketing mix modeling (MMM) for high-level budget decisions",
+      "Incrementality measurement for validating hypotheses",
+      "Geo-level models for multi-country operations",
+      "Integration of online and offline media data"
+    ],
+    "pros": [
+      "Combines MTA, MMM, and incrementality in one platform",
+      "Backed by customer stories across multi-country campaigns",
+      "Suitable for online and offline media mix analysis"
+    ],
+    "cons": [
+      "Built for teams with meaningful ad spend, likely overkill for very small budgets",
+      "Full platform pricing is not transparent on the site"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "foxy-apps": {
+    "verdict": "No-code builder for AI-powered lead magnet apps that capture leads on your site.",
+    "overview": [
+      "FoxyApps is a platform for building AI-powered lead magnet apps without code. Businesses can pick from a library of hundreds of prebuilt apps across multiple categories or assemble their own, then embed them on their websites to collect leads. The platform can also follow up with app users automatically using personalized messages, turning interactive quizzes, calculators and mini-tools into a small inbound funnel."
+    ],
+    "features": [
+      "No-code AI app builder",
+      "Library of hundreds of prebuilt apps across 10+ categories",
+      "Embed apps on any website",
+      "Automated personalized outreach to app users"
+    ],
+    "pros": [
+      "No coding needed to build interactive lead magnets",
+      "Large template library speeds up launch",
+      "Embeddable apps work on existing sites"
+    ],
+    "cons": [
+      "Lead magnet apps may attract low-intent visitors",
+      "Effectiveness depends on embedding and traffic quality",
+      "No-code templates can look generic without customization"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "frase": {
+    "verdict": "Content operating system for AI search: audits your site, drafts SEO+GEO-scored content, and tracks how AI answers cite you.",
+    "overview": [
+      "Frase runs SEO and AI search end to end: it audits your site page by page, produces a ranked opportunity report, generates content briefs and AI drafts in your brand voice, and publishes to your CMS. Its editor scores content for both traditional search and GEO (AI-answer) visibility. It also monitors AI citations across ChatGPT, Perplexity, Claude, and Gemini, plus ranking decay via Content Guard."
+    ],
+    "features": [
+      "Site audit with page-by-page SEO and AI-answer scores",
+      "AI content briefs generated from SERP research",
+      "Dual SEO and GEO content scoring in one editor",
+      "AI drafts written in your brand voice (Brand Hub)",
+      "AI visibility tracking across ChatGPT, Perplexity, Claude, Gemini, and Google AI",
+      "Content Guard that watches for ranking/traffic decay and drafts fixes",
+      "Opportunity report ranked by likely payoff",
+      "Direct publishing to WordPress, Webflow, Sanity, and Wix plus MCP server/CLI on every plan"
+    ],
+    "pros": [
+      "Fastest research-to-draft loop: brief, AI draft, and SEO+GEO scoring in one editor",
+      "AI-visibility tracking included from the Starter tier, not gated behind higher plans",
+      "7-day free trial with no credit card required"
+    ],
+    "cons": [
+      "Article and site caps on lower tiers (10 articles/mo on Starter)",
+      "On-page scoring depth trails Surfer for pure grading-focused workflows",
+      "No permanent free plan"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "fudge": {
+    "verdict": "AI agent that builds Shopify pages from natural-language prompts as native theme code.",
+    "overview": [
+      "Fudge is an AI-powered Shopify page builder and storefront editor that lets merchants create or rebuild landing, product, and collection pages by typing prompts in plain language. Its AI scans the store and brand, drafts native Liquid/JS/CSS matching the existing theme and SEO best practices, and works inside a safe draft environment so changes can be previewed before publishing. Because the output lives in the theme as native code, pages survive even if the app is uninstalled — a deliberate answer to drag-and-drop builders' vendor lock-in. It holds a 4.9 rating on the Shopify App Store."
+    ],
+    "features": [
+      "Natural-language Shopify page building and editing",
+      "Native Liquid/JS/CSS output matching your theme",
+      "Safe draft environment with preview before publishing",
+      "CRO suggestions for higher-converting pages",
+      "SEO best-practice code generation",
+      "4.9 rating on the Shopify App Store"
+    ],
+    "pros": [
+      "Free trial available",
+      "No vendor lock-in — pages live in your theme",
+      "No frontend bloat from app layers"
+    ],
+    "cons": [
+      "Shopify-only",
+      "Not a dedicated A/B testing or analytics tool"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "fullcontext": {
+    "verdict": "AI sales intelligence that researches prospects before you reach out.",
+    "overview": [
+      "FullContext is an AI sales intelligence tool that builds deep research profiles on prospects and companies, giving sales teams context before outreach. Founded in the US in 2023, it automates the research legwork of prospecting. A free trial is available, with paid plans around $199/month."
+    ],
+    "features": [
+      "AI prospect research profiles",
+      "Company and contact intelligence",
+      "Sales outreach preparation",
+      "Free trial"
+    ],
+    "pros": [
+      "Deep automated prospect research",
+      "Saves hours of manual digging"
+    ],
+    "cons": [
+      "Premium pricing for small teams",
+      "Data freshness depends on sources"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gafix-ai": {
+    "verdict": "AI audit platform that finds and helps fix Google Analytics and Tag Manager setup issues.",
+    "overview": [
+      "GAfix.ai is an AI-powered audit platform for Google Analytics and Tag Manager setups. It scans a site's GA4, GTM and conversion-tracking configuration to surface broken events, duplicates and setup mistakes. The service is aimed at marketers and site owners who want trustworthy analytics data without a manual audit."
+    ],
+    "features": [
+      "Automated Google Analytics 4 audit",
+      "Google Tag Manager container analysis",
+      "Conversion-tracking health checks",
+      "Broken and duplicate event detection",
+      "Data quality scoring and fix guidance"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "getgenai": {
+    "verdict": "AI-driven marketing compliance and content review platform",
+    "overview": [
+      "GetGenAI is an AI-driven platform for marketing compliance and content review, helping teams check campaigns against regulations before launch. It is backed by notable venture firms including a16z and Index Ventures. The product is aimed at regulated marketing teams and follows a paid pricing model."
+    ],
+    "features": [
+      "Marketing compliance checks",
+      "AI content review",
+      "Regulatory risk assessment"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "glinky": {
+    "verdict": "AI lead finder and meeting notetaker in one.",
+    "overview": [
+      "Glinky combines AI lead generation with automatic meeting notes: describe your ideal buyer in plain language and get lists of verified contacts with email and phone data. It also transcribes meetings, extracts action items, and syncs summaries and next steps into your CRM. A free plan covers the basics, with paid tiers from $19.99 per month."
+    ],
+    "features": [
+      "Natural-language lead search",
+      "Verified email and phone data",
+      "AI meeting notes and action items",
+      "CRM sync"
+    ],
+    "pros": [
+      "Lead gen plus meeting notes in one tool",
+      "Free plan available"
+    ],
+    "cons": [
+      "Lead credits limited on lower tiers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gmc-guard": {
+    "verdict": "Audit and monitoring tool that keeps Google Merchant Center feeds healthy and compliant.",
+    "overview": [
+      "GMC Guard audits and monitors Google Merchant Center accounts to catch feed errors, policy violations and disapprovals before they cost ad spend. It provides ongoing monitoring with alerts when issues appear. It is built for ecommerce advertisers and agencies managing Shopping campaigns."
+    ],
+    "features": [
+      "Google Merchant Center account audit",
+      "Product feed error detection",
+      "Policy violation monitoring",
+      "Ongoing alerts for new issues"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "goldcast-content-lab": {
+    "verdict": "AI engine that repurposes long videos into clips, blogs, social posts, and emails.",
+    "overview": [
+      "Content Lab is Goldcast's AI-powered repurposing engine for B2B marketers. Upload any long video and it automatically generates short clips, blog posts, social copy, emails, and key takeaways with your brand voice applied. It also offers text-based video editing, where deleting transcript words trims the footage."
+    ],
+    "features": [
+      "Auto-generate clips, blogs, social posts, emails from video",
+      "Text-based video editing",
+      "AI-identified key moments and quotes",
+      "Brand Voice customization",
+      "Semantic search across video library"
+    ],
+    "pros": [
+      "Content Lab itself is free to use",
+      "Fast turnaround after events",
+      "Brand-styled outputs"
+    ],
+    "cons": [
+      "Deepest value tied to the Goldcast platform",
+      "Aimed at B2B marketing teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gong": {
+    "verdict": "Revenue intelligence platform that records and analyzes sales calls to coach reps, spot deal risks, and forecast pipeline.",
+    "overview": [
+      "Gong is the market-leading revenue intelligence platform that automatically records, transcribes, and analyzes sales calls, meetings, and emails. Its AI surfaces deal risks, buyer sentiment, and winning talk patterns, and it has expanded into pipeline forecasting, coaching scorecards, and role-play training. Used by 4,500+ organizations including Fortune 10 companies, it is the category-defining but most expensive option."
+    ],
+    "features": [
+      "Automatic call recording, real-time transcription, and searchable call libraries",
+      "AI Smart Trackers that detect keyword and topic trends across calls",
+      "Ask Anything — natural-language Q&A over your entire pipeline",
+      "Call Spotlight with auto-generated call briefs and next steps",
+      "Deal warnings flagging at-risk deals (no activity, missing next steps)",
+      "AI Call Reviewer with configurable coaching scorecards",
+      "Revenue forecasting layered on conversation data",
+      "Integrations with Salesforce, HubSpot, Slack, Zoom, and major dialers"
+    ],
+    "pros": [
+      "Deepest conversation analytics in the category — talk patterns, sentiment, deal risk, and forecasting in one platform",
+      "Trusted at scale: 4,500+ organizations, including Fortune 10 companies",
+      "Strong CRM and dialer integrations plus a documented REST API"
+    ],
+    "cons": [
+      "Enterprise-grade pricing (roughly $1,300-$1,920 per user/year plus a platform fee) puts it out of reach for small teams",
+      "No public pricing and no self-serve free trial — everything runs through a sales-led demo",
+      "Contract terms draw complaints: annual auto-renewals with narrow cancellation windows"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "goodcall": {
+    "verdict": "24/7 AI voice receptionist that answers calls, captures leads, and books appointments.",
+    "overview": [
+      "Goodcall is a fully automated AI answering service for businesses that want every call answered without hiring staff. Its voice AI agent picks up around the clock, answers common questions from business information, captures and qualifies caller details, and handles appointment scheduling directly in the phone workflow. Calls sync with CRMs and calendars, and full call recordings, transcripts, and analytics give owners visibility into every conversation. Pricing is a flat monthly rate billed by unique callers rather than per minute, keeping costs predictable regardless of call volume."
+    ],
+    "features": [
+      "24/7 AI call answering with conversational voice agent",
+      "Intelligent lead capture and qualification",
+      "Automated appointment scheduling over the phone",
+      "CRM and calendar integrations",
+      "Call recording, transcripts, and analytics",
+      "Local business phone numbers by area code"
+    ],
+    "pros": [
+      "Predictable flat pricing — no per-minute charges",
+      "Answers every call in under 5 seconds with no hold music",
+      "Scales instantly during call spikes",
+      "Free trial with no credit card required"
+    ],
+    "cons": [
+      "Requires initial script configuration to match routing rules",
+      "AI-only — no live human agent option",
+      "Best suited to small and local businesses"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "goodlads": {
+    "verdict": "AI growth manager for Google Ads: ROAS/CPA hypotheses generated from account data, tracked to verdict.",
+    "overview": [
+      "GoodLads is an AI growth manager for Google Ads accounts spending roughly 10K to 250K euros a month. It reads campaign data daily - search terms, keyword quality, geography, audiences - and turns findings into ranked, data-backed hypotheses to improve ROAS or CPA. Each idea deploys as a controlled experiment, a new paused ad, or a marked live edit, and results track on a kanban board with lift versus control and plain verdicts. It never applies changes without approval and connects via MCP to Claude, ChatGPT, or Codex."
+    ],
+    "features": [
+      "AI-generated hypotheses from daily campaign data analysis",
+      "Three ranked hypotheses per campaign for ROAS or CPA improvement",
+      "Kanban board tracking every hypothesis from proposal to verdict",
+      "One-click deployment as Google Ads experiments, new paused ads, or live edits",
+      "Account overview treemap of spend, conversions, and ROAS",
+      "Never applies changes without approval",
+      "MCP integration: query campaign data via Claude, ChatGPT, or Codex"
+    ],
+    "pros": [
+      "Hypothesis-driven with statistical verdicts, not guesswork",
+      "Safest deployment lever: experiments and paused ads over direct live edits",
+      "Founded by a Google Ads practitioner with 15+ years experience"
+    ],
+    "cons": [
+      "Launch-stage product with no public customer outcome data yet",
+      "Designed for accounts spending 10K+/month, not small budgets"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "goodvibes": {
+    "verdict": "Free Chrome extension that uses AI to hide topics you're done with across X, Reddit, YouTube, LinkedIn and Hacker News.",
+    "overview": [
+      "GoodVibes is a free Chrome extension that reads posts as they load on X, Reddit, YouTube comments, LinkedIn and Hacker News, and hides topics you're done with — politics, rage bait, doom news, spoilers, or anything you describe in plain English. Matching posts can be collapsed to a one-liner, dimmed in place, or removed entirely, and nothing is ever gone for good. There's no account and no paid plan; the first 500 posts a day are analyzed free."
+    ],
+    "features": [
+      "AI topic filtering on X, Reddit, YouTube comments, LinkedIn and Hacker News",
+      "Eight built-in topics plus custom topics described in plain English",
+      "Three hide styles: collapsed to a one-line summary, dimmed in place, or removed from the feed",
+      "Classifies each post in about a third of a second as it loads",
+      "No account needed; about a minute to set up",
+      "Only post text leaves the browser for scoring (TypeSafe Jev classifier); verdicts cached seven days",
+      "Bring-your-own TypeSafe key removes the 500-post daily limit entirely",
+      "Free forever — explicitly no paid plan"
+    ],
+    "pros": [
+      "Free with no account, no card, and no upsell",
+      "Plain-English topics catch posts that keyword muting misses",
+      "Non-destructive hiding — every hidden post can be brought back",
+      "Honest, minimal privacy design with an open privacy policy"
+    ],
+    "cons": [
+      "Chrome only — no Firefox or Safari support",
+      "500-post daily cap unless you bring your own TypeSafe API key",
+      "Only works on the five supported sites"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "goran-ai": {
+    "verdict": "AI sales co-pilot that coaches reps from call recordings",
+    "overview": [
+      "Goran is an AI sales co-pilot that listens to sales calls and turns them into coaching material. It produces structured meeting notes, surfaces objections and key moments, and scores calls against frameworks like MEDDIC or BANT. Over time it builds a self-updating sales playbook from the talk tracks that actually win deals, helping new reps ramp faster."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gorgias-ai": {
+    "verdict": "AI customer support helpdesk for ecommerce with deep Shopify order integration.",
+    "overview": [
+      "Gorgias is a customer support platform built for ecommerce, unifying email, chat, SMS, social, and voice in one inbox. Its Gorgias AI Agent resolves roughly 60% of inquiries automatically, and its standout Shopify integration lets agents (and the AI) view, edit, refund, and cancel orders without leaving the ticket. Helpdesk plans start at $10/mo billed by ticket volume, with the AI Agent as a separate per-resolution add-on."
+    ],
+    "features": [
+      "AI Agent that auto-resolves common inquiries with order actions",
+      "Unified inbox for email, live chat, SMS, social media, and voice",
+      "One-tab order management: cancel, refund, edit, and duplicate orders from tickets",
+      "Adaptive AI that generates unique discount codes by shopper intent",
+      "Chat in checkout to prevent cart abandonment",
+      "Automation flows, macros, and rules for repetitive tasks",
+      "Revenue attribution showing which interactions drive sales",
+      "100+ ecommerce integrations plus an open API"
+    ],
+    "pros": [
+      "Deepest-in-class Shopify integration — order data and actions inside every ticket",
+      "Billed by ticket volume with unlimited agents instead of per-seat pricing",
+      "Combines support and revenue-driving chat in one platform",
+      "7-day free trial with no credit card required"
+    ],
+    "cons": [
+      "The AI Agent is a separate per-resolution add-on, so automation costs stack on top of the helpdesk plan.",
+      "Multiple meters (tickets, AI resolutions, voice) make the bill hard to predict at scale.",
+      "Deepest value lives in the Shopify ecosystem; weaker fit outside ecommerce."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gram-bot-plus": {
+    "verdict": "AI Instagram growth automation powered by ChatGPT.",
+    "overview": [
+      "GramBotPlus automates Instagram growth using Gary Vee's 1.80 and 502 engagement strategies, with ChatGPT writing personalized comments, DMs, and replies. It can extract profile and post data and export it to CSV or Google Sheets. The tool is built by DigicuratorAgency and is free to use."
+    ],
+    "features": [
+      "Automated likes, comments, follows",
+      "AI-personalized DMs",
+      "Instagram data extraction",
+      "CSV/Sheets export"
+    ],
+    "pros": [
+      "Free to use",
+      "GPT-4 powered personalization"
+    ],
+    "cons": [
+      "Automation risks Instagram restrictions"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "granotic": {
+    "verdict": "AI CMO and AI CEO organization: autonomous marketing and company executives that do the work inside your existing company.",
+    "overview": [
+      "Granotic is an AI business partner platform that deploys executive agents inside a company. Bryan, the AI CMO, takes a marketing responsibility and coordinates specialist agents for paid search, SEO, content, lifecycle, and social; Casper, the AI CEO, can even found and run a company from a single-sentence idea. Starting is free; ongoing operations run on monthly company plans."
+    ],
+    "features": [
+      "Bryan: AI CMO that owns a marketing responsibility end to end",
+      "Specialist agents for paid search, paid social, SEO, GEO, content, lifecycle, social media, influencer, and analytics",
+      "Casper: AI CEO that founds and runs a company from a single-sentence idea",
+      "Evidence-first onboarding: reads your site and market before proposing work",
+      "Connects to your existing ad accounts; media spend stays in your hands",
+      "Full activity record: every executive action is readable, approvable, or rejectable",
+      "Plans at $89, $249, and $479 per month per company",
+      "Free to start with no card until the first work lands"
+    ],
+    "pros": [
+      "Executes real work continuously instead of hourly consulting or chatbot advice",
+      "Decisions that need authority route back to the owner; everything else proceeds",
+      "Covers the full marketing department, not a single channel"
+    ],
+    "cons": [
+      "Autonomy claims are unverified by independent reviews",
+      "Per-company plans get expensive for small businesses"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "groas": {
+    "verdict": "Fully autonomous AI agent that manages your Google Ads end to end.",
+    "overview": [
+      "Groas is an agentic AI platform that manages Google Ads campaigns entirely on autopilot. Its AI handles keyword research, ad copywriting, budget allocation, and even landing page optimization without manual intervention. Founded in 2025 by David Pourquery, it targets advertisers who want expert-level campaign management without hiring an agency or specialist."
+    ],
+    "features": [
+      "Autonomous Google Ads campaign management",
+      "AI-generated keywords and ad copy",
+      "Automated budget optimization",
+      "Landing page improvement recommendations"
+    ],
+    "pros": [
+      "True hands-off ads management",
+      "Covers the full campaign lifecycle"
+    ],
+    "cons": [
+      "Less control than manual management",
+      "Advertisers must trust the AI's decisions"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "harmony": {
+    "verdict": "Voice AI agents for revenue teams — lead qualification, booking, and follow-up calls.",
+    "overview": [
+      "Harmony is a voice AI platform for revenue teams, now part of monday.com, that places and handles sales calls without a call center. Its no-code voice agents qualify leads, book appointments, run discovery calls, chase renewals and overdue payments, and hot-transfer warm prospects to human closers live. Calls carry sub-second response times, branded caller ID, and deep CRM write-back."
+    ],
+    "features": [
+      "No-code voice AI agent builder",
+      "Lead qualification and discovery calls",
+      "Appointment setting with calendar sync",
+      "AI dialer with predictive, power, and batch modes",
+      "Branded caller ID and call analytics",
+      "SOC 2, HIPAA, GDPR, ISO 27001 compliance"
+    ],
+    "pros": [
+      "Acquired by monday.com — backed by a public company",
+      "Sub-400ms responses with natural interruption handling",
+      "Deploys in days on existing telephony",
+      "Compliance-ready for regulated industries"
+    ],
+    "cons": [
+      "No public pricing — sales-led",
+      "Voice-only focus, not a full contact-center suite",
+      "Revenue-team use cases, not general support"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "headsup": {
+    "verdict": "AI competitive intelligence and brand monitoring.",
+    "overview": [
+      "HeadsUp is an AI competitive-intelligence and brand-monitoring tool that watches the market and alerts teams to moves that matter. It tracks competitors, mentions, and positioning shifts, then summarizes what changed. It targets marketers and founders who want a radar on the market instead of a research project."
+    ],
+    "features": [
+      "AI competitor tracking",
+      "Brand and mention monitoring",
+      "Change summaries and alerts"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "helploom": {
+    "verdict": "Affordable customer support platform with live chat, help center, and a custom-trained AI agent.",
+    "overview": [
+      "HelpLoom is a customer support platform offering unlimited live chat and unlimited team seats for a flat monthly fee instead of per-agent pricing. Its Plus plan adds a custom-trained AI agent that answers from the company's knowledge base 24/7 in 50+ languages, with seamless handoff to humans. A free-forever plan covers small teams getting started."
+    ],
+    "features": [
+      "Unlimited live chat",
+      "Custom-trained AI agent",
+      "Help center",
+      "50+ languages",
+      "Unlimited team seats",
+      "Slack integration",
+      "Lead collection"
+    ],
+    "pros": [
+      "Free-forever plan",
+      "No per-agent pricing"
+    ],
+    "cons": [
+      "AI agent needs Plus plan"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hermes-voice": {
+    "verdict": "White-label operating platform for AI voice agencies.",
+    "overview": [
+      "Hermes is the operating platform for AI voice agencies — a white-label system that bundles voice infrastructure, CRM, inbound/outbound campaigns, demo pages, billing, knowledge bases, and analytics into one place. Agency operators deploy AI voice receptionists for their clients under their own brand (clients never see Hermes branding), replacing the typical stack of voice APIs, CRMs, and billing tools. Plans start at $149 per month with minute bundles and flat overage rates, and it is built on top of standard voice infrastructure like Vapi or Retell rather than competing with it."
+    ],
+    "features": [
+      "Fully white-labeled client workspaces and demo pages",
+      "Built-in CRM for voice agency operations",
+      "Inbound and outbound campaign orchestration",
+      "Transparent usage billing at flat per-minute rates",
+      "Knowledge bases and analytics per workspace",
+      "Partner program for creators and educators"
+    ],
+    "pros": [
+      "Replaces 5+ tools with one operating platform",
+      "Clients only ever see the operator's brand",
+      "Transparent, locked-in pricing for margin planning",
+      "Built specifically for agency operators, not generic"
+    ],
+    "cons": [
+      "Currently in private beta with invited operators",
+      "Adds cost on top of underlying voice infrastructure",
+      "Focused on agencies — not a fit for end-businesses directly"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hero": {
+    "verdict": "AI resale app that identifies items from photos and lists them on eBay and Facebook Marketplace.",
+    "overview": [
+      "Hero speeds up reselling: snap a photo of an item and its AI identifies the product, suggests a price, and drafts a listing. You can then cross-list to eBay and Facebook Marketplace from one place. It is aimed at casual sellers and resellers who want to skip the tedious parts of listing second-hand goods."
+    ],
+    "features": [
+      "Photo-based item identification",
+      "AI price suggestions",
+      "Listing drafts",
+      "Cross-listing to eBay and Facebook Marketplace"
+    ],
+    "pros": [
+      "Free app to start",
+      "Removes the busywork of resale listings"
+    ],
+    "cons": [
+      "Identification accuracy varies by item",
+      "Paid plans needed for heavier sellers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hexus": {
+    "verdict": "AI platform for creating interactive product demos, videos and guides.",
+    "overview": [
+      "Hexus is an AI-powered product demo platform that helps teams create interactive product walkthroughs, videos and guides. It generates demos from screen recordings and product knowledge, keeping them updated as the product changes. It targets marketing and product teams that need engaging demos without video-production overhead."
+    ],
+    "features": [
+      "AI-generated interactive product demos",
+      "Demo videos and guided walkthroughs",
+      "Automatic demo updates as product changes",
+      "Embeddable demos for websites"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hooksy": {
+    "verdict": "AI ad inspiration library indexing millions of social ads",
+    "overview": [
+      "Hooksy is an AI-powered ad inspiration library indexing over 10 million social ads. Marketers can study competitor creative, track new launches, and find hooks that are already working. The Pro plan starts at $19 per month, and a Chrome extension comes bundled."
+    ],
+    "features": [
+      "10M+ indexed social ads",
+      "Competitor creative tracking",
+      "Chrome extension",
+      "AI ad search"
+    ],
+    "pros": [
+      "Huge indexed ad library",
+      "Affordable $19/month entry",
+      "Chrome extension included"
+    ],
+    "cons": [
+      "Paid only",
+      "Data freshness depends on indexing cadence"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hootsuite": {
+    "verdict": "Enterprise social suite where OwlyWriter AI drafts platform-optimized captions, repurposes posts, and feeds a unified inbox and listening tools.",
+    "overview": [
+      "Hootsuite is the long-running enterprise standard for social media management, with 25 million users over 18 years. OwlyWriter AI sits inside the composer and generates platform-optimized captions from a topic or URL, suggests trending hashtags, repurposes top-performing posts, and can draft campaign content at scale. Around it sits social listening, a unified inbox, competitor analytics, and employee advocacy, making it built for teams with governance needs."
+    ],
+    "features": [
+      "OwlyWriter AI caption and campaign generation with hashtag suggestions",
+      "Social listening and trend discovery streams",
+      "Unified inbox for DMs and comments with saved and suggested replies",
+      "Competitor performance tracking and sentiment analysis",
+      "Employee advocacy through Hootsuite Parliament",
+      "Bulk scheduling up to 350 posts",
+      "Approval workflows with audit trails",
+      "100+ app integrations"
+    ],
+    "pros": [
+      "OwlyWriter AI included on plans to speed up caption creation",
+      "Deepest ecosystem: listening, inbox, advocacy, and 100+ integrations",
+      "Approval workflows and compliance options suit regulated industries",
+      "30-day free trial with no long-term commitment upfront"
+    ],
+    "cons": [
+      "Expensive entry point at $99 per user per month",
+      "No permanent free tier; trial only",
+      "Key add-ons like social listening cost extra"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hoppy-copy": {
+    "verdict": "AI email copywriter for campaigns and newsletters.",
+    "overview": [
+      "Hoppy Copy is an AI copywriting tool specialized in email: campaigns, newsletters, drips and subject lines. Paid plans run around $29 to $39 per month. Built for marketers who live in the inbox."
+    ],
+    "features": [
+      "Email campaign writer",
+      "Subject line generator",
+      "Drip sequence builder",
+      "Tone controls"
+    ],
+    "pros": [
+      "Email-specialized",
+      "Good templates",
+      "Fast drafting"
+    ],
+    "cons": [
+      "Paid only",
+      "Narrow scope"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hot-reach-ai": {
+    "verdict": "AI-generated personalized first lines for cold outreach emails.",
+    "overview": [
+      "Hot Reach AI is an AI-powered cold outreach tool that generates personalized first lines for cold emails by analyzing LinkedIn profiles. Users paste individual profile URLs or upload a CSV for bulk processing, and the AI crafts unique opening lines which are returned in a downloadable CSV ready for email sequences or CRMs. Credits are refunded for profiles it cannot process. It is free to try with pay-as-you-go credits and no subscription."
+    ],
+    "features": [
+      "AI-generated personalized first lines",
+      "LinkedIn profile analysis",
+      "Bulk CSV upload and processing",
+      "CSV output with generated lines appended",
+      "Automatic credit refunds for unprocessed profiles"
+    ],
+    "pros": [
+      "Free to try, no subscription required",
+      "Saves hours of manual prospect research",
+      "Bulk processing via CSV",
+      "Credits refunded when profiles fail"
+    ],
+    "cons": [
+      "Only generates first lines — not full emails",
+      "Depends on LinkedIn profile availability",
+      "Personalization quality varies by profile detail"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

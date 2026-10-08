@@ -1,0 +1,86 @@
+.wrap {
+  padding-block: clamp(40px, 8vw, 72px);
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-12);
+  max-width: 720px;
+  margin-bottom: var(--space-32);
+}
+
+.lede {
+  color: var(--text-muted);
+}
+
+.groups {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-48);
+}
+
+.groupHead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-16);
+  margin-bottom: var(--space-20);
+}
+
+.groupTitle {
+  font-size: 1.25rem;
+  font-weight: var(--fw-heading);
+  line-height: 1.3;
+}
+
+.viewAll {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-8);
+  font-size: 0.875rem;
+  font-weight: var(--fw-semibold);
+  color: var(--accent-text);
+  white-space: nowrap;
+}
+
+.viewAll:hover {
+  color: var(--accent-hover);
+}
+
+.suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-8);
+  margin-top: var(--space-32);
+}
+
+.suggestionsLabel {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.suggestionsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-8);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.suggestionLink {
+  display: inline-block;
+  padding: var(--space-8) var(--space-16);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  background: var(--surface);
+}
+
+.suggestionLink:hover {
+  border-color: var(--border-hover);
+  color: var(--text);
+}

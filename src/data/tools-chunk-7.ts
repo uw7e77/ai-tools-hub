@@ -1,0 +1,2322 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk7: Tool[] = [
+  {
+    "slug": "juro",
+    "name": "Juro",
+    "logo": "/logos/juro.png",
+    "company": "Juro",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Browser-native AI contract platform for fast-moving legal and business teams.",
+    "pricing": "paid",
+    "tags": [
+      "clm",
+      "contract-ai",
+      "contract-negotiation",
+      "e-signature",
+      "templates",
+      "legal-ai",
+      "self-serve",
+      "mid-market"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://juro.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kadoa",
+    "name": "Kadoa",
+    "logo": "/logos/kadoa.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "No-code web scraping and data extraction platform.",
+    "pricing": "freemium",
+    "tags": [
+      "web scraping",
+      "data extraction",
+      "no-code",
+      "datasets"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://kadoa.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kanaries",
+    "name": "Kanaries",
+    "logo": "/logos/kanaries.png",
+    "company": "Kanaries",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI data visualization with the open-source RATH auto-EDA engine.",
+    "pricing": "open-source",
+    "tags": [
+      "data visualization",
+      "eda",
+      "open source",
+      "analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://kanaries.net",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kater",
+    "name": "Kater",
+    "logo": "/logos/kater.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI data platform that answers plain-English questions on your warehouse.",
+    "pricing": "paid",
+    "tags": [
+      "data analysis",
+      "text to sql",
+      "data warehouse",
+      "business intelligence",
+      "semantic layer"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://kater.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kick",
+    "name": "Kick",
+    "logo": "/logos/kick.png",
+    "company": "Kick",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI-powered bookkeeping and accounting for startups and small businesses.",
+    "pricing": "freemium",
+    "tags": [
+      "bookkeeping",
+      "accounting",
+      "startups",
+      "finance automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://kick.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kintsugi",
+    "name": "Kintsugi",
+    "logo": "/logos/kintsugi.png",
+    "company": "Kintsugi",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI sales tax automation: calculation, filing, and remittance",
+    "pricing": "paid",
+    "tags": [
+      "tax",
+      "compliance",
+      "ecommerce"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://trykintsugi.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "knowbo",
+    "name": "Knowbo",
+    "logo": "/logos/knowbo.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Build a custom chatbot trained on your website content in minutes.",
+    "pricing": "paid",
+    "tags": [
+      "chatbots",
+      "customer-support",
+      "knowledge-base",
+      "website-widget"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://knowbo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kore-ai",
+    "name": "Kore.ai",
+    "logo": "/logos/kore-ai.png",
+    "company": "Kore.ai",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Enterprise platform for building agentic AI applications across CX and employee experience.",
+    "pricing": "paid",
+    "tags": [
+      "enterprise ai",
+      "conversational ai",
+      "contact center",
+      "agentic ai",
+      "cx"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://kore.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kotaemon",
+    "name": "Kotaemon",
+    "logo": "/logos/kotaemon.png",
+    "company": "Cinnamon",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Clean, customizable open-source RAG UI for chatting with your documents.",
+    "pricing": "open-source",
+    "tags": [
+      "rag",
+      "document-chat",
+      "self-hosted",
+      "open-source"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/cinnamon/kotaemon",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kribana",
+    "name": "Kribana",
+    "logo": "/logos/kribana.png",
+    "company": "Kribana",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Agentic usage-based billing platform with metering, invoicing, credit wallets and AI-driven payment recovery.",
+    "pricing": "paid",
+    "tags": [
+      "usage-billing",
+      "saas-billing",
+      "invoicing",
+      "credit-wallets",
+      "payment-recovery",
+      "agentic",
+      "fintech",
+      "subscriptions"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://kribana.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kudra",
+    "name": "Kudra",
+    "logo": "/logos/kudra.png",
+    "company": "Kudra",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI document data extraction platform using OCR and NER to pull structured data from invoices, contracts, and resumes.",
+    "pricing": "freemium",
+    "tags": [
+      "document processing",
+      "data extraction",
+      "OCR",
+      "NER",
+      "contracts",
+      "invoices"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://kudra.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kvcore",
+    "name": "kvCORE",
+    "logo": "/logos/kvcore.png",
+    "company": "Inside Real Estate",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "All-in-one real estate platform (now BoldTrail) with smart CRM and AI-driven behavioral marketing automation.",
+    "pricing": "paid",
+    "tags": [
+      "crm",
+      "idx-website",
+      "marketing-automation",
+      "lead-generation",
+      "behavioral-targeting",
+      "back-office",
+      "all-in-one"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.kvcore.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "labelgpt",
+    "name": "LabelGPT",
+    "logo": "/logos/labelgpt.png",
+    "company": "Labellerr",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI data-labeling tool that auto-labels images from text prompts.",
+    "pricing": "freemium",
+    "tags": [
+      "data labeling",
+      "annotation",
+      "computer vision"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.labellerr.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "landing-ai",
+    "name": "Landing AI",
+    "logo": "/logos/landing-ai.png",
+    "company": "Landing AI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Andrew Ng's computer-vision platform for building visual AI applications.",
+    "pricing": "paid",
+    "tags": [
+      "computer-vision",
+      "mlops",
+      "enterprise-ai",
+      "visual-inspection"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://landing.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "langchain-chatchat",
+    "name": "Langchain-Chatchat",
+    "logo": "/logos/langchain-chatchat.png",
+    "company": "chatchat-space",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Local knowledge-base Q&A and agent app over LangChain with local LLMs.",
+    "pricing": "open-source",
+    "tags": [
+      "rag",
+      "knowledge-base",
+      "local-llm",
+      "langchain",
+      "self-hosted"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/chatchat-space/langchain-chatchat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "launchchair",
+    "name": "LaunchChair",
+    "logo": "/logos/launchchair.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI startup planning tool for validation, positioning, and launch prep.",
+    "pricing": "paid",
+    "tags": [
+      "startup",
+      "idea-validation",
+      "product-management",
+      "founders",
+      "launch"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://launchchair.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lawgeex",
+    "name": "LawGeex",
+    "logo": "/logos/lawgeex.png",
+    "company": "LawGeex",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Automated contract review with patented AI redlining against company playbooks.",
+    "pricing": "paid",
+    "tags": [
+      "contract-ai",
+      "contract-review",
+      "redlining",
+      "legal-playbooks",
+      "nda-review",
+      "compliance",
+      "in-house-legal",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.lawgeex.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lawglance",
+    "name": "LawGlance",
+    "logo": "/logos/lawglance.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "RAG-based open-source AI legal assistant delivering grounded answers over a legal corpus.",
+    "pricing": "open-source",
+    "tags": [
+      "legal",
+      "rag",
+      "legal-tech",
+      "document-qa",
+      "open-source"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/lawglance/lawglance",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "leah",
+    "name": "Leah",
+    "logo": "/logos/leah.png",
+    "company": "ContractPod Technologies",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Agentic AI platform (formerly ContractPodAi) unifying contract lifecycle management, legal, procurement, and finance.",
+    "pricing": "paid",
+    "tags": [
+      "contract-lifecycle-management",
+      "clm",
+      "agentic-ai",
+      "legal-ai",
+      "contract-review",
+      "procurement",
+      "e-signature",
+      "enterprise"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://contractpodai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "leena-ai",
+    "name": "Leena AI",
+    "logo": "/logos/leena-ai.png",
+    "company": "Leena AI",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Enterprise platform deploying voice-enabled AI colleagues for HR, IT, finance, and procurement.",
+    "pricing": "paid",
+    "tags": [
+      "ai-colleagues",
+      "enterprise-ai",
+      "voice-ai",
+      "employee-support",
+      "hr-automation"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://leena.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "legal-graph",
+    "name": "Legal Graph",
+    "logo": "/logos/legal-graph.png",
+    "company": "LegalGraph",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI contract review platform that extracts and explains key terms in lengthy legal documents.",
+    "pricing": "freemium",
+    "tags": [
+      "contracts",
+      "legal-research",
+      "compliance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://legalgraph.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "legalon",
+    "name": "LegalOn",
+    "logo": "/logos/legalon.png",
+    "company": "LegalOn Technologies",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI contract review platform with attorney-built playbooks for in-house legal teams.",
+    "pricing": "paid",
+    "tags": [
+      "contract-review",
+      "legal-ai",
+      "playbooks",
+      "in-house-legal"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://legalontech.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "legalsifter",
+    "name": "LegalSifter",
+    "logo": "/logos/legalsifter.png",
+    "company": "LegalSifter",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI contract review in Word with professional-grade redlines customized to each client's legal positions.",
+    "pricing": "paid",
+    "tags": [
+      "contract review",
+      "redlining",
+      "clm",
+      "contract playbooks",
+      "microsoft word",
+      "contract management",
+      "negotiation",
+      "legal ai"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://legalsifter.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "legion-ai",
+    "name": "Legion AI",
+    "logo": "/logos/legion-ai.png",
+    "company": "Legion AI",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI platform that turns business data into actionable insights and reports.",
+    "pricing": "freemium",
+    "tags": [
+      "data analysis",
+      "business intelligence",
+      "insights"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://thelegionai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "legora",
+    "name": "Legora",
+    "logo": "/logos/legora.png",
+    "company": "Legora",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Collaborative AI platform for law firms covering research, drafting, document review, and workflows.",
+    "pricing": "paid",
+    "tags": [
+      "legal research",
+      "contract review",
+      "drafting",
+      "ai agents",
+      "document review",
+      "law firms",
+      "word add-in",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://legora.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "leni",
+    "name": "Leni",
+    "logo": "/logos/leni.png",
+    "company": "Leni",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "AI analyst platform for commercial real estate that automates reporting and surfaces insights.",
+    "pricing": "paid",
+    "tags": [
+      "real estate",
+      "analytics",
+      "asset management"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://leni.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lettria",
+    "name": "Lettria",
+    "logo": "/logos/lettria.png",
+    "company": "Lettria",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "NLP platform that turns documents into knowledge graphs for traceable enterprise AI.",
+    "pricing": "paid",
+    "tags": [
+      "nlp",
+      "knowledge-graph",
+      "graphrag",
+      "ontology"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.lettria.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lever",
+    "name": "Lever",
+    "logo": "/logos/lever.png",
+    "company": "Lever",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "ATS + CRM in one AI-powered platform with smart screening, analytics and fraud prevention for hiring teams.",
+    "pricing": "paid",
+    "tags": [
+      "ats",
+      "recruiting-crm",
+      "ai-screening",
+      "hiring-analytics",
+      "talent-pipeline",
+      "interview-scheduling",
+      "fraud-prevention",
+      "automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.lever.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lex-machina",
+    "name": "Lex Machina",
+    "logo": "/logos/lex-machina.png",
+    "company": "LexisNexis",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Legal analytics platform that mines litigation data to predict case outcomes and reveal judge and counsel behavior.",
+    "pricing": "paid",
+    "tags": [
+      "legal-analytics",
+      "litigation",
+      "judge-analytics",
+      "case-outcomes",
+      "motion-metrics",
+      "damages",
+      "research"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://lexmachina.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lexis-create-plus",
+    "name": "Lexis Create+",
+    "logo": "/logos/lexis-create-plus.png",
+    "company": "LexisNexis",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI clause retrieval and drafting assistant now rebranded as Lexis Create+ by LexisNexis after its acquisition.",
+    "pricing": "paid",
+    "tags": [
+      "contract drafting",
+      "clause library",
+      "precedent search",
+      "dms",
+      "microsoft word",
+      "lexisnexis",
+      "knowledge management",
+      "lawyers",
+      "henchman"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://henchman.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lexis-plus-ai",
+    "name": "Lexis+ AI",
+    "logo": "/logos/lexis-plus-ai.png",
+    "company": "LexisNexis",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "LexisNexis's AI assistant (now branded Lexis+ with Protégé) for cited legal research, drafting, and analysis.",
+    "pricing": "paid",
+    "tags": [
+      "legal-research",
+      "ai-assistant",
+      "drafting",
+      "citations",
+      "shepards",
+      "document-analysis",
+      "protégé"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "linksquares",
+    "name": "LinkSquares",
+    "logo": "/logos/linksquares.png",
+    "company": "LinkSquares",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI-powered contract lifecycle management platform that turns executed agreements into searchable, data-rich assets.",
+    "pricing": "paid",
+    "tags": [
+      "contracts",
+      "clm",
+      "contract-analytics",
+      "redlining",
+      "contract-management",
+      "obligation-tracking",
+      "ai-assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://linksquares.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "liondesk",
+    "name": "LionDesk",
+    "logo": "/logos/liondesk.png",
+    "company": "LionDesk",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "Budget-friendly real estate CRM with AI follow-up, video texting, and automated drip campaigns from $25/month.",
+    "pricing": "paid",
+    "tags": [
+      "crm",
+      "lead-nurturing",
+      "texting",
+      "video-text",
+      "drip-campaigns",
+      "email-marketing",
+      "affordable"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.liondesk.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "listedkit",
+    "name": "ListedKit",
+    "logo": "/logos/listedkit.png",
+    "company": "ListedKit",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "AI transaction coordinator 'Ava' that reads contracts, builds timelines, and tracks deadlines at $14.99 per file.",
+    "pricing": "paid",
+    "tags": [
+      "transaction-coordinator",
+      "contract-reading",
+      "deadline-tracking",
+      "ai-assistant",
+      "risk-scoring",
+      "compliance",
+      "automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.listedkit.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "litera-kira",
+    "name": "Litera Kira",
+    "logo": "/logos/litera-kira.png",
+    "company": "Litera",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Litera's AI contract analysis platform with 1,400+ lawyer-trained smart fields.",
+    "pricing": "paid",
+    "tags": [
+      "contract-ai",
+      "due-diligence",
+      "document-review",
+      "clause-extraction",
+      "legal-ai",
+      "compliance",
+      "enterprise",
+      "litera"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.litera.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "litespace",
+    "name": "Litespace",
+    "logo": "/logos/litespace.png",
+    "company": "Litespace",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI recruiting agents that source and screen candidates for hiring teams.",
+    "pricing": "paid",
+    "tags": [
+      "recruiting",
+      "hiring",
+      "hr",
+      "agents"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://litespace.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "litmas-ai",
+    "name": "Litmas AI",
+    "logo": "/logos/litmas-ai.png",
+    "company": "Litmas AI",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI litigation platform with verified, hallucination-free legal research.",
+    "pricing": "paid",
+    "tags": [
+      "legal",
+      "litigation",
+      "legal-research",
+      "attorneys"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://litmas.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "livedocs",
+    "name": "Livedocs",
+    "logo": "/logos/livedocs.png",
+    "company": "Livedocs",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI-native reactive notebooks for data analysis with SQL and Python.",
+    "pricing": "freemium",
+    "tags": [
+      "data-analysis",
+      "notebooks",
+      "sql",
+      "dashboards",
+      "bi"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://livedocs.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "logo": "/logos/llamaindex.png",
+    "company": "LlamaIndex",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "The document-processing platform for connecting LLMs to your external data.",
+    "pricing": "open-source",
+    "tags": [
+      "rag",
+      "llm-data",
+      "framework",
+      "python",
+      "knowledge-base",
+      "ingestion"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://github.com/run-llama/llama_index",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "llamaparse",
+    "name": "LlamaParse",
+    "logo": "/logos/llamaparse.png",
+    "company": "LlamaIndex",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "LlamaIndex's document agent platform: agentic OCR, parsing, extraction, and indexing for AI pipelines.",
+    "pricing": "freemium",
+    "tags": [
+      "document-parsing",
+      "ocr",
+      "rag",
+      "data-extraction",
+      "llamaindex",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://cloud.llamaindex.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lofty",
+    "name": "Lofty",
+    "logo": "/logos/lofty.png",
+    "company": "Lofty, Inc.",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "All-in-one real estate platform (formerly Chime) with CRM, IDX website, and built-in AI lead engagement.",
+    "pricing": "paid",
+    "tags": [
+      "crm",
+      "idx-website",
+      "ai-assistant",
+      "lead-generation",
+      "marketing-automation",
+      "dialer",
+      "transaction-management"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.lofty.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "loxo",
+    "name": "Loxo",
+    "logo": "/logos/loxo.png",
+    "company": "Loxo",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI-native talent intelligence platform unifying ATS, CRM, sourcing, and outreach agents.",
+    "pricing": "freemium",
+    "tags": [
+      "talent intelligence",
+      "ats",
+      "recruiting crm",
+      "ai sourcing",
+      "agentic ai",
+      "outreach automation",
+      "contact enrichment",
+      "chrome extension"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://loxo.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "luminance",
+    "name": "Luminance",
+    "logo": "/logos/luminance.png",
+    "company": "Luminance",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "AI-native contract intelligence platform for enterprise contract review and due diligence.",
+    "pricing": "paid",
+    "tags": [
+      "contract-ai",
+      "contract-review",
+      "due-diligence",
+      "anomaly-detection",
+      "legal-ai",
+      "compliance",
+      "enterprise",
+      "clause-analysis"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.luminance.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "luzmo",
+    "name": "Luzmo",
+    "logo": "/logos/luzmo.png",
+    "company": "Luzmo",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Embedded analytics platform for SaaS: white-labeled dashboards, natural-language IQ, and agent APIs.",
+    "pricing": "paid",
+    "tags": [
+      "embedded-analytics",
+      "dashboards",
+      "white-label",
+      "saas",
+      "natural-language-query",
+      "api",
+      "sdk",
+      "self-service-bi"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.luzmo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "majorgen",
+    "name": "MajorGen",
+    "logo": "/logos/majorgen.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI-tailored resumes and cover letters built around each job description.",
+    "pricing": "paid",
+    "tags": [
+      "resume",
+      "cover-letter",
+      "ats",
+      "job-search",
+      "careers"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://majorgen.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "manatal",
+    "name": "Manatal",
+    "logo": "/logos/manatal.png",
+    "company": "Manatal",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Simple AI recruiting software from $15/user/mo with AI screening interviews and 2,500+ job boards.",
+    "pricing": "paid",
+    "tags": [
+      "ats",
+      "ai-matching",
+      "ai-interviewer",
+      "profile-enrichment",
+      "job-boards",
+      "career-pages",
+      "agencies",
+      "open-api"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://www.manatal.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "marketalerts",
+    "name": "MarketAlerts",
+    "logo": "/logos/marketalerts.png",
+    "company": "Zerosigma Capital GmbH",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI stock watchlist that monitors markets and fires smart alerts.",
+    "pricing": "freemium",
+    "tags": [
+      "stock alerts",
+      "investing",
+      "watchlist",
+      "trading signals"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.marketalerts.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "maxkb",
+    "name": "MaxKB",
+    "logo": "/logos/maxkb.png",
+    "company": "1Panel",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Open-source platform for building enterprise knowledge-base agents with RAG Q&A.",
+    "pricing": "open-source",
+    "tags": [
+      "rag",
+      "knowledge-base",
+      "self-hosted",
+      "ai-agents",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://github.com/1panel-dev/maxkb",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "meridian",
+    "name": "Meridian",
+    "logo": "/logos/meridian.png",
+    "company": "Pilot",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI operating system by Pilot that runs the month-end close autonomously for accounting firms.",
+    "pricing": "paid",
+    "tags": [
+      "accounting",
+      "bookkeeping",
+      "month-end-close",
+      "ai-agents",
+      "mcp",
+      "reconciliation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://meridian.pilot.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mesha",
+    "name": "Mesha",
+    "logo": "/logos/mesha.png",
+    "company": "Mesha",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI finance assistant for freelancers, founders, and small teams.",
+    "pricing": "paid",
+    "tags": [
+      "billing",
+      "bookkeeping",
+      "invoices",
+      "freelancers"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.trymesha.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "metabase",
+    "name": "Metabase",
+    "logo": "/logos/metabase.png",
+    "company": "Metabase, Inc.",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Open-source BI tool with Metabot AI: ask questions in plain language and bring your own AI model.",
+    "pricing": "open-source",
+    "tags": [
+      "bi",
+      "open-source",
+      "dashboards",
+      "natural-language",
+      "sql",
+      "self-hosted",
+      "embedded-analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.metabase.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "metatext",
+    "name": "Metatext",
+    "logo": "/logos/metatext.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Open directory of AI models, datasets, and MCP servers.",
+    "pricing": "free",
+    "tags": [
+      "ai models",
+      "datasets",
+      "mcp",
+      "directory"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://metatext.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "micro1",
+    "name": "Micro1",
+    "logo": "/logos/micro1.png",
+    "company": "Micro1",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "AI-led technical interviews (async, proctored, scored) plus an API employers can embed.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-interviewer",
+      "technical-hiring",
+      "coding-interviews",
+      "proctoring",
+      "async-interviews",
+      "api",
+      "skill-assessment",
+      "talent-marketplace"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.micro1.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "midash-ai",
+    "name": "MiDash AI",
+    "logo": "/logos/midash-ai.png",
+    "company": "MiDash AI Technology",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Conversational AI trading agent — describe strategies in plain language and it builds, backtests and executes them.",
+    "pricing": "freemium",
+    "tags": [
+      "trading-agent",
+      "conversational-ai",
+      "investing",
+      "backtesting",
+      "broker-integration",
+      "multi-agent"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.midash.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mindcase",
+    "name": "Mindcase",
+    "logo": "/logos/mindcase.png",
+    "company": "Mindcase",
+    "category": "business-data",
+    "subcategory": "web data extraction",
+    "shortDescription": "One API that collects structured data from 30+ web sources with ready-made data agents and Excel functions.",
+    "pricing": "paid",
+    "tags": [
+      "web-scraping",
+      "data-extraction",
+      "api",
+      "lead-generation",
+      "enrichment",
+      "market-intelligence",
+      "mcp",
+      "excel"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://mindcase.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mito",
+    "name": "Mito",
+    "logo": "/logos/mito.png",
+    "company": "Saga",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Open-source AI spreadsheet inside Jupyter: edit data like Excel and get production-ready Python code.",
+    "pricing": "open-source",
+    "tags": [
+      "spreadsheet",
+      "jupyter",
+      "python",
+      "open-source",
+      "ai-chat",
+      "pandas",
+      "automation"
+    ],
+    "platforms": [],
+    "officialUrl": "https://www.trymito.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mlq",
+    "name": "MLQ",
+    "logo": "/logos/mlq.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI investment research platform with equity tools, crypto news, and analyst chat.",
+    "pricing": "free",
+    "tags": [
+      "investment research",
+      "stocks",
+      "crypto",
+      "AI analyst",
+      "finance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mlq.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "modelmonkey",
+    "name": "ModelMonkey",
+    "logo": "/logos/modelmonkey.png",
+    "company": "ModelMonkey",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI assistant that builds financial models inside Google Sheets and Excel.",
+    "pricing": "freemium",
+    "tags": [
+      "financial-modeling",
+      "spreadsheets",
+      "google-sheets",
+      "excel",
+      "dcf",
+      "valuation"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://modelmonkey.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mokkup-ai",
+    "name": "Mokkup.ai",
+    "logo": "/logos/mokkup-ai.png",
+    "company": "NeenOpal Inc.",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI dashboard wireframing tool that exports to Power BI and Tableau.",
+    "pricing": "freemium",
+    "tags": [
+      "dashboards",
+      "wireframing",
+      "power bi",
+      "tableau",
+      "bi"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mokkup.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "momentum-radar",
+    "name": "Momentum Radar",
+    "logo": "/logos/momentum-radar.png",
+    "company": "Momentum Radar",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI market-trend discovery and trading research toolkit.",
+    "pricing": "freemium",
+    "tags": [
+      "trading",
+      "market research",
+      "crypto",
+      "sentiment"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://momentumradar.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mosaic",
+    "name": "Mosaic",
+    "logo": "/logos/mosaic.png",
+    "company": "Mosaic",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Strategic finance platform with AI insights for growth-stage FP&A teams.",
+    "pricing": "paid",
+    "tags": [
+      "FP&A",
+      "forecasting",
+      "financial planning",
+      "dashboards",
+      "strategic finance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mosaic.tech",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "neuron7",
+    "name": "Neuron7",
+    "logo": "/logos/neuron7.png",
+    "company": "Neuron7",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Service-intelligence AI agent for resolving complex technical support issues without hallucinations.",
+    "pricing": "paid",
+    "tags": [
+      "customer-support",
+      "ai-agents",
+      "field-service",
+      "enterprise",
+      "diagnostics"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.neuron7.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nextatlas",
+    "name": "Nextatlas",
+    "logo": "/logos/nextatlas.png",
+    "company": "Nextatlas",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI trend forecasting platform that turns real-time social and news data into market research insights.",
+    "pricing": "paid",
+    "tags": [
+      "trend-forecasting",
+      "market-research",
+      "consumer-insights",
+      "sentiment-analysis",
+      "ai-agents",
+      "predictive-analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.nextatlas.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nomic-atlas",
+    "name": "Nomic Atlas",
+    "logo": "/logos/nomic-atlas.png",
+    "company": "Nomic AI",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Nomic AI's platform for organizing unstructured text, image, and audio data into interactive semantic maps.",
+    "pricing": "freemium",
+    "tags": [
+      "embeddings",
+      "data-labeling",
+      "semantic-search",
+      "dataset-curation",
+      "vector-data",
+      "rag"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://atlas.nomic.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "noola",
+    "name": "Noola",
+    "logo": "/logos/noola.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI-native self-hosted customer support platform with omnichannel inbox and RAG.",
+    "pricing": "open-source",
+    "tags": [
+      "customer support",
+      "helpdesk",
+      "rag",
+      "omnichannel",
+      "self-hosted",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://github.com/fxck/noola",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "noon-ai",
+    "name": "Noon AI",
+    "logo": "/logos/noon-ai.png",
+    "company": "Portal Inc.",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Autonomous AI sourcing agent that runs the recruiting top of funnel.",
+    "pricing": "paid",
+    "tags": [
+      "AI sourcing",
+      "recruiting",
+      "outreach",
+      "AI agents",
+      "talent acquisition"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://noon.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "numeric",
+    "name": "Numeric",
+    "logo": "/logos/numeric.png",
+    "company": "Numeric",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI close-automation platform that reconciles accounts, drafts variance commentary, and speeds up the month-end close.",
+    "pricing": "paid",
+    "tags": [
+      "accounting",
+      "month-end close",
+      "reconciliation",
+      "financial reporting",
+      "variance analysis",
+      "erp",
+      "ai accounting",
+      "audit"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.numeric.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "numerous-ai",
+    "name": "Numerous.ai",
+    "logo": "/logos/numerous-ai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI add-on for Google Sheets and Excel that runs ChatGPT prompts as spreadsheet functions for bulk data tasks.",
+    "pricing": "freemium",
+    "tags": [
+      "spreadsheet",
+      "excel",
+      "google-sheets",
+      "ai-functions",
+      "data-cleaning",
+      "text-classification",
+      "formula-generator",
+      "bulk-processing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://numerous.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nurture-boss",
+    "name": "Nurture Boss",
+    "logo": "/logos/nurture-boss.png",
+    "company": "Nurture Boss",
+    "category": "business-data",
+    "subcategory": "real-estate",
+    "shortDescription": "AI inside-sales assistant for realtors that texts new leads instantly and nurtures them until they're ready to talk.",
+    "pricing": "paid",
+    "tags": [
+      "lead-nurturing",
+      "ai-isa",
+      "texting",
+      "speed-to-lead",
+      "appointment-booking",
+      "crm",
+      "automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.nurtureboss.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nutrient-data-extraction",
+    "name": "Nutrient Data Extraction API",
+    "logo": "/logos/nutrient-data-extraction.png",
+    "company": "Nutrient",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "API that extracts cited, structured data from documents for AI pipelines.",
+    "pricing": "paid",
+    "tags": [
+      "document-ai",
+      "data-extraction",
+      "ocr",
+      "api",
+      "rag",
+      "pdf",
+      "structured-data"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://www.nutrient.io/api",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nuvio",
+    "name": "Nuvio",
+    "logo": "/logos/nuvio.png",
+    "company": "Nuvio",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI-assisted financial management with budgeting, cash, and reporting tools.",
+    "pricing": "paid",
+    "tags": [
+      "financial management",
+      "budgeting",
+      "cash flow",
+      "reporting"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.nuvio.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "obviously-ai",
+    "name": "Obviously AI",
+    "logo": "/logos/obviously-ai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "No-code tool that builds prediction models from a spreadsheet in about a minute.",
+    "pricing": "freemium",
+    "tags": [
+      "no-code-ml",
+      "predictive-analytics",
+      "automl",
+      "churn-prediction",
+      "forecasting"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://obviously.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "olypsys",
+    "name": "Olypsys",
+    "logo": "/logos/olypsys.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Smartphone ML tool that measures and identifies O-rings for industry.",
+    "pricing": "freemium",
+    "tags": [
+      "measurement",
+      "industrial",
+      "image-recognition",
+      "o-rings"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://olypsys.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "omnimind",
+    "name": "OmniMind",
+    "logo": "/logos/omnimind.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Low-code platform for building custom AI assistants and search over your own data.",
+    "pricing": "freemium",
+    "tags": [
+      "enterprise-ai",
+      "document-search",
+      "copilot",
+      "low-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://omnimind.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "onvo-ai",
+    "name": "Onvo AI",
+    "logo": "/logos/onvo-ai.png",
+    "company": "Onvo AI",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Ask questions of your database and get AI-generated dashboards.",
+    "pricing": "freemium",
+    "tags": [
+      "analytics",
+      "dashboards",
+      "data"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://onvo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "onyx",
+    "name": "Onyx",
+    "logo": "/logos/onyx.png",
+    "company": "Onyx",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Open-source Gen-AI and enterprise search platform over company docs and apps.",
+    "pricing": "open-source",
+    "tags": [
+      "enterprise-search",
+      "rag",
+      "chatbots",
+      "connectors",
+      "open-core"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://github.com/onyx-dot-app/onyx",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openassistantgpt",
+    "name": "OpenAssistantGPT",
+    "logo": "/logos/openassistantgpt.png",
+    "company": "OpenAssistantGPT",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Open-source chatbot builder trained on your own data.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "customer-support",
+      "open-source"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://openassistantgpt.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opencontracts",
+    "name": "OpenContracts",
+    "logo": "/logos/opencontracts.png",
+    "company": "Open-Source-Legal",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Self-hosted legal document-intelligence platform with AI agents and semantic search.",
+    "pricing": "open-source",
+    "tags": [
+      "legal",
+      "contracts",
+      "annotation",
+      "document-intelligence",
+      "mcp"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://github.com/open-source-legal/opencontracts",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openinvest",
+    "name": "openInvest",
+    "logo": "/logos/openinvest.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Self-hosted AI investment committee: four LLM roles debate stocks into BUY/HOLD/SELL memos.",
+    "pricing": "open-source",
+    "tags": [
+      "finance",
+      "multi-agent",
+      "investment",
+      "debate",
+      "open-source"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/longsizhuo/openinvest",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openrecruiting",
+    "name": "OpenRecruiting",
+    "logo": "/logos/openrecruiting.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Self-hosted AI recruiting platform with AI intake calls and auto interview feedback.",
+    "pricing": "open-source",
+    "tags": [
+      "recruiting",
+      "hr",
+      "voice-agent",
+      "interviews",
+      "ats"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://github.com/nit-1997/openrecruiting",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opinioai",
+    "name": "OpinioAI",
+    "logo": "/logos/opinioai.png",
+    "company": "OpinioAI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI-powered survey and market research platform",
+    "pricing": "freemium",
+    "tags": [
+      "surveys",
+      "market-research",
+      "analytics"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://opinio.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ordemio",
+    "name": "Ordemio",
+    "logo": "/logos/ordemio.png",
+    "company": "Ordemio",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Build custom ChatGPT support chatbots for your website, WhatsApp, and Instagram.",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "customer-support",
+      "whatsapp",
+      "chatgpt",
+      "ai"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.ordemio.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ori",
+    "name": "ORI",
+    "logo": "/logos/ori.png",
+    "company": "Oriserve",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "Enterprise conversational GenAI platform purpose-built for banking, financial services and insurance.",
+    "pricing": "paid",
+    "tags": [
+      "conversational AI",
+      "BFSI",
+      "voice agents",
+      "collections"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://oriserve.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "osum",
+    "name": "Osum",
+    "logo": "/logos/osum.png",
+    "company": "Osum",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "Instant AI-powered market research reports, SWOT analyses, and buyer personas for any business.",
+    "pricing": "paid",
+    "tags": [
+      "market-research",
+      "swot-analysis",
+      "competitive-intelligence",
+      "buyer-personas",
+      "startup-tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://osum.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "outset",
+    "name": "Outset",
+    "logo": "/logos/outset.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI-moderated user research platform running video, voice, and text interviews.",
+    "pricing": "paid",
+    "tags": [
+      "user-research",
+      "ux-research",
+      "ai-interviews",
+      "market-research",
+      "customer-insights"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://outset.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "paka-ai",
+    "name": "Paka AI",
+    "logo": "/logos/paka-ai.png",
+    "company": "Paka AI",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI voice agents that answer calls and book appointments.",
+    "pricing": "freemium",
+    "tags": [
+      "voice ai",
+      "call center",
+      "appointments"
+    ],
+    "platforms": [
+      "web",
+      "whatsapp"
+    ],
+    "officialUrl": "https://paka.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pandada-ai",
+    "name": "Pandada AI",
+    "logo": "/logos/pandada-ai.png",
+    "company": "PULSE INTERACTIVE PTE. LTD.",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI analyst for finance teams that turns messy spreadsheets into variance summaries and forecasts.",
+    "pricing": "freemium",
+    "tags": [
+      "fp&a",
+      "variance analysis",
+      "finance",
+      "data analysis",
+      "budget vs actual"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://pandada.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "papercrane",
+    "name": "Papercrane",
+    "logo": "/logos/papercrane.png",
+    "company": "Papercrane",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI dashboard builder turning plain-English requests into live dashboards.",
+    "pricing": "paid",
+    "tags": [
+      "dashboards",
+      "bi",
+      "data-visualization",
+      "analytics",
+      "ai-agent"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://papercrane.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "paradox-olivia",
+    "name": "Paradox (Olivia)",
+    "logo": "/logos/paradox-olivia.png",
+    "company": "Paradox (acquired by Workday, 2025)",
+    "category": "business-data",
+    "subcategory": "hr-recruiting",
+    "shortDescription": "Olivia, the AI recruiting assistant that automates screening, scheduling, and hiring via chat and text.",
+    "pricing": "paid",
+    "tags": [
+      "ai-assistant",
+      "chatbot",
+      "screening",
+      "interview-scheduling",
+      "high-volume-hiring",
+      "sms",
+      "candidate-experience",
+      "conversational-ats"
+    ],
+    "platforms": [
+      "web",
+      "android",
+      "api"
+    ],
+    "officialUrl": "https://www.paradox.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parano-ai",
+    "name": "Parano.ai",
+    "logo": "/logos/parano-ai.png",
+    "company": "Parano.ai",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI competitive intelligence that tracks rivals' every move.",
+    "pricing": "paid",
+    "tags": [
+      "competitive-intelligence",
+      "market-research",
+      "tracking"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://parano.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parsebridge",
+    "name": "Parsebridge",
+    "logo": "/logos/parsebridge.png",
+    "company": "Parsebridge",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "API that converts PDFs into clean, structured Markdown",
+    "pricing": "paid",
+    "tags": [
+      "pdf",
+      "api",
+      "markdown",
+      "document-processing",
+      "rag",
+      "n8n"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://parsebridge.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parserdata",
+    "name": "Parserdata",
+    "logo": "/logos/parserdata.png",
+    "company": "Parserdata",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "API that extracts structured data from financial documents like statements and invoices.",
+    "pricing": "freemium",
+    "tags": [
+      "document extraction",
+      "ocr",
+      "bank statements",
+      "invoices",
+      "api"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://parserdata.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parseur",
+    "name": "Parseur",
+    "logo": "/logos/parseur.png",
+    "company": "Parseur",
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI document and email parser with a public API.",
+    "pricing": "freemium",
+    "tags": [
+      "document parsing",
+      "ocr",
+      "data extraction",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://parseur.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parsio",
+    "name": "Parsio",
+    "logo": "/logos/parsio.png",
+    "company": "Parsio",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "AI OCR and document parser that extracts structured data from PDFs, emails, and images.",
+    "pricing": "freemium",
+    "tags": [
+      "ocr",
+      "pdf",
+      "data extraction",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://parsio.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "paxton-ai",
+    "name": "Paxton AI",
+    "logo": "/logos/paxton-ai.png",
+    "company": "Paxton AI",
+    "category": "business-data",
+    "subcategory": "legal",
+    "shortDescription": "Legal AI assistant for litigation teams: cited research, drafting, and case analysis in one place.",
+    "pricing": "paid",
+    "tags": [
+      "legal research",
+      "case law",
+      "citations",
+      "litigation",
+      "drafting",
+      "document analysis",
+      "ai citator",
+      "medical chronology"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://www.paxton.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "paymefy-ai",
+    "name": "Paymefy",
+    "logo": "/logos/paymefy-ai.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "business-data",
+    "shortDescription": "AI debt-collection management",
+    "pricing": "paid",
+    "tags": [
+      "ai"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://paymefy.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "payroll-robot",
+    "name": "Payroll Robot",
+    "logo": "/logos/payroll-robot.png",
+    "company": "Swiss Digitech GmbH",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI platform that fully automates payroll processing and compliance.",
+    "pricing": "paid",
+    "tags": [
+      "payroll",
+      "hr",
+      "automation",
+      "tax compliance",
+      "finance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://payrollrobot.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pecan-ai",
+    "name": "Pecan AI",
+    "logo": "/logos/pecan-ai.png",
+    "company": "Pecan AI",
+    "category": "business-data",
+    "subcategory": "data-analysis",
+    "shortDescription": "Low-code predictive analytics that auto-prepares data and builds churn, LTV and demand-forecast models for business teams.",
+    "pricing": "paid",
+    "tags": [
+      "predictive-analytics",
+      "churn-prediction",
+      "lifetime-value",
+      "demand-forecasting",
+      "low-code",
+      "data-preparation",
+      "model-monitoring",
+      "marketing-analytics"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://pecan.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pentacue",
+    "name": "PentaCue",
+    "logo": "/logos/pentacue.png",
+    "company": "PentaCue",
+    "category": "business-data",
+    "subcategory": "finance",
+    "shortDescription": "AI analysis of SEC filings with transparent, cited insights for finance professionals.",
+    "pricing": "freemium",
+    "tags": [
+      "SEC filings",
+      "equity research",
+      "financial analysis",
+      "EDGAR",
+      "citations"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.pentacue.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "personahive",
+    "name": "PersonaHive",
+    "logo": "/logos/personahive.png",
+    "company": null,
+    "category": "business-data",
+    "subcategory": "Synthetic Market Research",
+    "shortDescription": "Test pricing, concepts, and messaging in minutes with census-calibrated AI personas instead of weeks-long survey fieldwork.",
+    "pricing": "freemium",
+    "tags": [
+      "market-research",
+      "synthetic-data",
+      "ai-personas",
+      "surveys",
+      "pricing-research",
+      "concept-testing",
+      "consumer-insights",
+      "brand"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://personahive.ai",
+    "affiliateUrl": null
+  }
+]

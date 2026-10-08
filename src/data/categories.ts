@@ -1,0 +1,73 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/categories.json (icon -> PascalCase lucide name)
+import type { Category } from '../types'
+
+export const categories: Category[] = [
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "icon": "Zap",
+    "description": "AI note-taking, meeting assistants, scheduling, presentations and career tools that save hours every week."
+  },
+  {
+    "slug": "writing-content",
+    "name": "Writing & Content",
+    "icon": "MessageSquare",
+    "description": "AI chatbots, writing assistants, translators and copywriting tools that draft, rewrite and brainstorm text."
+  },
+  {
+    "slug": "image-design",
+    "name": "Image & Design",
+    "icon": "Image",
+    "description": "Text-to-image models, photo editors, AI design studios and avatar creators for visuals of every kind."
+  },
+  {
+    "slug": "video-audio",
+    "name": "Video & Audio",
+    "icon": "Video",
+    "description": "AI video generators, editors, text-to-speech, voice cloning and AI music tools for creators."
+  },
+  {
+    "slug": "coding-development",
+    "name": "Coding & Development",
+    "icon": "Code",
+    "description": "AI coding assistants, code editors, app builders, DevOps and testing tools that ship software faster."
+  },
+  {
+    "slug": "marketing-sales",
+    "name": "Marketing & Sales",
+    "icon": "TrendingUp",
+    "description": "AI marketing, SEO, social media, sales and ecommerce tools that grow revenue on autopilot."
+  },
+  {
+    "slug": "business-data",
+    "name": "Business & Data",
+    "icon": "Briefcase",
+    "description": "AI for data analysis, finance, legal, HR, real estate and business intelligence."
+  },
+  {
+    "slug": "education-learning",
+    "name": "Education & Learning",
+    "icon": "BookOpen",
+    "description": "AI tutors, research assistants and learning tools for students, teachers and researchers."
+  },
+  {
+    "slug": "automation-agents",
+    "name": "Automation & Agents",
+    "icon": "Bot",
+    "description": "AI agents, workflow automation and autonomous assistants that do the work for you."
+  },
+  {
+    "slug": "lifestyle",
+    "name": "Lifestyle",
+    "icon": "Heart",
+    "description": "AI for health, travel, gaming, accessibility and everyday life."
+  },
+  {
+    "slug": "security",
+    "name": "Security",
+    "icon": "Shield",
+    "description": "AI cybersecurity, threat detection and safety tools."
+  }
+]

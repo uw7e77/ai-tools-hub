@@ -1,0 +1,39 @@
+.nav {
+  font-size: var(--text-caption);
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-8);
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  min-width: 0;
+}
+
+.sep {
+  flex: none;
+  color: var(--text-placeholder);
+}
+
+.link {
+  color: var(--text-tertiary);
+  transition: color var(--duration) var(--ease-out);
+}
+
+.link:hover {
+  color: var(--text);
+}
+
+.current {
+  color: var(--text-muted);
+  font-weight: var(--fw-medium);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

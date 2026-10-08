@@ -1,0 +1,1616 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk39: Partial<Record<ToolSlug, ToolDetail>> = {
+  "upscayl": {
+    "verdict": "Free and open-source local AI upscaler for images and video frames",
+    "overview": [
+      "Upscayl is a free and open-source AI image upscaler that runs entirely on your local GPU — no cloud uploads, no subscriptions, no limits. Built on Real-ESRGAN and other models, it upscales up to 16x with batch processing on Windows, macOS and Linux. AGPL v3 licensed with source on GitHub."
+    ],
+    "features": [
+      "Local AI upscaling up to 16x",
+      "Multiple AI models (Real-ESRGAN, REMACRI)",
+      "Batch image upscaling",
+      "Image and video frame upscaling",
+      "100% offline processing",
+      "Double upscaling for quality",
+      "Face enhancement",
+      "Open source (AGPL v3)"
+    ],
+    "pros": [
+      "Completely free with no limits or accounts",
+      "Fully local — private, no uploads",
+      "Open source and auditable",
+      "Works on Windows, macOS and Linux"
+    ],
+    "cons": [
+      "Needs a decent GPU for fast results",
+      "Fewer enhancement features than commercial suites",
+      "No cloud option for weak hardware"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ux-pilot": {
+    "verdict": "AI design assistant that generates UI screens, wireframes, and user flows.",
+    "overview": [
+      "UX Pilot turns text prompts into interface designs, wireframes, and user flows. Designers describe what they need and get editable starting points instead of blank canvases. The tool speeds up early-stage design work and makes iteration cheaper for product teams."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vaethat": {
+    "verdict": "AI render enhancer built for architectural visualization.",
+    "overview": [
+      "Vaethat upscales, denoises, and refines 3D architectural renders using AI models trained specifically on archviz imagery. One-click presets handle precision, detail, or creative enhancement while preserving geometry, lighting, and design intent better than general-purpose upscalers. It supports batch project processing, region-selective enhancement, and layered PSD export for further editing."
+    ],
+    "features": [
+      "Archviz-trained AI enhancement",
+      "4K and 8K upscaling",
+      "One-click presets",
+      "Region-selective enhancement",
+      "Layered PSD export"
+    ],
+    "pros": [
+      "Purpose-built for architecture",
+      "Preserves design intent"
+    ],
+    "cons": [
+      "Niche professional audience"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vanceai": {
+    "verdict": "AI enhancement suite: upscaler, sharpener, denoiser, restorer and background remover",
+    "overview": [
+      "VanceAI is a suite of AI photo tools built on deep convolutional networks, covering upscaling, sharpening, denoising, background removal, photo restoration and video enhancement. It runs in the browser plus a PC app for offline batch work, with an API for developers. Credit-based pricing starts at $4.95 for 100 credits."
+    ],
+    "features": [
+      "AI image upscaler (up to 8x)",
+      "AI image sharpener",
+      "AI image denoiser",
+      "AI photo restorer",
+      "AI background remover",
+      "AI photo cartoonizer",
+      "AI video enhancer",
+      "Batch processing and offline PC app"
+    ],
+    "pros": [
+      "Broad suite covering enhance, restore and upscale",
+      "Offline PC app for private batch processing",
+      "Free previews before spending credits",
+      "API available for developers"
+    ],
+    "cons": [
+      "Credit-based pricing can get expensive at volume",
+      "No subscription with unlimited processing",
+      "Interface spans many separate tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vector-to-3d": {
+    "verdict": "Web app that converts vector graphics and text into stylized 3D models with AI-enhanced rendering.",
+    "overview": [
+      "Vector to 3D, by Meimu, is a browser-based tool that turns 2D vector graphics and text into 3D models without traditional 3D modeling software. AI interprets the vector shapes and translates them into three-dimensional objects with accurate depth and perspective, with AI-optimized lighting, shadows, and materials rendered via GPU ray-tracing. Users choose bevel or balloon-style effects, adjust materials and views, and export in formats including GLB (Pro) or high-resolution images."
+    ],
+    "features": [
+      "AI conversion of vectors and text nodes into 3D models",
+      "Bevel and balloon 3D effect styles",
+      "AI-enhanced GPU ray-traced rendering",
+      "Adjustable lights, materials, and camera views",
+      "Real-time previews",
+      "Transparent backgrounds and realistic shadows",
+      "GLB export and high-res downloads on Pro",
+      "Free tier with limitations; $19 permanent license"
+    ],
+    "pros": [
+      "No 3D modeling skills needed",
+      "Generous free plan",
+      "One-time $19 license option"
+    ],
+    "cons": [
+      "Single-purpose tool with limited workflow scope",
+      "Output quality depends on input vector complexity"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vectorart-ai": {
+    "verdict": "Text-to-vector AI generator for custom SVG illustrations, logos, and icons.",
+    "overview": [
+      "VectorArt.ai is an AI generator for vector graphics that works from text prompts or hand-drawn sketches. Type a description - or draw a rough sketch - and its engine produces custom vector artwork, including illustrations, logos, icons, cartoons, and low-poly images, downloadable as scalable SVG files. It also hosts a royalty-free gallery of community-generated vectors for inspiration or reuse, and new users can try generation free before moving to a monthly subscription."
+    ],
+    "features": [
+      "Text-to-vector image generation",
+      "Sketch-to-image generation from hand drawings",
+      "Multiple illustration styles to explore",
+      "Royalty-free community gallery of generated vectors",
+      "Scalable SVG downloads",
+      "Free trial before subscribing"
+    ],
+    "pros": [
+      "Sketch input is a genuinely useful alternative to pure prompting",
+      "SVG output scales cleanly for any use",
+      "Royalty-free gallery gives free usable artwork"
+    ],
+    "cons": [
+      "Full-resolution downloads and unlimited use require a paid subscription",
+      "AI quality depends heavily on prompt detail",
+      "Sketch-to-image results vary with input clarity"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vectorizer": {
+    "verdict": "Convert raster images to scalable vector graphics with AI.",
+    "overview": [
+      "Vectorizer converts raster images into clean vector graphics using AI. Designers and print shops use it to turn PNGs, JPEGs, and logos into infinitely scalable SVGs without manual tracing, preserving shapes and color regions. The service runs entirely in the browser with a free tier and paid plans for heavier use."
+    ],
+    "features": [
+      "AI raster-to-vector conversion",
+      "Logo and illustration tracing",
+      "SVG and vector export",
+      "Browser-based, no install"
+    ],
+    "pros": [
+      "No software installation",
+      "Fast automated tracing",
+      "Free tier for light use"
+    ],
+    "cons": [
+      "Output quality depends on source image complexity",
+      "Batch processing limits unclear"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vectr": {
+    "verdict": "Free vector graphics editor with AI design tools built in.",
+    "overview": [
+      "Vectr is a free, cross-platform vector graphics editor for logos, icons, and illustrations that works in the browser and on desktop. It now includes AI tools like background removal, text-to-image generation, and JPG-to-SVG conversion alongside real-time collaboration. Designs sync across devices automatically. The Taiwan-based Vectr Labs offers it free with paid upgrades."
+    ],
+    "features": [
+      "Vector editing in browser and desktop",
+      "AI background remover and text-to-image",
+      "JPG/PNG to SVG conversion",
+      "Real-time collaboration",
+      "Cross-platform sync"
+    ],
+    "pros": [
+      "Free and genuinely easy to learn",
+      "AI tools included at no cost"
+    ],
+    "cons": [
+      "Less powerful than Illustrator or Figma for pros",
+      "Browser-first; heavy files can lag"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "veesual": {
+    "verdict": "AI virtual try-on for fashion retailers letting shoppers mix and match outfits on models like themselves.",
+    "overview": [
+      "Veesual lets fashion shoppers virtually try on clothes by choosing AI models that match their own body type, age, and skin tone, then mixing and matching full outfits on them. Its Switch Model and Mix&Match modules plug into retailers' product pages, boosting conversion and cutting returns — clients include La Redoute, Claudie Pierlot, and Eileen Fisher. The Paris-based startup claims up to 25% higher conversion from virtual dressing rooms."
+    ],
+    "features": [
+      "AI model try-on plugin",
+      "Mix & Match outfit builder",
+      "Switch Model morphology picker",
+      "Diverse model representation",
+      "Look inspiration modules",
+      "CMS integrations"
+    ],
+    "pros": [
+      "Inclusive models shoppers identify with",
+      "Mix & Match drives cross-selling",
+      "Trusted by European fashion brands"
+    ],
+    "cons": [
+      "B2B only — no consumer app",
+      "Integration takes 6-8 weeks",
+      "Pricing not public"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "versy-ai": {
+    "verdict": "Text-to-3D interactive virtual spaces.",
+    "overview": [
+      "Versy AI, from UAE-based company Versy founded in 2022, turns text prompts into interactive 3D virtual spaces. It runs on a freemium model in the browser."
+    ],
+    "features": [
+      "Text-to-3D generation",
+      "Interactive virtual spaces"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vibe3d": {
+    "verdict": "Browser-based AI rendering studio for photorealistic architectural visuals.",
+    "overview": [
+      "Vibe3D is a browser-based AI 3D rendering studio built for architects and interior designers: upload a model from SketchUp, Revit, Blender, or similar tools and get client-ready photorealistic renders in seconds with no GPU or plugins. It can enhance draft renders, edit designs with text prompts, relight scenes, and turn stills into cinematic flythrough videos. The official site is live and actively updated, with paid plans (Pro around $39/month) and a free trial. It targets visualization professionals on tight deadlines."
+    ],
+    "features": [
+      "AI photorealistic rendering",
+      "render enhancement",
+      "text-prompt render editing",
+      "scene relighting",
+      "cinematic flythrough videos"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vidnoz-ai": {
+    "verdict": "Free AI video generator with 1,800+ talking avatars, templates, and one-click video translation.",
+    "overview": [
+      "Vidnoz AI is a free AI video generator built around a large library of talking human avatars, aimed at marketing, training, and educational content. It ships thousands of templates, 2,660+ voices across 140+ languages, one-click video translation with lip-sync, and a browser-based scene editor. A permanent free plan with daily credits exists; paid plans from $19.99/month remove the watermark, raise exports to 1080p, and add expressive avatars and faster processing."
+    ],
+    "features": [
+      "1,800+ studio AI avatars (more on paid plans)",
+      "Expressive avatars with natural gestures and lip-sync",
+      "3,400+ video templates",
+      "1-click video translation into 135+ languages",
+      "AI voice cloning",
+      "Text-to-video from scripts",
+      "AI script assistant",
+      "PPT/PDF import to video"
+    ],
+    "pros": [
+      "Generous permanent free plan with daily credits",
+      "Huge avatar, template, and voice library",
+      "One-click multilingual video translation",
+      "Lower entry price than enterprise avatar tools"
+    ],
+    "cons": [
+      "Free exports carry a watermark and cap at 720p",
+      "No 4K export option even on paid plans",
+      "Monthly credits do not roll over"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vinteo-ai": {
+    "verdict": "AI product photography for e-commerce stores.",
+    "overview": [
+      "Vinteo AI generates studio-quality product photos for online stores without a photoshoot. Sellers upload basic product pictures and receive polished images with clean backgrounds and consistent lighting. It aims to make catalog imagery faster and cheaper for small and mid-size e-commerce teams."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "virbo": {
+    "verdict": "AI video creator from Wondershare with 300+ talking avatars, talking photos and templates for quick marketing clips.",
+    "overview": [
+      "Virbo is Wondershare's AI video generator for turning scripts or product photos into avatar-led marketing and UGC-style videos. It offers 300+ AI presenters, voice cloning and a talking-photo feature, plus royalty-free templates across 18 content categories. Available on web, Windows, Mac, iOS and Android with a free plan and paid tiers from $19.90/month."
+    ],
+    "features": [
+      "300+ AI avatars across nationalities, ages and styles",
+      "AI talking photo with lip sync from still images",
+      "AI script assistant and unlimited text-to-image (higher tiers)",
+      "Video translation across 120+ languages",
+      "Royalty-free template library in 18 categories",
+      "Voice cloning and custom avatar creation",
+      "Hybrid Control technology blending AI generation with live footage",
+      "Cross-platform apps: web, Windows, Mac, iOS, Android"
+    ],
+    "pros": [
+      "Large 300+ avatar library, bigger than most competitors",
+      "Free plan with limited credits to try before buying",
+      "Entry pricing lower than HeyGen or Synthesia",
+      "Native mobile apps for on-the-go creation"
+    ],
+    "cons": [
+      "Credit-based plans can be consumed quickly with high-volume video production",
+      "Free tier is limited to 720p exports and short clips",
+      "Independent reviewers report mixed consistency in avatar video quality"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "virton": {
+    "verdict": "AI virtual fitting room for online clothing stores.",
+    "overview": [
+      "Virton is an AI-powered virtual fitting room that lets shoppers see how clothes look on them before buying. Online stores embed the fitting room widget, and customers get AI-generated try-on visuals in seconds. Built by Neurosell, it aims to cut return rates and lift conversions for fashion ecommerce. It has run in open beta with pilot partnerships across apparel brands."
+    ],
+    "features": [
+      "AI virtual try-on widget for stores",
+      "Photo-based fit visualization",
+      "Ecommerce platform integrations",
+      "Analytics for brands"
+    ],
+    "pros": [
+      "Reduces returns and boosts buyer confidence",
+      "Embeddable in existing stores"
+    ],
+    "cons": [
+      "Generation quality still improving",
+      "Best suited to apparel; limited beyond fashion"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "virtusize": {
+    "verdict": "Virtual fitting room comparing new garments to clothes shoppers already own, from $39/mo for brands.",
+    "overview": [
+      "Virtusize's virtual fitting room lets shoppers compare garment measurements against clothes they already own, overlaying 2D silhouettes to show how a new item will fit. It also offers a FittingRoom search engine that filters products by size, fit, style, and price. Trusted by 500+ brands including ASOS, Adidas, and Ralph Lauren, with plans from $39/mo and a two-script-tag integration."
+    ],
+    "features": [
+      "Virtual fitting room widget",
+      "Garment-to-garment comparison",
+      "FittingRoom fit-based search",
+      "AI garment measurement conversion",
+      "Fit analytics dashboard",
+      "No-developer two-tag setup"
+    ],
+    "pros": [
+      "Used by 500+ global fashion brands",
+      "Transparent pricing from $39/mo",
+      "Dead-simple two-script integration"
+    ],
+    "cons": [
+      "Setup requires garment measurement data",
+      "Pricing scales with store size",
+      "Focuses on fit over visual try-on"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "visily": {
+    "verdict": "AI-powered UI design tool for non-designers.",
+    "overview": [
+      "Visily lets non-designers create app and website mockups with AI assistance and a huge template library. It converts screenshots or hand-drawn sketches into editable designs. The freemium platform is popular with product teams needing fast prototypes."
+    ],
+    "features": [
+      "Screenshot-to-design",
+      "Sketch conversion",
+      "Template library",
+      "AI design suggestions"
+    ],
+    "pros": [
+      "No design skills needed",
+      "Fast prototyping",
+      "Generous free tier"
+    ],
+    "cons": [
+      "Less control than Figma",
+      "AI output needs polish"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "visualizeai": {
+    "verdict": "Photo-to-redesign AI with 30+ styles that sells one-time credit packs instead of subscriptions, with commercial rights.",
+    "overview": [
+      "VisualizeAI is an AI interior design tool that turns room photos into photorealistic redesigns in seconds across 30+ styles. Instead of subscriptions it sells one-time credit packs starting at $9, includes commercial usage rights with paid packs, and can generate short walkthrough videos from renders."
+    ],
+    "features": [
+      "30+ interior design styles",
+      "Photorealistic redesigns in seconds",
+      "One-time credit packs — no subscription",
+      "Short walkthrough videos from renders",
+      "Commercial usage rights on paid credit packs",
+      "Before-and-after comparison slider",
+      "6 free credits for new users, no card required",
+      "Garden, kitchen, bathroom and office support"
+    ],
+    "pros": [
+      "No-subscription pricing suits occasional redesigns and realtor staging",
+      "Commercial rights included with every paid credit pack",
+      "Simple three-step workflow with no design skills needed",
+      "Free credits to try it with no credit card"
+    ],
+    "cons": [
+      "Credits run out fast when experimenting heavily",
+      "Results depend heavily on input photo quality",
+      "Young product with no third-party ratings"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "vossle": {
+    "verdict": "AI-augmented builder for creating WebAR experiences without coding.",
+    "overview": [
+      "Vossle is a no-code platform for building WebAR (web-based augmented reality) experiences, enhanced with AI assistance. Users can create interactive AR campaigns, product visualizations, and marketing experiences that run directly in the mobile browser without an app install."
+    ],
+    "features": [
+      "No-code WebAR experience builder",
+      "AI-assisted AR content creation",
+      "Browser-based AR, no app needed",
+      "Marketing and product visualization templates"
+    ],
+    "pros": [
+      "No app install needed for viewers",
+      "Free tier to experiment",
+      "Low barrier to AR creation"
+    ],
+    "cons": [
+      "Advanced AR features may need paid plans",
+      "Quality depends on target device"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "weavy": {
+    "verdict": "Node-based AI creative workflow platform for image, video, and 3D generation.",
+    "overview": [
+      "Weavy is a node-based AI creative workflow platform that brings image, video, and 3D generation into one canvas. It supports layer-based editing, reusable workflows, and team collaboration for production-grade creative work. Creators can chain models and steps into repeatable pipelines instead of one-off generations."
+    ],
+    "features": [
+      "Node-based visual workflow builder",
+      "Image, video, and 3D generation in one canvas",
+      "Layer-based editing",
+      "Team collaboration and reusable workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wiai": {
+    "verdict": "AI-powered custom suit brand with a free Smart Measure tool that generates 14 tailoring measurements online.",
+    "overview": [
+      "WIAI is an AI-powered custom suit brand whose Smart Measure system generates 14 professional tailoring measurements from basic body data entered online. The free tool supports 11 body types across genders, replacing in-person tailor visits for bespoke suit shoppers. Customers get their measurement report by email and can immediately order a made-to-measure suit through the brand's online store."
+    ],
+    "features": [
+      "AI Smart Measure tool",
+      "14 instant suit measurements",
+      "11 supported body types",
+      "Free measurement report",
+      "Made-to-measure ordering",
+      "Custom suit e-commerce"
+    ],
+    "pros": [
+      "Smart Measure tool is completely free",
+      "Removes the need for tailor visits",
+      "Supports 11 distinct body types"
+    ],
+    "cons": [
+      "Focused only on custom suits",
+      "Measurements need honest body inputs",
+      "Young brand with limited reviews"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "wizart": {
+    "verdict": "AI room visualizers that let shoppers preview flooring, walls, and materials in realistic scenes.",
+    "overview": [
+      "Wizart is a B2B AI visualization platform for home-improvement retailers and manufacturers. It provides embeddable room visualizers so online shoppers can see flooring, wall panels, rugs, and exteriors in realistic room scenes, backed by a product-content manager, analytics, and an API for custom integrations."
+    ],
+    "features": [
+      "AI room visualizers for floors, walls, rugs, exteriors",
+      "MaterialCloud product-content management",
+      "Vision API for custom 3D layouts",
+      "eCommerce plugins for Shopify, Magento, WooCommerce",
+      "Analytics and custom branding"
+    ],
+    "pros": [
+      "Realistic visualization proven for home-improvement retail",
+      "Broad platform integrations",
+      "API for custom experiences"
+    ],
+    "cons": [
+      "Business pricing, not aimed at consumers",
+      "Plans start around $59/mo"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yepic-ai": {
+    "verdict": "Lifelike talking-photo avatars and real-time conversational video agents for websites and support.",
+    "overview": [
+      "Yepic AI builds lifelike talking-photo avatars and real-time video agents that can converse with website visitors, powered by LLM and TTS engines. Its Studio product generates avatar videos in 120+ languages from scripts, while Video Agents embed on sites for customer support, sales, and learning. Plans start at $20/month; higher tiers add API access, unbranded agents, and streaming avatars."
+    ],
+    "features": [
+      "Real-time conversational video agents",
+      "Talking photo avatars (stock and custom)",
+      "HQ AI actors with lifelike lip sync",
+      "120+ languages and 400+ voices",
+      "Video Agent knowledge-base training",
+      "Agent integrations with forms and calendars",
+      "API access on higher tiers",
+      "Custom embed design and white-labeling"
+    ],
+    "pros": [
+      "Real-time interactive video agents for websites",
+      "Strong multilingual coverage",
+      "API and CRM integrations on upper plans",
+      "Custom talking photos without credit fees on paid tiers"
+    ],
+    "cons": [
+      "No free plan — entry starts at $20/month",
+      "Agent watermarks and 'Powered by Yepic' branding on lower tiers",
+      "Custom HQ avatars cost $49 each as an add-on"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yesplz": {
+    "verdict": "AI fashion search and discovery engine that lets shoppers find styles by image, mood, and natural language.",
+    "overview": [
+      "YesPlz builds an AI-powered search and discovery layer for fashion e-commerce sites. Shoppers can search by photo, describe what they want in plain words, or explore curated styles, while retailers get automated product tagging and personalization behind the scenes. It replaces keyword-only search with visual, conversational discovery tuned for apparel."
+    ],
+    "features": [
+      "AI-powered fashion search engine",
+      "Visual search by uploaded image",
+      "Natural-language style search",
+      "Automated product tagging",
+      "Personalized recommendations",
+      "Trend and discovery curation"
+    ],
+    "pros": [
+      "Purpose-built for fashion rather than generic site search",
+      "Visual and text search reduce dead-end searches",
+      "Automated tagging saves merchandising effort"
+    ],
+    "cons": [
+      "B2B only — no consumer product",
+      "Pricing is quote-based and not public",
+      "Integration effort needed for large catalogs"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "yofont": {
+    "verdict": "Describe a font in one sentence and get a full installable typeface across 60 languages.",
+    "overview": [
+      "YoFont is an AI font generator that drafts every glyph, weight and language of a typeface from a single sentence or a reference image. It produces real, installable TTF, OTF, WOFF and WOFF2 files — not copy-paste symbols — with a Studio for regenerating or hand-fixing individual letters, plus a Figma plugin, REST API and MCP server."
+    ],
+    "features": [
+      "Prompt-to-typeface generation from text or image",
+      "Up to 60 languages across 10 writing systems in one pass",
+      "Thin, Regular and Bold weights",
+      "Per-glyph Studio editor for fixing single letters",
+      "TTF, OTF, WOFF and WOFF2 export plus CDN embedding",
+      "Public font library with live previews and filters",
+      "Image-based font finder and identifier",
+      "Figma plugin, REST API and MCP server"
+    ],
+    "pros": [
+      "First font free with no card required",
+      "Genuinely installable fonts, not Unicode lookalikes",
+      "Multi-script families drawn in a single pass"
+    ],
+    "cons": [
+      "Paid plans kick in after the first free font",
+      "Output quality varies across scripts and styles",
+      "Commercial licence needed for client work and products"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ziddny": {
+    "verdict": "Photo-to-talking-avatar video generator with lip-sync and voice cloning",
+    "overview": [
+      "Ziddny turns a single photo into a lifelike talking avatar video with lip-sync and voice cloning. Built by MechaPal in Japan, it is aimed at creators and businesses making avatar-led videos quickly. Plans start around $5 per month, and an API is available for programmatic use."
+    ],
+    "features": [
+      "Photo-to-talking-avatar",
+      "Lip-sync",
+      "Voice cloning",
+      "API access"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ziggle": {
+    "verdict": "AI mascot and character animator for brands.",
+    "overview": [
+      "Ziggle is an AI tool that creates and animates mascots and characters for brands. It turns character concepts into animated assets you can use in marketing and product content. Aimed at teams that want a distinctive brand mascot without hiring an animation studio."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "zoomscape": {
+    "verdict": "AI-generated Zoom backgrounds.",
+    "overview": [
+      "ZoomScape.ai turns short text prompts into custom HD virtual backgrounds sized for Zoom and other video calls, with results in about 6 seconds. A first background is free on signup, and a one-time $10 payment unlocks 200 AI backgrounds with unlimited gallery downloads; business users can add custom text and slogans."
+    ],
+    "features": [
+      "Prompt-to-background generation",
+      "HD Zoom-sized outputs",
+      "Custom text and slogans",
+      "Unlimited gallery downloads"
+    ],
+    "pros": [
+      "One-time payment, no subscription"
+    ],
+    "cons": [
+      "Single-purpose tool"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "zoviz": {
+    "verdict": "AI logo maker and branding platform for new businesses.",
+    "overview": [
+      "Zoviz is an AI logo generator paired with a full branding toolkit for startups and small businesses. Users type in their brand name and preferences, and the tool produces logo concepts along with matching brand assets. Generation is free to try, and users pay to download the final files, with apps on web, iOS, and Android."
+    ],
+    "features": [
+      "AI logo generation",
+      "Brand identity assets",
+      "Free to generate, pay to download"
+    ],
+    "pros": [
+      "Free to experiment with designs",
+      "Covers logos plus wider branding"
+    ],
+    "cons": [
+      "Must pay to download final logos"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "zyler": {
+    "verdict": "Generative-AI digital dressing room letting shoppers virtually try on clothes on their own body with size recommendations.",
+    "overview": [
+      "Zyler is an AI-powered digital dressing room that lets online shoppers see garments on their own body using just a few measurements and optionally a headshot. Its generative AI is trained on diverse body shapes, and it recently added size recommendations powered by Prime AI. Brands deploy it as a plug-and-play widget or API, reporting up to 18% conversion lifts."
+    ],
+    "features": [
+      "AI virtual try-on digital dressing room",
+      "Generative AI realistic rendering",
+      "Integrated size recommendations",
+      "Plug-and-play widget and API",
+      "Diverse body shape training data",
+      "In-store and online deployment"
+    ],
+    "pros": [
+      "Try-on plus sizing in one 2-in-1 solution",
+      "Brands report up to 26% fewer returns",
+      "Award-winning patented technology"
+    ],
+    "cons": [
+      "B2B only — accessed via brand sites",
+      "Try-on realism varies by garment",
+      "Integration requires retailer partnership"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "3daily": {
+    "verdict": "AI 3D character creator and asset marketplace for game developers.",
+    "overview": [
+      "3DAiLY generates production-ready 3D characters and assets from text prompts, aimed at indie game developers and studios. Its marketplace also connects creators with freelance 3D artists for custom work. Free to start, with premium credits for heavier generation."
+    ],
+    "features": [
+      "Text-to-3D character generation",
+      "Game-ready 3D assets",
+      "Artist marketplace",
+      "Avatar and prop creation"
+    ],
+    "pros": [
+      "Free to start creating.",
+      "Built for game pipelines.",
+      "Marketplace for custom art."
+    ],
+    "cons": [
+      "Output quality varies by prompt.",
+      "Marketplace availability may be limited."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "3dpresso": {
+    "verdict": "Extract 3D models and AI textures from a one-minute video; simulates 3D garments.",
+    "overview": [
+      "AI 3D-creation tool that extracts 3D models from a short video of an object. Upload about a minute of footage and 3Dpresso builds a 3D model with AI-generated textures and unique variations — plus AI garment simulation converting 2D patterns into 3D for designers."
+    ],
+    "features": [
+      "AI 3D model extraction from video",
+      "AI-generated textures on extracted models",
+      "Multiple texture application on a single model",
+      "AI-simulated 3D garments from 2D patterns",
+      "Export for CLO, VStitcher and virtual fitting tools"
+    ],
+    "pros": [
+      "No 3D scanner or mocap suit needed",
+      "Useful for both game-style 3D assets and fashion design",
+      "Free version available with API access"
+    ],
+    "cons": [
+      "Access historically ran through a signup waiting list",
+      "AI-generated models need cleanup before professional pipelines",
+      "Best results need careful video capture of the subject"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "abledocs": {
+    "verdict": "Document accessibility specialist with automated PDF remediation and web auditing.",
+    "overview": [
+      "AbleDocs is a digital accessibility company specializing in document accessibility at scale, alongside web auditing. Its suite includes ADService, ADScan (web accessibility scanner), ADStream (automated high-volume PDF remediation), ADLegacy, ADTraining, ADAudit, and the Grackle Suite of Google Workspace add-ons. It backs its document work with a $10,000,000 liability coverage guarantee, serving financial institutions and governments."
+    ],
+    "features": [
+      "ADScan web accessibility testing and monitoring",
+      "ADStream automated high-volume PDF remediation",
+      "Document remediation with $10M liability coverage",
+      "Grackle Suite: Google Docs, Slides, and Sheets accessibility add-ons",
+      "ADAudit expert web accessibility audits",
+      "ADTraining accessibility education programs",
+      "Free ADReader mobile PDF/UA reader for iOS and Android",
+      "VPAT and compliance documentation support"
+    ],
+    "pros": [
+      "Document accessibility is a genuine specialty, not an add-on",
+      "$10M liability coverage backs compliance claims",
+      "Grackle Suite fixes Google Workspace output at the source",
+      "Free mobile PDF/UA reader supports the ecosystem"
+    ],
+    "cons": [
+      "No public pricing; quotes required",
+      "Service-heavy model suits enterprises more than individuals",
+      "ADScan is aimed at teams, not casual site owners"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "abridge": {
+    "verdict": "Generative AI that converts patient-clinician conversations into notes, codes and summaries for care teams.",
+    "overview": [
+      "Abridge's generative AI platform transforms clinical conversations into documentation, insights and actions across the care journey: pre-visit context, in-encounter clinical decision support, and post-visit notes, coding specificity and patient summaries. It integrates directly with Epic and is trusted by 300+ health systems including Kaiser Permanente and Duke Health, winning Best in KLAS for ambient AI in 2025 and 2026."
+    ],
+    "features": [
+      "Real-time conversation-to-clinical-note generation",
+      "Linked Evidence: validate each note claim against transcript and audio",
+      "Pre-visit patient history and context pull",
+      "In-encounter clinical decision support and care-gap identification",
+      "Post-visit coding specificity, orders and patient summaries",
+      "Epic integration (Haiku, Hyperspace)",
+      "Support for 28 languages",
+      "Hallucination guardrails via confabulation elimination research"
+    ],
+    "pros": [
+      "Trusted by 300+ health systems including Kaiser Permanente, Duke Health, Johns Hopkins",
+      "Best in KLAS ambient AI winner 2025 and 2026",
+      "Provenance tracking ties every note claim to the conversation transcript/audio",
+      "Covers the full care journey: pre-visit, encounter and post-visit"
+    ],
+    "cons": [
+      "Enterprise sales only, no public pricing",
+      "Primarily focused on US health systems",
+      "Clinicians must review and finalize every AI-drafted note"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "accessibe": {
+    "verdict": "AI-powered website accessibility suite with automated remediation, visitor interface profiles, and legal support packages.",
+    "overview": [
+      "accessiBe is an AI-driven web accessibility platform built around its accessWidget, which scans and remediates site code roughly every 24 hours while giving visitors an on-page interface with profiles for blindness, low vision, epilepsy, motor, and cognitive needs. Beyond the widget, the suite includes accessFlow (accessibility embedded in dev pipelines), manual testing services, and a Litigation Support Package with ADA attorney access. Plans start around $49/month and scale with site traffic."
+    ],
+    "features": [
+      "accessWidget AI engine that scans and remediates site code every 24 hours",
+      "Visitor accessibility interface with preset disability profiles",
+      "AI Accessibility Assistant for plain-language navigation help",
+      "AI-powered alt text generation for images",
+      "accessFlow for embedding accessibility into CI/CD, IDEs, and ticketing tools",
+      "Manual testing and custom remediation (MTCR) services",
+      "Litigation Support Package with ADA attorney access and monetary pledge",
+      "Compliance reports and accessibility statement generation"
+    ],
+    "pros": [
+      "Fully automated remediation runs continuously with minimal manual effort",
+      "Visitor-facing interface adapts sites for many disability types",
+      "Litigation support package adds a layer of legal risk mitigation",
+      "Works with any CMS via a single JavaScript snippet"
+    ],
+    "cons": [
+      "Widget-based remediation is debated among accessibility experts versus source-code fixes",
+      "No free tier; pricing climbs quickly with site traffic",
+      "Automated fixes alone cannot cover all WCAG criteria"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "accessibility-cloud": {
+    "verdict": "Stockholm-built multi-engine accessibility testing platform for auditors and enterprises.",
+    "overview": [
+      "Accessibility Cloud is a Stockholm-built digital accessibility testing platform powered by ACAI, a multi-engine approach combining AI, proprietary rules, axe-core, and QualWeb. It covers websites, documents, and mobile apps with automated, guided, and manual testing, full EN 301 549 and WCAG 2.2 support, and editions for enterprises, governments, and resellers. Trusted by the European Commission and national monitoring agencies, it offers free Auditor accounts to qualifying professionals."
+    ],
+    "features": [
+      "ACAI multi-engine testing: AI, proprietary rules, axe-core, QualWeb",
+      "Automated, guided, and manual auditing toolkit",
+      "Website, document, image, and mobile app testing",
+      "Full EN 301 549 and WCAG 2.2 coverage",
+      "Authenticated pages, user flows, and thousands of pages per hour",
+      "Custom rules, templates, and guided test workflows",
+      "Government Monitoring Agency edition for WAD/EAA",
+      "Free Auditor accounts for qualifying accessibility professionals"
+    ],
+    "pros": [
+      "Multi-engine approach tests more WCAG criteria than single engines",
+      "Trusted by the European Commission and monitoring agencies",
+      "Made in Europe with strong EN 301 549 coverage",
+      "Free auditor accounts support the testing profession"
+    ],
+    "cons": [
+      "Pricing starts at enterprise-friendly levels, not consumer",
+      "Interface is built for auditors, with a learning curve",
+      "Smaller brand recognition outside Europe"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "accessibilitychecker-org": {
+    "verdict": "Domain-wide accessibility scanner with AI-assisted fixes and legal-risk prioritization.",
+    "overview": [
+      "AccessibilityChecker.org is a Delaware-based accessibility platform (founded 2019) that scans entire domains against WCAG 2.2, ADA, Section 508, EAA, and EN 301 549 in one pass. It classifies each issue as Legal Risk, User Impact, or Best Practice, groups recurring component-level problems into single fixable patterns, and offers AI-assisted SmartFix remediation. A free scan and 7-day trial are available, with paid plans covering scheduled rescans and VPAT reports."
+    ],
+    "features": [
+      "Whole-domain scanning against 100+ rules and global standards",
+      "Impact Classification: Legal Risk, User Impact, Best Practice",
+      "SmartFix AI-assisted remediation at the code level",
+      "Pattern grouping that cuts remediation workload significantly",
+      "Scheduled rescans with alerts and progress tracking",
+      "Authenticated and staging page scanning",
+      "Conformance certificates and VPAT/ACR reports",
+      "Managed accessibility and expert manual audit services"
+    ],
+    "pros": [
+      "Domain-wide prioritized scanning rather than page-at-a-time",
+      "Impact classification does triage work for you",
+      "Published self-serve pricing with a free trial",
+      "50,000+ scans per month suggests real-world traction"
+    ],
+    "cons": [
+      "No unlimited free tier for casual multi-page checking",
+      "Smallest plans still assume ongoing domain monitoring",
+      "Per-domain pricing can add up for agencies with many clients"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "accessible-web-ramp": {
+    "verdict": "Accessibility compliance platform with axe-core testing and living VPAT reports.",
+    "overview": [
+      "Accessible Web RAMP is an accessibility compliance platform built around axe-core automated testing plus structured workflows for manual WCAG 2.2 AA audits. It tracks remediation tasks with built-in guidance, monitors ADA, Section 508, AODA, and EAA compliance, and exports updated VPAT/ACR conformance reports as sites improve. Pricing starts around $49/month based on sites, users, and scan volume, with free trial and free options."
+    ],
+    "features": [
+      "Fast automated testing powered by axe-core",
+      "Structured workflows for manual WCAG 2.2 AA audits",
+      "Real-time remediation task management with guidance",
+      "Compliance tracking for ADA, Section 508, AODA, and EAA",
+      "Centralized accessibility statements and accommodation records",
+      "Exportable VPAT/ACR reports updated as you improve",
+      "Scales from single sites to large portfolios",
+      "Compliance-first approach aimed at legal defensibility"
+    ],
+    "pros": [
+      "Compliance-first design with living VPAT reports",
+      "Combines axe-core automation with manual audit workflows",
+      "Remediation task tracking keeps teams organized",
+      "Affordable entry for small portfolios"
+    ],
+    "cons": [
+      "Focus is accessibility compliance rather than broad governance",
+      "Smaller vendor with a narrower feature set",
+      "Public pricing details are limited"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "accessibly": {
+    "verdict": "Accessibility widget app built for Shopify and Magento stores.",
+    "overview": [
+      "Accessibly is an accessibility widget app focused on online stores, with one-click installs for Shopify, Magento, and other e-commerce platforms. Visitors get adjustable text size, contrast, spacing, keyboard navigation, and screen-reader-friendly controls, while merchants get customizable widget branding. It follows WCAG 2.0 AA guidance and installs without code changes."
+    ],
+    "features": [
+      "One-click accessibility widget for Shopify and Magento",
+      "Visitor controls for text size, contrast, and spacing",
+      "Keyboard navigation and screen-reader support",
+      "Customizable widget colors and branding",
+      "WCAG 2.0 AA aligned adjustments",
+      "No-code installation on store themes",
+      "E-commerce platform integrations",
+      "Accessibility statement generation"
+    ],
+    "pros": [
+      "Purpose-built for Shopify and Magento stores",
+      "Fast no-code installation for merchants",
+      "Custom branding keeps the store look intact",
+      "Straightforward visitor-facing adjustments"
+    ],
+    "cons": [
+      "E-commerce focus means less for content-heavy sites",
+      "Smaller vendor with limited third-party reviews",
+      "Pricing details are not widely published"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "accesstive": {
+    "verdict": "Continuous AI-powered web accessibility workflow for finding, fixing, and proving compliance.",
+    "overview": [
+      "Accesstive is a continuous accessibility workflow platform that helps organizations find, fix, and prove digital accessibility across WCAG 2.2, ADA, EAA, and Section 508. It combines AI-powered testing and remediation with continuous monitoring, an accessibility widget with 35+ features, and human expert services. Built by the team behind NITSAN, it also offers a free accessibility checker for quick scans."
+    ],
+    "features": [
+      "AI-powered accessibility testing",
+      "Continuous monitoring and alerts",
+      "Accessibility widget with 35+ features",
+      "Remediation management",
+      "Compliance reporting (WCAG, ADA, EAA)",
+      "Human expert services"
+    ],
+    "pros": [
+      "Free accessibility checker",
+      "Combines AI with human experts"
+    ],
+    "cons": [
+      "Enterprise focus on paid tiers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ada-health": {
+    "verdict": "Free AI symptom checker app that assesses your symptoms and explains possible causes before you see a doctor.",
+    "overview": [
+      "Ada is a free AI-powered symptom assessment app built on clinical evidence and optimized by clinicians. You answer simple questions about your symptoms and receive a personalized assessment report with possible causes and next steps. It claims 15 million users and 30 million completed assessments, and is a certified Class IIa medical device in the EU."
+    ],
+    "features": [
+      "Free AI symptom assessment via chat questions",
+      "Personalized assessment report with possible causes",
+      "Doctor-written medical library of conditions and symptoms",
+      "Exportable health reports to share with your doctor",
+      "Available in 7 languages",
+      "24/7 access from home",
+      "CE-marked Class IIa medical device in the EU",
+      "Strict data protection standards"
+    ],
+    "pros": [
+      "Completely free to use",
+      "EU Class IIa certified medical device, not just a wellness app",
+      "30 million completed symptom assessments (company-reported)",
+      "Shareable reports help doctor visits start better informed"
+    ],
+    "cons": [
+      "Cannot provide a medical diagnosis or replace a doctor",
+      "Assessment quality depends on accurate user input",
+      "Consumer-focused, no clinician workflow tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ai-dungeon": {
+    "verdict": "AI-driven text adventure — infinite interactive storytelling where you direct the story.",
+    "overview": [
+      "AI Dungeon by Latitude Inc. is an AI-powered text adventure where players direct an open-ended story and the AI narrates what happens next. It pioneered LLM-driven interactive fiction and remains one of the most-played AI games. The Wanderer tier is free; Journey is $14.99/mo, with web, iOS, and Android apps."
+    ],
+    "features": [
+      "Open-ended AI-narrated adventures",
+      "Player-directed storytelling",
+      "Multiple genres and scenarios",
+      "Multiplayer story sessions",
+      "Mobile apps for iOS and Android",
+      "Wanderer free tier"
+    ],
+    "pros": [
+      "Infinite replayability from AI narration",
+      "Free tier with no install needed",
+      "Long-running, well-supported product"
+    ],
+    "cons": [
+      "AI narration can drift or contradict itself",
+      "Best models locked behind paid tiers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ai-recipe-generator": {
+    "verdict": "Free AI recipe creator built on Softr.",
+    "overview": [
+      "AI Recipe Generator is a free web app that creates recipes from your inputs using AI. Built on Softr, it offers a simple form-to-recipe experience. Home cooks get instant meal ideas at no cost."
+    ],
+    "features": [
+      "AI recipe creation",
+      "Simple form input",
+      "Free access",
+      "Instant results"
+    ],
+    "pros": [
+      "Completely free",
+      "No signup needed",
+      "Quick meal ideas"
+    ],
+    "cons": [
+      "Basic functionality",
+      "Recipes not professionally tested"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ai-media": {
+    "verdict": "AI captioning toolkit (LEXI) for broadcast, live events, and recorded media.",
+    "overview": [
+      "Ai-Media is a UK-founded captioning technology company (est. 2003) behind LEXI, an AI-powered captioning toolkit for live and recorded media. LEXI Recorded turns around captioned files at broadcast speed with around 98% accuracy, while the wider platform covers live captioning, translation, audio description, and subtitling for broadcasters, sports venues, and enterprises. Products integrate via APIs and media-management workflows."
+    ],
+    "features": [
+      "LEXI AI captioning toolkit for live and recorded content",
+      "LEXI Recorded: fast VOD captioning from $0.20/minute",
+      "Live captioning for broadcast, sports, and events",
+      "Audio description for blind and low-vision audiences",
+      "Translation and multilingual subtitle delivery",
+      "Custom dictionaries and topic models for accuracy",
+      "API and media-management workflow integrations",
+      "EEG1, iCap, and broadcast captioning infrastructure"
+    ],
+    "pros": [
+      "Purpose-built for broadcast-grade live captioning",
+      "High accuracy claims backed by captioning-specific AI",
+      "Scales from single events to 24/7 broadcast operations",
+      "Acquired 3Play Media's capabilities under one umbrella"
+    ],
+    "cons": [
+      "Pricing is quote-based for most enterprise use",
+      "Caption accuracy depends on audio quality like any ASR",
+      "Self-serve options are limited compared to creator tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "airial-travel": {
+    "verdict": "Free AI trip planner that builds full multi-city itineraries from plain text — or from a TikTok/Reel link.",
+    "overview": [
+      "Airial is an AI trip planner built by former Meta engineers that turns a plain-language description into a complete, bookable multi-city itinerary covering flights, hotels, ground transport and activities. Its standout trick is turning travel inspiration into plans: paste a TikTok video or Instagram Reel link and the AI builds a day-by-day trip around it, with everything visualized on interactive maps. Airial also runs a separate business platform that helps travel agencies generate branded proposals faster."
+    ],
+    "features": [
+      "Plain-language trip input generates full multi-city itineraries in about a minute",
+      "Turns TikTok and Instagram Reel links into structured travel plans",
+      "Interactive journey maps showing daily routes, distances and travel times",
+      "Generative plan editing to refine any part of the itinerary conversationally",
+      "Shared trip editing with friends and travel companions",
+      "Interest, budget and dietary-preference filters",
+      "AI assistant that answers destination questions and suggests alternatives",
+      "Airial for Business with branded proposal exports and a document hub for agencies"
+    ],
+    "pros": [
+      "Completely free during public beta with no account required",
+      "Unique social-content-to-itinerary feature works from saved Reels and TikToks",
+      "Multi-city logistics handled end to end including transport and timing"
+    ],
+    "cons": [
+      "Public beta status means features and pricing may change without notice",
+      "Booking confirmation and final payment still require action on third-party platforms",
+      "No native mobile app yet (planned for later)"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "aisoap": {
+    "verdict": "AI medical scribe that converts patient conversations into structured SOAP notes for clinicians.",
+    "overview": [
+      "AISOAP is an AI-powered medical scribe built for healthcare professionals who spend too long on documentation. It records and transcribes patient consultations, then generates structured SOAP notes automatically, cutting documentation time dramatically. The platform ships customizable templates across dozens of medical specialties and integrates with EHR/EMR systems, with HIPAA-compliant security. Individual clinicians start at $25/month with team plans available."
+    ],
+    "features": [
+      "AI transcription of patient consultations",
+      "Automatic SOAP note generation",
+      "Customizable note templates",
+      "Support for 50+ medical specialties",
+      "EHR/EMR system integration",
+      "HIPAA-compliant security",
+      "Team management and template sharing"
+    ],
+    "pros": [
+      "Reduces documentation time by up to 95%",
+      "HIPAA-compliant",
+      "Affordable entry at $25/month for solo clinicians"
+    ],
+    "cons": [
+      "No free plan — 7-day money-back guarantee only",
+      "No confirmed mobile app availability"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "alike": {
+    "verdict": "AI trip planner \"Eia\" that turns your saved tabs and reels into bookable itineraries with a 10% discount.",
+    "overview": [
+      "Alike is a travel platform for India, UAE/GCC and Europe-origin travelers whose AI trip planner, Eia, converts a \"brain dump\" of saved tabs, links, reels and group-chat ideas into editable day-by-day itineraries with timings, costs and transport. Hotels, tourist passes, attraction tickets and experiences book directly on Alike with real-time availability — and planning-plus-booking through Eia earns a 10% discount. Human travel advisors and 24/7 support back it up, and a Creator Studio lets travelers publish trips and earn commissions."
+    ],
+    "features": [
+      "\"Eia\" AI chat planner that ingests tabs, links and reels as trip inspiration",
+      "Editable day-by-day itineraries with timings, locations and costs",
+      "Direct booking of hotels, passes, tickets and tours with real-time availability",
+      "10% discount when planning and booking through Eia",
+      "Real-time collaborative planning with travel companions",
+      "Offline itinerary access in the Alike mobile app",
+      "Human travel advisors with 24/7 on-trip support",
+      "Creator Studio to publish trips and earn booking commissions"
+    ],
+    "pros": [
+      "Plan-to-book in one place with a genuine 10% Eia discount",
+      "Accepts inspiration from reels and YouTube, not just forms",
+      "Human advisors plus AI — safety net most planners lack"
+    ],
+    "cons": [
+      "Eia is still in beta",
+      "Primarily oriented to India/UAE/GCC/Europe origin markets",
+      "Young platform (founded 2022) with limited track record"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "all-in-one-accessibility": {
+    "verdict": "Feature-rich accessibility widget by Skynet with AI tools and 140+ language translation.",
+    "overview": [
+      "All in One Accessibility is Skynet Technologies' accessibility widget (founded 2003, US) offering a free widget with 23 features plus paid tiers with 70+ AI-powered tools: screen reader, voice navigation, text-to-speech, image alt-text remediation, live site translation in 140+ languages, and PDF remediation add-ons. A 10-day free trial is available, and it supports all major CMS platforms with white-label options."
+    ],
+    "features": [
+      "Accessibility widget with 70+ features on paid tiers",
+      "Free widget version with 23 accessibility features",
+      "AI screen reader and text-to-speech with voice selection",
+      "AI-based image alt-text remediation",
+      "Voice Navigation and Talk & Type",
+      "Live site translation in 140+ languages",
+      "PDF and document remediation add-ons",
+      "White-labeling and custom widget branding"
+    ],
+    "pros": [
+      "Generous free widget with 23 features",
+      "140+ language translation is unusually broad",
+      "PDF remediation add-on covers documents too",
+      "Supports all major CMS platforms"
+    ],
+    "cons": [
+      "Headline per-user pricing looks steep versus widget rivals",
+      "Advanced features are add-ons rather than included",
+      "Review data is sparse compared to top widget vendors"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "allaccessible": {
+    "verdict": "Agentic AI accessibility platform where AI drafts fixes and your team approves, from $10/month.",
+    "overview": [
+      "AllAccessible is a newer AI-native accessibility platform where agentic AI drafts every fix and your team approves what ships through the live widget. It covers AI scanning, agentic remediation with full audit trails, a visitor widget with 30+ controls, and ADA accommodation request management. A free-forever widget is available, with paid plans from $10/month positioning it as a budget alternative to accessiBe."
+    ],
+    "features": [
+      "Agentic AI remediation: AI drafts fixes, humans approve",
+      "AI scanning engine covering WCAG 2.0, 2.1, and 2.2 A through AAA",
+      "Accessibility widget with 30+ visitor controls",
+      "Full audit trail per page with reversible changes",
+      "ADA accommodation request management system",
+      "Context- and locale-aware AI labels and alt text",
+      "WordPress plugin with bulk approvals",
+      "Free accessibility audit to get started"
+    ],
+    "pros": [
+      "Agentic human-in-the-loop model balances automation with control",
+      "Very affordable entry at $10/month",
+      "Free forever widget with no credit card",
+      "Full audit trails support legal defensibility"
+    ],
+    "cons": [
+      "Young company with a shorter track record than incumbents",
+      "Agentic remediation still needs human approval to be useful",
+      "Enterprise features like partners are still maturing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "altered-ai": {
+    "verdict": "AI voice cloning, morphing, and text-to-speech with a real-time voice changer in 70+ languages.",
+    "overview": [
+      "Altered AI (Altered Studio) is an AI voice platform for creators and game studios. It offers voice cloning and morphing, text-to-speech, and a real-time voice changer across 70+ languages, useful for character voices and dialogue production. Plans include a free tier, Creator at $30/mo billed annually, and Professional at $90/mo."
+    ],
+    "features": [
+      "AI voice cloning and morphing",
+      "Text-to-speech in 70+ languages",
+      "Real-time voice changer",
+      "Altered Studio voice production suite",
+      "Character voice presets",
+      "Free plan for getting started",
+      "Commercial licensing on paid tiers"
+    ],
+    "pros": [
+      "Real-time changer suits live game voice",
+      "70+ languages aid localization",
+      "Free plan for testing voices"
+    ],
+    "cons": [
+      "Creator tier at $30/mo requires annual billing",
+      "Voice quality depends on source recordings"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "amadeus": {
+    "verdict": "Global travel technology giant (airline distribution, agency booking, hotel BI) now shipping AI copilots for sellers.",
+    "overview": [
+      "Amadeus is one of the world's largest travel technology companies, providing the distribution, booking and business-intelligence backbone behind airlines, travel agencies, hotels and corporate travel programs. In 2026 it is rolling out Amadeus Max for Travel Sellers, an AI copilot embedded in Selling Platform Connect that interprets fare rules and PNR histories, alongside AI-powered corporate booking and hotel analytics built on Microsoft Azure OpenAI. Its platform processes up to 150,000 transactions per second at peak."
+    ],
+    "features": [
+      "Amadeus Max AI copilot for travel sellers (fare rules, PNR history, Smart Flows)",
+      "Selling Platform Connect agency booking workspace",
+      "NDC and global airline/hotel distribution",
+      "Corporate travel booking and policy tools",
+      "Hotel business intelligence (Demand360, RevenueStrategy360)",
+      "AI chatbot for hoteliers (Amadeus Max for Advisor)",
+      "Disruption and operations management tools",
+      "Developer APIs for travel commerce"
+    ],
+    "pros": [
+      "Industry-standard travel tech trusted by airlines and agencies worldwide",
+      "Active AI investment with real shipped products in 2026",
+      "Enormous inventory and integration partner network",
+      "Massive transaction scale and reliability"
+    ],
+    "cons": [
+      "Enterprise-grade: complex and costly for small businesses",
+      "Some users report inconsistent support and account management",
+      "Platform breadth means a steep learning curve"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "ambience-healthcare": {
+    "verdict": "Ambient AI for hospitals: visit notes, medical coding, chart reconciliation and clinical Q&A in one platform.",
+    "overview": [
+      "Ambience embeds AI directly into hospital clinical workflows, generating specialty-accurate notes, orders and instructions as care happens. It also reconciles messy chart data, answers questions about the patient with cited sources, and codes ICD-10/HCC/E&M at the point of care. The company reports 95% AAPC-verified coding compliance, 70+ NPS and use in 80% of visits at customer health systems."
+    ],
+    "features": [
+      "Specialty-accurate ambient clinical notes written as care happens",
+      "ICD-10, HCC/MCC/CC and E/M coding at the point of care",
+      "Chart reconciliation across meds, problem lists and faxes",
+      "Chart Q&A answering patient questions with cited sources",
+      "To-do and task tracking through to completion",
+      "CDI documentation gap closure",
+      "Frontier AI models built for medicine, not adapted to it",
+      "Change management, 24/7 support and pilot-to-scale deployment"
+    ],
+    "pros": [
+      "One platform for notes, coding, chart Q&A and revenue-cycle workflows",
+      "95% coding compliance verified by AAPC (company-reported)",
+      "Published 70+ NPS and 80% visit utilization figures",
+      "Recognized by KLAS/CHIME, Fast Company and LinkedIn Top Startups"
+    ],
+    "cons": [
+      "No public pricing, enterprise sales only",
+      "Designed for hospitals and health systems, not solo practices",
+      "Key performance metrics are company-reported"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "anura": {
+    "verdict": "Contactless health monitoring app that reads vital signs from a 30-second video selfie.",
+    "overview": [
+      "Anura by NuraLogix is a contactless wellness app that measures vital signs from a 30-second video selfie using the phone or computer camera. Its patented Transdermal Optical Imaging technology extracts blood-flow data and feeds it to AI models trained on tens of thousands of patients. It reports heart rate, blood pressure, breathing rate, and health risk assessments for conditions like diabetes and cardiovascular disease."
+    ],
+    "features": [
+      "30-second video selfie measurements",
+      "Cuffless blood pressure estimation",
+      "Heart rate and breathing rate",
+      "Health risk assessments for chronic conditions",
+      "Mental stress indicators",
+      "Browser-based Anura Web version"
+    ],
+    "pros": [
+      "No wearable or hardware needed",
+      "Backed by peer-reviewed research",
+      "Over 200,000 app users"
+    ],
+    "cons": [
+      "Full measurement suite requires contacting the company",
+      "Not a medical device or diagnosis tool"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "anything-world": {
+    "verdict": "AI-generated animated 3D models with an in-browser gallery of ready-to-use assets.",
+    "overview": [
+      "Anything World uses AI to generate animated 3D models for games and virtual experiences. Its web app hosts a gallery of ready-to-use animated assets that developers can browse and drop into projects. A freemium model covers casual use with paid tiers for more."
+    ],
+    "features": [
+      "AI-generated animated 3D models",
+      "In-browser asset gallery",
+      "Ready-to-use models for games",
+      "Animated rigs on generated assets",
+      "Freemium access with paid tiers"
+    ],
+    "pros": [
+      "Animated models ready out of the box",
+      "Gallery format makes discovery fast",
+      "Free tier for light use"
+    ],
+    "cons": [
+      "Catalog breadth unverified during research",
+      "Official paid pricing not verified"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "assort-health": {
+    "verdict": "AI agents platform for specialty-specific patient access and scheduling.",
+    "overview": [
+      "Assort Health is an AI agents platform built for the entire patient access journey in specialty healthcare. Its voice agents answer inbound calls around the clock, schedule and reschedule appointments, route triage, handle prescription refills, and answer specialty-specific FAQs — reading and writing to the EHR while the patient is still on the line. The outbound Activate agent runs proactive campaigns for no-show rescheduling, waitlist backfill, and care-gap closure. Trained on hundreds of millions of patient interactions across 22+ specialties and 29+ languages, Assort positions itself as the full communications layer for practices rather than a point solution."
+    ],
+    "features": [
+      "AI voice agents for inbound scheduling, triage, and refills",
+      "Real-time bidirectional EHR write-back across 80+ systems",
+      "Assort Activate for proactive outbound outreach campaigns",
+      "Specialty-trained logic across 22+ specialties, 29+ languages",
+      "After-hours coverage with on-call escalation"
+    ],
+    "pros": [
+      "Covers inbound and outbound patient access in one platform",
+      "Specialty-specific training beats generic voice bots",
+      "Documented results: fewer abandoned calls, more booked visits"
+    ],
+    "cons": [
+      "Enterprise pricing with no public self-serve tier",
+      "Best suited to multi-location specialty groups",
+      "Deep EHR integration requires implementation effort"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "audioeye": {
+    "verdict": "Hybrid AI-plus-expert accessibility platform with continuous monitoring and managed fixes.",
+    "overview": [
+      "AudioEye pairs automated accessibility technology with human expert review, positioning itself between pure overlays and pure manual consulting. Its plans combine automated fixes, continuous monitoring, developer tools, expert audits, and an Assurance program offering limited financial protection against WCAG-related claims. The company reports serving over 129,000 brands, and it absorbed the Ability/Max Access customer base in 2026. Plans start around $49/month."
+    ],
+    "features": [
+      "Automated accessibility fixes addressing common barriers",
+      "Continuous monitoring of website changes",
+      "Certified expert manual audits and custom fixes",
+      "Developer tools and self-paced accessibility training",
+      "AudioEye Assurance with limited financial protection against WCAG claims",
+      "Document remediation, VPAT creation, and closed captioning add-ons",
+      "Accessibility Help Desk and expert guidance",
+      "Compliance reporting for ADA, WCAG, and Section 508"
+    ],
+    "pros": [
+      "Blends automation with real expert review rather than pure overlay",
+      "Assurance program offers a form of legal financial protection",
+      "Very large customer base suggests mature operations",
+      "Tiered plans from automated-only to fully managed"
+    ],
+    "cons": [
+      "Entry plans address only a share of barriers; complex issues need higher tiers",
+      "Add-ons like document remediation cost extra",
+      "Quote-based enterprise pricing can be opaque"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "auxworld": {
+    "verdict": "Generate explorable AI story worlds and adventures from a text idea.",
+    "overview": [
+      "AuxWorld is an AI storytelling platform from UK studio Auxuman that generates explorable story worlds from a text idea. Users describe a premise and receive an interactive narrative realm with characters and adventures, positioning it as a blend of AI dungeon-master and creative writing playground for players and storytellers."
+    ],
+    "features": [
+      "AI-generated interactive worlds",
+      "Character and quest generation",
+      "Browser-based play",
+      "Story sharing"
+    ],
+    "pros": [
+      "Instant world generation from text",
+      "No installation needed",
+      "Creative storytelling sandbox"
+    ],
+    "cons": [
+      "Pricing not published",
+      "Depth of worlds varies by prompt quality"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "axe-devtools": {
+    "verdict": "The industry-standard accessibility testing toolkit by Deque, free for browser testing.",
+    "overview": [
+      "axe DevTools is Deque's accessibility testing suite built on axe-core, the open-source rules library used by Google, Microsoft, and countless dev teams. The free browser extension runs automated tests directly in Chrome, Firefox, or Edge, catching a large share of issues while you code, with issue guidance that requires no accessibility expertise. Paid Pro plans add intelligent guided tests, CI/CD and IDE linting, and enterprise monitoring."
+    ],
+    "features": [
+      "Free browser extension for automated accessibility testing",
+      "axe-core rules library, the industry standard for WCAG interpretation",
+      "Intelligent Guided Tests that catch 76-84% of page issues (Pro)",
+      "IDE linters for VS Code and JetBrains IDEs",
+      "CI/CD and CLI integration for pipeline testing",
+      "Automated color contrast testing",
+      "Mobile accessibility testing for iOS and Android",
+      "Shareable test results with code samples in your dev language"
+    ],
+    "pros": [
+      "Free extension is powerful and used by 400,000+ developers weekly",
+      "axe-core is the trusted rules engine behind many tools",
+      "Guidance helps developers fix issues without accessibility training",
+      "Minimal false positives compared to many scanners"
+    ],
+    "cons": [
+      "Automated testing catches only part of accessibility requirements",
+      "Guided tests and workflow integrations need paid Pro",
+      "Enterprise monitoring requires custom quotes"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "bad-cook-club": {
+    "verdict": "AI recipe generator for people who can't cook — from the ingredients you have.",
+    "overview": [
+      "Bad Cook Club is a playful community site for people who struggle in the kitchen, built around an AI recipe generator. Tell it what ingredients you have on hand and it invents recipe suggestions to match, encouraging kitchen-shy users to experiment instead of ordering takeout. The community angle — fellow 'bad cooks' sharing attempts and improving together — is the point as much as the recipes. It's free to use, web-based, and deliberately low-pressure: the whole brand is that it's okay to be bad at this."
+    ],
+    "features": [
+      "AI recipe generator from available ingredients",
+      "Community of fellow beginner cooks",
+      "Recipe suggestions tailored to what's in your kitchen",
+      "Encouragement-focused, low-pressure format",
+      "Free web access, no install"
+    ],
+    "pros": [
+      "Completely free",
+      "Fun concept that lowers the barrier to cooking",
+      "Ingredient-first approach reduces food waste"
+    ],
+    "cons": [
+      "Niche appeal — not for serious cooks",
+      "Recipe quality can be hit-or-miss",
+      "Small community, limited content depth"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "barbot-ai": {
+    "verdict": "AI cocktail recipe app for iOS.",
+    "overview": [
+      "BarBot AI is an iPhone app that invents cocktail recipes from whatever ingredients you have on hand. Built by indie developer Junaid Dawud, it runs on a token system: free tokens to start, with cheap in-app top-ups from $0.99. It also suggests twists on classic drinks."
+    ],
+    "features": [
+      "Ingredient-based cocktail recipes",
+      "Classic drink variations",
+      "Token-based usage",
+      "Simple mobile UI"
+    ],
+    "pros": [
+      "Fun, focused single purpose",
+      "Very cheap to use",
+      "No website needed"
+    ],
+    "cons": [
+      "iOS only",
+      "No official website",
+      "Token model can interrupt"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

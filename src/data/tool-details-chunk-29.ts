@@ -1,0 +1,1518 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk29: Partial<Record<ToolSlug, ToolDetail>> = {
+  "gpt-for-google-forms": {
+    "verdict": "AI quiz builder add-on for Google Forms.",
+    "overview": [
+      "GPT for Google Forms is a Google Workspace add-on that generates quiz questions with AI. Enter a topic, paste a YouTube link or select a Google Doc, and it creates multiple-choice, checkbox or dropdown questions you can add straight into your form. It is built for teachers and businesses that build quizzes in Google Forms."
+    ],
+    "features": [
+      "AI quiz generation from topic, docs or video",
+      "Multiple-choice and checkbox formats",
+      "One-click add to Google Forms"
+    ],
+    "pros": [
+      "Works inside Google Forms",
+      "Generates from video or documents too",
+      "Free to try"
+    ],
+    "cons": [
+      "Google Forms only - not a standalone quiz app",
+      "Subscription needed for full token allowance"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gpt-researcher": {
+    "verdict": "Open-source autonomous agent that conducts deep web research and writes cited reports.",
+    "overview": [
+      "GPT Researcher is an open-source autonomous agent designed for in-depth research on any topic. Given a query, it plans a research task, searches the web and other sources, filters and aggregates results, and compiles a detailed report with citations. It is built to be run locally or self-hosted, and it remains actively maintained on GitHub."
+    ],
+    "features": [
+      "Autonomous multi-step research agent",
+      "Web search, filtering, and aggregation",
+      "Report generation with citations",
+      "Pluggable LLM backends"
+    ],
+    "pros": [
+      "Free and fully open source",
+      "Produces cited, structured research reports",
+      "Customizable and self-hostable"
+    ],
+    "cons": [
+      "Requires your own API keys and technical setup",
+      "Costs accrue via LLM API usage",
+      "No hosted free tier for non-technical users"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gptgo": {
+    "verdict": "Free search engine that combines Google web results with ChatGPT answers on one page, no account needed.",
+    "overview": [
+      "GPTGO (formerly GooGPT) puts a classic Google results page and a free ChatGPT answer panel side by side for every query, so you can read AI-generated responses while still seeing the original web sources. It supports more than 100 languages, requires no signup, and includes tools to copy or download ChatGPT answers as documents. Companion mobile apps for iOS and Android extend the same combined search experience beyond the desktop."
+    ],
+    "features": [
+      "Google web results and ChatGPT answers on a single page",
+      "Unlimited free ChatGPT usage with no account required",
+      "Support for 100+ languages",
+      "Copy and download ChatGPT responses as documents",
+      "Companion mobile apps for iOS and Android"
+    ],
+    "pros": [
+      "Combines web results and AI answers so you can verify AI claims against sources",
+      "No signup, usage cap, or OpenAI account needed",
+      "Works in any browser on desktop and mobile",
+      "Free to use with fast response times"
+    ],
+    "cons": [
+      "Accuracy depends on underlying Google and ChatGPT services",
+      "Heavy ad-style promotional copy on the official site",
+      "No clear information about data retention policies",
+      "No account means no synced history across devices"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gptzero": {
+    "verdict": "AI text detector used by thousands of colleges.",
+    "overview": [
+      "GPTZero is an AI-content detector adopted by 3,500+ colleges, available on web, as a Chrome extension, and via API. In June 2026 Superhuman (formerly Grammarly) announced its acquisition of GPTZero as an AI authenticity platform. It runs on a freemium model."
+    ],
+    "features": [
+      "AI text detection",
+      "Plagiarism-adjacent checks",
+      "Chrome extension",
+      "API access"
+    ],
+    "pros": [
+      "Wide institutional adoption"
+    ],
+    "cons": [
+      "Detection accuracy varies"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "gradescope": {
+    "verdict": "AI-assisted grading platform that streamlines marking paper, digital, and code assignments.",
+    "overview": [
+      "Gradescope, a Turnitin product, speeds up grading for paper-based, digital, and programming assignments. AI groups similar answers so instructors grade in batches, and dynamic rubrics keep feedback consistent across large classes. Detailed per-question analytics reveal which concepts need reteaching."
+    ],
+    "features": [
+      "AI-assisted grading with automatic answer groups",
+      "Programming autograder for code assignments",
+      "Paper exam and bubble-sheet scanning",
+      "Dynamic per-question rubrics",
+      "Online regrade request management",
+      "Per-question and per-rubric analytics",
+      "Grade export to LMS gradebooks",
+      "LMS integration and SSO on institutional licenses"
+    ],
+    "pros": [
+      "Major time savings when grading large classes",
+      "AI answer grouping reduces repetitive context switching",
+      "Dynamic rubrics keep feedback consistent",
+      "Used by 2,600+ universities with proven scale"
+    ],
+    "cons": [
+      "AI-assisted grading and analytics require an institutional license",
+      "Setup effort for scanning workflows and answer templates",
+      "Primarily suited to higher education rather than K-12"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hebbia": {
+    "verdict": "Agentic AI platform for deep document analysis in finance, legal, and professional services.",
+    "overview": [
+      "Hebbia's Matrix is a multi-agent AI platform built for institutional knowledge work: it orchestrates specialized AI agents over huge, unstructured document sets — filings, data rooms, contracts, transcripts — and returns structured, citation-backed analysis. Users ask questions in plain language and get traceable answers with sentence-level citations, while its Max AI analyst collaborates with whole deal teams. The platform connects to premium data sources like FactSet, PitchBook, and S&P Capital IQ alongside firms' own documents, and it is used for due diligence, investment research, and legal diligence by asset managers, banks, and law firms."
+    ],
+    "features": [
+      "Matrix multi-agent orchestration over millions of documents",
+      "Max AI analyst for collaborative deal-team research",
+      "Sentence-level citations with full audit trails",
+      "Unified data layer: SEC filings, FactSet, PitchBook, Capital IQ",
+      "Automated generation of memos, models, and slide decks",
+      "Enterprise integrations: SharePoint, Box, Snowflake, Salesforce"
+    ],
+    "pros": [
+      "Purpose-built for the precision finance demands",
+      "Every answer traceable to source documents",
+      "Scales to massive document corpora",
+      "Strong enterprise security and compliance posture"
+    ],
+    "cons": [
+      "Enterprise pricing out of reach for small teams",
+      "Designed for finance/legal — not a general research tool",
+      "Requires curated document repositories for best results"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "hellooo": {
+    "verdict": "AI user-interview platform with multilingual transcription and emotion analysis.",
+    "overview": [
+      "Hellooo is an AI-powered user interview platform for product managers and UX researchers. It records interviews or ingests uploaded files, then produces high-quality transcripts in over 100 languages within minutes. Its AI researcher analyzes sentiment and emotions across interviews to surface patterns, pain points, and customer journeys."
+    ],
+    "features": [
+      "AI transcription in 100+ languages",
+      "Emotion and sentiment analysis",
+      "AI researcher for cross-interview insights",
+      "Google Meet, Zoom, and Teams integrations",
+      "Direct recording and file upload"
+    ],
+    "pros": [
+      "Fast transcripts across 100+ languages",
+      "Cross-interview pattern analysis",
+      "Free version and trial available"
+    ],
+    "cons": [
+      "Paid plans from $29/month",
+      "Best suited to research teams, not general meetings"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "heuristica": {
+    "verdict": "AI concept maps for learning, research, and writing without prompt engineering.",
+    "overview": [
+      "Heuristi.ca is an AI-powered visual learning platform built around concept maps. Users explore any topic through branching mindmap-like explorations, asking questions via buttons instead of prompts, and can turn chats into quizzes, study notes, and flashcards. It supports multiple AI models (Claude, DeepSeek, Gemini, ChatGPT) and imports from PDFs, websites, and YouTube."
+    ],
+    "features": [
+      "AI concept maps",
+      "No-prompt question buttons",
+      "Flashcards and quizzes from chats",
+      "Multi-model support",
+      "PDF/YouTube imports"
+    ],
+    "pros": [
+      "Visual learning without prompting",
+      "Multiple AI models to choose from",
+      "Study tools built in"
+    ],
+    "cons": [
+      "Niche visual format",
+      "Free tier limits"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "honesty-meter": {
+    "verdict": "Free open-source AI tool that scores media content for objectivity and flags manipulation techniques.",
+    "overview": [
+      "HonestyMeter is a free, open-source framework that uses large language models to evaluate objectivity and bias in media content such as articles and links. It detects over 100 manipulative techniques, including sensationalism, framing, and selective reporting, and produces an objectivity score with detailed feedback and suggestions for improvement. Journalists and educators use it to sanity-check drafts or analyze news coverage, and audiences use it to read more critically. The project reports over 18,000 bias reports generated and maintains an active open-source repository."
+    ],
+    "features": [
+      "AI objectivity score for any submitted text or link",
+      "Detects 100+ media manipulation techniques",
+      "Detailed report with flagged manipulations and improvement suggestions",
+      "News integrity feed analyzing headlines from leading sources",
+      "Objectivity ratings for public figures and sources",
+      "User feedback loop to improve detection accuracy",
+      "Open-source codebase for community contributions"
+    ],
+    "pros": [
+      "Completely free to use with no login required",
+      "Open-source and community-improvable",
+      "Practical for journalists, students, and critical news readers",
+      "18,000+ reports generated shows real usage"
+    ],
+    "cons": [
+      "Experimental demo; currently text analysis only",
+      "AI judgment of bias is inherently subjective and debatable",
+      "Interface and feature set are basic compared to commercial tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "iki-ai": {
+    "verdict": "LLM-powered workspace that turns scattered research into a searchable second brain.",
+    "overview": [
+      "IKI AI is an AI-native knowledge workspace where you collect links, PDFs, videos, and notes into one place. Its assistant answers questions and drafts analysis grounded in your own saved materials rather than the open internet, with web search available as an augmentation. Teams can create shared spaces and publish collections with an embedded assistant."
+    ],
+    "features": [
+      "Save URLs, YouTube videos, PDFs, and notes into one workspace",
+      "LLM assistant grounded in your own uploaded content",
+      "AI editor for writing with real context",
+      "Augmented web search and a curated internal knowledge index",
+      "Browser extension to save pages in one click",
+      "Team spaces and shareable collections with embedded assistants",
+      "Agentic workflows for automating knowledge tasks"
+    ],
+    "pros": [
+      "Consolidates research scattered across formats into one library",
+      "Answers are grounded in your own materials, reducing hallucinations",
+      "Team collaboration with shared knowledge spaces",
+      "Backed by 500 Global and actively developed"
+    ],
+    "cons": [
+      "Requires uploading personal research data to a third-party service",
+      "Pricing is not clearly presented on the homepage",
+      "Smaller user base than established knowledge tools"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "interview-ai-io": {
+    "verdict": "AI-powered interview preparation and practice.",
+    "overview": [
+      "InterviewAI helps job seekers prepare for interviews with AI-driven practice sessions and feedback. It runs on a freemium model in the browser."
+    ],
+    "features": [
+      "AI mock interviews",
+      "Interview feedback"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "inventaiq": {
+    "verdict": "AI invention validation and crowdfunding campaign planning tool",
+    "overview": [
+      "InventAIQ helps inventors validate new product ideas and plan crowdfunding campaigns. It runs patent and trademark checks to assess novelty risk, and generates campaign assets to prepare for launch. The platform combines freemium access with paid options for deeper analysis."
+    ],
+    "features": [
+      "Patent checks",
+      "Trademark checks",
+      "Crowdfunding campaign planning",
+      "Campaign asset generation"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "iris-ai": {
+    "verdict": "AI research assistant that maps scientific literature into knowledge graphs.",
+    "overview": [
+      "Iris.ai is an AI research assistant for scientific literature: it builds research maps and knowledge graphs from published papers, runs semantic search across studies, and extracts the content that matters for a research question. It is sold to R&D organizations and universities as an enterprise product rather than a consumer chatbot."
+    ],
+    "features": [
+      "Research mapping and knowledge graphs",
+      "Semantic search over scientific literature",
+      "Content extraction from papers",
+      "R&D and university plans",
+      "Project-based workspaces"
+    ],
+    "pros": [
+      "Built specifically for scientific literature",
+      "Visual research maps aid discovery",
+      "Strong enterprise feature set"
+    ],
+    "cons": [
+      "Enterprise pricing out of reach for individuals",
+      "Learning curve for new users",
+      "Coverage varies by discipline"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "jotlify": {
+    "verdict": "AI reading assistant that turns dense research papers into plain-language stories.",
+    "overview": [
+      "Jotlify converts academic papers into narrative summaries, key takeaways, and audio versions so you can absorb research quickly. You can upload your own PDFs, ask the AI questions about any paper, merge multiple papers into a single overview, and export citations to tools like Notion. It covers over 20 disciplines and offers a free tier plus researcher plans with unlimited uploads and Q&A."
+    ],
+    "features": [
+      "AI paper summaries in plain language",
+      "Audio narration of research papers",
+      "Ask AI questions about papers",
+      "Multi-paper merge and overview",
+      "PDF upload and analysis",
+      "Citation export and team workspaces"
+    ],
+    "pros": [
+      "Free tier with personal library",
+      "Audio playback for on-the-go learning",
+      "Covers many research disciplines"
+    ],
+    "cons": [
+      "Limited free tier access",
+      "AI summaries can miss nuance"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kaiden-ai": {
+    "verdict": "AI teaching assistant that automates grading, content creation and admin work for educators.",
+    "overview": [
+      "Kaiden AI is an AI-powered school management and teaching assistant built to reduce the administrative load on educators. It automates grading, generates personalized learning content and drafts communications, while giving teachers data-driven insights into student progress. The platform integrates with existing learning management systems and is designed by educators for classroom use."
+    ],
+    "features": [
+      "Automated grading assistance",
+      "AI-powered content generation for lessons",
+      "Personalized learning insights per student",
+      "AI conversational assistant for educators",
+      "LMS integrations",
+      "Workflow automation for school admin tasks"
+    ],
+    "pros": [
+      "Built specifically for educators and schools",
+      "Reduces repetitive admin and grading work",
+      "Personalizes content to student needs",
+      "Integrates with existing LMS tools"
+    ],
+    "cons": [
+      "Pricing not published — must contact sales",
+      "B2B focus; not a tool individual students sign up for",
+      "Smaller feature set than full LMS platforms"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kardsai": {
+    "verdict": "AI flashcard maker with spaced repetition study.",
+    "overview": [
+      "KardsAI is an AI flashcard app that turns your study material into flashcards in seconds. You can generate cards from PDFs, text, notes or a simple prompt on any topic, then learn them offline with spaced repetition. It is built for students, language learners and professionals studying for exams."
+    ],
+    "features": [
+      "AI flashcards from PDF, text or prompt",
+      "Spaced repetition learning",
+      "Offline study mode"
+    ],
+    "pros": [
+      "Instant cards from any material",
+      "Works offline",
+      "Free tier to start studying"
+    ],
+    "cons": [
+      "Mobile only - no web app",
+      "Paid plan needed for unlimited generation"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "keepmind": {
+    "verdict": "AI study tool that turns notes into flashcards, quizzes, and mind maps",
+    "overview": [
+      "Keepmind is an AI-powered learning tool that converts notes into mind maps, flashcards, summaries, and auto-generated quizzes. It uses spaced repetition to help learners remember longer and includes AI-generated questions for self-testing. The platform has a free tier plus paid plans around $10 per month."
+    ],
+    "features": [
+      "AI flashcards",
+      "AI quizzes",
+      "Mind maps",
+      "Spaced repetition",
+      "Summaries"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "khanmigo": {
+    "verdict": "Khan Academy's AI tutor that guides students with questions instead of answers, plus AI teaching tools.",
+    "overview": [
+      "Khanmigo is Khan Academy's AI-powered tutor and teaching assistant, built on OpenAI models and tied to Khan Academy's curriculum library. For students it acts as a Socratic tutor that nudges learners toward answers rather than handing them over, across math, science, humanities, coding and writing. Teachers get free planning tools like lesson plans, rubrics and progress dashboards, while parents get homework help and chat-history visibility."
+    ],
+    "features": [
+      "Socratic tutoring that guides students to answers instead of giving them directly",
+      "Coverage across math, science, humanities, coding and SAT prep tied to Khan Academy content",
+      "Writing coach with guided prompts and instant feedback",
+      "Teacher tools: lesson plans, rubric generation, progress reports",
+      "Parent dashboard with chat history and alerts for inappropriate interactions",
+      "Debate practice and career/college admissions coaching",
+      "Speech-to-text and text-to-speech for natural voice conversations"
+    ],
+    "pros": [
+      "Built by a trusted education nonprofit, so pedagogy and child safety are designed in from the start",
+      "Free for teachers, making it one of the cheapest AI tutor options for classrooms",
+      "Integrated with a proven curriculum library rather than a generic chatbot"
+    ],
+    "cons": [
+      "Learner and parent plans cost $4/month, so the full student experience is not free",
+      "Requires a Khan Academy account and works best within its own curriculum ecosystem"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "knowinsideiq": {
+    "verdict": "AI market-intelligence suite that scores ideas, decodes reviews, audits products and SEO, and drafts outreach.",
+    "overview": [
+      "KnowInsideIQ turns raw inputs — a startup idea, a product URL, customer reviews, SEO signals, or a target-customer profile — into structured, decision-ready intelligence reports. Its modules cover idea validation, product analysis, review intelligence, SEO analytics, and lead generation with outreach drafts. Reports carry viability scores, GO/PIVOT/NO-GO verdicts, risk and gap analysis, and recommended next actions, aimed at founders, marketers, agencies, and sales teams."
+    ],
+    "features": [
+      "Idea Intelligence: viability scores and GO/PIVOT/NO-GO verdicts for startup ideas",
+      "Product Analyzer: audits a product or website from its URL for gaps and positioning",
+      "Review Intelligence: sentiment breakdowns, top complaints, and feature requests from web reviews",
+      "SEO Analytics: indexing gaps and keyword opportunity detection",
+      "Lead Generation & Outreach: targeted lead lists with decision-maker contacts and outreach drafts",
+      "Shared credit system with unused credits rolling over for up to 12 months",
+      "Exportable structured reports with evidence signals and next steps",
+      "Web Design Assistant and brand/domain builder modules"
+    ],
+    "pros": [
+      "Covers the full research-to-outreach workflow in one platform instead of five separate tools",
+      "Credits roll over for 12 months, so slow months do not waste a subscription",
+      "Scored verdicts and risk analysis make reports actionable for non-analysts",
+      "Serves founders, product teams, marketers, and agencies equally"
+    ],
+    "cons": [
+      "No named company or team behind the product is publicly visible",
+      "Independent user reviews are scarce, so quality claims are hard to verify",
+      "Credit-based pricing can be hard to predict month to month"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "knowt": {
+    "verdict": "Free AI study app that turns notes, lectures and videos into flashcards, quizzes and practice tests.",
+    "overview": [
+      "Knowt is an AI-powered study platform popular with students as a free alternative to Quizlet. Upload notes, PDFs, slides, videos or audio and its AI generates flashcards, quizzes and practice tests, with free study modes including Learn Mode, Match and spaced repetition. The paid Ultra plan adds the Kai AI tutor chatbot and photo-to-answer Snap & Solve."
+    ],
+    "features": [
+      "AI flashcard generation from notes, PDFs, slides, webpages, videos and audio",
+      "AI-generated practice tests in multiple formats (multiple choice, true/false, written)",
+      "Free Learn Mode, Match and spaced repetition study modes",
+      "AI lecture notetaker and PDF summarizer",
+      "Free AP study guides, flashcards and practice tests in the Exams tab",
+      "Kai AI chatbot tutor and Snap & Solve photo-to-answer (paid Ultra plan)",
+      "Integrations with Canvas, Moodle and Google Classroom",
+      "Direct import of Quizlet sets for easy migration"
+    ],
+    "pros": [
+      "The free tier is unusually generous: unlimited manual flashcards and free study modes without paying",
+      "Handles many input types (PDF, video, audio, images, Drive) in one account",
+      "Used by 7M+ students, so the public flashcard library is large"
+    ],
+    "cons": [
+      "Free AI generation is capped each month, so heavy use pushes you to the paid plan",
+      "AI tutor is locked behind the Ultra subscription",
+      "Flashcard export is limited to PDF, not editable formats for other apps"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "knowtree": {
+    "verdict": "Branching AI chat that maps conversations into knowledge trees.",
+    "overview": [
+      "KnowTree is a branching AI chat platform that turns conversations into a visual knowledge tree instead of a linear thread. Every message becomes a node you can branch from, letting you explore competing ideas side by side without losing context. It routes prompts across 29 models from OpenAI, Anthropic, Google, xAI, and Perplexity, so you can pressure-test one question against multiple frontier models and compare answers. A built-in prompt builder, web search with citations, and exportable conversation trees make it a research companion for deep, non-linear thinking."
+    ],
+    "features": [
+      "Branching conversation tree interface",
+      "29 AI models across 5 providers",
+      "Side-by-side model comparison",
+      "Web search with citations",
+      "Conversation tree export"
+    ],
+    "pros": [
+      "Non-linear thinking canvas",
+      "Multi-model fact-checking in one prompt",
+      "No API keys needed"
+    ],
+    "cons": [
+      "Visual knowledge maps reserved for paid tiers",
+      "No public API or MCP server"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "kwizie": {
+    "verdict": "Turns videos into interactive quizzes with certificates.",
+    "overview": [
+      "Kwizie is an AI platform that turns videos — YouTube links, uploads, recordings, audio, and PDFs — into interactive in-video assessments. It drafts quiz questions inside the viewing experience, applies pass scores and retry rules, and auto-issues branded certificates with audit-ready completion records. Teams use it for training and compliance without needing a full LMS."
+    ],
+    "features": [
+      "AI quiz generation inside videos",
+      "Pass scores and retry rules",
+      "Auto-issued certificates",
+      "Audit-ready completion logs",
+      "Multi-language assessments"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "learn-about": {
+    "verdict": "Google Labs' conversational learning companion that explains any topic interactively.",
+    "overview": [
+      "Learn About is Google Labs' conversational learning companion that turns any question into an interactive lesson. Instead of a plain text answer, it structures responses with visual cards, examples, and follow-up paths so you can explore a topic step by step. It is designed for curious learners who want to understand subjects deeply, not just get a quick answer."
+    ],
+    "features": [
+      "Interactive explanations",
+      "Visual learning cards",
+      "Guided topic deep-dives",
+      "Image and text input"
+    ],
+    "pros": [
+      "Free Google Labs experiment",
+      "Multimedia learning experience"
+    ],
+    "cons": [
+      "Google Labs experiment - may change or graduate",
+      "Requires a Google account"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "learniverse-ai": {
+    "verdict": "AI platform turning team knowledge into training courses.",
+    "overview": [
+      "Learniverse AI is an AI training platform that turns scattered documents and videos into complete courses. Teams upload their SOPs and recordings, and the AI builds interactive lessons with quizzes, progress tracking, and a branded academy portal. It is paid-only with a free trial, starting around $129 per month."
+    ],
+    "features": [
+      "AI course generation from documents",
+      "Quizzes and progress tracking",
+      "Branded training academy portal",
+      "SCORM and PDF export"
+    ],
+    "pros": [
+      "Courses from docs in minutes",
+      "Full branded academy"
+    ],
+    "cons": [
+      "Priced for teams, expensive for solo users",
+      "No free plan beyond the trial"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "learnworlds": {
+    "verdict": "AI-powered LMS for creating and selling branded online courses, academies, and memberships.",
+    "overview": [
+      "LearnWorlds is an AI-powered learning management platform for course creators and training businesses to build, sell, and scale online academies. It combines course authoring, interactive video, a no-code website builder, and a full sales engine with marketing tools, white-label branding, and branded mobile apps."
+    ],
+    "features": [
+      "AI assistant for drafting course content and assessments",
+      "Interactive video with quizzes, transcripts, and hotspots",
+      "No-code website and landing page builder",
+      "Sales engine with upsells, funnels, and customizable checkout",
+      "Built-in communities and cohort spaces",
+      "SCORM and HTML5 content support",
+      "50+ native integrations (Stripe, Zoom, HubSpot, Mailchimp)",
+      "White-label branding with custom domain and mobile apps"
+    ],
+    "pros": [
+      "Interactive video is a standout differentiator for engagement",
+      "All-in-one toolkit: authoring, commerce, and community in one account",
+      "Reviewers consistently praise responsive customer support"
+    ],
+    "cons": [
+      "Starter plan charges a $5 fee per paid course enrollment",
+      "No permanent free plan, only a 30-day trial",
+      "Feature depth comes with a steeper learning curve"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "liminary": {
+    "verdict": "AI research workspace for consultants and knowledge workers.",
+    "overview": [
+      "Liminary is an AI research workspace built for consultants and knowledge workers. It helps users gather, organize, and synthesize research into client-ready insights. The platform combines document handling with AI-assisted analysis and writing. A free tier is available for getting started."
+    ],
+    "features": [
+      "AI-assisted research gathering and synthesis",
+      "Document organization workspace",
+      "Insight extraction for client deliverables",
+      "Writing assistance for reports",
+      "Free tier to start"
+    ],
+    "pros": [
+      "Built specifically for consultant workflows",
+      "Turns raw research into deliverables faster",
+      "Free tier lowers the barrier to try"
+    ],
+    "cons": [
+      "Consultant focus may not suit all researchers",
+      "Free tier limits research volume",
+      "Newer product with limited track record"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "liner": {
+    "verdict": "AI research search engine with cited answers and a copilot for web, PDF and YouTube.",
+    "overview": [
+      "AI research search engine and reading copilot used by 11M+ scholars. Ask questions and get fact-checked, source-backed answers from 200M+ academic sources, and use the browser extension to summarize web pages, PDFs and YouTube videos or chat with any page while you read."
+    ],
+    "features": [
+      "Source-backed AI answers from 200M+ academic sources",
+      "Browser copilot for web, PDF and YouTube summarization",
+      "Chat with any page or document",
+      "Fact-checked answers with citations",
+      "iOS, Android and browser extension apps"
+    ],
+    "pros": [
+      "Built for academic-grade research with cited sources",
+      "Copilot works on any webpage, PDF or video",
+      "Free version available; trusted by millions of students"
+    ],
+    "cons": [
+      "Paid plan is $17.99/month for full Copilot limits",
+      "Answer quality is only as good as its indexed sources",
+      "Some advanced research features are locked behind the premium tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "linfo-ai": {
+    "verdict": "AI research assistant that answers questions with cited, verifiable sources.",
+    "overview": [
+      "Linfo.ai is an AI-powered research and learning platform that answers questions with cited, trustworthy sources. It is designed for students and professionals who need reliable information without wading through search results. The emphasis is on verifiable answers rather than plausible-sounding guesses."
+    ],
+    "features": [
+      "Cited AI answers",
+      "Research assistance",
+      "Learning support"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "litgrades": {
+    "verdict": "AI study tools that turn course material into flashcards and learning aids.",
+    "overview": [
+      "LitGrades is an AI study platform for students that converts notes, documents, and course material into flashcards, summaries, and practice resources. It is designed to speed up revision by automatically generating study content from uploaded learning materials."
+    ],
+    "features": [
+      "AI-generated flashcards from study material",
+      "Document and note summarization",
+      "Study guides and practice questions",
+      "Mobile and web access"
+    ],
+    "pros": [
+      "Saves time making flashcards manually",
+      "Free tier for students",
+      "Works from existing notes"
+    ],
+    "cons": [
+      "Output quality depends on source material",
+      "Niche feature set"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lium": {
+    "verdict": "AI research assistant that summarizes sources and organizes findings.",
+    "overview": [
+      "Lium is an AI research assistant that helps you dig through sources, summarize findings, and organize knowledge. It is built for students, researchers, and analysts who need structured answers instead of endless tabs. Lium keeps your research in one searchable workspace."
+    ],
+    "features": [
+      "AI research summaries",
+      "Source organization",
+      "Searchable workspace"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "llm-list": {
+    "verdict": "Directory of large language models for comparison and research.",
+    "overview": [
+      "LLM List, also known as the All Large Language Models Directory, is an online directory cataloguing large language models from major AI companies. It organizes models by company and capability so developers, researchers and businesses can compare options for their projects. It covers both commercial and open-source models with details on licensing and use cases."
+    ],
+    "features": [
+      "LLM directory organized by company",
+      "Commercial vs open-source comparison",
+      "Model capabilities and licensing info"
+    ],
+    "pros": [
+      "One place to compare LLMs",
+      "Covers commercial and open models",
+      "Free to browse"
+    ],
+    "cons": [
+      "Informational directory - not an interactive tool",
+      "Some model entries are dated"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "looppanel": {
+    "verdict": "AI UX research platform that analyzes user interviews and builds a searchable research repository",
+    "overview": [
+      "Looppanel is an AI-powered UX research tool that transcribes user interviews, auto-generates notes and highlight reels, and organizes findings into a searchable repository. It helps research and product teams extract insights from calls in a fraction of the time manual analysis takes. The company was acquired by Cyces in September 2026 with the product continuing under its own brand."
+    ],
+    "features": [
+      "AI interview transcription",
+      "Auto-generated notes and clips",
+      "Searchable research repository",
+      "Insight tagging and themes",
+      "Stakeholder sharing"
+    ],
+    "pros": [
+      "Cuts hours of manual research analysis",
+      "Centralized insight library for teams"
+    ],
+    "cons": [
+      "Acquired — long-term roadmap unclear",
+      "Best for teams doing regular interviews"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "magicschool": {
+    "verdict": "The most-used AI platform for K-12 teachers: 80+ tools for planning, grading and feedback.",
+    "overview": [
+      "MagicSchool is the most widely adopted AI platform among K-12 teachers, with over a million educators using it. Its 80+ teacher tools cover lesson plans, rubrics, IEPs, quizzes, report card comments, differentiation and parent communication, plus Raina, an education chatbot. It also offers 50+ student tools and controlled Student Rooms. The free tier covers core tools with generation limits; Plus unlocks unlimited use and student insights."
+    ],
+    "features": [
+      "80+ AI teacher tools: lesson plans, rubrics, IEPs, quizzes, differentiation",
+      "Raina, an AI chatbot built specifically for education",
+      "50+ student tools including an AI tutor and writing help",
+      "Student Rooms: teacher-controlled environments for safe student AI access",
+      "Class Writing Feedback and report card comment generators",
+      "One-click exports to Google and Microsoft platforms (Plus)",
+      "Student learning insights and advanced data dashboards (Plus/Enterprise)",
+      "Enterprise SSO, LMS integrations and district alignment controls"
+    ],
+    "pros": [
+      "Huge breadth: 80+ teacher templates cover nearly every prep and admin task",
+      "Genuinely functional free tier, since all core tools are included with usage limits",
+      "Strong privacy track record: FERPA/COPPA compliant with a 95% Common Sense Privacy rating"
+    ],
+    "cons": [
+      "Sheer number of tools creates a learning curve for new users",
+      "Unlimited generations and student tools require the Plus subscription",
+      "Template structure can feel inflexible for non-standard teaching tasks"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mathgpt": {
+    "verdict": "AI math tutor that solves problems with step-by-step explanations.",
+    "overview": [
+      "MathGPT is an AI math assistant that solves equations and walks users through each step of the solution. Aimed at students and self-learners, it covers algebra through advanced topics with clear explanations. Pricing is freemium, with a Lite plan around $7.90/month for premium features."
+    ],
+    "features": [
+      "Step-by-step math problem solving",
+      "Covers algebra to advanced topics",
+      "Freemium pricing with Lite plan",
+      "Explanation-focused tutoring"
+    ],
+    "pros": [
+      "Clear step-by-step walkthroughs",
+      "Affordable entry price",
+      "Good for self-study"
+    ],
+    "cons": [
+      "Solutions should be double-checked for study",
+      "Limited info about the company behind it"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mathos-ai": {
+    "verdict": "AI math solver and tutor with step-by-step solutions.",
+    "overview": [
+      "Mathos AI (formerly MathGPTPro) is an AI math solver and tutor for students. You snap a photo of a problem or type it in, and it returns step-by-step solutions with explanations, plus quizzes, flashcards and animated lesson videos. It covers everything from algebra to university-level calculus and physics."
+    ],
+    "features": [
+      "Photo-based math problem solving",
+      "Step-by-step explanations",
+      "Quizzes, flashcards and lesson videos"
+    ],
+    "pros": [
+      "Explains the steps, not just answers",
+      "Handles advanced university math",
+      "Mobile apps for on-the-go help"
+    ],
+    "cons": [
+      "Subscription billing is weekly, not monthly",
+      "Homework-help tool - can be misused for cheating"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "memenome": {
+    "verdict": "Turns study notes and PDFs into addictive short-form learning videos.",
+    "overview": [
+      "Memenome is an AI learning tool that converts study materials into short, meme-styled videos designed to be memorable. Upload PDFs, notes, or slides and it extracts key points into formats like quizzes and narrated explainers with playful visuals. Students use it to cram for exams, while teachers use it to make review content. A free tier covers casual use, with paid plans adding voices, more videos, and watermark-free exports."
+    ],
+    "features": [
+      "PDF and notes to short video",
+      "Quiz and explainer formats",
+      "Multiple AI voices",
+      "Custom characters on paid plans"
+    ],
+    "pros": [
+      "Makes studying genuinely fun",
+      "Free tier is usable",
+      "Popular with students"
+    ],
+    "cons": [
+      "Meme style won't suit formal contexts",
+      "Daily limits on free tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mexty-ai": {
+    "verdict": "AI-native learning platform that builds interactive courses and runs a built-in LMS.",
+    "overview": [
+      "Mexty is an AI-native platform that takes users from course idea to published, interactive learning experience in minutes. Its no-code authoring tools generate lessons, quizzes, and activities from prompts, while adaptive learning paths adjust to each learner. A built-in LMS with SCORM export, learner tracking, and enterprise-grade security serves schools, universities, and corporate training teams."
+    ],
+    "features": [
+      "AI course authoring",
+      "Built-in LMS",
+      "SCORM export",
+      "Adaptive learning paths"
+    ],
+    "pros": [
+      "Full create-to-deliver ecosystem",
+      "Privacy-first architecture"
+    ],
+    "cons": [
+      "Enterprise pricing model"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mindgrasp": {
+    "verdict": "AI study assistant that summarizes lectures, videos, and documents.",
+    "overview": [
+      "Mindgrasp is an AI study assistant that turns lectures, YouTube videos, PDFs, and articles into summaries, flashcards, and quizzes. Led by co-founder/CEO Thai Cao, it offers paid plans with a trial, aimed at students who want to learn faster."
+    ],
+    "features": [
+      "Video and audio summarization",
+      "AI flashcards and quizzes",
+      "Document Q&A",
+      "Note generation",
+      "Multi-source learning"
+    ],
+    "pros": [
+      "Covers many content types",
+      "Flashcards aid retention",
+      "Good for students"
+    ],
+    "cons": [
+      "Paid plans",
+      "Summaries need checking",
+      "Crowded edtech space"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mindsmith": {
+    "verdict": "AI-native eLearning authoring tool that turns source material into interactive lessons.",
+    "overview": [
+      "Mindsmith is an AI-native eLearning authoring tool where an AI agent shapes presentations, videos, SOPs, and documents into interactive, instructionally sound lessons. Storyboard-based editing, 30+ interactive elements like branching scenarios and AI conversations, plus SCORM/xAPI delivery and 70+ languages, serve instructional designers and corporate training teams."
+    ],
+    "features": [
+      "AI agent generates lessons from any source material",
+      "Storyboard-based editing with custom AI skills",
+      "30+ interactive elements: branching scenarios, AI conversations, quizzes",
+      "Real-time collaboration with inline commenting",
+      "Delivery via LMS, link, SCORM package, or xAPI",
+      "70+ languages supported in one dynamic package",
+      "Learner analytics with completion and score breakdowns",
+      "MCP connector for Copilot, Claude, and ChatGPT"
+    ],
+    "pros": [
+      "Storyboard workflow keeps designers in creative control",
+      "Rich interactivity set goes beyond text-and-video courses",
+      "MCP server integrates lesson creation into existing AI workflows"
+    ],
+    "cons": [
+      "Free plan offers only a one-time 450 AI credit allocation",
+      "Shared workspaces and governance need Business or Enterprise plans",
+      "Newer vendor with a smaller public review base"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mini-course-generator": {
+    "verdict": "Simple AI course creator for building and monetizing bite-sized interactive mini-courses fast.",
+    "overview": [
+      "Mini Course Generator is a beginner-friendly AI course creation platform for turning expertise into short, interactive mini-courses. Its AI generates outlines, content, images, and quizzes, while the drag-and-drop block editor, landing pages, payment gateways, and SCORM export make it easy to sell or embed courses as lead magnets."
+    ],
+    "features": [
+      "AI-generated course outlines and lesson drafts",
+      "AI Interaction Builder (flashcards, tabs, tables)",
+      "Drag-and-drop block editor for pages",
+      "Built-in landing page builder",
+      "Share via link, embed, or export to SCORM/PDF",
+      "Certificates and badges for learner achievements",
+      "Payment gateways and email lead capture",
+      "Zapier, Make, and Pabbly automations plus white label"
+    ],
+    "pros": [
+      "Fastest path from idea to published course for short-form content",
+      "Embeds rich media from Canva, Gamma, Synthesia, and more",
+      "Built-in monetization and lead capture without extra tools"
+    ],
+    "cons": [
+      "Designed for short micro-courses, not long-form academies",
+      "Starting paid price not published on the homepage",
+      "Smaller ecosystem than established LMS vendors"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mirothinker": {
+    "verdict": "Open-source deep research agent with top benchmark scores.",
+    "overview": [
+      "MiroThinker is MiroMind AI's open-source series of RL-trained deep research agents built for complex, multi-step investigation. It pairs long-horizon reasoning with search-augmented tool use, letting agents autonomously plan, retrieve, synthesize, and verify information across extended tasks. The 1.7 release comes in 30B and 235B sizes with top-tier BrowseComp benchmark scores, plus a hosted H1 variant, and weights are available on Hugging Face. With an online demo and Apache 2.0 licensing, it is one of the strongest open options for autonomous deep research."
+    ],
+    "features": [
+      "RL-trained deep research agents",
+      "Long-horizon reasoning with tool use",
+      "30B and 235B open weights",
+      "Top BrowseComp benchmark scores",
+      "Online demo available"
+    ],
+    "pros": [
+      "State-of-the-art open research agent",
+      "Open weights on Hugging Face",
+      "Strong benchmark results"
+    ],
+    "cons": [
+      "Self-hosting large models needs serious hardware",
+      "Technical setup for the full agent stack"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mnemosphere": {
+    "verdict": "Multi-model AI research workspace with parallel prompts and mindmaps.",
+    "overview": [
+      "Mnemosphere is a research workspace that runs your prompts in parallel across multiple AI models — GPT, Claude, Gemini, and Grok — so you can compare answers side by side. It adds mindmaps, an AI critique mode, YouTube video analysis, and deep research workflows for heavier investigations. Plans start at $25/month for people who research with AI daily."
+    ],
+    "features": [
+      "Parallel prompting across GPT, Claude, Gemini, and Grok",
+      "AI mindmaps for organizing research",
+      "Critique mode for stress-testing answers",
+      "YouTube video analysis",
+      "Deep research workflows"
+    ],
+    "pros": [
+      "Compare multiple models in one place",
+      "Mindmaps help structure complex topics",
+      "Useful critique mode for verification"
+    ],
+    "cons": [
+      "Plans from $25/month may be steep for casual users",
+      "Multi-model output can be overwhelming without a workflow"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mylens": {
+    "verdict": "Turns text, files, and videos into interactive mind maps, timelines, and charts.",
+    "overview": [
+      "MyLens converts text, files, URLs, YouTube videos, and spreadsheets into interactive visuals like mind maps, timelines, flowcharts, and charts. It analyses your input with AI, picks the structure that fits, and produces a visual you can edit, restyle, and share. A free plan covers a few visualisations a day, with a paid tier unlocking more visual types and larger inputs."
+    ],
+    "features": [
+      "Text, PDF, URL, YouTube, image, and spreadsheet inputs",
+      "Interactive mind maps, timelines, flowcharts, and charts",
+      "Customisable colours, styles, and branding",
+      "Chrome extension for one-click page summarisation",
+      "Shareable and downloadable visuals"
+    ],
+    "pros": [
+      "Turns any content source into a polished visual in seconds",
+      "Handy for study, teaching, and quick research summaries",
+      "Editable and shareable output"
+    ],
+    "cons": [
+      "Free plan allows only three visualisations per day",
+      "Most useful output types sit behind the paid plan"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mynewsly": {
+    "verdict": "AI agents that monitor news and LinkedIn for your industry and turn it into structured market intelligence and newsletter drafts.",
+    "overview": [
+      "MyNewsly is an AI news-intelligence platform where AI agents monitor news, social media, and LinkedIn across your industry and turn it into structured market briefings. Instead of juggling tabs and newsletters, you get a personalized dashboard filtered to your topics, plus AI summaries, competitor tracking, and one-click newsletter or social-post drafts. The first month is free with no credit card required."
+    ],
+    "features": [
+      "AI agents monitor news, social media, and LinkedIn 24/7",
+      "Personalized dashboard filtered by topics, sectors, geographies",
+      "LinkedIn Social Radar — company pages and key profiles tracked",
+      "AI summaries that cut reading time by ~80%",
+      "One-click newsletter and social-post drafts from intelligence",
+      "Market and competitor monitoring with early-shift alerts",
+      "Multi-language: English, Italian, German, French, Spanish",
+      "Team collaboration and shared feeds on Professional/Enterprise plans"
+    ],
+    "pros": [
+      "Turns research time into a daily structured briefing",
+      "LinkedIn monitoring is a differentiator for B2B teams",
+      "First month free, no credit card to start"
+    ],
+    "cons": [
+      "Pricing beyond the free month is not listed on the official site",
+      "Built for teams — overkill for casual news readers",
+      "AI summaries can miss nuance; source articles still need checking"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "myreader-ai": {
+    "verdict": "Ask questions about books and documents in a chat interface with answers grounded in the text.",
+    "overview": [
+      "Myreader AI lets you upload books and documents, or paste links and web articles, then ask questions about the material in a chat interface. It answers based on the content of the uploaded text and points you to the relevant sections so you can read more. It is aimed at students, researchers and professionals who want to pull summaries, key points and explanations from dense reading material without going through every page."
+    ],
+    "features": [
+      "Upload books, PDFs and documents",
+      "Import URLs and web articles",
+      "Ask questions about the content in natural language",
+      "Answers with pointers to relevant sections"
+    ],
+    "pros": [
+      "Handles books, PDFs and web articles in one chat",
+      "Cites source sections so answers are checkable",
+      "Reduces time spent on long documents"
+    ],
+    "cons": [
+      "Long or poorly formatted books may give incomplete answers",
+      "Accuracy depends on source document quality",
+      "Subscription needed for heavier usage"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mystylus-ai": {
+    "verdict": "AI academic writing assistant for essays, research, and citations.",
+    "overview": [
+      "MyStylus.ai is an AI writing platform built for students and researchers, generating essay drafts from your topic and requirements, then helping you edit, paraphrase, and check grammar. Its Gen3 platform adds reference analysis, citation accuracy tools, and built-in plagiarism detection so academic work stays original and properly sourced."
+    ],
+    "features": [
+      "AI essay and report generation from outlines",
+      "Gen3 AI text editing, paraphrasing, and proofreading",
+      "Reference search and citation accuracy tools",
+      "Built-in plagiarism checker",
+      "SEO optimization tools for content creators"
+    ],
+    "pros": [
+      "Academic-focused workflow from outline to final draft",
+      "Citations and reference tools built in",
+      "Free plan for basic use"
+    ],
+    "cons": [
+      "AI citations can still contain errors; verify before submitting",
+      "Full access requires a paid subscription"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nbot": {
+    "verdict": "AI trackers that monitor the web 24/7 for topics you care about, with summaries and feed chat.",
+    "overview": [
+      "NBot is an AI research assistant that builds custom trackers for any topic you care about. Describe an interest in plain language and it monitors news outlets, newsletters, RSS feeds, niche blogs, and social media around the clock, surfacing key developments with AI summaries and citations. A built-in feed chat lets you ask questions and refine the tracker conversationally, and Pro adds daily AI podcast summaries of your feeds."
+    ],
+    "features": [
+      "Natural-language tracker creation",
+      "24/7 monitoring of news, blogs, RSS, social",
+      "AI summaries with source citations",
+      "Conversational feed chat and refinement",
+      "Daily AI podcast summaries (Pro)",
+      "Public community trackers to follow"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "newsbang": {
+    "verdict": "AI news app with summaries, interactive podcasts, and ask-the-news Q&A.",
+    "overview": [
+      "NewsBang is an AI-powered news platform that delivers concise multi-perspective summaries and lets you ask questions about any story, getting real-time answers with verified sources. Its signature swipe interface reveals deeper insights on each headline, and interactive AI podcasts let you interrupt playback to ask follow-up questions."
+    ],
+    "features": [
+      "AI-generated multi-perspective news summaries",
+      "Interactive AI podcasts with real-time Q&A",
+      "Ask-anything news assistant with source attribution",
+      "Swipe interface for deeper story insights",
+      "Daily newsletter option"
+    ],
+    "pros": [
+      "Free to use across web and mobile",
+      "Unbiased aggregation with neutrality scoring",
+      "Interactive format goes beyond headlines"
+    ],
+    "cons": [
+      "No public API for integrations",
+      "Smaller source pool than major news apps"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "next-three-books": {
+    "verdict": "Free AI tool that recommends exactly three personalized books based on your reading taste and goals.",
+    "overview": [
+      "NextThreeBooks.com is a free AI-powered website that generates personalized book recommendations using GPT-based analysis of your reading preferences, personal goals, habits, and age. It returns exactly three curated book suggestions, each with a summary and an explanation of why it fits you, keeping the choice simple instead of overwhelming. The site also features book picks from famous personalities like Bill Gates, Elon Musk, and Oprah Winfrey, and links each recommendation to Amazon for purchase."
+    ],
+    "features": [
+      "Three personalized book recommendations per request",
+      "GPT-powered matching on taste, goals, habits, and age",
+      "Summary and relevance explanation for each book",
+      "Celebrity book recommendations from well-known figures",
+      "Unlimited re-requests if suggestions miss",
+      "Amazon purchase links for each recommendation"
+    ],
+    "pros": [
+      "Completely free with no signup",
+      "Three-book limit makes choosing effortless",
+      "Explanations help you trust and understand each pick",
+      "Works across genres for casual readers and academics"
+    ],
+    "cons": [
+      "Revenue model is Amazon referral links, which may shape suggestions",
+      "Niche or highly specific tastes may get generic results",
+      "No direct purchasing, redirects to Amazon only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nextnet": {
+    "verdict": "AI research platform for life sciences that finds hidden connections across papers, drugs, genes, and clinical trials.",
+    "overview": [
+      "NExTNet is a cloud-based AI platform for scientists and R&D teams that unifies biomedical data into a semantic knowledge graph. It offers Copilot research assistants and connected search across scientific publications, drugs, genes, proteins, pathways, patents, and clinical trials, with an interactive knowledge map and live collaboration to help teams turn hypotheses into verifiable evidence faster."
+    ],
+    "features": [
+      "Semantic search across biomedical literature and data",
+      "AI Copilot research assistants with cited evidence",
+      "Interactive knowledge map of genes, drugs, and diseases",
+      "Live collaboration for research teams"
+    ],
+    "pros": [
+      "Unifies disparate biomedical data sources",
+      "Verifiable citations and evidence trails",
+      "No-code GUI suitable for scientists",
+      "Backed by research-focused investors"
+    ],
+    "cons": [
+      "Enterprise pricing not published",
+      "Specialized for life sciences, limited outside it",
+      "Technical onboarding for large teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "noah-ai": {
+    "verdict": "AI research agent for biopharma and medical discovery.",
+    "overview": [
+      "Noah AI is a research assistant built for life sciences and pharmaceutical teams. It helps scientists search biomedical literature, synthesize findings, and accelerate early-stage discovery work. Pricing starts at $12.40 per month with a free tier, and the company is based in Singapore."
+    ],
+    "features": [
+      "biomedical literature search",
+      "research synthesis",
+      "discovery assistance"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "notebookllama": {
+    "verdict": "Meta's open-source recipe for turning PDFs into podcast-style audio conversations.",
+    "overview": [
+      "NotebookLlama is Meta's open-source recipe for turning PDF documents into podcast-style audio conversations between two AI speakers. It chains text extraction, dialogue generation, and speech synthesis into a runnable example on the Llama recipes repository. Developers use it as a template for building their own document-to-audio pipelines."
+    ],
+    "features": [
+      "PDF ingestion",
+      "Two-speaker dialogue generation",
+      "Audio synthesis pipeline",
+      "Runnable recipe code"
+    ],
+    "pros": [
+      "Free and open source from Meta",
+      "Great starting template for builders"
+    ],
+    "cons": [
+      "Code recipe, not a polished app",
+      "Requires Python and API setup"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "now-i-get-it": {
+    "verdict": "Turn scientific papers into interactive web pages for any audience.",
+    "overview": [
+      "Now I Get It! turns dense scientific papers into interactive web pages anyone can understand: upload a PDF and pick a lens (Native for technical readers, Non-technical for curious readers, Kid-friendly for children) to get an editable, shareable page with KaTeX-rendered math, custom themes, and translations. It is pay-per-credit ($3 per paper typically), with no subscription, and translations are private by default."
+    ],
+    "features": [
+      "PDF to interactive explanatory web page",
+      "Three reading modes: Native, Non-technical, Kid-friendly",
+      "Editable text and KaTeX math formulas",
+      "Custom instructions and visual themes",
+      "Paper translation between languages",
+      "Private gallery with tags and sharing controls",
+      "Public gallery of featured translations",
+      "Pay-per-credit, no subscription"
+    ],
+    "pros": [
+      "Makes dense papers genuinely readable.",
+      "Multiple audience lenses per paper.",
+      "Private-by-default gallery.",
+      "No subscription; pay only per paper."
+    ],
+    "cons": [
+      "Pay-per-credit model can add up for power users.",
+      "Output quality depends on the source paper.",
+      "Public gallery raises copyright care for sharing."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "oboe": {
+    "verdict": "AI personalized learning platform that adapts to your pace.",
+    "overview": [
+      "Oboe is an AI-powered personalized learning platform that adapts study content to each learner. Built by the co-founders of Anchor, it tailors lessons and practice to how you learn best. It fits students and lifelong learners who want education that adjusts to their pace."
+    ],
+    "features": [
+      "Personalized AI learning",
+      "Adaptive study content"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "omnisearch": {
+    "verdict": "AI-powered site search tool that transcribes audio and video for deep content search.",
+    "overview": [
+      "Omnisearch is an AI-powered site search solution for educational and media portals. It transcribes audio and video files into text and maps search results to the exact seconds where terms occur, alongside text and PDF search. A search API lets teams integrate video search into their own apps, and built-in analytics reveal what visitors search for and how they use suggestions."
+    ],
+    "features": [
+      "AI site search across audio, video, text",
+      "Transcript-to-timestamp mapping",
+      "Search API",
+      "Visitor search analytics"
+    ],
+    "pros": [
+      "Unique video/audio search",
+      "Developer-friendly API"
+    ],
+    "cons": [
+      "Demo-first sales process"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "one-course": {
+    "verdict": "AI-powered LMS and course builder for team training.",
+    "overview": [
+      "One Course is an AI-powered learning management system and course builder for organizations training their teams. Users input a topic or upload a document and the AI drafts modules, quizzes and suggested imagery, which can then be customized. The platform reports over 10,000 courses created, includes a learner mobile app with progress sync and push notifications, and offers a free tier with five courses and five users."
+    ],
+    "features": [
+      "AI course drafting from topics or documents",
+      "Auto-generated quizzes and module structure",
+      "Learner mobile app with progress sync",
+      "LMS management for teams",
+      "Completion analytics"
+    ],
+    "pros": [
+      "Generous free tier with no time limit",
+      "Mobile-first learner experience",
+      "High reported completion rates"
+    ],
+    "cons": [
+      "AI drafts need human review and refinement",
+      "Plus and Pro features are paid-only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "open-paper": {
+    "verdict": "AI workbench for reading research papers with citation-grounded Q&A.",
+    "overview": [
+      "Open Paper is an AI workbench for reading research papers: upload PDFs, annotate, and ask questions with citation-grounded answers. It keeps responses tied to the source document so researchers can verify claims. The tool fits students and academics working through paper-heavy reading lists."
+    ],
+    "features": [
+      "PDF upload and annotation",
+      "Citation-grounded Q and A",
+      "Research paper reading workbench"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "openmaic": {
+    "verdict": "Open-source multi-agent AI classroom that turns docs into interactive lessons.",
+    "overview": [
+      "OpenMAIC is an open-source platform from Tsinghua University that converts any topic or document into a full interactive classroom. A multi-agent system plays the roles of AI teacher, teaching assistants, and AI classmates who lecture, debate, draw on a whiteboard, and hold real-time discussions with the learner. It generates slides with voice narration, quizzes with AI grading, interactive HTML simulations, and project-based learning activities, exporting to editable PPTX or HTML. Validated with over 700 students at Tsinghua and released under AGPL-3.0, it also integrates with messaging apps through OpenClaw."
+    ],
+    "features": [
+      "Multi-agent AI classroom (teacher, TAs, classmates)",
+      "One-click lesson generation from topics or documents",
+      "Interactive quizzes with AI grading",
+      "Whiteboard drawing and TTS narration",
+      "PPTX and HTML export",
+      "OpenClaw and messaging app integration"
+    ],
+    "pros": [
+      "Fully open source (AGPL-3.0)",
+      "Academically validated at Tsinghua",
+      "Rich interactive scene types"
+    ],
+    "cons": [
+      "Requires an LLM API key and self-hosting",
+      "Setup is technical for non-developers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "openread": {
+    "verdict": "AI research platform searching 300M papers.",
+    "overview": [
+      "OpenRead is an AI research platform searching 300 million academic papers with Paper Espresso summaries and Oat Q&A. Students and researchers get quick literature understanding. Freemium pricing has a free tier with Pro at $5 and Premium at $20 per month."
+    ],
+    "features": [
+      "300M paper search",
+      "Paper Espresso summaries",
+      "Oat Q&A",
+      "Citation tools"
+    ],
+    "pros": [
+      "Huge paper index",
+      "Affordable Pro",
+      "Fast literature review"
+    ],
+    "cons": [
+      "Summary accuracy varies",
+      "Academic focus only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "orbbit": {
+    "verdict": "Competitor monitoring with pricing, product, and hiring signals",
+    "overview": [
+      "Orbbit (listed as 'Orbiit' on FutureTools; the real brand spells it with double-b) is a competitor-monitoring tool for teams that track rivals. It watches for changes in pricing, products, and hiring, then surfaces the signals that matter. Research-grade monitoring without manual checking."
+    ],
+    "features": [
+      "Competitor change detection",
+      "Pricing and product tracking",
+      "Hiring signal monitoring"
+    ],
+    "pros": [
+      "Free tier",
+      "Covers multiple signal types"
+    ],
+    "cons": [
+      "Newer entrant in competitive-intel space"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

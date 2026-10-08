@@ -1,0 +1,2275 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk17: Tool[] = [
+  {
+    "slug": "convo",
+    "name": "Convo",
+    "logo": "/logos/convo.png",
+    "company": "Convo",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI-moderated voice interviews that talk to respondents and structure their answers.",
+    "pricing": "freemium",
+    "tags": [
+      "interviews",
+      "user research",
+      "voice ai",
+      "qualitative"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://getconvo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cookiy-ai",
+    "name": "Cookiy AI",
+    "logo": "/logos/cookiy-ai.png",
+    "company": "Cookiy AI",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Agentic AI that runs user interviews and surveys for product research.",
+    "pricing": "freemium",
+    "tags": [
+      "user research",
+      "ai interviews",
+      "ux research",
+      "agentic"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://cookiy.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "coursable",
+    "name": "Coursable",
+    "logo": "/logos/coursable.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI student workspace with personalized courses, flashcards, and doc chat.",
+    "pricing": "freemium",
+    "tags": [
+      "education",
+      "courses",
+      "flashcards",
+      "study",
+      "students"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://coursable.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "courseau",
+    "name": "Courseau",
+    "logo": "/logos/courseau.png",
+    "company": "Courseau",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-assisted course authoring tool that turns ideas and documents into publishable online courses.",
+    "pricing": "paid",
+    "tags": [
+      "course creation",
+      "e-learning",
+      "training",
+      "AI authoring"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.courseau.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "coursebox",
+    "name": "Coursebox",
+    "logo": "/logos/coursebox.png",
+    "company": "Coursebox",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI course creator that builds complete online courses from a prompt or document, free to start.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-course-generator",
+      "course-creator",
+      "scorm",
+      "quizzes",
+      "lms",
+      "white-label",
+      "online-courses",
+      "corporate-training"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.coursebox.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "coursepro-ai",
+    "name": "CoursePro.ai",
+    "logo": "/logos/coursepro-ai.png",
+    "company": "CoursePro",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI course builder that generates lessons, slides, videos, and quizzes you can sell.",
+    "pricing": "freemium",
+    "tags": [
+      "course-creation",
+      "elearning",
+      "lms",
+      "online-courses"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://coursepro.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "coursera-coach",
+    "name": "Coursera Coach",
+    "logo": "/logos/coursera-coach.png",
+    "company": "Coursera, Inc.",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI learning companion built into Coursera courses, powered by Google Gemini.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-tutor",
+      "online-courses",
+      "personalization",
+      "career-guidance",
+      "gemini",
+      "learning-assistant",
+      "certificates",
+      "upskilling"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.coursera.org",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "cubby",
+    "name": "Cubby",
+    "logo": "/logos/cubby.png",
+    "company": "Cubby",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research assistant that summarizes documents, video and audio.",
+    "pricing": "freemium",
+    "tags": [
+      "research assistant",
+      "summarization",
+      "knowledge base"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://cubby.nyc",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "curipod",
+    "name": "Curipod",
+    "logo": "/logos/curipod.png",
+    "company": "Curipod",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-powered platform that turns teacher-led lessons into interactive, discussion-driven sessions with real-time feedback.",
+    "pricing": "freemium",
+    "tags": [
+      "ai lessons",
+      "interactive slides",
+      "classroom engagement",
+      "teacher assistant",
+      "polls",
+      "writing feedback",
+      "formative assessment",
+      "k-12"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://curipod.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "devv-ai",
+    "name": "Devv AI",
+    "logo": "/logos/devv-ai.png",
+    "company": "Devv AI",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI search engine turned coding agent for developers.",
+    "pricing": "freemium",
+    "tags": [
+      "dev-search",
+      "coding-agent",
+      "documentation",
+      "developer-tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://devv.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "diffit",
+    "name": "Diffit",
+    "logo": "/logos/diffit.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Generates differentiated reading passages, worksheets, and quizzes at any reading level or language.",
+    "pricing": "freemium",
+    "tags": [
+      "differentiation",
+      "reading levels",
+      "worksheets",
+      "lesson resources",
+      "ai content",
+      "teacher assistant",
+      "multilingual",
+      "k-12"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://diffit.me",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "digg-ai",
+    "name": "Digg AI",
+    "logo": "/logos/digg-ai.png",
+    "company": "Digg",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Curated AI news discovery ranking 'rising' stories from signals of ~1,000 influential AI voices.",
+    "pricing": "free",
+    "tags": [
+      "ai news",
+      "discovery",
+      "github",
+      "aggregator",
+      "trends"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://di.gg",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "docebo",
+    "name": "Docebo",
+    "logo": "/logos/docebo.png",
+    "company": "Docebo",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-first enterprise LMS for training employees, partners, and customers from one platform.",
+    "pricing": "paid",
+    "tags": [
+      "lms",
+      "enterprise",
+      "corporate-training",
+      "ai-authoring",
+      "gamification",
+      "customer-education",
+      "compliance",
+      "skills"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://docebo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "docubix",
+    "name": "Docubix",
+    "logo": "/logos/docubix.png",
+    "company": "Docubix",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI knowledge base and RAG platform turning documents into cited assistants.",
+    "pricing": "freemium",
+    "tags": [
+      "rag",
+      "knowledge-base",
+      "document-ai",
+      "chatbot",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://docubix.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "dream-kid-ai",
+    "name": "Dream Kid AI",
+    "logo": "/logos/dream-kid-ai.png",
+    "company": "Dream Kid",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI storybook app creating personalized stories for children in hospitals.",
+    "pricing": "freemium",
+    "tags": [
+      "children",
+      "stories",
+      "storytelling",
+      "narration"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://dreamkid.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "dreambox",
+    "name": "DreamBox",
+    "logo": "/logos/dreambox.png",
+    "company": "DreamBox Learning",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Adaptive K-8 math and reading platform that personalizes lessons in real time for each child.",
+    "pricing": "paid",
+    "tags": [
+      "k-8",
+      "math",
+      "reading",
+      "adaptive-learning",
+      "personalized-learning",
+      "schools",
+      "parents",
+      "formative-assessment"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.dreambox.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "duolingo-max",
+    "name": "Duolingo Max",
+    "logo": "/logos/duolingo-max.png",
+    "company": "Duolingo",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Duolingo's top-tier subscription adding AI conversation practice and video calls with an AI tutor.",
+    "pricing": "paid",
+    "tags": [
+      "language learning",
+      "ai tutor",
+      "conversation practice",
+      "roleplay",
+      "speaking",
+      "gamified"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.duolingo.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "eduaide",
+    "name": "Eduaide",
+    "logo": "/logos/eduaide.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI toolkit that builds standards-aligned lesson plans, worksheets, graphic organizers, and assessments.",
+    "pricing": "freemium",
+    "tags": [
+      "lesson plans",
+      "worksheets",
+      "graphic organizers",
+      "assessments",
+      "teacher assistant",
+      "standards aligned",
+      "ai generator",
+      "k-12"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.eduaide.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "eggheads",
+    "name": "Eggheads",
+    "logo": "/logos/eggheads.png",
+    "company": "Eggheads",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI chat-based microlearning platform for employee training",
+    "pricing": "freemium",
+    "tags": [
+      "microlearning",
+      "employee training",
+      "onboarding",
+      "compliance training",
+      "chatbot training",
+      "HR",
+      "nanolearning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://eggheads.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "elai",
+    "name": "Elai.io",
+    "logo": "/logos/elai.png",
+    "company": "Elai",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI video generator that turns text and slides into avatar-led training videos in minutes.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-video",
+      "avatar-videos",
+      "training-videos",
+      "text-to-video",
+      "localization",
+      "onboarding",
+      "corporate-training",
+      "voice-cloning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://elai.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "elicit",
+    "name": "Elicit",
+    "logo": "/logos/elicit.png",
+    "company": "Elicit",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research assistant that finds academic papers and extracts structured evidence into citation-backed tables.",
+    "pricing": "freemium",
+    "tags": [
+      "literature review",
+      "academic papers",
+      "systematic review",
+      "data extraction",
+      "semantic search",
+      "citation",
+      "research agent",
+      "meta-analysis"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://elicit.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "enago-read",
+    "name": "Enago Read",
+    "logo": "/logos/enago-read.png",
+    "company": "Enago",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research reading assistant that helps academics discover and digest scholarly papers.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "academic",
+      "literature-review",
+      "papers"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://read.enago.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "essaygrader",
+    "name": "EssayGrader",
+    "logo": "/logos/essaygrader.png",
+    "company": "EssayGrader",
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "Rubric-based AI essay grading for teachers and schools.",
+    "pricing": "freemium",
+    "tags": [
+      "essay grading",
+      "teachers",
+      "edtech",
+      "rubrics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://essaygrader.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "everlearns",
+    "name": "EverLearns",
+    "logo": "/logos/everlearns.png",
+    "company": "EverLearns",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI platform that creates complete online courses in about 5 minutes",
+    "pricing": "freemium",
+    "tags": [
+      "course creator",
+      "online courses",
+      "AI education",
+      "quizzes",
+      "e-learning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://everlearns.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "explainpaper",
+    "name": "Explainpaper",
+    "logo": "/logos/explainpaper.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "Highlight-to-explain reader that demystifies research papers in plain language.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "papers",
+      "pdf",
+      "explainer",
+      "academic"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.explainpaper.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "extralt",
+    "name": "Extralt",
+    "logo": "/logos/extralt.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI that writes a self-maintaining crawler per store and turns any ecommerce site into clean, matched product data.",
+    "pricing": "freemium",
+    "tags": [
+      "ecommerce",
+      "web-scraping",
+      "product-data",
+      "price-monitoring",
+      "market-research",
+      "api",
+      "mcp",
+      "ai-agents"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://extralt.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "extruct-ai",
+    "name": "Extruct AI",
+    "logo": "/logos/extruct-ai.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI company-intelligence platform for semantic search and lead enrichment.",
+    "pricing": "paid",
+    "tags": [
+      "company-intelligence",
+      "lead-generation",
+      "semantic-search",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.extruct.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "feeling-great-app",
+    "name": "Feeling Great app",
+    "logo": "/logos/feeling-great-app.png",
+    "company": "Feeling Great",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI mental-wellness app with an empathy-trained chatbot and TEAM-CBT courses.",
+    "pricing": "paid",
+    "tags": [
+      "mental health",
+      "wellbeing",
+      "self-improvement",
+      "chatbot",
+      "cbt"
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://feelinggreat.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "feynn",
+    "name": "Feynn",
+    "logo": "/logos/feynn.png",
+    "company": "Feynn",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI strategic-intelligence platform for market, competitor and trend research.",
+    "pricing": "paid",
+    "tags": [
+      "market research",
+      "competitive intelligence",
+      "strategy",
+      "trends"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://feynn.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "fgeneds",
+    "name": "FGenEds",
+    "logo": "/logos/fgeneds.png",
+    "company": "Sphere Labs",
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "Turn lecture-slide PDFs into concise AI cheat sheets for gen-ed courses.",
+    "pricing": "freemium",
+    "tags": [
+      "cheat-sheets",
+      "study-aid",
+      "education",
+      "summarizer",
+      "students"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://fgeneds.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "figeditor",
+    "name": "FigEditor",
+    "logo": "/logos/figeditor.png",
+    "company": "FigEditor",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI generator for editable scientific figures, posters, and diagrams.",
+    "pricing": "freemium",
+    "tags": [
+      "scientific-figures",
+      "research",
+      "ai-image",
+      "svg",
+      "posters",
+      "flowcharts",
+      "academic",
+      "diagrams"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://figeditor.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "flint",
+    "name": "Flint",
+    "logo": "/logos/flint.png",
+    "company": "Flint",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Teacher-managed AI learning platform where students chat with Sparky, a guarded AI tutor.",
+    "pricing": "freemium",
+    "tags": [
+      "classroom ai",
+      "ai tutor",
+      "k-12",
+      "student safety",
+      "teacher dashboard",
+      "sparky",
+      "schools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.flintk12.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "formative",
+    "name": "Formative",
+    "logo": "/logos/formative.png",
+    "company": "Formative",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Real-time classroom assessment platform with Luna AI for auto-grading and standards-aligned activities.",
+    "pricing": "freemium",
+    "tags": [
+      "assessment",
+      "quizzes",
+      "auto-grading",
+      "ai-assistant",
+      "teachers",
+      "k-12",
+      "real-time-feedback"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.formative.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "futuresearch",
+    "name": "FutureSearch",
+    "logo": "/logos/futuresearch.png",
+    "company": "FutureSearch",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Multi-agent deep research platform with forecasting-grade rigor.",
+    "pricing": "freemium",
+    "tags": [
+      "deep-research",
+      "ai-agents",
+      "forecasting",
+      "data-enrichment",
+      "api",
+      "sdk",
+      "market-research",
+      "evidence"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://futuresearch.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gajix",
+    "name": "GAJIX",
+    "logo": "/logos/gajix.png",
+    "company": "GAJIX",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI learning assistant that builds personalized study curricula.",
+    "pricing": "freemium",
+    "tags": [
+      "learning assistant",
+      "personalized learning",
+      "study guide",
+      "curriculum",
+      "self-study",
+      "tutoring"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://gajix.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gatsbi",
+    "name": "Gatsbi",
+    "logo": "/logos/gatsbi.png",
+    "company": "Gatsbi",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research platform that discovers ideas, drafts papers, and prepares patent disclosures.",
+    "pricing": "freemium",
+    "tags": [
+      "academic writing",
+      "research papers",
+      "literature review",
+      "patents",
+      "phd"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://www.gatsbi.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gauth",
+    "name": "Gauth",
+    "logo": "/logos/gauth.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI homework solver for math and science with step-by-step answers and 24/7 live tutors.",
+    "pricing": "freemium",
+    "tags": [
+      "homework help",
+      "math solver",
+      "ai tutor",
+      "live tutors",
+      "step by step",
+      "science",
+      "photo solve"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.gauthmath.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gcrawlai",
+    "name": "GcrawlAI",
+    "logo": "/logos/gcrawlai.png",
+    "company": "Gramosoft",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Open-source web scraping API and crawler that converts websites into LLM-ready structured data.",
+    "pricing": "open-source",
+    "tags": [
+      "web-scraping",
+      "open-source",
+      "rag",
+      "data-extraction",
+      "crawler",
+      "llm-ready",
+      "markdown",
+      "api"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://gcrawlai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gemini-notebook",
+    "name": "Gemini Notebook",
+    "logo": "/logos/gemini-notebook.png",
+    "company": "Google",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Google's AI research notebook that answers only from your uploaded sources, with podcasts and study tools.",
+    "pricing": "freemium",
+    "tags": [
+      "ai notebook",
+      "source-grounded",
+      "audio overviews",
+      "research assistant",
+      "citations",
+      "flashcards",
+      "deep research",
+      "google ai"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://notebook.google",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gizmo",
+    "name": "Gizmo",
+    "logo": "/logos/gizmo.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI study companion that turns notes and flashcards into interactive learning.",
+    "pricing": "freemium",
+    "tags": [
+      "studying",
+      "flashcards",
+      "learning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://gizmo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gpt-for-google-forms",
+    "name": "GPT for Google Forms",
+    "logo": "/logos/gpt-for-google-forms.png",
+    "company": "Lincoln Apps",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI quiz builder add-on for Google Forms.",
+    "pricing": "freemium",
+    "tags": [
+      "google forms",
+      "quiz",
+      "education"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.lincolnapps.co/gpt-forms",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gpt-researcher",
+    "name": "GPT Researcher",
+    "logo": "/logos/gpt-researcher.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Open-source autonomous agent that conducts deep web research and writes cited reports.",
+    "pricing": "open-source",
+    "tags": [
+      "deep research",
+      "AI agent",
+      "open source",
+      "report writing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/assafelovic/gpt-researcher",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gptgo",
+    "name": "GPTGO",
+    "logo": "/logos/gptgo.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Free search engine that combines Google web results with ChatGPT answers on one page, no account needed.",
+    "pricing": "free",
+    "tags": [
+      "ai search engine",
+      "google search",
+      "chatgpt",
+      "free ai chat",
+      "no signup"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://gptgo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gptzero",
+    "name": "GPTZero",
+    "logo": "/logos/gptzero.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "AI text detector used by thousands of colleges.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-detector",
+      "education",
+      "authenticity"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension",
+      "api"
+    ],
+    "officialUrl": "https://gptzero.me",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "gradescope",
+    "name": "Gradescope",
+    "logo": "/logos/gradescope.png",
+    "company": "Turnitin",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-assisted grading platform that streamlines marking paper, digital, and code assignments.",
+    "pricing": "freemium",
+    "tags": [
+      "grading",
+      "ai grading",
+      "assessments",
+      "rubrics",
+      "autograder",
+      "exams",
+      "higher education",
+      "analytics"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.gradescope.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "hebbia",
+    "name": "Hebbia",
+    "logo": "/logos/hebbia.png",
+    "company": "Hebbia",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Agentic AI platform for deep document analysis in finance, legal, and professional services.",
+    "pricing": "paid",
+    "tags": [
+      "finance",
+      "legal",
+      "document-analysis",
+      "due-diligence",
+      "ai-agents",
+      "research",
+      "rag"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://hebbia.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "hellooo",
+    "name": "Hellooo",
+    "logo": "/logos/hellooo.png",
+    "company": "Hellooo",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI user-interview platform with multilingual transcription and emotion analysis.",
+    "pricing": "freemium",
+    "tags": [
+      "user interviews",
+      "transcription",
+      "UX research",
+      "sentiment analysis",
+      "product discovery"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.hellooo.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "heuristica",
+    "name": "Heuristica",
+    "logo": "/logos/heuristica.png",
+    "company": "Heuristica",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI concept maps for learning, research, and writing without prompt engineering.",
+    "pricing": "freemium",
+    "tags": [
+      "concept maps",
+      "learning",
+      "research",
+      "mind maps"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.heuristi.ca",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "honesty-meter",
+    "name": "Honesty Meter",
+    "logo": "/logos/honesty-meter.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Free open-source AI tool that scores media content for objectivity and flags manipulation techniques.",
+    "pricing": "open-source",
+    "tags": [
+      "media bias",
+      "objectivity score",
+      "manipulation detection",
+      "journalism",
+      "fact-checking",
+      "open source"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://honestymeter.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "iki-ai",
+    "name": "IKI AI",
+    "logo": "/logos/iki-ai.png",
+    "company": "IKI.AI",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "LLM-powered workspace that turns scattered research into a searchable second brain.",
+    "pricing": "freemium",
+    "tags": [
+      "knowledge-management",
+      "second-brain",
+      "research",
+      "LLM",
+      "productivity"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://iki.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "interview-ai-io",
+    "name": "InterviewAI",
+    "logo": "/logos/interview-ai-io.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "AI-powered interview preparation and practice.",
+    "pricing": "freemium",
+    "tags": [
+      "interview-prep",
+      "career",
+      "job-search"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://interviewai.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "inventaiq",
+    "name": "InventAIQ",
+    "logo": "/logos/inventaiq.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI invention validation and crowdfunding campaign planning tool",
+    "pricing": "freemium",
+    "tags": [
+      "inventions",
+      "patents",
+      "crowdfunding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://inventaiq.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "iris-ai",
+    "name": "Iris.ai",
+    "logo": "/logos/iris-ai.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "AI research assistant that maps scientific literature into knowledge graphs.",
+    "pricing": "paid",
+    "tags": [
+      "research",
+      "scientific-literature",
+      "knowledge-graphs",
+      "semantic-search",
+      "r-and-d"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://iris.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "jotlify",
+    "name": "Jotlify",
+    "logo": "/logos/jotlify.png",
+    "company": "Jotlify",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI reading assistant that turns dense research papers into plain-language stories.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "papers",
+      "summarization",
+      "academic"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://jotlify.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kaiden-ai",
+    "name": "Kaiden AI",
+    "logo": "/logos/kaiden-ai.png",
+    "company": "Kaiden",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI teaching assistant that automates grading, content creation and admin work for educators.",
+    "pricing": "paid",
+    "tags": [
+      "education",
+      "teaching assistant",
+      "grading",
+      "school management",
+      "teachers"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://kaiden.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kardsai",
+    "name": "KardsAI",
+    "logo": "/logos/kardsai.png",
+    "company": "KardsAI",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI flashcard maker with spaced repetition study.",
+    "pricing": "freemium",
+    "tags": [
+      "flashcards",
+      "study",
+      "spaced repetition"
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://kardsai.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "keepmind",
+    "name": "Keepmind",
+    "logo": "/logos/keepmind.png",
+    "company": "Keepmind",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI study tool that turns notes into flashcards, quizzes, and mind maps",
+    "pricing": "freemium",
+    "tags": [
+      "learning",
+      "flashcards",
+      "study"
+    ],
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "officialUrl": "https://keepmind.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "khanmigo",
+    "name": "Khanmigo",
+    "logo": "/logos/khanmigo.png",
+    "company": "Khan Academy",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Khan Academy's AI tutor that guides students with questions instead of answers, plus AI teaching tools.",
+    "pricing": "freemium",
+    "tags": [
+      "ai tutor",
+      "k-12",
+      "homework help",
+      "teacher assistant",
+      "math",
+      "writing coach",
+      "socratic"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.khanmigo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "knowinsideiq",
+    "name": "KnowInsideIQ",
+    "logo": "/logos/knowinsideiq.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI market-intelligence suite that scores ideas, decodes reviews, audits products and SEO, and drafts outreach.",
+    "pricing": "freemium",
+    "tags": [
+      "market-research",
+      "idea-validation",
+      "review-analysis",
+      "competitor-analysis",
+      "seo-audit",
+      "lead-generation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://knowinsideiq.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "knowt",
+    "name": "Knowt",
+    "logo": "/logos/knowt.png",
+    "company": "Knowt",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Free AI study app that turns notes, lectures and videos into flashcards, quizzes and practice tests.",
+    "pricing": "freemium",
+    "tags": [
+      "study app",
+      "flashcards",
+      "quiz generator",
+      "practice tests",
+      "spaced repetition",
+      "ai tutor",
+      "notes"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.knowt.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "knowtree",
+    "name": "KnowTree",
+    "logo": "/logos/knowtree.png",
+    "company": "KnowTree",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Branching AI chat that maps conversations into knowledge trees.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-chat",
+      "research",
+      "multi-model",
+      "mind-mapping"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://knowtree.chat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "kwizie",
+    "name": "Kwizie",
+    "logo": "/logos/kwizie.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Turns videos into interactive quizzes with certificates.",
+    "pricing": "paid",
+    "tags": [
+      "quiz",
+      "training",
+      "video-assessment",
+      "certificates"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://kwizie.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "learn-about",
+    "name": "Learn About",
+    "logo": "/logos/learn-about.png",
+    "company": "Google",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Google Labs' conversational learning companion that explains any topic interactively.",
+    "pricing": "free",
+    "tags": [
+      "learning",
+      "education",
+      "google labs",
+      "ai tutor"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://learning.google.com/experiments/learn-about",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "learniverse-ai",
+    "name": "Learniverse AI",
+    "logo": "/logos/learniverse-ai.png",
+    "company": "Learniverse",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI platform turning team knowledge into training courses.",
+    "pricing": "paid",
+    "tags": [
+      "course-creation",
+      "training",
+      "lms"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://learniverse.xyz",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "learnworlds",
+    "name": "LearnWorlds",
+    "logo": "/logos/learnworlds.png",
+    "company": "LearnWorlds",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-powered LMS for creating and selling branded online courses, academies, and memberships.",
+    "pricing": "paid",
+    "tags": [
+      "course-creator",
+      "lms",
+      "online-academy",
+      "interactive-video",
+      "scorm",
+      "memberships",
+      "white-label",
+      "coaching"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.learnworlds.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "liminary",
+    "name": "Liminary",
+    "logo": "/logos/liminary.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research workspace for consultants and knowledge workers.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "consulting",
+      "knowledge-management",
+      "ai-assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://liminary.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "liner",
+    "name": "Liner",
+    "logo": "/logos/liner.png",
+    "company": "Liner",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research search engine with cited answers and a copilot for web, PDF and YouTube.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "academic-search",
+      "copilot",
+      "citations"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://liner.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "linfo-ai",
+    "name": "Linfo.ai",
+    "logo": "/logos/linfo-ai.png",
+    "company": "Linfo",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research assistant that answers questions with cited, verifiable sources.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "learning",
+      "citations",
+      "education"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://linfo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "litgrades",
+    "name": "LitGrades",
+    "logo": "/logos/litgrades.png",
+    "company": "LitGrades",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI study tools that turn course material into flashcards and learning aids.",
+    "pricing": "freemium",
+    "tags": [
+      "study",
+      "flashcards",
+      "students",
+      "learning",
+      "education"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://litgrades.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "lium",
+    "name": "Lium",
+    "logo": "/logos/lium.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research assistant that summarizes sources and organizes findings.",
+    "pricing": "paid",
+    "tags": [
+      "research",
+      "ai-assistant",
+      "knowledge"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://lium.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "llm-list",
+    "name": "LLM List",
+    "logo": "/logos/llm-list.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Directory of large language models for comparison and research.",
+    "pricing": "freemium",
+    "tags": [
+      "llm",
+      "directory",
+      "research"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://llmmodels.org",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "looppanel",
+    "name": "Looppanel",
+    "logo": "/logos/looppanel.png",
+    "company": "Looppanel",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI UX research platform that analyzes user interviews and builds a searchable research repository",
+    "pricing": "freemium",
+    "tags": [
+      "UX research",
+      "user interviews",
+      "transcription",
+      "research repository",
+      "product insights"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.looppanel.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "magicschool",
+    "name": "MagicSchool",
+    "logo": "/logos/magicschool.png",
+    "company": "Magic School, Inc",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "The most-used AI platform for K-12 teachers: 80+ tools for planning, grading and feedback.",
+    "pricing": "freemium",
+    "tags": [
+      "teacher assistant",
+      "lesson plans",
+      "rubrics",
+      "ieps",
+      "quizzes",
+      "student feedback",
+      "k-12",
+      "raina"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://www.magicschool.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mathgpt",
+    "name": "MathGPT",
+    "logo": "/logos/mathgpt.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI math tutor that solves problems with step-by-step explanations.",
+    "pricing": "freemium",
+    "tags": [
+      "math",
+      "tutor",
+      "homework help",
+      "education"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://math-gpt.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mathos-ai",
+    "name": "Mathos AI",
+    "logo": "/logos/mathos-ai.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI math solver and tutor with step-by-step solutions.",
+    "pricing": "freemium",
+    "tags": [
+      "math",
+      "tutor",
+      "education"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://mathos.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "memenome",
+    "name": "Memenome",
+    "logo": "/logos/memenome.png",
+    "company": "Memenome Inc",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Turns study notes and PDFs into addictive short-form learning videos.",
+    "pricing": "freemium",
+    "tags": [
+      "study-tool",
+      "video-learning",
+      "education",
+      "student"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.memenome.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mexty-ai",
+    "name": "Mexty AI",
+    "logo": "/logos/mexty-ai.png",
+    "company": "Mexty",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-native learning platform that builds interactive courses and runs a built-in LMS.",
+    "pricing": "paid",
+    "tags": [
+      "elearning",
+      "course creation",
+      "lms",
+      "edtech"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mexty.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mindgrasp",
+    "name": "Mindgrasp",
+    "logo": "/logos/mindgrasp.png",
+    "company": "Mindgrasp",
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "AI study assistant that summarizes lectures, videos, and documents.",
+    "pricing": "paid",
+    "tags": [
+      "study-assistant",
+      "summarization",
+      "flashcards",
+      "students"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mindgrasp.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mindsmith",
+    "name": "Mindsmith",
+    "logo": "/logos/mindsmith.png",
+    "company": "Mindsmith",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-native eLearning authoring tool that turns source material into interactive lessons.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-course-generator",
+      "elearning-authoring",
+      "interactive-learning",
+      "scorm",
+      "instructional-design",
+      "corporate-training",
+      "branching-scenarios",
+      "lms"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.mindsmith.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mini-course-generator",
+    "name": "Mini Course Generator",
+    "logo": "/logos/mini-course-generator.png",
+    "company": "Mini Course Generator",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "Simple AI course creator for building and monetizing bite-sized interactive mini-courses fast.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-course-generator",
+      "microlearning",
+      "mini-courses",
+      "lead-magnets",
+      "customer-education",
+      "scorm",
+      "white-label",
+      "corporate-training"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.minicoursegenerator.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mirothinker",
+    "name": "MiroThinker",
+    "logo": "/logos/mirothinker.png",
+    "company": "MiroMind AI",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Open-source deep research agent with top benchmark scores.",
+    "pricing": "open-source",
+    "tags": [
+      "deep-research",
+      "ai-agents",
+      "open-source",
+      "benchmarks"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://miromind.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mnemosphere",
+    "name": "Mnemosphere",
+    "logo": "/logos/mnemosphere.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Multi-model AI research workspace with parallel prompts and mindmaps.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "multi-model",
+      "mindmap",
+      "deep-research",
+      "comparison"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mnemosphere.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mylens",
+    "name": "MyLens",
+    "logo": "/logos/mylens.png",
+    "company": "MyLens.ai",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Turns text, files, and videos into interactive mind maps, timelines, and charts.",
+    "pricing": "freemium",
+    "tags": [
+      "mind maps",
+      "timelines",
+      "visualisation",
+      "study"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://mylens.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mynewsly",
+    "name": "MyNewsly",
+    "logo": "/logos/mynewsly.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI agents that monitor news and LinkedIn for your industry and turn it into structured market intelligence and newsletter drafts.",
+    "pricing": "freemium",
+    "tags": [
+      "news",
+      "market-intelligence",
+      "research",
+      "monitoring",
+      "newsletter",
+      "social-media",
+      "competitor-analysis",
+      "ai-agents"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mynewsly.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "myreader-ai",
+    "name": "Myreader AI",
+    "logo": "/logos/myreader-ai.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Ask questions about books and documents in a chat interface with answers grounded in the text.",
+    "pricing": "freemium",
+    "tags": [
+      "document qa",
+      "pdf chat",
+      "book summaries",
+      "research",
+      "study assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://myreader.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "mystylus-ai",
+    "name": "MyStylus.ai",
+    "logo": "/logos/mystylus-ai.png",
+    "company": "myStylus",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI academic writing assistant for essays, research, and citations.",
+    "pricing": "freemium",
+    "tags": [
+      "essay writing",
+      "academic writing",
+      "plagiarism checker",
+      "citation tool"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://mystylus.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nbot",
+    "name": "NBot",
+    "logo": "/logos/nbot.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI trackers that monitor the web 24/7 for topics you care about, with summaries and feed chat.",
+    "pricing": "freemium",
+    "tags": [
+      "research assistant",
+      "monitoring",
+      "news tracking",
+      "curation"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://nbot.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "newsbang",
+    "name": "NewsBang",
+    "logo": "/logos/newsbang.png",
+    "company": "NewsBang",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI news app with summaries, interactive podcasts, and ask-the-news Q&A.",
+    "pricing": "free",
+    "tags": [
+      "news aggregator",
+      "ai summaries",
+      "podcasts",
+      "ask ai"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.newsbang.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "next-three-books",
+    "name": "Next Three Books",
+    "logo": "/logos/next-three-books.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Free AI tool that recommends exactly three personalized books based on your reading taste and goals.",
+    "pricing": "free",
+    "tags": [
+      "book recommendations",
+      "reading",
+      "personalized AI",
+      "book discovery",
+      "GPT"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://nextthreebooks.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "nextnet",
+    "name": "NExTNet",
+    "logo": "/logos/nextnet.png",
+    "company": "NExTNet Inc",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research platform for life sciences that finds hidden connections across papers, drugs, genes, and clinical trials.",
+    "pricing": "freemium",
+    "tags": [
+      "life-sciences",
+      "research",
+      "knowledge-graph",
+      "semantic-search",
+      "biotech",
+      "ai-copilot"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://nextnetinc.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "noah-ai",
+    "name": "Noah AI",
+    "logo": "/logos/noah-ai.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI research agent for biopharma and medical discovery.",
+    "pricing": "freemium",
+    "tags": [
+      "biopharma",
+      "medical-research",
+      "ai-agent"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://noahai.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "notebookllama",
+    "name": "NotebookLlama",
+    "logo": "/logos/notebookllama.png",
+    "company": "Meta",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Meta's open-source recipe for turning PDFs into podcast-style audio conversations.",
+    "pricing": "open-source",
+    "tags": [
+      "open source",
+      "pdf to audio",
+      "podcasts",
+      "llama"
+    ],
+    "platforms": [],
+    "officialUrl": "https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "now-i-get-it",
+    "name": "Now I Get It!",
+    "logo": "/logos/now-i-get-it.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Turn scientific papers into interactive web pages for any audience.",
+    "pricing": "paid",
+    "tags": [
+      "research",
+      "scientific-papers",
+      "explainers",
+      "education",
+      "pdf",
+      "interactive",
+      "students",
+      "ai-writing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://nowigetit.us",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "oboe",
+    "name": "Oboe",
+    "logo": "/logos/oboe.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI personalized learning platform that adapts to your pace.",
+    "pricing": "freemium",
+    "tags": [
+      "personalized learning",
+      "AI tutor",
+      "study"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://oboe.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "omnisearch",
+    "name": "Omnisearch",
+    "logo": "/logos/omnisearch.png",
+    "company": "Omnisearch",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI-powered site search tool that transcribes audio and video for deep content search.",
+    "pricing": "paid",
+    "tags": [
+      "site search",
+      "ai search",
+      "video search",
+      "api"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://omnisearch.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "one-course",
+    "name": "One Course",
+    "logo": "/logos/one-course.png",
+    "company": "One Course",
+    "category": "education-learning",
+    "subcategory": "education",
+    "shortDescription": "AI-powered LMS and course builder for team training.",
+    "pricing": "freemium",
+    "tags": [
+      "LMS",
+      "course builder",
+      "corporate training",
+      "AI courses",
+      "e-learning"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://onecourse.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "open-paper",
+    "name": "Open Paper",
+    "logo": "/logos/open-paper.png",
+    "company": "Open Paper",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "AI workbench for reading research papers with citation-grounded Q&A.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "papers",
+      "reading assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://openpaper.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openmaic",
+    "name": "OpenMAIC",
+    "logo": "/logos/openmaic.png",
+    "company": "THU-MAIC (Tsinghua University)",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Open-source multi-agent AI classroom that turns docs into interactive lessons.",
+    "pricing": "open-source",
+    "tags": [
+      "education",
+      "multi-agent",
+      "open-source",
+      "e-learning"
+    ],
+    "platforms": [
+      "web",
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://openmaic.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "openread",
+    "name": "OpenRead",
+    "logo": "/logos/openread.png",
+    "company": null,
+    "category": "education-learning",
+    "subcategory": "education-learning",
+    "shortDescription": "AI research platform searching 300M papers.",
+    "pricing": "freemium",
+    "tags": [
+      "research",
+      "academic papers",
+      "literature review",
+      "ai summaries"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://openread.academy",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "orbbit",
+    "name": "Orbbit",
+    "logo": "/logos/orbbit.png",
+    "company": "Orbbit",
+    "category": "education-learning",
+    "subcategory": "research-education",
+    "shortDescription": "Competitor monitoring with pricing, product, and hiring signals",
+    "pricing": "free",
+    "tags": [
+      "competitor-monitoring",
+      "market-research",
+      "signals"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.orbbit.io",
+    "affiliateUrl": null
+  }
+]

@@ -1,0 +1,2302 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json
+import type { Tool } from '../types'
+
+export const toolsChunk14: Tool[] = [
+  {
+    "slug": "openrouter",
+    "name": "OpenRouter",
+    "logo": "/logos/openrouter.png",
+    "company": "OpenRouter",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "One API key and bill for 500+ AI models from 80+ providers, with smart routing and fallbacks.",
+    "pricing": "freemium",
+    "tags": [
+      "model-gateway",
+      "unified-api",
+      "model-routing",
+      "llm",
+      "fallback",
+      "multi-provider",
+      "api",
+      "aggregation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://openrouter.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ops-center",
+    "name": "Ops Center",
+    "logo": "/logos/ops-center.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Self-hosted operations platform for Linux boxes and containers, with AI-assisted ops.",
+    "pricing": "open-source",
+    "tags": [
+      "devops",
+      "server-management",
+      "docker",
+      "monitoring",
+      "self-hosted",
+      "linux"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/r0lfi/ops-center",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opscanvas",
+    "name": "OpsCanvas",
+    "logo": "/logos/opscanvas.png",
+    "company": "OpsCanvas",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI cloud agent that maps your cloud into a live graph and routes human-approved fixes.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-devops",
+      "cloud-operations",
+      "ai-agent",
+      "cloud-cost",
+      "security",
+      "mcp",
+      "remediation",
+      "multi-cloud"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.opscanvas.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opslevel",
+    "name": "OpsLevel",
+    "logo": "/logos/opslevel.png",
+    "company": "OpsLevel",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Internal developer portal with AI-built software catalog, maturity scorecards, and self-service workflows for platform teams.",
+    "pricing": "paid",
+    "tags": [
+      "internal-developer-portal",
+      "service-catalog",
+      "scorecards",
+      "platform-engineering",
+      "self-service",
+      "rbac",
+      "integrations",
+      "ai-agents"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.opslevel.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "opsworker",
+    "name": "OpsWorker",
+    "logo": "/logos/opsworker.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI SRE agent for automated Kubernetes incident root-cause analysis",
+    "pricing": "freemium",
+    "tags": [
+      "sre",
+      "kubernetes",
+      "incident-response",
+      "root-cause-analysis"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://opsworker.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "oqoqo",
+    "name": "Oqoqo",
+    "logo": "/logos/oqoqo.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Build custom evals and benchmarks to measure AI agents on what users actually experience.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-evaluation",
+      "benchmarks",
+      "agent-testing",
+      "model-comparison",
+      "evals"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://oqoqo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "orcarouter",
+    "name": "OrcaRouter",
+    "logo": "/logos/orcarouter.png",
+    "company": "OrcaRouter",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Unified API for routing across 150+ AI models with failover and agent security.",
+    "pricing": "freemium",
+    "tags": [
+      "model-routing",
+      "api-gateway",
+      "llm-infrastructure",
+      "failover",
+      "open-source"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://www.orcarouter.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "orchids",
+    "name": "Orchids",
+    "logo": "/logos/orchids.png",
+    "company": "Orchids",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "Design-first AI website and app builder from text prompts.",
+    "pricing": "freemium",
+    "tags": [
+      "website-builder",
+      "no-code",
+      "ai-design",
+      "landing-pages"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://orchids.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "otto-engineer",
+    "name": "Otto Engineer",
+    "logo": "/logos/otto-engineer.png",
+    "company": "Otto",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI coding agent that writes and runs code entirely in your browser.",
+    "pricing": "free",
+    "tags": [
+      "coding",
+      "agent",
+      "browser",
+      "learning"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://otto.engineer",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "oumi",
+    "name": "Oumi",
+    "logo": "/logos/oumi.png",
+    "company": "Oumi",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Enterprise platform to build, own, fine-tune and deploy specialized models.",
+    "pricing": "paid",
+    "tags": [
+      "fine-tuning",
+      "llm-training",
+      "model-evaluation",
+      "open-source",
+      "enterprise-ai",
+      "deployment"
+    ],
+    "platforms": [
+      "web",
+      "api",
+      "linux"
+    ],
+    "officialUrl": "https://oumi.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pageai",
+    "name": "PageAI",
+    "logo": "/logos/pageai.png",
+    "company": "Page AI",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "Turns text prompts into SEO-optimized websites written in real code.",
+    "pricing": "paid",
+    "tags": [
+      "website builder",
+      "generative code",
+      "seo"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pageai.pro",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pagegpt",
+    "name": "PageGPT",
+    "logo": "/logos/pagegpt.png",
+    "company": "PageGPT",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI landing page generator that builds conversion-ready pages from a prompt.",
+    "pricing": "paid",
+    "tags": [
+      "landing pages",
+      "copywriting",
+      "marketing",
+      "generator"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pagegpt.pro",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pagelens-ai",
+    "name": "PageLens AI",
+    "logo": "/logos/pagelens-ai.png",
+    "company": "PageLens AI",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "AI-powered website audits across 10 categories, from $1 per scan",
+    "pricing": "paid",
+    "tags": [
+      "website-audit",
+      "seo",
+      "accessibility",
+      "performance",
+      "qa",
+      "testing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.pagelensai.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pagerduty-sre-agent",
+    "name": "PagerDuty SRE Agent",
+    "logo": "/logos/pagerduty-sre-agent.png",
+    "company": "PagerDuty",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "PagerDuty's virtual responder agent for the full incident lifecycle.",
+    "pricing": "paid",
+    "tags": [
+      "pagerduty",
+      "ai-sre",
+      "incident-response",
+      "agentic"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pagerduty.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "panto-ai",
+    "name": "Panto AI",
+    "logo": "/logos/panto-ai.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI code-review agent with 30,000+ security checks per pull request.",
+    "pricing": "freemium",
+    "tags": [
+      "code review",
+      "ai code review",
+      "security",
+      "devops",
+      "pull requests"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://getpanto.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "paragon",
+    "name": "Paragon",
+    "logo": "/logos/paragon.png",
+    "company": "Polarity Labs",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Polarity Labs' autonomous AI QA engineer for code review and E2E testing.",
+    "pricing": null,
+    "tags": [
+      "autonomous-qa",
+      "code-review",
+      "e2e-testing",
+      "agentic"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://polarity.cc/paragon",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "parea-ai",
+    "name": "Parea AI",
+    "logo": "/logos/parea-ai.png",
+    "company": "Parea",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Developer platform for testing, evaluating, and monitoring LLM apps.",
+    "pricing": "freemium",
+    "tags": [
+      "llm-evaluation",
+      "prompt-engineering",
+      "observability"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.parea.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pathway",
+    "name": "Pathway",
+    "logo": "/logos/pathway.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source Python framework for streaming data and LLM apps.",
+    "pricing": "open-source",
+    "tags": [
+      "open source",
+      "streaming",
+      "rag"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pathway.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pcloudy",
+    "name": "pCloudy",
+    "logo": "/logos/pcloudy.png",
+    "company": "pCloudy",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Affordable real-device and browser testing cloud with AI agents for automation, visual, and accessibility testing.",
+    "pricing": "freemium",
+    "tags": [
+      "real devices",
+      "device cloud",
+      "mobile testing",
+      "cross-browser testing",
+      "ai testing agents",
+      "appium",
+      "parallel testing",
+      "on-premise"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://www.pcloudy.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pearai",
+    "name": "PearAI",
+    "logo": "/logos/pearai.png",
+    "company": "PearAI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source (open core) AI code editor with local model support.",
+    "pricing": "freemium",
+    "tags": [
+      "code-editor",
+      "open-source",
+      "local-models",
+      "byok",
+      "vscode-fork"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://pear.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pencil",
+    "name": "Pencil",
+    "logo": "/logos/pencil.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Free AI-native design canvas that turns visual designs into production-ready code via MCP.",
+    "pricing": "free",
+    "tags": [
+      "design-to-code",
+      "MCP",
+      "vibe coding",
+      "UI design",
+      "Claude Code"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://pencil.dev",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "perfecto",
+    "name": "Perfecto (Perforce Perfecto)",
+    "logo": "/logos/perfecto.png",
+    "company": "Perforce",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Enterprise mobile and web testing cloud with agentic AI for scriptless testing and real-device coverage.",
+    "pricing": "paid",
+    "tags": [
+      "mobile testing",
+      "real devices",
+      "scriptless testing",
+      "agentic ai",
+      "web testing",
+      "test automation",
+      "enterprise testing",
+      "appium"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.perfecto.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pheromind",
+    "name": "Pheromind",
+    "logo": "/logos/pheromind.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source swarm-intelligence framework for orchestrating AI coding agents.",
+    "pricing": "open-source",
+    "tags": [
+      "open-source",
+      "ai-agents",
+      "swarm",
+      "orchestration",
+      "github"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://github.com/ChrisRoyse/Pheromind",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "phoenix-new",
+    "name": "Phoenix.new",
+    "logo": "/logos/phoenix-new.png",
+    "company": "Fly.io",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Prompt-driven AI web app builder by Fly.io for the Phoenix framework.",
+    "pricing": "paid",
+    "tags": [
+      "ai",
+      "app-builder",
+      "phoenix",
+      "elixir",
+      "fly-io",
+      "no-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://phoenix.new",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pico",
+    "name": "Pico",
+    "logo": "/logos/pico.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "coding-development",
+    "shortDescription": "GPT-4 text-to-web-app builder with instant deploy.",
+    "pricing": "freemium",
+    "tags": [
+      "text to app",
+      "no-code",
+      "web apps",
+      "prototyping"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://picoapps.xyz",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pine-script-wizard",
+    "name": "Pine Script Wizard",
+    "logo": "/logos/pine-script-wizard.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "coding-development",
+    "shortDescription": "Generate TradingView Pine Script indicators with AI",
+    "pricing": "freemium",
+    "tags": [
+      "pine script",
+      "tradingview",
+      "trading"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.pinescriptwizard.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pineapple-builder",
+    "name": "Pineapple Builder",
+    "logo": "/logos/pineapple-builder.png",
+    "company": "Pineapple Builder",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI website builder that generates, maintains, and grows a business website from plain-English prompts.",
+    "pricing": "freemium",
+    "tags": [
+      "ai website builder",
+      "small business",
+      "no-code",
+      "seo",
+      "landing pages"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://pineapplebuilder.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pipecat",
+    "name": "Pipecat",
+    "logo": "/logos/pipecat.png",
+    "company": "Daily",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source framework for building realtime voice and multimodal AI agents.",
+    "pricing": "open-source",
+    "tags": [
+      "voice-agents",
+      "framework",
+      "realtime",
+      "conversational-ai",
+      "python"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://github.com/pipecat-ai/pipecat",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "plandex",
+    "name": "Plandex",
+    "logo": "/logos/plandex.png",
+    "company": "Plandex",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Terminal-first coding agent that plans complex changes before touching your files.",
+    "pricing": "open-source",
+    "tags": [
+      "coding-agent",
+      "terminal",
+      "planning",
+      "go",
+      "refactoring"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/plandex-ai/plandex",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ploogins",
+    "name": "Ploogins",
+    "logo": "/logos/ploogins.png",
+    "company": "Sirvelia Labs, SL",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI-powered search engine that recommends the right WordPress plugins from plain-language descriptions.",
+    "pricing": "free",
+    "tags": [
+      "wordpress",
+      "plugins",
+      "developer tools",
+      "ai search",
+      "web development"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://ploogins.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ploy",
+    "name": "Ploy",
+    "logo": "/logos/ploy.png",
+    "company": "Ploy",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI growth platform that builds, optimizes and operates your website automatically.",
+    "pricing": "freemium",
+    "tags": [
+      "website-builder",
+      "ai-agents",
+      "growth",
+      "seo",
+      "cro",
+      "marketing-automation"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://ploy.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pollinations",
+    "name": "Pollinations",
+    "logo": "/logos/pollinations.png",
+    "company": "Pollinations",
+    "category": "coding-development",
+    "subcategory": "coding-development",
+    "shortDescription": "Open-source generative AI API platform from Berlin.",
+    "pricing": "open-source",
+    "tags": [
+      "api",
+      "open-source",
+      "text-generation",
+      "image-generation",
+      "developers"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://pollinations.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "polymet",
+    "name": "Polymet",
+    "logo": "/logos/polymet.png",
+    "company": "Polymet",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI app builder that turns prompts into working React apps with Figma import.",
+    "pricing": "freemium",
+    "tags": [
+      "ai app builder",
+      "figma to code",
+      "react generator",
+      "vibe coding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.polymet.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "poolside",
+    "name": "Poolside",
+    "logo": "/logos/poolside.png",
+    "company": "Poolside",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Frontier AI lab building foundation models and agentic systems purpose-built for enterprise software engineering.",
+    "pricing": null,
+    "tags": [
+      "foundation models",
+      "ai coding agents",
+      "enterprise ai",
+      "open weights",
+      "multi-agent"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://poolside.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "port",
+    "name": "Port",
+    "logo": "/logos/port.png",
+    "company": "Port",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "No-code internal developer portal for software catalogs, scorecards, and self-service actions, now extending to agentic SDLC.",
+    "pricing": "freemium",
+    "tags": [
+      "internal-developer-portal",
+      "software-catalog",
+      "scorecards",
+      "self-service",
+      "no-code",
+      "agentic-sdlc",
+      "governance",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://getport.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "portaly",
+    "name": "Portaly",
+    "logo": "/logos/portaly.png",
+    "company": "Portaly",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "Free one-page link-in-bio website builder.",
+    "pricing": "free",
+    "tags": [
+      "link-in-bio",
+      "landing-page",
+      "website-builder",
+      "creator-tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://portaly.cc",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "porter",
+    "name": "Porter",
+    "logo": "/logos/porter.png",
+    "company": "Porter",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Kubernetes-powered PaaS that deploys your apps into your own AWS, GCP or Azure account with Heroku-like simplicity.",
+    "pricing": "freemium",
+    "tags": [
+      "deployment",
+      "paas",
+      "kubernetes",
+      "byoc",
+      "aws",
+      "gcp",
+      "azure",
+      "gpu"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.porter.run",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "portia-ai",
+    "name": "Portia AI",
+    "logo": "/logos/portia-ai.png",
+    "company": "Portia AI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source SDK for building production-grade AI agents with plans, auth, and human-in-the-loop control.",
+    "pricing": "open-source",
+    "tags": [
+      "agent-framework",
+      "open-source",
+      "human-in-the-loop",
+      "production-agents",
+      "sdk",
+      "mcp"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://portialabs.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "potpie-ai",
+    "name": "Potpie AI",
+    "logo": "/logos/potpie-ai.png",
+    "company": "Potpie AI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source platform that builds AI coding agents specialized in your own codebase.",
+    "pricing": "open-source",
+    "tags": [
+      "AI coding agents",
+      "open source",
+      "code analysis",
+      "debugging",
+      "context graph",
+      "SDLC"
+    ],
+    "platforms": [
+      "web",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "officialUrl": "https://potpie.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pr-agent",
+    "name": "PR-Agent",
+    "logo": "/logos/pr-agent.png",
+    "company": "The-PR-Agent",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source AI that reviews your pull requests like a tireless senior engineer.",
+    "pricing": "open-source",
+    "tags": [
+      "code-review",
+      "pull-requests",
+      "github-actions",
+      "docker",
+      "devtools"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://github.com/The-PR-Agent/pr-agent",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "praisonai",
+    "name": "PraisonAI",
+    "logo": "/logos/praisonai.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source multi-agent AI framework with YAML no-code workflows.",
+    "pricing": "open-source",
+    "tags": [
+      "ai-agents",
+      "open-source",
+      "framework",
+      "automation"
+    ],
+    "platforms": [],
+    "officialUrl": "https://praison.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "presspilot",
+    "name": "PressPilot",
+    "logo": "/logos/presspilot.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI generator of WordPress full-site-editing themes; one-time purchase.",
+    "pricing": "paid",
+    "tags": [
+      "wordpress",
+      "themes",
+      "website-builder",
+      "fse"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://presspilotapp.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "prime-agent",
+    "name": "Prime Agent",
+    "logo": "/logos/prime-agent.png",
+    "company": "Prime Intellect",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "pricing": "open-source",
+    "tags": [
+      "coding-agent",
+      "rlm",
+      "autonomous",
+      "rust",
+      "self-improving"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "prodperfect",
+    "name": "ProdPerfect",
+    "logo": "/logos/prodperfect.png",
+    "company": "ProdPerfect",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Managed AI testing service: a dedicated team writes, runs, and maintains your end-to-end web test suite for you.",
+    "pricing": "paid",
+    "tags": [
+      "managed testing",
+      "ai test generation",
+      "web testing",
+      "regression testing",
+      "qa service",
+      "model-based testing",
+      "generative ai",
+      "end-to-end testing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://prodperfect.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "promptitude-io",
+    "name": "Promptitude.io",
+    "logo": "/logos/promptitude-io.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "coding-development",
+    "shortDescription": "Prompt management with visual builder and RAG.",
+    "pricing": "freemium",
+    "tags": [
+      "prompt engineering",
+      "llmops",
+      "rag",
+      "prompt management"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://promptitude.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "promptlayer",
+    "name": "PromptLayer",
+    "logo": "/logos/promptlayer.png",
+    "company": "PromptLayer",
+    "category": "coding-development",
+    "subcategory": "coding-development",
+    "shortDescription": "Prompt management, versioning, and observability for LLM apps.",
+    "pricing": "freemium",
+    "tags": [
+      "prompt-engineering",
+      "llmops",
+      "observability",
+      "developers"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.promptlayer.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "promptmetheus",
+    "name": "Promptmetheus",
+    "logo": "/logos/promptmetheus.png",
+    "company": "Promptmetheus",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Prompt engineering IDE for building, testing, and managing AI prompts as reusable components",
+    "pricing": "freemium",
+    "tags": [
+      "prompt engineering",
+      "LLM tools",
+      "prompt IDE",
+      "developer tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://promptmetheus.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "promptunit",
+    "name": "PromptUnit",
+    "logo": "/logos/promptunit.png",
+    "company": "PromptUnit",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Drop-in OpenAI SDK that routes LLM calls to cheaper models automatically",
+    "pricing": "freemium",
+    "tags": [
+      "llm",
+      "openai",
+      "cost-optimization",
+      "sdk",
+      "api"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://promptunit.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "propel",
+    "name": "Propel",
+    "logo": "/logos/propel.png",
+    "company": "Propel Platform Inc.",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI code-review assistant that acts as a virtual tech lead for your team.",
+    "pricing": "paid",
+    "tags": [
+      "code-review",
+      "pull-requests",
+      "developer-tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://propelcode.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "props-ai",
+    "name": "Props AI",
+    "logo": "/logos/props-ai.png",
+    "company": "Props AI",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI API gateway that tracks OpenAI token usage and routes it into analytics pipelines.",
+    "pricing": "freemium",
+    "tags": [
+      "OpenAI",
+      "API gateway",
+      "token usage",
+      "monitoring",
+      "devops"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://getprops.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "prototyper",
+    "name": "Prototyper",
+    "logo": "/logos/prototyper.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Turns a text description into a clickable app prototype in minutes.",
+    "pricing": "freemium",
+    "tags": [
+      "prototyping",
+      "app-builder",
+      "no-code",
+      "mvp"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://getaprototype.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pullflow",
+    "name": "Pullflow",
+    "logo": "/logos/pullflow.png",
+    "company": "PullFlow",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI-powered code review collaboration across GitHub, Slack and VS Code.",
+    "pricing": "freemium",
+    "tags": [
+      "code review",
+      "pull requests",
+      "Slack",
+      "GitHub",
+      "developer tools"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://pullflow.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "purecode-ai",
+    "name": "PureCode.ai",
+    "logo": "/logos/purecode-ai.png",
+    "company": "PureCode AI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI generator for production-ready UI component code with VS Code extension.",
+    "pricing": "paid",
+    "tags": [
+      "code generation",
+      "ui components",
+      "developer tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://purecode.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "pydantic-ai",
+    "name": "Pydantic AI",
+    "logo": "/logos/pydantic-ai.png",
+    "company": "Pydantic",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Type-safe Python agent framework from the team behind Pydantic.",
+    "pricing": "open-source",
+    "tags": [
+      "agent-framework",
+      "python",
+      "type-safety",
+      "pydantic",
+      "structured-output"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://github.com/pydantic/pydantic-ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qa-wolf",
+    "name": "QA Wolf",
+    "logo": "/logos/qa-wolf.png",
+    "company": "QA Wolf",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "AI testing platform plus managed QA service that writes and maintains your tests in open-source Playwright and Appium.",
+    "pricing": "freemium",
+    "tags": [
+      "qa service",
+      "test automation",
+      "ai testing",
+      "playwright",
+      "end-to-end testing",
+      "parallel testing",
+      "managed qa",
+      "no vendor lock-in"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "windows",
+      "macos",
+      "api"
+    ],
+    "officialUrl": "https://www.qawolf.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qa-tech",
+    "name": "QA.tech",
+    "logo": "/logos/qa-tech.png",
+    "company": "QA.tech",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Agentic AI platform that runs end-to-end software testing from goals instead of scripts.",
+    "pricing": "paid",
+    "tags": [
+      "QA",
+      "software testing",
+      "agentic AI",
+      "test automation",
+      "E2E testing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://qa.tech",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qoder",
+    "name": "Qoder",
+    "logo": "/logos/qoder.png",
+    "company": "Alibaba",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Agentic coding platform focused on deeper reasoning for complex codebases.",
+    "pricing": "freemium",
+    "tags": [
+      "coding-agent",
+      "ide",
+      "codebase-context",
+      "quest-mode",
+      "alibaba",
+      "autonomous"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://qoder.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qodex-ai",
+    "name": "Qodex.ai",
+    "logo": "/logos/qodex-ai.png",
+    "company": "Qodex.ai",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "AI-powered API testing automation with AI agent code reviews.",
+    "pricing": "freemium",
+    "tags": [
+      "api testing",
+      "test automation",
+      "code review",
+      "ai agent",
+      "qa"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://qodex.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qodo",
+    "name": "Qodo",
+    "logo": "/logos/qodo.png",
+    "company": "Qodo",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "AI code quality platform (formerly Codium) that generates tests, finds edge cases, and reviews PRs with multi-agent precision.",
+    "pricing": "freemium",
+    "tags": [
+      "ai testing",
+      "test generation",
+      "code review",
+      "unit testing",
+      "coverage",
+      "pr review",
+      "devtools",
+      "ci-cd"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "api"
+    ],
+    "officialUrl": "https://www.qodo.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qovery",
+    "name": "Qovery",
+    "logo": "/logos/qovery.png",
+    "company": "Qovery",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Agentic infrastructure platform that deploys your apps onto Kubernetes, AWS, GCP, Azure or Scaleway — all inside your own cloud account.",
+    "pricing": "freemium",
+    "tags": [
+      "deployment",
+      "devops",
+      "kubernetes",
+      "byoc",
+      "preview-environments",
+      "ci-cd",
+      "ai-copilot",
+      "infrastructure"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.qovery.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "quartzite-ai",
+    "name": "Quartzite AI",
+    "logo": "/logos/quartzite-ai.png",
+    "company": "Quartzite",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI-powered code editor and IDE.",
+    "pricing": "freemium",
+    "tags": [
+      "code-editor",
+      "ide",
+      "developer"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://quartzite.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "quash",
+    "name": "Quash",
+    "logo": "/logos/quash.png",
+    "company": "Quash",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "AI-driven mobile app testing platform with natural-language test generation and real devices.",
+    "pricing": "paid",
+    "tags": [
+      "mobile testing",
+      "qa automation",
+      "ai testing",
+      "test generation",
+      "ci/cd"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://quashbugs.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "quick-creator",
+    "name": "Quick Creator",
+    "logo": "/logos/quick-creator.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI builder for SEO blogs and landing pages.",
+    "pricing": "paid",
+    "tags": [
+      "seo",
+      "blogging",
+      "landing pages"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://quickcreator.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "qwen-code",
+    "name": "Qwen Code",
+    "logo": "/logos/qwen-code.png",
+    "company": "Alibaba (Qwen)",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Alibaba's official open-source terminal agent for Qwen coder models.",
+    "pricing": "open-source",
+    "tags": [
+      "coding-agent",
+      "terminal",
+      "qwen",
+      "alibaba",
+      "cli"
+    ],
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "officialUrl": "https://github.com/QwenLM/qwen-code",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ragflow",
+    "name": "RAGFlow",
+    "logo": "/logos/ragflow.png",
+    "company": "InfiniFlow",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Open-source RAG engine that grounds LLMs in your documents.",
+    "pricing": "open-source",
+    "tags": [
+      "rag",
+      "llm",
+      "open-source",
+      "agents"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
+    "officialUrl": "https://ragflow.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "railway",
+    "name": "Railway",
+    "logo": "/logos/railway.png",
+    "company": "Railway",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Usage-based PaaS where you connect a GitHub repo and deploy code, databases and cron jobs without touching servers.",
+    "pricing": "freemium",
+    "tags": [
+      "deployment",
+      "paas",
+      "git-push",
+      "databases",
+      "cron",
+      "usage-based",
+      "devops",
+      "hosting"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://railway.app",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rainforest-qa",
+    "name": "Rainforest QA",
+    "logo": "/logos/rainforest-qa.png",
+    "company": "Rainforest",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "No-code, AI-assisted QA platform that drafts, heals, and runs regression tests across real browsers.",
+    "pricing": "paid",
+    "tags": [
+      "no-code testing",
+      "ai testing",
+      "regression testing",
+      "visual regression",
+      "parallel testing",
+      "ci-cd",
+      "test automation",
+      "saas qa"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.rainforestqa.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ranorex",
+    "name": "Ranorex Studio",
+    "logo": "/logos/ranorex.png",
+    "company": "Ranorex",
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "Professional-grade GUI test automation for desktop, web, and mobile with low-code and full-code C# workflows.",
+    "pricing": "paid",
+    "tags": [
+      "gui testing",
+      "desktop testing",
+      "test automation",
+      "c# automation",
+      "low-code testing",
+      "regression testing",
+      "mobile testing",
+      "ai test design"
+    ],
+    "platforms": [
+      "windows",
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://www.ranorex.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rantir",
+    "name": "Rantir",
+    "logo": "/logos/rantir.png",
+    "company": "Rantir",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "No-code platform for building AI dashboards and internal applications.",
+    "pricing": "freemium",
+    "tags": [
+      "no-code",
+      "ai dashboard",
+      "app builder",
+      "internal tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.rantir.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rasa",
+    "name": "Rasa",
+    "logo": "/logos/rasa.png",
+    "company": "Rasa",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-core platform for building self-hosted, governed conversational AI agents with CALM.",
+    "pricing": "freemium",
+    "tags": [
+      "conversational-ai",
+      "open-source",
+      "self-hosted",
+      "agent-framework",
+      "CALM",
+      "enterprise"
+    ],
+    "platforms": [
+      "web",
+      "api",
+      "linux",
+      "windows",
+      "macos"
+    ],
+    "officialUrl": "https://rasa.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "recurse-ml",
+    "name": "Recurse ML",
+    "logo": "/logos/recurse-ml.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI static analysis that finds bugs tests miss.",
+    "pricing": "paid",
+    "tags": [
+      "static-analysis",
+      "bug-detection",
+      "code-review",
+      "devtools"
+    ],
+    "platforms": [],
+    "officialUrl": "https://recurse.ml",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "redesignr-ai",
+    "name": "Redesignr.ai",
+    "logo": "/logos/redesignr-ai.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI tool that instantly redesigns any website into a modern, conversion-focused layout.",
+    "pricing": "freemium",
+    "tags": [
+      "website redesign",
+      "landing pages",
+      "no-code",
+      "ai web design"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://redesignr.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ref",
+    "name": "Ref",
+    "logo": "/logos/ref.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Plan-review workspace where teams align before AI coding agents write code",
+    "pricing": "paid",
+    "tags": [
+      "ai coding",
+      "code review",
+      "planning",
+      "developer tools"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://ref.tools",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "refact-ai",
+    "name": "Refact.ai",
+    "logo": "/logos/refact-ai.png",
+    "company": "SmallCloud AI",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Open-source self-hosted AI coding assistant for VS Code and JetBrains.",
+    "pricing": "freemium",
+    "tags": [
+      "coding assistant",
+      "open source",
+      "code completion",
+      "developer tools",
+      "self-hosted"
+    ],
+    "platforms": [],
+    "officialUrl": "https://refact.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "refraction",
+    "name": "Refraction",
+    "logo": "/logos/refraction.png",
+    "company": "Refraction",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI code generation tool for developers that writes code, unit tests, and documentation across 56 languages.",
+    "pricing": "freemium",
+    "tags": [
+      "code generation",
+      "unit tests",
+      "documentation",
+      "refactoring",
+      "developer tools"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://refraction.dev",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "regex-ai",
+    "name": "Regex.ai",
+    "logo": "/logos/regex-ai.png",
+    "company": "Liberty Labs",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI regex generator: highlight sample strings in your text and get competing regular-expression patterns from four AI agents.",
+    "pricing": "freemium",
+    "tags": [
+      "regex generator",
+      "regular expressions",
+      "data extraction",
+      "developers",
+      "log parsing"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://regex.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "relume",
+    "name": "Relume",
+    "logo": "/logos/relume.png",
+    "company": "Relume",
+    "category": "coding-development",
+    "subcategory": "website-builders",
+    "shortDescription": "AI sitemap-to-wireframe builder for designers — prompt to structure, export to Figma, Webflow or React.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-website-builder",
+      "sitemaps",
+      "wireframes",
+      "webflow",
+      "figma",
+      "react",
+      "agencies",
+      "design-systems"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://www.relume.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "renderlog",
+    "name": "RenderLog",
+    "logo": "/logos/renderlog.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "testing",
+    "shortDescription": "No-code web testing and visual-regression platform with honest billing.",
+    "pricing": "paid",
+    "tags": [
+      "visual-regression",
+      "web-testing",
+      "screenshot-api",
+      "change-monitoring",
+      "qa",
+      "no-code"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://renderlog.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "replicate",
+    "name": "Replicate",
+    "logo": "/logos/replicate.png",
+    "company": "Replicate, Inc.",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Run open-source AI models in the cloud with one API call, or fine-tune and deploy your own with Cog.",
+    "pricing": "freemium",
+    "tags": [
+      "model-inference",
+      "serverless",
+      "fine-tuning",
+      "cog",
+      "open-source-models",
+      "api",
+      "gpu",
+      "deployment"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://replicate.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "replit",
+    "name": "Replit",
+    "logo": "/logos/replit.png",
+    "company": "Replit",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Cloud IDE with an AI agent that builds, hosts, and deploys full-stack apps in your browser.",
+    "pricing": "freemium",
+    "tags": [
+      "cloud-ide",
+      "ai-agent",
+      "vibe-coding",
+      "hosting",
+      "deployment",
+      "full-stack",
+      "prototyping"
+    ],
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "officialUrl": "https://replit.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "repo-prompt",
+    "name": "Repo Prompt",
+    "logo": "/logos/repo-prompt.png",
+    "company": "RepoPrompt",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "macOS app that packages repo context for AI coding agents and chat models.",
+    "pricing": "freemium",
+    "tags": [
+      "prompt-engineering",
+      "code-context",
+      "macos"
+    ],
+    "platforms": [
+      "macos"
+    ],
+    "officialUrl": "https://repoprompt.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "reqode",
+    "name": "Reqode",
+    "logo": "/logos/reqode.png",
+    "company": "Almware Ltd",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Structured product memory layer that keeps specs, architecture and AI-generated code in sync.",
+    "pricing": "paid",
+    "tags": [
+      "requirements",
+      "architecture",
+      "ai-agents",
+      "mcp",
+      "code-alignment",
+      "spec-verification",
+      "product-model",
+      "drift-detection"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://reqode.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "requestly",
+    "name": "Requestly",
+    "logo": "/logos/requestly.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Git-native API client and HTTP debugger for developers.",
+    "pricing": "freemium",
+    "tags": [
+      "api-client",
+      "http-debugging",
+      "developer-tools"
+    ],
+    "platforms": [
+      "web",
+      "windows",
+      "macos",
+      "linux",
+      "chrome-extension"
+    ],
+    "officialUrl": "https://requestly.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "resolve-ai",
+    "name": "Resolve AI",
+    "logo": "/logos/resolve-ai.png",
+    "company": "Resolve AI",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Autonomous multi-agent SRE platform that investigates production incidents in parallel.",
+    "pricing": "paid",
+    "tags": [
+      "ai-sre",
+      "incident-response",
+      "root-cause-analysis",
+      "agentic",
+      "observability"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://resolve.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "respan",
+    "name": "Respan",
+    "logo": "/logos/respan.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI DevOps assistant for monitoring, troubleshooting, and ops automation.",
+    "pricing": "freemium",
+    "tags": [
+      "devops",
+      "infrastructure",
+      "monitoring",
+      "ai-assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://respan.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "retool",
+    "name": "Retool",
+    "logo": "/logos/retool.png",
+    "company": "Retool",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Low-code builder for internal apps, now with AI app generation.",
+    "pricing": "freemium",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "app-builder"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://retool.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "revolte",
+    "name": "Revolte",
+    "logo": "/logos/revolte.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Agentic platform-engineering stack for the full software delivery lifecycle.",
+    "pricing": "freemium",
+    "tags": [
+      "platform-engineering",
+      "agentic-ai",
+      "sdlc",
+      "devops",
+      "ai-agents",
+      "cicd",
+      "governance"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://revolte.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rierino",
+    "name": "Rierino",
+    "logo": "/logos/rierino.png",
+    "company": "Rierino",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Enterprise low-code platform with an embedded AI assistant for app building.",
+    "pricing": "paid",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "ai assistant"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://rierino.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rightmodeler",
+    "name": "rightmodeler",
+    "logo": "/logos/rightmodeler.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Open-source CLI that replays your agent traces through cheaper models and proves which swaps are safe, with evidence.",
+    "pricing": "freemium",
+    "tags": [
+      "llm",
+      "cost-optimization",
+      "ai-agents",
+      "open-source",
+      "model-selection",
+      "cli",
+      "developers",
+      "evaluation"
+    ],
+    "platforms": [],
+    "officialUrl": "https://www.rightmodeler.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rightnow-ai",
+    "name": "RightNow AI",
+    "logo": "/logos/rightnow-ai.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI editor purpose-built for CUDA and GPU developers.",
+    "pricing": "freemium",
+    "tags": [
+      "cuda",
+      "gpu",
+      "code-editor",
+      "developer-tools",
+      "ai-coding"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://rightnowai.co",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "robinrelay",
+    "name": "RobinRelay",
+    "logo": "/logos/robinrelay.png",
+    "company": "RobinRelay",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "Slack-native AI on-call copilot that cuts alert noise and recalls past incident fixes.",
+    "pricing": "freemium",
+    "tags": [
+      "on-call",
+      "slack",
+      "incident-response",
+      "ai-sre"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://robinrelay.ai",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "robomonkey",
+    "name": "RoboMonkey",
+    "logo": "/logos/robomonkey.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Builds Chrome extensions and automations by chatting with AI.",
+    "pricing": "freemium",
+    "tags": [
+      "no-code",
+      "chrome-extensions",
+      "automation"
+    ],
+    "platforms": [
+      "web",
+      "chrome-extension",
+      "api"
+    ],
+    "officialUrl": "https://robomonkey.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rocket-new",
+    "name": "Rocket.new",
+    "logo": "/logos/rocket-new.png",
+    "company": "Rocket",
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Turn a prompt into a working Next.js or Flutter app with deployable code.",
+    "pricing": "freemium",
+    "tags": [
+      "ai",
+      "app-builder",
+      "no-code",
+      "flutter",
+      "nextjs"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://rocket.new",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rootly",
+    "name": "Rootly",
+    "logo": "/logos/rootly.png",
+    "company": "Rootly",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI-native incident management with autonomous SRE agents, on-call scheduling, and Slack/Teams-native response workflows.",
+    "pricing": "paid",
+    "tags": [
+      "incident-management",
+      "ai-sre",
+      "on-call",
+      "root-cause-analysis",
+      "slack",
+      "retrospectives",
+      "status-pages",
+      "devops"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://rootly.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "rork",
+    "name": "Rork",
+    "logo": "/logos/rork.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Chat your way to a native iPhone or Android app and publish it to the app stores.",
+    "pricing": "freemium",
+    "tags": [
+      "app-builder",
+      "mobile-apps",
+      "ios",
+      "android",
+      "vibe-coding",
+      "swift",
+      "kotlin",
+      "app-store"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "officialUrl": "https://rork.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "ruby-utcp",
+    "name": "Ruby UTCP",
+    "logo": "/logos/ruby-utcp.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "Official Ruby implementation of UTCP, the lightweight open standard for agent tool calling.",
+    "pricing": "open-source",
+    "tags": [
+      "open-source",
+      "utcp",
+      "mcp-alternative",
+      "tool-calling",
+      "agents",
+      "ruby"
+    ],
+    "platforms": [
+      "api"
+    ],
+    "officialUrl": "https://github.com/universal-tool-calling-protocol/ruby-utcp",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "runcell-dev",
+    "name": "Runcell.dev",
+    "logo": "/logos/runcell-dev.png",
+    "company": null,
+    "category": "coding-development",
+    "subcategory": "code-development",
+    "shortDescription": "AI coding assistant for Jupyter notebooks",
+    "pricing": "freemium",
+    "tags": [
+      "Jupyter",
+      "data science",
+      "notebooks"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "officialUrl": "https://runcell.dev",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "runllm",
+    "name": "RunLLM",
+    "logo": "/logos/runllm.png",
+    "company": "RunLLM",
+    "category": "coding-development",
+    "subcategory": "devops",
+    "shortDescription": "AI SRE for mission-critical systems with transparent, evidence-backed investigations.",
+    "pricing": "freemium",
+    "tags": [
+      "ai-sre",
+      "incident-response",
+      "root-cause-analysis",
+      "runbooks"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://runllm.com",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "runpod",
+    "name": "RunPod",
+    "logo": "/logos/runpod.png",
+    "company": "RunPod",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "The AI developer cloud: serverless GPU endpoints, pods, and clusters with sub-200ms cold starts.",
+    "pricing": "freemium",
+    "tags": [
+      "gpu-cloud",
+      "serverless",
+      "inference",
+      "pods",
+      "clusters",
+      "fine-tuning",
+      "agents",
+      "cold-start"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://www.runpod.io",
+    "affiliateUrl": null
+  },
+  {
+    "slug": "runware",
+    "name": "Runware",
+    "logo": "/logos/runware.png",
+    "company": "Runware",
+    "category": "coding-development",
+    "subcategory": "models",
+    "shortDescription": "Ultra-fast AI inference API for image, video, audio, and 3D generation.",
+    "pricing": "paid",
+    "tags": [
+      "inference api",
+      "image generation",
+      "video generation"
+    ],
+    "platforms": [
+      "web",
+      "api"
+    ],
+    "officialUrl": "https://runware.ai",
+    "affiliateUrl": null
+  }
+]

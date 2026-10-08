@@ -1,0 +1,1630 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json (per-tool detail fields)
+import type { ToolDetail, ToolSlug } from '../types'
+
+export const toolDetailsChunk12: Partial<Record<ToolSlug, ToolDetail>> = {
+  "legal-graph": {
+    "verdict": "AI contract review platform that extracts and explains key terms in lengthy legal documents.",
+    "overview": [
+      "Legal Graph is an AI contract intelligence platform that extracts key terms and insights from lengthy legal documents. It handles contracts of hundreds of pages, explaining its reasoning step by step so lawyers can verify every answer against the source text. It also offers on-premise deployment for firms with strict data requirements."
+    ],
+    "features": [
+      "Contract term extraction",
+      "Explainable AI answers with citations",
+      "On-premise deployment option"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "legalon": {
+    "verdict": "AI contract review platform with attorney-built playbooks for in-house legal teams.",
+    "overview": [
+      "LegalOn Technologies' platform reviews contracts against a library of attorney-built playbooks, flags risks, proposes grounded redlines and runs agentic workflows from intake to drafting inside Word or the browser, aimed at in-house teams that need consistent review from day one."
+    ],
+    "features": [
+      "135+ attorney-built prebuilt playbooks across 50+ contract types",
+      "Playbook-driven redlining grounded in fallback language",
+      "Custom playbook builder in plain English",
+      "Microsoft Word add-in for in-place review",
+      "Agentic workflows for intake, drafting and translation"
+    ],
+    "pros": [
+      "Day-one productivity with no playbook building required",
+      "Raised $50M Series E in 2025; well-capitalized vendor",
+      "Multi-language review with redlines in the original language"
+    ],
+    "cons": [
+      "Enterprise pricing opaque; individual plan at $550/month",
+      "Review-focused rather than full contract lifecycle",
+      "Reports note limited multi-document referencing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "legalsifter": {
+    "verdict": "AI contract review in Word with professional-grade redlines customized to each client's legal positions.",
+    "overview": [
+      "LegalSifter provides AI contract review and redlining inside Microsoft Word through its ReviewPro product, with edits customized to the client's own contract standards rather than generic AI logic. It also offers Contract Logix, a full contract lifecycle management platform, and a Contract Management as a Service option where human experts perform the redlines. The company claims review times cut by up to 90%."
+    ],
+    "features": [
+      "ReviewPro: automatic professional-quality AI redlines in Microsoft Word",
+      "Redlines customized to the client's own standards, fallback language, and risk tolerance",
+      "Buildable contract playbooks to standardize negotiations",
+      "Contract Logix CLM: intake, approval, renewal, and full lifecycle workflows",
+      "AI-powered data extraction of key terms for search and reporting",
+      "Contract Management as a Service: human contract professionals perform redlines for you",
+      "Negotiation guidance accompanying clear markups"
+    ],
+    "pros": [
+      "Redlines are aligned to the client's own legal positions, not generic AI logic",
+      "Combines AI review, a full CLM platform, and an optional human-expert review service",
+      "Works inside Microsoft Word where lawyers already draft"
+    ],
+    "cons": [
+      "No public pricing; requires a demo to learn costs",
+      "Headline claims like 90% faster reviews are vendor-provided and not independently verified",
+      "Core review workflow is Word-centric; limited standalone web product"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "legion-ai": {
+    "verdict": "AI platform that turns business data into actionable insights and reports.",
+    "overview": [
+      "Legion AI is a data-analysis platform designed to help businesses make sense of their data without deep technical expertise. It applies AI to datasets to surface patterns, summaries, and insights teams can act on. The product targets companies that want faster answers from the numbers they already collect."
+    ],
+    "features": [
+      "AI-driven data analysis",
+      "Automated reporting and insights",
+      "Business dashboards"
+    ],
+    "pros": [
+      "No data-science team required",
+      "Faster insight generation"
+    ],
+    "cons": [
+      "Depth of analysis depends on data quality"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "legora": {
+    "verdict": "Collaborative AI platform for law firms covering research, drafting, document review, and workflows.",
+    "overview": [
+      "Legora is a Swedish AI platform used by law firms and in-house teams for contract review, legal research, drafting, and large-scale document review. Founded in 2023 as Leya, it rebranded to Legora in February 2025 and has raised hundreds of millions at a multi-billion-dollar valuation, serving 1,200+ firms across 50+ markets. It is sold as an enterprise product through demos and direct sales."
+    ],
+    "features": [
+      "Conversational legal AI assistant for research, drafting, and advice",
+      "Agentic legal research with web browsing and multi-step task execution",
+      "Tabular review for large-scale parallel document analysis and tagging",
+      "Microsoft Word and Outlook add-ins for point-of-workflow drafting",
+      "Configurable workflows and firm knowledge integration",
+      "Client collaboration tools across projects",
+      "Enterprise controls: ethical walls, role permissions, audit trails, zero training on customer data, ISO 27001, ISO 42001, SOC 2 Type II"
+    ],
+    "pros": [
+      "One governed platform for research, drafting, due diligence, and client delivery",
+      "Strong enterprise security and compliance posture for legal confidentiality",
+      "Rapidly scaled adoption: 1,200+ firms across 50+ markets per 2026 reporting"
+    ],
+    "cons": [
+      "Enterprise-only sales via demos; no self-serve plan or published pricing",
+      "Lawyers remain responsible for verifying sources, jurisdiction, and accuracy",
+      "Relatively young company (founded 2023) in a fast-moving, competitive legal AI market"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "leni": {
+    "verdict": "AI analyst platform for commercial real estate that automates reporting and surfaces insights.",
+    "overview": [
+      "Leni is an AI-driven analytics platform for commercial real estate that acts like a team of specialized digital analysts across portfolio, acquisitions, audit and market research. It aggregates PMS and operations data from systems like Yardi and RealPage, automates recurring reporting, surfaces proactive insights and anomalies, and delivers predictive KPI and pricing guidance. The company has raised $8.5M and supports over $40 billion in assets under management."
+    ],
+    "features": [
+      "AI analyst modules for CRE",
+      "Yardi and RealPage integrations",
+      "Automated recurring reporting",
+      "Anomaly and insight alerts",
+      "Predictive KPI and pricing guidance"
+    ],
+    "pros": [
+      "Purpose-built for commercial real estate",
+      "$40B+ AUM supported",
+      "Topped major AI benchmarks"
+    ],
+    "cons": [
+      "Enterprise pricing",
+      "Sector-specific only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lettria": {
+    "verdict": "NLP platform that turns documents into knowledge graphs for traceable enterprise AI.",
+    "overview": [
+      "Paris-based NLP and document-intelligence platform for regulated industries. Lettria auto-generates ontologies and knowledge graphs from messy documents and enterprise data, powering GraphRAG systems that give traceable, audit-ready AI answers — with a developer API and forward-deployed expert teams."
+    ],
+    "features": [
+      "Automatic ontology generation from domain data",
+      "Text-to-Graph pipeline for documents, tables and SAP exports",
+      "GraphRAG retrieval with full answer provenance",
+      "Perseus platform for production graph agents",
+      "Regulated-industry deployments (finance, healthcare, legal)"
+    ],
+    "pros": [
+      "Benchmarked 30%+ accuracy gains over vector-only RAG",
+      "8 years of applied AI expertise; real enterprise deployments",
+      "Multilingual ontology generation for global data"
+    ],
+    "cons": [
+      "Enterprise-grade pricing (around €600/month) — not for individuals",
+      "Implementation is consultative; not a self-serve consumer tool",
+      "Complexity is overkill for simple text-analytics needs"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lever": {
+    "verdict": "ATS + CRM in one AI-powered platform with smart screening, analytics and fraud prevention for hiring teams.",
+    "overview": [
+      "Lever unifies applicant tracking and candidate relationship management so teams can source, nurture and hire in one system. AI runs across the journey: candidate recommendations, next-best-action guidance and fraud-prevention safeguards. Built-in automation handles scheduling and follow-ups while analytics measure hiring ROI, all in an intuitive interface."
+    ],
+    "features": [
+      "Unified ATS and recruiting CRM in one platform",
+      "AI-powered candidate recommendations and next-best actions",
+      "Automated scheduling, admin and follow-up workflows",
+      "Built-in hiring analytics and ROI reporting",
+      "Candidate fraud-prevention safeguards",
+      "Talent pipeline nurturing for passive candidates",
+      "Integrations with HRIS, sourcing and assessment tools"
+    ],
+    "pros": [
+      "ATS and CRM natively combined — no add-ons or separate tools needed",
+      "AI embedded across the full hiring funnel from screening to reporting",
+      "Recognized by G2 and Hackett Group for UI quality, automation and analytics",
+      "Personalized demos and customer success support"
+    ],
+    "cons": [
+      "Pricing is fully customized and not published — requires a sales conversation",
+      "No free tier or entry-level self-serve pricing",
+      "Best suited to growing and mid-market teams, not micro businesses"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lex-machina": {
+    "verdict": "Legal analytics platform that mines litigation data to predict case outcomes and reveal judge and counsel behavior.",
+    "overview": [
+      "Lex Machina is LexisNexis's legal analytics platform that applies data science and AI to millions of court records, helping lawyers assess cases, forecast outcomes, and build strategy. It surfaces judge behavior, opposing counsel track records, motion grant rates, damages awards, and case timelines across federal and enhanced state courts. Generative AI assistance (Protégé) lets users query the structured data in natural language."
+    ],
+    "features": [
+      "Judge analytics: ruling patterns, timing, and motion grant rates",
+      "Legal entity analytics across law firms, attorneys, parties, and judges",
+      "Protégé generative AI assistant for natural-language analytics queries",
+      "Court database of 45M+ documents and 10M+ cases across federal and state courts",
+      "Motion metrics, appeals analytics, and class-action settlement analytics",
+      "Case outcome, damages, and timing prediction models",
+      "API for integrating litigation data into internal tools"
+    ],
+    "pros": [
+      "Deepest litigation dataset in the market, trusted by 90%+ of the largest US firms",
+      "Unique judge and opposing-counsel insights that inform real settlement strategy",
+      "Generative Protégé layer makes complex analytics queryable in plain language"
+    ],
+    "cons": [
+      "No public pricing and no self-serve option — evaluation starts with a sales demo",
+      "Coverage is strongest in federal courts; state-court coverage is inconsistent",
+      "Data-heavy interface has a learning curve for attorneys new to analytics"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lexis-create-plus": {
+    "verdict": "AI clause retrieval and drafting assistant now rebranded as Lexis Create+ by LexisNexis after its acquisition.",
+    "overview": [
+      "Henchman centralizes a firm's previously written clauses and definitions, indexing precedent documents at clause level so lawyers can surface, benchmark, and insert them while drafting in Word or Outlook. Following its 2024 acquisition by LexisNexis, the product now runs as Lexis Create+ and is integrated with Microsoft Copilot. It mirrors document-management permissions to preserve confidentiality."
+    ],
+    "features": [
+      "Clause-level indexing of the firm's own document management system documents",
+      "AI Clause Assistant with clause suggestions, translations, and grammatical adaptations",
+      "Search and benchmark precedents across the entire database in any language",
+      "Metadata, labels, and lists for enriching internal legal content",
+      "Microsoft Word and Outlook integration plus Microsoft Copilot integration",
+      "Security settings that mirror DMS permissions to preserve confidentiality",
+      "Complex contract navigation tools to streamline review"
+    ],
+    "pros": [
+      "Turns a firm's own precedents into an instant, searchable drafting asset inside Word",
+      "Language-agnostic and mirrors DMS permissions, supporting strict confidentiality requirements",
+      "Backed by LexisNexis resources and integration roadmap after the 2024 acquisition"
+    ],
+    "cons": [
+      "Standalone Henchman brand absorbed into Lexis Create+, so product roadmap and availability depend on LexisNexis",
+      "No public pricing; sold to firms with existing document management systems",
+      "Value depends on the size and quality of the firm's existing precedent database"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lexis-plus-ai": {
+    "verdict": "LexisNexis's AI assistant (now branded Lexis+ with Protégé) for cited legal research, drafting, and analysis.",
+    "overview": [
+      "Lexis+ AI is LexisNexis's generative AI legal assistant — now marketed as Lexis+ with Protégé, LexisNexis's personalized legal AI assistant. It pairs conversational drafting and analysis with LexisNexis's authoritative legal content, Shepard's citation validation, and Practical Guidance, and can also draw on a firm's own documents. It is sold as a premium add-on to Lexis+ subscriptions with custom enterprise pricing."
+    ],
+    "features": [
+      "Conversational AI drafting, summarization, and analysis grounded in LexisNexis content",
+      "Shepard's citation validation for trustworthy legal citations",
+      "Practical Guidance for practice-area how-tos",
+      "Insights extraction from a firm's own documents",
+      "Personalized Protégé AI assistant tuned to the user's practice",
+      "Mobile apps for iOS and Android alongside the web platform"
+    ],
+    "pros": [
+      "AI answers grounded in authoritative LexisNexis sources with citation validation",
+      "Combines research, drafting, and practical guidance in one workflow",
+      "Can incorporate a firm's own documents for more tailored answers"
+    ],
+    "cons": [
+      "No published pricing; sold as a custom-priced add-on to Lexis+",
+      "Reviewed as expensive with opaque enterprise contract terms",
+      "Best suited to firms already invested in the LexisNexis ecosystem"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "linksquares": {
+    "verdict": "AI-powered contract lifecycle management platform that turns executed agreements into searchable, data-rich assets.",
+    "overview": [
+      "LinkSquares is an AI-powered contract lifecycle management (CLM) platform that centralizes executed agreements in a searchable repository and turns them into data-rich business assets. Its AI Legal Assistant drafts, reviews, redlines, and analyzes contracts in context, while analytics surface risk, obligations, and renewal windows across the portfolio. The company positions itself as a fully agentic AI platform trusted by 1,200+ customers including DraftKings and TIME."
+    ],
+    "features": [
+      "Centralized, searchable contract repository with AI data extraction",
+      "AI Legal Assistant for drafting, reviewing, and analyzing contracts",
+      "AI redlining directly in Microsoft Word via Word add-in",
+      "Contract analytics, risk assessment, and smart search",
+      "Renewal, obligation, and notice-window tracking",
+      "Workflow automation across the full contract lifecycle",
+      "Integrations with Salesforce, DocuSign, Slack, and Dropbox"
+    ],
+    "pros": [
+      "Consistently praised for customer support and hands-on onboarding",
+      "Strong AI analytics that turn static contracts into usable business data",
+      "G2 Leader with 98% mid-market customer satisfaction cited on its site"
+    ],
+    "cons": [
+      "No public pricing — every deal is a custom sales quote",
+      "Built for mid-market and enterprise teams; may be too heavy for small firms",
+      "Getting full value requires onboarding and playbook setup"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "liondesk": {
+    "verdict": "Budget-friendly real estate CRM with AI follow-up, video texting, and automated drip campaigns from $25/month.",
+    "overview": [
+      "LionDesk is an affordable real estate CRM starting at $25 per month, offering AI-assisted lead follow-up, bulk texting with video, email marketing, and automated drip campaigns. It is a popular budget choice for solo agents and small teams that want robust communication tools without enterprise pricing."
+    ],
+    "features": [
+      "AI-assisted lead follow-up and engagement",
+      "Bulk texting with embedded video messages",
+      "Automated email and text drip campaigns",
+      "Lead distribution and team routing",
+      "Task management and reminders",
+      "Transaction management tools",
+      "Integrations with lead sources and dialers",
+      "Mobile app for working leads on the go"
+    ],
+    "pros": [
+      "Very affordable at $25/month with a 30-day trial",
+      "Strong communication toolkit: text, video text, and email",
+      "Good fit for solo agents and small teams"
+    ],
+    "cons": [
+      "Interface feels dated compared with newer CRMs",
+      "AI capabilities are narrower than purpose-built AI ISAs",
+      "Advanced features often require add-ons or higher tiers"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "listedkit": {
+    "verdict": "AI transaction coordinator 'Ava' that reads contracts, builds timelines, and tracks deadlines at $14.99 per file.",
+    "overview": [
+      "ListedKit is an AI-first transaction coordination platform built around Ava, an AI assistant that reads executed contracts and builds timelines automatically. Ava extracts every date, party, and contingency, calculates deadlines with business-day and holiday rules, drafts deal-context emails, and reviews documents for missing signatures. Pricing is $14.99 per intake with the first transaction free and no monthly fee."
+    ],
+    "features": [
+      "Ava AI reads contracts and extracts dates, parties, contingencies",
+      "Automatic timelines built to state-specific rules",
+      "Smart deadline calculation with business days and federal holidays",
+      "AI risk scoring that flags deals trending toward fallthrough",
+      "Deal-context email drafting for buyers, sellers, and attorneys",
+      "Document review for missing signatures and gaps",
+      "Gmail integration matching emails to the right file",
+      "Unlimited team members on one shared credit pool"
+    ],
+    "pros": [
+      "Contract reading eliminates manual transaction setup",
+      "No per-seat fees and no monthly cost in slow months",
+      "2025 Inman Innovators Award finalist used by major brokerage teams"
+    ],
+    "cons": [
+      "Per-transaction pricing penalizes high-volume TCs versus flat-rate tools",
+      "Smaller integration ecosystem than SkySlope or dotloop",
+      "Newer company with a shorter track record"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "litera-kira": {
+    "verdict": "Litera's AI contract analysis platform with 1,400+ lawyer-trained smart fields.",
+    "overview": [
+      "Litera Kira (formerly Kira Systems, acquired by Litera in 2021) is an AI contract analysis platform combining generative AI with proprietary lawyer-trained models built on 1M+ legal contracts. Its 1,400+ pre-built smart fields cover due diligence, commercial, real estate and compliance reviews."
+    ],
+    "features": [
+      "1,400+ proprietary AI smart fields across 40+ legal areas",
+      "Generative Smart Fields for natural-language data extraction",
+      "Quick Study — train custom models for any clause",
+      "Automatic document classification and project management dashboard",
+      "AI governance toggle (GenAI on/off per project)",
+      "Integration with Litera's drafting and knowledge tools",
+      "Flexible hosting (US, Canada, Europe, APAC)",
+      "SOC 2 Type II, SOC 3 and GDPR compliance"
+    ],
+    "pros": [
+      "Hybrid AI (proprietary models + GenAI) claims 90%+ contract analysis accuracy",
+      "Decade of refinement with models trained on 1M+ legal contracts",
+      "Strong for M&A due diligence at scale across 100+ languages",
+      "Fits into Litera's broader legal-tech ecosystem alongside Lito AI assistant"
+    ],
+    "cons": [
+      "No public pricing — enterprise sales process only",
+      "Entry-level setup fee required per TrustRadius",
+      "Best suited to large teams; overkill for small contract volumes"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "litespace": {
+    "verdict": "AI recruiting agents that source and screen candidates for hiring teams.",
+    "overview": [
+      "Litespace builds AI recruiting agents that help hiring teams source, screen, and engage candidates. The agents take on repetitive recruiting tasks so human recruiters can focus on conversations and decisions. It is aimed at companies that want to speed up hiring without losing the human touch."
+    ],
+    "features": [
+      "AI recruiting agents",
+      "Candidate screening",
+      "Hiring workflow automation"
+    ],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "litmas-ai": {
+    "verdict": "AI litigation platform with verified, hallucination-free legal research.",
+    "overview": [
+      "Litmas AI is built by trial attorneys for litigation work: it drafts motions, runs legal research and maps evidence with every citation dual-validated against trusted U.S. case law, so no fabricated references reach your filings. Modules include an AI Associate for case strategy, a Motion Builder producing near court-ready drafts, a 3D Litiverse graph of parties and claims, and an evidence mapper showing what is supported or missing. Pricing is per active case with unlimited usage."
+    ],
+    "features": [
+      "Verified legal research with citations",
+      "Motion and pleading drafting",
+      "Evidence mapping",
+      "3D case relationship graph",
+      "Pre-suit complaint drafting"
+    ],
+    "pros": [
+      "Zero fabricated citations",
+      "SOC 2 and HIPAA audited",
+      "Built by litigators"
+    ],
+    "cons": [
+      "U.S. case law focus",
+      "$125 per case per month"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "livedocs": {
+    "verdict": "AI-native reactive notebooks for data analysis with SQL and Python.",
+    "overview": [
+      "Livedocs is a reactive, AI-native notebook built for data work: SQL, Python, DuckDB and Polars live in one collaborative workspace with no setup. Its AI agent writes and optimizes queries, builds charts, cleans data and explains results — you choose the model (GPT, Claude, Gemini). Cells track dependencies automatically, notebooks can be scheduled, published as interactive data apps, and shared with real-time multiplayer editing."
+    ],
+    "features": [
+      "AI SQL and Python generation",
+      "Reactive notebook cells",
+      "Native charting and dashboards",
+      "Scheduled notebook runs",
+      "Real-time collaboration"
+    ],
+    "pros": [
+      "Zero setup",
+      "Choose your AI model",
+      "Free tier with AI credits"
+    ],
+    "cons": [
+      "Newer product, smaller ecosystem"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "llamaindex": {
+    "verdict": "The document-processing platform for connecting LLMs to your external data.",
+    "overview": [
+      "LlamaIndex is the go-to open-source framework for giving language models access to private documents and data. It handles ingestion, indexing, and agentic retrieval over files, databases, and APIs. With 52k stars, it underpins countless production RAG systems."
+    ],
+    "features": [
+      "Document ingestion across formats and sources",
+      "Indexes tuned for LLM retrieval",
+      "Agentic RAG workflows",
+      "Connectors for databases, APIs, and files"
+    ],
+    "pros": [
+      "De-facto standard for RAG plumbing",
+      "Huge ecosystem and documentation",
+      "Powers many production systems"
+    ],
+    "cons": [
+      "A framework, not a finished app",
+      "RAG tuning still requires expertise",
+      "Fast-moving API — expect migration work"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "llamaparse": {
+    "verdict": "LlamaIndex's document agent platform: agentic OCR, parsing, extraction, and indexing for AI pipelines.",
+    "overview": [
+      "LlamaParse is the managed document-parsing platform from LlamaIndex, designed as the ingestion foundation for agentic workflows. It handles 130+ document formats with agentic OCR, then offers structured extraction, split, and indexing components, plus deployable LlamaAgents for end-to-end document workflows. Engineers use it to feed clean, structured data into RAG systems, compliance pipelines, underwriting, contract review, and other production workloads, either with the LlamaIndex framework or standalone via API."
+    ],
+    "features": [
+      "Agentic OCR and parsing across 130+ formats",
+      "LlamaExtract for structured data extraction",
+      "LlamaCloud indexing for ingest and RAG pipelines",
+      "Split for breaking large documents into subcategories",
+      "Deployable LlamaAgents for end-to-end document workflows",
+      "API and SDK access with a free tier"
+    ],
+    "pros": [
+      "Purpose-built for complex documents agents consume downstream",
+      "Modular: parse, extract, index, and deploy agents independently",
+      "Works with or without the LlamaIndex framework",
+      "Large existing developer community"
+    ],
+    "cons": [
+      "Free tier limits throughput for heavy production use",
+      "Best results require tuning for highly irregular layouts",
+      "Enterprise features live behind the paid LlamaCloud plans"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "lofty": {
+    "verdict": "All-in-one real estate platform (formerly Chime) with CRM, IDX website, and built-in AI lead engagement.",
+    "overview": [
+      "Lofty (formerly Chime) is an all-in-one real estate platform combining CRM, IDX website, and AI. Its AI Assist and AI Copilots engage leads, generate content, and automate follow-up, while Social Studio handles social marketing. Third-party reports put plans around $449-$899/month with a 12-month agreement."
+    ],
+    "features": [
+      "Smart CRM with automated lead capture and routing",
+      "IDX-integrated agent and team websites",
+      "AI Assist for lead engagement and follow-up",
+      "AI Copilots for content and workflow automation",
+      "AI Content Engine for blogs, neighborhood pages, and listings",
+      "Social Studio for social media management",
+      "Power Dialer for high-volume calling",
+      "Transaction management and reporting dashboards"
+    ],
+    "pros": [
+      "One vendor for CRM, website, ads, and AI reduces tool sprawl",
+      "AI Assist is included in the platform price rather than a separate add-on",
+      "Mobile app is well-regarded and mirrors desktop functionality"
+    ],
+    "cons": [
+      "Pricing is quote-based with no official list prices, weakening negotiating leverage",
+      "Bundled platform raises the cost of leaving; migrating automations takes time",
+      "AI add-ons like Copilots and Power Dialer are priced separately"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "loxo": {
+    "verdict": "AI-native talent intelligence platform unifying ATS, CRM, sourcing, and outreach agents.",
+    "overview": [
+      "Loxo is an AI-native talent intelligence platform that combines a recruiting ATS and CRM with Loxo Source, a proprietary graph of 850M+ professionals searched alongside the team's own database. Its agentic workforce automates sourcing, outreach, data enrichment, and reporting, with omni-channel campaigns, an AI notetaker, and ATS/CRM Chrome extension. A free tier covers one user; paid plans start at $149/user/month annual for Core and $199/user/month for Professional with the full agent workforce."
+    ],
+    "features": [
+      "Full ATS plus recruiting CRM in one system with one workflow",
+      "Loxo Source: proprietary graph of 850M+ professionals",
+      "Natural-language AI search with relevance-ranked results",
+      "Agentic workforce automating sourcing, enrichment, and outreach",
+      "Omni-channel outreach campaign automation",
+      "AI notetaker and self-updating CRM agents",
+      "Chrome extension for importing profiles from the web",
+      "Client portal, report generator, and hiring-manager workflows for agencies"
+    ],
+    "pros": [
+      "Replaces a bolt-on stack of ATS, CRM, sourcing, and outreach tools in one workspace",
+      "Free tier includes unlimited jobs, full ATS and CRM, and a Chrome extension",
+      "Agentic workforce works across sourcing, enrichment, and reporting",
+      "2,500 contact-finding credits per seat per month included on Professional"
+    ],
+    "cons": [
+      "Professional and Enterprise tiers are quote-based with less predictable pricing",
+      "Renewal contracts reportedly bake in annual price increases",
+      "Primarily built for recruiting firms and agencies rather than generalist HR teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "luminance": {
+    "verdict": "AI-native contract intelligence platform for enterprise contract review and due diligence.",
+    "overview": [
+      "Luminance is an AI-native contract intelligence platform founded by University of Cambridge researchers. It combines specialist legal models with enterprise contract context to review, flag anomalies in, and surface obligations from contracts across Legal, Procurement, Finance and Sales teams — with 1,000+ enterprise customers worldwide."
+    ],
+    "features": [
+      "Anomaly detection that flags unusual clauses and missing pages",
+      "Pattern recognition and clause categorization",
+      "Document clustering and data visualization dashboards",
+      "Language-agnostic review across multiple jurisdictions",
+      "Contract Q&A in plain language",
+      "Portfolio-wide risk and obligation tracking",
+      "Collaboration with annotations, notes and tags",
+      "SOC 2 Type II and ISO 27001 security posture"
+    ],
+    "pros": [
+      "Purpose-built legal AI with a decade of contract-intelligence pedigree (Cambridge-founded)",
+      "Trusted by 1,000+ enterprises worldwide across 70 countries",
+      "Multilingual, language-agnostic contract analysis",
+      "Strong security story: ISO 27001, SOC 2 Type II, independent penetration testing"
+    ],
+    "cons": [
+      "No public pricing — enterprise quote-only, reportedly six-figure annual deals",
+      "Steep learning curve; reviewers note onboarding takes real effort",
+      "Review-focused only — it does not generate or draft contract language"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "luzmo": {
+    "verdict": "Embedded analytics platform for SaaS: white-labeled dashboards, natural-language IQ, and agent APIs.",
+    "overview": [
+      "Luzmo (formerly Cumul.io) is an embedded analytics platform that lets SaaS companies build and embed white-labeled, customer-facing dashboards in days. Its suite covers Luzmo Studio (drag-and-drop dashboard design), Luzmo Flex (developer SDK), Luzmo IQ (natural-language exploration), and Agent APIs, with transparent pricing from €1,995/month billed annually."
+    ],
+    "features": [
+      "Luzmo Studio drag-and-drop dashboard designer",
+      "Luzmo Flex developer SDK and code/SQL customization",
+      "Luzmo IQ natural-language data exploration",
+      "Agent APIs for AI assistants and automated analytics",
+      "Fully white-labeled, embeddable dashboards",
+      "Connectors to warehouses and APIs (BigQuery, Snowflake, Redshift, ClickHouse and more)",
+      "Embedded dashboard editor for end-user self-service",
+      "Free trial available"
+    ],
+    "pros": [
+      "From sign-up to first embedded dashboard in hours, per official docs",
+      "Transparent SaaS-style pricing with no internal builder seat licences",
+      "Modular suite covers no-code builders and developers in one platform"
+    ],
+    "cons": [
+      "€1,995/month entry price is steep for small teams or early SaaS products",
+      "Focused on customer-facing embedding, less suited for internal BI teams",
+      "Usage-based component (active users, AI conversations) needs cost modeling"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "majorgen": {
+    "verdict": "AI-tailored resumes and cover letters built around each job description.",
+    "overview": [
+      "MajorGen is an AI resume and cover letter builder with a job-description-first workflow: paste the listing, add your profile by uploading an old resume or pasting your LinkedIn URL, and get an ATS-optimized document tailored to that role in under 30 seconds. You can generate up to five variants per run and download as PDF or Word. Instead of subscriptions, it uses credits that never expire. An application dashboard tracks your materials, and a secondary AI blog-writing tool comes along for content marketing tasks."
+    ],
+    "features": [
+      "Job-description-matched resume generation",
+      "Resume import from LinkedIn profile URL",
+      "Up to 5 resume variants per run",
+      "ATS-optimized PDF and Word downloads",
+      "Credit-based pricing with no subscription"
+    ],
+    "pros": [
+      "Tailoring per application is the part most job seekers skip — this automates it",
+      "Credits never expire, good for sporadic use",
+      "Sub-30-second generation"
+    ],
+    "cons": [
+      "Career-document tool only, not a job search platform",
+      "No mobile app",
+      "Export limited to text formats (PDF/Word)"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "manatal": {
+    "verdict": "Simple AI recruiting software from $15/user/mo with AI screening interviews and 2,500+ job boards.",
+    "overview": [
+      "Manatal is an easy-to-use all-in-one recruiting software tailored for HR teams, recruitment agencies and headhunters. Its AI engine powers candidate matching, profile enrichment from 20+ social platforms, and an AI Interviewer that screens candidates around the clock. Transparent per-user pricing starts at $15/user/mo with a 14-day free trial."
+    ],
+    "features": [
+      "AI candidate matching and recommendations",
+      "AI Interviewer for automated 24/7 screening",
+      "Candidate profile enrichment from 20+ social and public platforms",
+      "Job posting to 2,500+ organic and premium channels",
+      "Customizable drag-and-drop pipeline Kanban",
+      "Branded career pages with custom domains",
+      "ChatGPT, Claude and LLM integration via MCP",
+      "Manatal Open API"
+    ],
+    "pros": [
+      "Transparent per-user pricing — among the cheapest real ATS options",
+      "Unlimited hiring managers on every tier",
+      "Simple setup with no steep learning curve",
+      "SOC 2 Type 2 security and free data migration"
+    ],
+    "cons": [
+      "SSO and custom permissions only arrive on the top Enterprise Plus tier",
+      "In-depth assessment features are weaker than specialist tools",
+      "AI Interviewer is a paid add-on, not included in seat pricing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "marketalerts": {
+    "verdict": "AI stock watchlist that monitors markets and fires smart alerts.",
+    "overview": [
+      "MarketAlerts is an AI-powered investing platform that monitors stocks around the clock and notifies users of must-know events like earnings, analyst changes, insider transactions, and technical chart patterns. Its smart screener finds trade ideas using contextual event combinations, and an AI analyst provides deeper insights for novice and experienced investors. It offers web and mobile apps with a free account tier."
+    ],
+    "features": [
+      "AI-powered stock watchlists",
+      "Smart screener with contextual events",
+      "AI trading signals and analyst insights",
+      "Technical chart pattern recognition",
+      "Insider transaction tracking"
+    ],
+    "pros": [
+      "24/7 market monitoring",
+      "Free account available",
+      "Mobile apps included"
+    ],
+    "cons": [
+      "Advanced features may require paid tiers",
+      "Investing carries inherent risk"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "maxkb": {
+    "verdict": "Open-source platform for building enterprise knowledge-base agents with RAG Q&A.",
+    "overview": [
+      "MaxKB is an open-source platform for building enterprise-grade AI agents centered on knowledge-base Q&A. It supports retrieval-augmented generation over your documents and is designed to embed into third-party business systems. Backed by the 1Panel team, it ships with a management console, workflow orchestration, and multi-model support."
+    ],
+    "features": [
+      "RAG-based knowledge-base Q&A",
+      "Agent and workflow orchestration builder",
+      "Embeddable into third-party business systems",
+      "Management console with usage analytics",
+      "Multi-model and multi-source support"
+    ],
+    "pros": [
+      "Large active community (~23k stars)",
+      "Designed for enterprise embedding use cases",
+      "Bilingual Chinese/English project with frequent releases"
+    ],
+    "cons": [
+      "Documentation skews Chinese-first",
+      "Enterprise-grade setup can be heavyweight for simple Q&A needs"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "meridian": {
+    "verdict": "AI operating system by Pilot that runs the month-end close autonomously for accounting firms.",
+    "overview": [
+      "Meridian, built inside Pilot, is an AI operating system for accounting firms that automates the full month-end close across a firm's entire client portfolio. It connects client ledgers, syncs financial institutions or ingests statements, then handles categorization, reconciliation, exception handling, and financial statement preparation — with every decision logged for accountant review. Meridian also offers a free hosted MCP connector that lets Claude, ChatGPT, Codex, and Cowork agents do real work inside Xero."
+    ],
+    "features": [
+      "Full month-end close automation: categorization, reconciliation, exceptions, statements",
+      "Ledger connections plus bank sync or statement uploads with minimal data lift",
+      "Every AI decision logged and reviewable; nothing ships without accountant sign-off",
+      "Free hosted Xero MCP connector for Claude, ChatGPT, Codex, and Cowork agents",
+      "Xero connector supports read-only or read-write access per company",
+      "Built on the Pilot platform run in production since 2017 across 8,000 businesses",
+      "Designed to raise revenue per accountant without longer hours"
+    ],
+    "pros": [
+      "Cuts month-end production work from weeks to hours for accounting firms",
+      "Built and battle-tested inside Pilot's own bookkeeping operations since 2017",
+      "Free Xero MCP connector lets anyone experiment with accounting agents",
+      "Human sign-off is built into the workflow, not an afterthought"
+    ],
+    "cons": [
+      "Purpose-built for accounting firms, not solo founders or small in-house teams",
+      "No public pricing; likely priced for firm-level budgets",
+      "The free Xero connector is intentionally lightweight with no shared access or workflows"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mesha": {
+    "verdict": "AI finance assistant for freelancers, founders, and small teams.",
+    "overview": [
+      "Mesha is a Singapore-based AI finance and billing assistant founded in 2023 that helps freelancers, founders, and small teams keep books and get paid on time. It uses multi-agent AI to automatically reconcile transactions and match invoices, while automatically following up with clients on unpaid invoices in a professional tone. Paid plans start at $29 per month with a 30-day free trial, and it integrates with QuickBooks and Xero."
+    ],
+    "features": [
+      "Automated bookkeeping",
+      "Automatic invoice follow-ups",
+      "Multi-agent AI reconciliation",
+      "QuickBooks and Xero integrations",
+      "Expense tracking"
+    ],
+    "pros": [
+      "Handles awkward payment chasing",
+      "Bookkeeping runs in the background",
+      "Free trial available"
+    ],
+    "cons": [
+      "Paid only, from $29/month",
+      "Best fit for freelancers and small teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "metabase": {
+    "verdict": "Open-source BI tool with Metabot AI: ask questions in plain language and bring your own AI model.",
+    "overview": [
+      "Metabase is an open-source business intelligence platform known for its approachable no-code query builder and quick setup. Its AI layer, Metabase AI (Metabot), lets users ask questions in natural language, generate SQL, and customize the AI per user group with usage limits — and teams can power it with their own model from Anthropic, OpenAI, AWS Bedrock, or Mistral with no markup. The AGPL core is free to self-host, with paid cloud tiers for hosting, SSO, and embedded analytics."
+    ],
+    "features": [
+      "No-code query builder for non-technical users",
+      "Metabase AI (Metabot): natural-language questions and SQL generation",
+      "Bring-your-own-model AI (Anthropic, OpenAI, Bedrock, Mistral)",
+      "Granular AI access controls and token/message usage limits",
+      "20+ data source connectors",
+      "Dashboards, models, and automated subscriptions",
+      "Embedded analytics (Pro/Enterprise)",
+      "Free self-hosted AGPL edition"
+    ],
+    "pros": [
+      "Genuinely usable free open-source edition for self-hosting",
+      "AI powered by your own model — no markup, full control",
+      "Fast to deploy and easy for non-SQL users",
+      "Transparent per-user cloud pricing starting at $100/mo"
+    ],
+    "cons": [
+      "Visualization options feel limited for complex analysis",
+      "Performance can dip with very large datasets",
+      "Embedded analytics is paywalled behind Pro/Enterprise",
+      "No native mobile app"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "metatext": {
+    "verdict": "Open directory of AI models, datasets, and MCP servers.",
+    "overview": [
+      "Metatext is now an open directory of AI models, datasets, and MCP servers rather than its earlier form. It catalogs resources for developers building with AI. The free web directory helps discover models and data for projects."
+    ],
+    "features": [
+      "AI model directory",
+      "Dataset listings",
+      "MCP server catalog",
+      "Free browsing"
+    ],
+    "pros": [
+      "Free resource discovery",
+      "Developer-focused",
+      "Curated listings"
+    ],
+    "cons": [
+      "Directory only, not a tool itself",
+      "Coverage varies"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "micro1": {
+    "verdict": "AI-led technical interviews (async, proctored, scored) plus an API employers can embed.",
+    "overview": [
+      "Micro1 runs AI-powered technical interviews through its 'Zara' interviewer: async, recorded conversations that evaluate technical and scenario-based skills plus communication clarity, with proctoring and AI match scores. It's both a certified talent marketplace for experts and an AI interview API that employers can plug into their own hiring workflows."
+    ],
+    "features": [
+      "AI interviewer 'Zara' for async technical interviews",
+      "Role-tailored open-ended and scenario questions",
+      "Live coding challenges for technical roles",
+      "Proctoring with full desktop screen-sharing and video recording",
+      "AI-generated skill-by-skill assessment reports",
+      "Public REST API for creating interviews and inviting candidates",
+      "Webhook-based interview report delivery",
+      "Free AI interview prep tool for candidates"
+    ],
+    "pros": [
+      "Purpose-built for vetting technical talent with coding and scenario depth.",
+      "API lets companies embed AI interviews in their own pipelines.",
+      "Free practice interviews help candidates prepare, widening the talent funnel.",
+      "On-demand async format removes scheduling bottlenecks."
+    ],
+    "cons": [
+      "Employer-side is quote/API-gated — not a self-serve tool with transparent pricing.",
+      "Candidate-side terms are strict (full screen share, recording, no copying interview content), which some applicants find intrusive."
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "midash-ai": {
+    "verdict": "Conversational AI trading agent — describe strategies in plain language and it builds, backtests and executes them.",
+    "overview": [
+      "MiDash AI is a conversational investing and trading platform that turns plain-language ideas into live market action. You describe a strategy in everyday words — in English or Arabic — and the platform's multi-agent system builds it, backtests it on historical tick data, and executes it through connected brokers. It also supports AI chat market analysis, real-time scanning, TradingView charting, risk guardrails, and desk-level agent orchestration."
+    ],
+    "features": [
+      "Natural-language trading — describe strategies in English or Arabic, AI builds and runs them",
+      "Multi-broker connectivity (Interactive Brokers, Binance, OKX, Capital.com and more)",
+      "Backtesting on 20 years of tick-level historical data",
+      "AI chat market analysis and natural-language market scanner",
+      "Real-time risk guardrails with adaptive portfolio exposure controls",
+      "TradingView charting built in",
+      "Automated strategy builder with simulation trading on the free plan"
+    ],
+    "pros": [
+      "No coding needed — go from market idea to live trade in one conversation",
+      "Institutional-grade backtesting depth at accessible pricing",
+      "Free plan with simulation trading and daily AI chat commands",
+      "Connects real brokers across stocks, crypto and forex"
+    ],
+    "cons": [
+      "Broker integrations limited to supported brokerages; not every broker works",
+      "Automated trading still carries real market risk — the AI is not a profit guarantee",
+      "Pro tiers priced for active traders, which may be steep for casual investors"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mindcase": {
+    "verdict": "One API that collects structured data from 30+ web sources with ready-made data agents and Excel functions.",
+    "overview": [
+      "Mindcase gives developers one API to collect structured data from 30+ web sources — LinkedIn profiles, Instagram, Amazon products, Google Maps, YouTube, and more — without managing scraping infrastructure. Its Excel add-in adds EXTRACT, ASK, ASK_WEB, and COMPANY_DATA functions for no-code data tasks. Pricing is pay-as-you-go credits ($0.06-$20 per 1,000 rows), with Python/Node.js SDKs and an MCP server for Claude included."
+    ],
+    "features": [
+      "Single API across 30+ data sources with ready-made agents",
+      "Python and Node.js SDKs plus built-in MCP server for Claude",
+      "Excel add-in: EXTRACT, ASK, ASK_WEB, COMPANY_DATA, LinkedIn functions",
+      "Pay-per-collection pricing: $0.06-$20 per 1,000 rows, prepaid wallet, no seats",
+      "Built for lead generation, enrichment, market intelligence, and AI agents",
+      "Structured table results instead of raw HTML"
+    ],
+    "pros": [
+      "One API replaces building and maintaining scrapers per source",
+      "No seats or subscriptions; prepaid credits fit irregular workloads"
+    ],
+    "cons": [
+      "Fully usage-based, so heavy collection can get expensive fast",
+      "Data quality and coverage depend on the individual agents per source"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mito": {
+    "verdict": "Open-source AI spreadsheet inside Jupyter: edit data like Excel and get production-ready Python code.",
+    "overview": [
+      "Mito is a set of open-source Jupyter extensions that put a spreadsheet interface inside your Python environment. Every edit — filters, pivot tables, formulas like VLOOKUP, graphs — is automatically converted to production-ready Python code you can rerun on new data. Mito AI adds context-aware chat and error debugging, works with any LLM provider through your own contracts, and promises no spying on your code or prompts."
+    ],
+    "features": [
+      "Spreadsheet interface inside Jupyter notebooks and JupyterLab",
+      "Automatic Python code generation from every spreadsheet edit",
+      "Mito AI: context-aware chat and error debugging",
+      "Works with any LLM (OpenAI, Anthropic, Gemini, and more)",
+      "Bring-your-own inference via LiteLLM, Azure, Bedrock, Copilot",
+      "Pivot tables, VLOOKUP-style formulas, filters, graphs",
+      "Usable in Streamlit and Dash apps",
+      "Free open-source core; Pro adds unlimited AI completions"
+    ],
+    "pros": [
+      "Free and open source — no cost to start",
+      "Turns one-off spreadsheet work into reusable Python scripts",
+      "Any-model, any-provider AI with a no-spying promise",
+      "Great bridge for Excel users moving into Python"
+    ],
+    "cons": [
+      "Requires a Jupyter/Python environment — not a standalone web app",
+      "Unlimited AI completions need the paid Pro tier",
+      "Geared toward data practitioners, not pure business users"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mlq": {
+    "verdict": "AI investment research platform with equity tools, crypto news, and analyst chat.",
+    "overview": [
+      "MLQ is an AI-powered investment research platform aimed at simplifying the research workflow for investors. It bundles AI equity research tools, crypto news and analysis, startup funding tracking, and an AI analyst chat. Pricing details could not be verified from available sources."
+    ],
+    "features": [
+      "AI-powered equity research",
+      "Crypto news and research tools",
+      "AI analyst chat",
+      "AI startup funding tracker"
+    ],
+    "pros": [
+      "Multiple asset classes in one dashboard",
+      "AI chat for quick answers",
+      "Automation of routine research steps"
+    ],
+    "cons": [
+      "Pricing not publicly verifiable",
+      "Not investment advice; research quality should be verified"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "modelmonkey": {
+    "verdict": "AI assistant that builds financial models inside Google Sheets and Excel.",
+    "overview": [
+      "ModelMonkey is an AI copilot for spreadsheets that analyzes data, updates formulas, and builds full financial models without leaving Google Sheets or Excel. It can turn prompts into complete models — such as a three-statement model from a company's filings — using live web and SEC/EDGAR data, and it applies standard financial color conventions with dynamically referenced formulas instead of hard-coded values. Every change is explained before it's applied, and the company advertises zero data retention with AES-256 encryption."
+    ],
+    "features": [
+      "Natural-language model building in Google Sheets and Excel",
+      "Automatic formula generation and updates",
+      "Live web and SEC/EDGAR data access",
+      "Standard financial formatting conventions",
+      "Change review before applying",
+      "Custom modeling instructions",
+      "AES-256 encryption with zero data retention"
+    ],
+    "pros": [
+      "Free trial, no credit card required",
+      "Explains every change before applying",
+      "No hard-coded formulas — models stay auditable"
+    ],
+    "cons": [
+      "$20/month may be steep for casual users",
+      "Focused on finance workflows only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mokkup-ai": {
+    "verdict": "AI dashboard wireframing tool that exports to Power BI and Tableau.",
+    "overview": [
+      "Mokkup.ai is an AI-powered dashboard wireframing tool that lets analysts and teams sketch dashboard layouts and export them to Power BI and Tableau for production. It speeds up the design-to-build handoff in business-intelligence workflows. Built by NeenOpal Inc., it offers a free-forever plan alongside paid tiers."
+    ],
+    "features": [
+      "AI-assisted dashboard wireframing",
+      "Export to Power BI and Tableau",
+      "Free-forever plan",
+      "Collaboration for BI teams"
+    ],
+    "pros": [
+      "Bridges the gap between dashboard design and BI implementation",
+      "Direct export to major BI platforms"
+    ],
+    "cons": [
+      "Focused on wireframing rather than live data dashboards"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "momentum-radar": {
+    "verdict": "AI market-trend discovery and trading research toolkit.",
+    "overview": [
+      "Momentum Radar is an AI-powered toolkit for discovering market trends and doing trading research. It combines social sentiment analysis, on-chain crypto data, and TradingView-compatible indicators to surface momentum opportunities. Paid plans run around $24.95 per month with a free trial available."
+    ],
+    "features": [
+      "AI market-trend discovery",
+      "Social sentiment analysis",
+      "On-chain data",
+      "TradingView indicators"
+    ],
+    "pros": [
+      "Free trial to evaluate signals",
+      "Combines sentiment, on-chain, and technical data"
+    ],
+    "cons": [
+      "Not financial advice; signals need trader judgment",
+      "Paid plans required for ongoing access"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "mosaic": {
+    "verdict": "Strategic finance platform with AI insights for growth-stage FP&A teams.",
+    "overview": [
+      "Mosaic is a strategic finance platform that sits on top of a company's ERP, CRM, HRIS, and billing systems to give FP&A teams real-time visibility into the business. It unifies financial and operational data into live dashboards, automates forecasting and scenario modeling, and uses AI to surface insights — such as headcount-driven plan variance or revenue trends — without manual spreadsheet assembly. Built for growth-stage companies that have outgrown Google Sheets models, Mosaic helps finance leaders answer questions like runway, hiring plans, and board reporting in hours instead of days."
+    ],
+    "features": [
+      "Live financial dashboards fed by ERP, CRM, and HRIS data",
+      "AI-generated insights and variance commentary",
+      "Automated forecasting, scenario modeling, and headcount planning",
+      "Board-ready reporting without spreadsheet wrangling",
+      "Real-time metrics engine that replaces static models"
+    ],
+    "pros": [
+      "Eliminates manual FP&A spreadsheet consolidation",
+      "AI insights proactively flag what needs attention",
+      "Purpose-built for growth-stage finance teams"
+    ],
+    "cons": [
+      "Enterprise pricing with no public self-serve option",
+      "Requires solid data hygiene in connected source systems",
+      "Overkill for very small businesses without FP&A function"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "neuron7": {
+    "verdict": "Service-intelligence AI agent for resolving complex technical support issues without hallucinations.",
+    "overview": [
+      "Neuron7 is an AI platform for mission-critical service and support teams, built around its Smart Resolution Hub that unifies validated service knowledge with deterministic guided fixes. Its agent Neuro combines deterministic resolution for known issues with autonomous exploration for complex diagnostics, aiming to eliminate the hallucinations that stall enterprise agentic AI adoption."
+    ],
+    "features": [
+      "Smart Resolution Hub for service knowledge",
+      "Neuro AI agent for service resolution",
+      "Deterministic guided fixes",
+      "Autonomous exploration for complex issues",
+      "Hallucination-resistant architecture",
+      "Enterprise service intelligence"
+    ],
+    "pros": [
+      "Designed for mission-critical service reliability",
+      "Deterministic approach reduces hallucinations",
+      "Enterprise-focused"
+    ],
+    "cons": [
+      "Enterprise sales-led pricing",
+      "Best fit for complex technical support only"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nextatlas": {
+    "verdict": "AI trend forecasting platform that turns real-time social and news data into market research insights.",
+    "overview": [
+      "Nextatlas is an Italian AI trend forecasting company whose platform tracks social media feeds, news, and other sources with proprietary algorithms to detect emerging consumer trends. Its Generate Suite adds generative AI strategist agents for persona building, sentiment analysis, and automated market research workflows, helping brands make product, innovation, and marketing decisions. A 3-day free trial of the suite is offered."
+    ],
+    "features": [
+      "AI trend detection from social media and news sources",
+      "Generate Suite of generative AI strategist agents",
+      "Sentiment analysis and persona generation",
+      "Real-time dashboards for market research"
+    ],
+    "pros": [
+      "Proven track record in trend forecasting",
+      "New generative AI agents automate research workflows",
+      "Serves global enterprise brands",
+      "Free 3-day trial of Generate Suite"
+    ],
+    "cons": [
+      "Enterprise pricing not published",
+      "Primarily built for large brands and agencies",
+      "Steep learning curve for small teams"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nomic-atlas": {
+    "verdict": "Nomic AI's platform for organizing unstructured text, image, and audio data into interactive semantic maps.",
+    "overview": [
+      "Nomic Atlas structures large unstructured datasets into explorable 2D semantic maps, helping teams discover insights, clean training data, and power AI applications. It combines AI topic modeling, data labeling, and embeddings with search across stored vectors, plus a REST API and Python/TypeScript SDKs. The platform targets researchers, data teams, and developers building retrieval and RAG systems."
+    ],
+    "features": [
+      "Interactive 2D semantic maps over text, image, and audio data",
+      "AI-driven topic modeling and embeddings",
+      "Data labeling, filtering, and collaboration tools",
+      "Vector search through a single API",
+      "REST API with Python and TypeScript SDKs",
+      "Cloud or on-premises deployment options"
+    ],
+    "pros": [
+      "From an established AI company (also behind open-source Nomic Embed and GPT4All)",
+      "Developer-friendly API and SDKs",
+      "Handles multimodal unstructured data at scale"
+    ],
+    "cons": [
+      "atlas.nomic.ai homepage now leads with the Agent API, so the Atlas product page is secondary",
+      "Current pricing not publicly listed"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "noola": {
+    "verdict": "AI-native self-hosted customer support platform with omnichannel inbox and RAG.",
+    "overview": [
+      "Noola is an AI-native, self-hosted customer support platform combining an omnichannel inbox, RAG-powered AI responses, and a visual automation Studio. It deploys in one click on Zerops with Docker support. MIT-licensed, it targets teams that want Intercom-style AI support running on their own infrastructure."
+    ],
+    "features": [
+      "Omnichannel support inbox with AI responses",
+      "RAG-powered answers over your knowledge base",
+      "Visual automation Studio for support workflows",
+      "One-click deploy on Zerops, Docker support"
+    ],
+    "pros": [
+      "Self-hosted alternative to expensive support SaaS",
+      "Visual Studio lowers automation effort"
+    ],
+    "cons": [
+      "Very early project with minimal community",
+      "Support-platform features still maturing"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "noon-ai": {
+    "verdict": "Autonomous AI sourcing agent that runs the recruiting top of funnel.",
+    "overview": [
+      "Noon AI is an autonomous recruiting agent that runs the top of the hiring funnel with minimal recruiter involvement. Its AI Sourcer searches candidates across the open web rather than a fixed database, evaluates profiles against role-specific criteria including hard non-negotiables, and calibrates from recruiter thumbs-up/down feedback. It then enriches contact data, runs personalized multi-channel outreach over email and SMS, and books interviews through an AI coordinator integrated with Calendly, syncing everything back to 20+ ATS platforms. Built by Portal Inc. for teams whose bottleneck is recruiter hours, Noon sells one plan with unlimited sourcing, contacts, agents, and seats."
+    ],
+    "features": [
+      "Autonomous open-web candidate sourcing with non-negotiable criteria",
+      "Feedback calibration that improves match quality per role",
+      "Personalized email and SMS outreach sequences",
+      "AI interview scheduler with Calendly integration",
+      "Sync with 20+ ATS platforms plus SOC 2 Type II"
+    ],
+    "pros": [
+      "Truly hands-off sourcing through interview booking",
+      "Unlimited model avoids per-seat and credit math",
+      "Reinforcement learning sharpens results over time"
+    ],
+    "cons": [
+      "Requires a calibration period of 20+ reviews per role",
+      "Open-web sourcing depth can't be audited before signing",
+      "Quote-based pricing with no public dollar figure"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "numeric": {
+    "verdict": "AI close-automation platform that reconciles accounts, drafts variance commentary, and speeds up the month-end close.",
+    "overview": [
+      "Numeric is an AI accounting automation platform focused on the month-end close. It automates balance sheet reconciliations, flags anomalies pre-close, and drafts variance commentary with an AI flux writer trained on ERP data. It offers deep NetSuite integration, an MCP interface for AI tools, and an ERP-replacement module for teams wanting deeper automation."
+    ],
+    "features": [
+      "Close management checklist",
+      "Automated balance sheet reconciliation",
+      "Anomaly detection monitors",
+      "AI-drafted flux variance commentary",
+      "Technical accounting AI bot (GAAP guidance)",
+      "Cash management with AI matching rules",
+      "Billing and revenue recognition (ASC 606)",
+      "ERP replacement module with custom ledgers"
+    ],
+    "pros": [
+      "Purpose-built for close automation with deep ERP (NetSuite) integrations",
+      "AI flux writer explains variance drivers from real transaction data",
+      "MCP interface plus agent/app builders extend into existing AI workflows",
+      "Customers like Brex and Plaid report materially shorter close timelines"
+    ],
+    "cons": [
+      "No public pricing — demo-gated sales process",
+      "Built for modern mid-market accounting teams; less suited to very small businesses",
+      "ERP-replacement vision is ambitious and newer than the proven close-management core"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "numerous-ai": {
+    "verdict": "AI add-on for Google Sheets and Excel that runs ChatGPT prompts as spreadsheet functions for bulk data tasks.",
+    "overview": [
+      "Numerous.ai embeds large-language-model capabilities directly into Google Sheets and Microsoft Excel as custom functions like =AI, =WRITE and =INFER. You describe tasks in plain language — categorizing rows, cleaning text, extracting fields, generating formulas — and it processes entire columns at once. No API key is needed, and paid plans cover use in both Sheets and Excel."
+    ],
+    "features": [
+      "=AI custom function for natural-language tasks inside cells",
+      "=WRITE for AI content generation in spreadsheets",
+      "=INFER to learn patterns from examples in your sheet",
+      "Formula generator and explainer in plain English",
+      "Bulk column processing (cleaning, categorizing, extracting)",
+      "Works in both Google Sheets and Microsoft Excel",
+      "Drag-fill to scale AI across rows"
+    ],
+    "pros": [
+      "Brings ChatGPT-level AI into existing spreadsheet workflows",
+      "No API key or separate app needed",
+      "Strong at bulk text tasks: categorization, extraction, sentiment",
+      "Low entry price for individuals"
+    ],
+    "cons": [
+      "Token/character limits can be consumed quickly on large datasets",
+      "Results depend on prompt clarity; ambiguous instructions give inconsistent output",
+      "Not suited for advanced math or heavy financial modeling"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nurture-boss": {
+    "verdict": "AI inside-sales assistant for realtors that texts new leads instantly and nurtures them until they're ready to talk.",
+    "overview": [
+      "Nurture Boss is an AI-powered lead conversion assistant built for real estate agents and teams. It responds to new leads within seconds via text, carries on human-like conversations, qualifies prospects, and books appointments directly into the agent's calendar. It integrates with popular real estate CRMs and works leads around the clock."
+    ],
+    "features": [
+      "AI inside-sales assistant that texts leads within seconds",
+      "Human-like two-way conversations for lead qualification",
+      "Automatic appointment booking into agent calendars",
+      "Long-term nurture campaigns for cold and aged leads",
+      "CRM integrations (Follow Up Boss, kvCORE, LionDesk, and more)",
+      "Speed-to-lead automation for Zillow, Realtor.com, and portal leads",
+      "Conversation transcripts and lead activity tracking",
+      "Team routing and round-robin lead assignment"
+    ],
+    "pros": [
+      "Specialized purely on real-estate lead conversion, not a generic chatbot",
+      "Instant response solves the speed-to-lead problem for busy agents",
+      "Works with the agent's existing CRM rather than replacing it"
+    ],
+    "cons": [
+      "No public pricing on the site; requires a sales conversation",
+      "Effectiveness depends on lead volume and quality feeding it",
+      "Adds another subscription on top of the agent's CRM cost"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nutrient-data-extraction": {
+    "verdict": "API that extracts cited, structured data from documents for AI pipelines.",
+    "overview": [
+      "Nutrient Data Extraction API turns documents into structured, citation-backed data for AI pipelines. Feed it PDFs, Office files or images and choose Parse for whole-document understanding or Extract for specific schema-defined fields, each returned with source citations, bounding boxes and confidence scores. It is layout-aware, handles tables and key-value pairs, and is designed to feed RAG and document-automation workflows."
+    ],
+    "features": [
+      "Parse whole documents into clean Markdown",
+      "Extract schema-defined fields with citations",
+      "Bounding boxes and confidence scores per field",
+      "Table and key-value extraction",
+      "Built-in OCR for scanned documents",
+      "Multi-format input: PDF, Office, images",
+      "Layout-aware spatial understanding",
+      "Built for RAG and automation pipelines"
+    ],
+    "pros": [
+      "Every extracted field carries a source citation",
+      "Layout-aware beyond plain text extraction",
+      "From a mature document-SDK company (ex-PSPDFKit)"
+    ],
+    "cons": [
+      "Requires a separate API product subscription",
+      "Credit-based pricing can be hard to estimate",
+      "Developer-focused, not an end-user app"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "nuvio": {
+    "verdict": "AI-assisted financial management with budgeting, cash, and reporting tools.",
+    "overview": [
+      "Nuvio is an Estonian fintech founded in 2021 that offers AI-assisted financial management including budgeting and forecasting, cash management, consolidation, and financial reporting. It integrates with QuickBooks, NetSuite, and Xero, positioning itself as an all-in-one finance automation suite for businesses. Pricing starts at $19 per month with a free trial."
+    ],
+    "features": [
+      "Budgeting and forecasting",
+      "Cash management and consolidation",
+      "Financial reporting",
+      "QuickBooks, NetSuite, Xero integrations",
+      "Multi-currency support"
+    ],
+    "pros": [
+      "Broad finance feature set",
+      "Solid accounting integrations",
+      "Free trial available"
+    ],
+    "cons": [
+      "No free tier",
+      "Enterprise quote-based pricing for larger setups"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "obviously-ai": {
+    "verdict": "No-code tool that builds prediction models from a spreadsheet in about a minute.",
+    "overview": [
+      "Obviously AI is a no-code machine learning platform for business users: upload a CSV or connect a database, pick the column you want to predict, and it cleans the data, trains competing algorithms, and returns a prediction report - typically within a minute. It supports classification, regression, and time-series models, with real-time prediction APIs, what-if scenario simulations, and integrations with tools like Zapier and Salesforce. A free tier exists; paid plans start at $10/month."
+    ],
+    "features": [
+      "No-code model building",
+      "Classification, regression, time-series models",
+      "Prediction reports in under a minute",
+      "Real-time prediction API",
+      "What-if scenario simulations",
+      "Zapier, Airtable, Salesforce integrations"
+    ],
+    "pros": [
+      "No coding or data science skills needed",
+      "Very fast model turnaround",
+      "Affordable entry price"
+    ],
+    "cons": [
+      "Limited to three model types",
+      "Less customization than full ML platforms",
+      "Speed can trade off against model quality"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "olypsys": {
+    "verdict": "Smartphone ML tool that measures and identifies O-rings for industry.",
+    "overview": [
+      "Olypsys measures and identifies O-rings from smartphone photos using machine learning. It compensates for shadows, perspective, and worn components, matches parts against international standards, and stores results in a cloud vault. With over 100,000 O-rings measured, it serves manufacturing, maintenance, and engineering teams."
+    ],
+    "features": [],
+    "pros": [],
+    "cons": [],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "omnimind": {
+    "verdict": "Low-code platform for building custom AI assistants and search over your own data.",
+    "overview": [
+      "OmniMind lets teams build custom AI systems — internal copilots, document search, and Q&A bots — grounded in their own documents and data sources. Its low-code interface makes it possible to launch AI tools without deep ML expertise. Pricing starts around $39 per month with a free trial and free tier."
+    ],
+    "features": [
+      "Custom AI assistants on your data",
+      "AI-powered document search",
+      "Low-code builder",
+      "Free trial and free tier"
+    ],
+    "pros": [
+      "Quick path to a company-specific AI assistant",
+      "No ML expertise required"
+    ],
+    "cons": [
+      "Pricing is on the higher side for small teams",
+      "Quality depends on source data"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "onvo-ai": {
+    "verdict": "Ask questions of your database and get AI-generated dashboards.",
+    "overview": [
+      "Onvo AI is an AI data analytics platform that turns databases into conversational dashboards. You connect a data source, ask questions in plain language, and it generates charts and summaries you can embed in your product. It targets teams that want self-serve analytics without a BI team."
+    ],
+    "features": [
+      "Natural-language queries over your data",
+      "Auto-generated dashboards and charts",
+      "Embeddable analytics for products"
+    ],
+    "pros": [
+      "Plain-English data questions",
+      "Embeddable in your own app",
+      "Quick setup from a database"
+    ],
+    "cons": [
+      "Best suited to embedded use cases rather than ad-hoc analysis",
+      "Pricing jumps with data volume"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "onyx": {
+    "verdict": "Open-source Gen-AI and enterprise search platform over company docs and apps.",
+    "overview": [
+      "Onyx (formerly Danswer) is an open-source Gen-AI and enterprise search platform that connects to your company's documents, apps, and people. It combines a ChatGPT-style chat interface with permission-aware retrieval across 40+ connectors — Google Drive, Slack, Confluence, Salesforce, and more — so teams can ask questions grounded in their own knowledge. The MIT-licensed Community Edition self-hosts with Docker Compose."
+    ],
+    "features": [
+      "Chat over 40+ workplace connectors",
+      "Custom AI assistants with unique prompts and knowledge",
+      "Permission-aware retrieval with citations",
+      "Self-hostable via Docker Compose or Kubernetes",
+      "Slack integration",
+      "BYO LLM, including fully local models"
+    ],
+    "pros": [
+      "Mature, actively developed (~32K stars)",
+      "Open core with an MIT community edition",
+      "Strong enterprise search feature set"
+    ],
+    "cons": [
+      "Enterprise features are proprietary, not MIT",
+      "Can be resource-heavy at scale"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "openassistantgpt": {
+    "verdict": "Open-source chatbot builder trained on your own data.",
+    "overview": [
+      "OpenAssistantGPT is an open-source chatbot builder that lets companies create AI assistants trained on their own data. Teams can embed the chat widget into their website or product for customer support and internal Q&A. It offers a free plan, a paid subscription, and a self-hostable codebase."
+    ],
+    "features": [
+      "Chatbot builder trained on your own data",
+      "Embeddable website chat widget",
+      "Open-source and self-hostable",
+      "Free plan plus paid tier"
+    ],
+    "pros": [
+      "Open-source with self-hosting option",
+      "Free plan available"
+    ],
+    "cons": [
+      "Self-hosting setup may be too technical for non-developers",
+      "Advanced features require a paid tier"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "opencontracts": {
+    "verdict": "Self-hosted legal document-intelligence platform with AI agents and semantic search.",
+    "overview": [
+      "OpenContracts is an open-source platform where teams build structured, version-controlled knowledge bases from legal documents, and AI agents work alongside humans to search, annotate, and analyze them. It offers collaborative document annotation, clause extraction, an MCP server, and a Python agent API, all self-hosted via Docker. The project started in 2019 as a legal annotation tool and evolved into a builder-first document-intelligence platform."
+    ],
+    "features": [
+      "Legal document annotation and version tracking",
+      "NLP-powered clause extraction",
+      "AI agents via MCP server and Python API",
+      "Semantic search over document collections",
+      "Self-hosted Docker deployment"
+    ],
+    "pros": [
+      "Purpose-built for legal workflows",
+      "AGPL-licensed, self-hostable",
+      "Long-running project with deep domain focus"
+    ],
+    "cons": [
+      "Legal-domain specific — not general purpose",
+      "AGPL license caveat for hosted use"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "openinvest": {
+    "verdict": "Self-hosted AI investment committee: four LLM roles debate stocks into BUY/HOLD/SELL memos.",
+    "overview": [
+      "openInvest is a self-hosted AI investment committee: four LLM roles (analyst, researcher, debater, strategist) argue over stocks and converge on BUY/HOLD/SELL memos. It is an experiment in multi-agent financial reasoning rather than a trading bot. Interesting as a research artifact; not investment advice."
+    ],
+    "features": [
+      "Four LLM roles debate each stock",
+      "Structured BUY/HOLD/SELL investment memos",
+      "Multi-agent deliberation framework",
+      "Self-hosted with your own API keys",
+      "Configurable debate rounds and prompts"
+    ],
+    "pros": [
+      "Novel multi-agent debate format",
+      "Transparent reasoning in memo form",
+      "Fun research/demo artifact"
+    ],
+    "cons": [
+      "Not financial advice; LLM reasoning can err",
+      "Tiny project (87 stars), experimental",
+      "Requires API keys for market data and models"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  },
+  "openrecruiting": {
+    "verdict": "Self-hosted AI recruiting platform with AI intake calls and auto interview feedback.",
+    "overview": [
+      "OpenRecruiting is an open-source, self-hosted recruiting platform featuring AI intake calls, call recording with transcripts, and automatically written interview feedback. Originally built as a venture-backed product, the code was opened when the company wound down. It runs on Docker with a Next.js frontend, a voice agent, and an MCP server exposing its recruiting-intelligence graph. Note: the README states the project is not maintained."
+    ],
+    "features": [
+      "AI intake calls and interview recording",
+      "Automatic interview feedback generation",
+      "Agentic recruiter workspace with voice and chat",
+      "Cortex MCP server for recruitment intelligence",
+      "Twelve-container Docker stack"
+    ],
+    "pros": [
+      "Real production code from a funded startup",
+      "Self-hosted — candidate data stays yours",
+      "Apache-2.0 licensed"
+    ],
+    "cons": [
+      "Explicitly unmaintained — no bug fixes or support",
+      "Heavy setup (Docker, domain, paid services like Recall.ai)"
+    ],
+    "bestFor": null,
+    "pricingTiers": null,
+    "pakistanAvailability": null,
+    "faq": []
+  }
+}

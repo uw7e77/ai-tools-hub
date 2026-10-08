@@ -1,0 +1,27 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  flex: none;
+}
+
+.mark {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  background: var(--accent);
+  transition: background-color var(--duration) var(--ease-out);
+}
+
+.logo:hover .mark {
+  background: var(--accent-hover);
+}
+
+.word {
+  color: var(--text);
+  font-size: 1.125rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: -0.02em;
+}

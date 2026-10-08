@@ -1,0 +1,17 @@
+.rating {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--text-caption);
+}
+
+.star {
+  flex: none;
+  fill: var(--warning);
+  color: var(--warning);
+}
+
+.value {
+  color: var(--text);
+  font-weight: var(--fw-semibold);
+}

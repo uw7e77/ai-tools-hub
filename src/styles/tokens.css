@@ -1,0 +1,247 @@
+/* AIToolsHub design tokens — warm ember theme */
+
+/* ---------- color: light (default) ---------- */
+:root,
+:root.light {
+  color-scheme: light;
+
+  /* surfaces */
+  --bg: #F8F6F1;
+  --surface: #FFFFFF;
+  --surface-muted: #F1EFE9;
+  --surface-raise: #FFFFFF;
+
+  /* text */
+  --text: #1D1B18;
+  --text-muted: #59544A;
+  --text-tertiary: #857E71;
+  --text-placeholder: #6E6759;
+
+  /* borders */
+  --border: #E7E2D9;
+  --border-strong: #D9D2C5;
+  --border-hover: #D3CBBB;
+  --header-border: #EFEBE4;
+  --focus-border: #D8C8B2;
+
+  /* brand accent (ember vermilion) */
+  --accent: #D9481F;
+  --accent-hover: #C13C16;
+  --accent-soft: #FBE9E0;
+  /* AA-safe accent for small text (accent itself is large-text only) */
+  --accent-text: #B23D12;
+  --accent-soft-text: #B23D12;
+
+  /* primary button: black pill, inverts in dark mode */
+  --btn-primary-bg: #1D1B18;
+  --btn-primary-bg-hover: #000000;
+  --btn-primary-text: #F8F6F1;
+
+  /* ghost/icon button */
+  --btn-ghost-bg: #FFFFFF;
+  --btn-ghost-text: #59544A;
+  --btn-ghost-border: #E7E2D9;
+
+  /* header (frosted) */
+  --header-bg: rgba(248, 246, 241, 0.8);
+  --theme-color-meta: #F8F6F1;
+
+  /* logo chips (fixed charcoal in both modes) */
+  --logo-tile-bg: #1D1B18;
+
+  /* semantic */
+  --success: #16A34A;
+  --success-text: #15803D;
+  --warning: #F59E0B;
+  --danger: #EF4444;
+  --paid-text: #B45309;
+  --paid-bg: rgba(245, 158, 11, 0.12);
+  --paid-border: rgba(180, 83, 9, 0.28);
+  --tested-text: #15803D;
+  --tested-bg: rgba(22, 163, 74, 0.1);
+  --tested-border: rgba(22, 163, 74, 0.28);
+  --new-text: #0E7490;
+  --new-bg: rgba(6, 182, 212, 0.12);
+  --new-border: rgba(6, 182, 212, 0.3);
+
+  /* hero ember radial glows (blur 100-120px, faded top/bottom) */
+  --glow-1: rgba(255, 132, 92, 0.38);
+  --glow-2: rgba(217, 72, 31, 0.32);
+  --glow-3: rgba(242, 158, 52, 0.34);
+  --glow-4: rgba(238, 134, 112, 0.26);
+  --hero-fade: #F8F6F1;
+
+  /* shadows */
+  --shadow-card:
+    0 1px 2px rgba(29, 27, 24, 0.03),
+    0 18px 50px -28px rgba(29, 27, 24, 0.18);
+  --shadow-dropdown: 0 18px 50px -22px rgba(29, 27, 24, 0.3);
+}
+
+/* ---------- color: dark ---------- */
+:root.dark {
+  color-scheme: dark;
+
+  /* surfaces */
+  --bg: #161311;
+  --surface: #1E1B18;
+  --surface-muted: #292624;
+  --surface-raise: #2B2724;
+
+  /* text */
+  --text: #F4F2EF;
+  --text-muted: #D6D2CC;
+  --text-tertiary: #A5A09A;
+  --text-placeholder: #756F68;
+
+  /* borders */
+  --border: #393630;
+  --border-strong: #393630;
+  --border-hover: #4A453E;
+  --header-border: rgba(255, 255, 255, 0.06);
+  --focus-border: #393630;
+
+  /* brand accent */
+  --accent: #E85A2F;
+  --accent-hover: #FF8B61;
+  --accent-soft: #3B241A;
+  --accent-text: #F49A6C;
+  --accent-soft-text: #F49A6C;
+
+  /* primary button inverts to light */
+  --btn-primary-bg: #F4F2EF;
+  --btn-primary-bg-hover: #E2DFDA;
+  --btn-primary-text: #161311;
+
+  /* ghost/icon button */
+  --btn-ghost-bg: #1E1B18;
+  --btn-ghost-text: #D6D2CC;
+  --btn-ghost-border: #393630;
+
+  /* header (frosted) */
+  --header-bg: rgba(22, 19, 17, 0.86);
+  --theme-color-meta: #161311;
+
+  /* logo chips */
+  --logo-tile-bg: #292624;
+
+  /* semantic */
+  --success: #22C55E;
+  --success-text: #4ADE80;
+  --paid-text: #FBBF24;
+  --paid-bg: rgba(245, 158, 11, 0.1);
+  --paid-border: rgba(245, 158, 11, 0.25);
+  --tested-text: #4ADE80;
+  --tested-bg: rgba(34, 197, 94, 0.1);
+  --tested-border: rgba(34, 197, 94, 0.25);
+  --new-text: #67E8F9;
+  --new-bg: rgba(34, 211, 238, 0.1);
+  --new-border: rgba(34, 211, 238, 0.25);
+  /* --warning / --danger / glows identical in both modes */
+
+  --hero-fade: #161311;
+
+  --shadow-card:
+    0 1px 2px rgba(0, 0, 0, 0.2),
+    0 18px 50px -28px rgba(0, 0, 0, 0.5);
+  --shadow-dropdown: 0 18px 50px -22px rgba(0, 0, 0, 0.6);
+}
+
+/* ---------- typography ---------- */
+:root {
+  --font-display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-body: "Poppins", system-ui, -apple-system, Arial, Helvetica, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* type scale: mobile (desktop values in media query below) */
+  --text-hero: 48px;
+  --leading-hero: 50px;
+  --text-section: 38px;
+  --leading-section: 44px;
+  --text-feature: 34px;
+  --leading-feature: 40px;
+  --text-subtitle: 26px;
+  --text-card: 17px;
+  --text-lead: 17px;
+  --text-body: 16px;
+  --text-caption: 14px;
+  --text-ui: 15px;
+  --text-meta: 13px;
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-heading: 600;
+  --fw-bold: 700;
+
+  --lh-h2: 1.2;
+  --lh-h3: 1.25;
+  --lh-h4: 1.3;
+  --lh-body: 1.7;
+}
+
+/* ---------- shape & layout ---------- */
+:root {
+  --radius-pill: 9999px;
+  --radius-card-lg: 22px;
+  --radius-card: 16px;
+  --radius-input: 12px;
+  --radius-sm: 8px;
+  --radius-logo: 7px;
+
+  --section-pad: 72px;
+  --section-intro-gap: 40px;
+  --content-max: 1180px;
+  --container-wide: 1440px;
+  --intro-max: 640px;
+  --gutter: clamp(1rem, 0.75rem + 2vw, 2rem);
+  --nav-height: 64px;
+}
+
+/* ---------- spacing ---------- */
+:root {
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-40: 40px;
+  --space-48: 48px;
+}
+
+/* ---------- motion ---------- */
+:root {
+  --duration-fast: 150ms;
+  --duration: 200ms;
+  --duration-slow: 250ms;
+  --ease-out: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+/* ---------- z-index ---------- */
+:root {
+  --z-header: 100;
+  --z-backdrop: 105;
+  --z-drawer: 110;
+  --z-skip: 300;
+}
+
+/* ---------- desktop scale & layout (≥768px) ---------- */
+@media (min-width: 768px) {
+  :root {
+    --text-hero: 80px;
+    --leading-hero: 78px;
+    --text-section: 54px;
+    --leading-section: 59px;
+    --text-feature: 48px;
+    --leading-feature: 54px;
+    --text-subtitle: 32px;
+    --text-card: 18px;
+    --text-lead: 18px;
+
+    --section-pad: 112px;
+    --section-intro-gap: 64px;
+    --intro-max: 720px;
+  }
+}

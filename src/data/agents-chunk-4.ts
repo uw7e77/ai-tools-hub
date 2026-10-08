@@ -1,0 +1,1319 @@
+// GENERATED from the real AIToolsHub sources — do not edit by hand.
+// Regenerate with: node scripts/gen-site-data.mjs
+// Source: ai-tools-directory/data/tools.json where category = 'automation-agents'
+import type { Agent } from '../types'
+
+export const agentsChunk4: Agent[] = [
+  {
+    "slug": "miniloop",
+    "name": "Miniloop",
+    "logo": "/logos/miniloop.png",
+    "company": "Miniloop",
+    "tagline": "Turn plain-language requests into Python automation agents.",
+    "description": "Miniloop converts natural-language instructions into working Python agents that automate repetitive computer tasks. You describe what you want done and it generates, runs, and iterates on the code for you. A free tier is available, with Pro at $29 per month for heavier use.",
+    "capabilities": [
+      "Natural language to Python agents",
+      "Iterative code generation and execution",
+      "Task automation"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://miniloop.ai"
+  },
+  {
+    "slug": "mireye",
+    "name": "Mireye",
+    "logo": "/logos/mireye.png",
+    "company": "Mireye",
+    "tagline": "API giving AI agents cited, source-backed physical-world data for any US location.",
+    "description": "Mireye is a Y Combinator S26 company building a physical-world data layer for AI agents: one API and MCP server that answers questions about any US location with sourced, enriched geographic data. It serves hundreds of fields covering terrain, flood and wildfire risk, parcels, utilities, solar and wind resources, and natural hazards, drawing on 96 authoritative sources including USGS, FEMA, NOAA, USDA, and EPA. Every value returns with its source, fetch timestamp, and confidence score so agents can pass provenance straight to end users and auditors.",
+    "capabilities": [
+      "Single API and MCP server for cited physical-world data at any US coordinate",
+      "Natural-language questions via /v1/ask plus geocode, lookup, fetch, and proximity endpoints",
+      "Every value carries source name, source URL, fetch timestamp, and confidence level",
+      "96 authoritative sources, mostly US federal datasets, plus county and licensed data",
+      "Drive-time analysis covering the US and Canada",
+      "Typed refusals when data quality is insufficient instead of silent gaps"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://mireye.com"
+  },
+  {
+    "slug": "mission-control",
+    "name": "Mission Control",
+    "logo": "/logos/mission-control.png",
+    "company": "builderz-labs",
+    "tagline": "Self-hosted control plane to dispatch tasks, review runs and track spend for AI agents.",
+    "description": "Mission Control is a self-hosted control plane for operating AI agents. From one dashboard you can dispatch tasks, review agent runs, track spend, and manage runtimes like OpenClaw, Claude Code and Codex. It is aimed at people running multiple agents who need operational visibility instead of scattered terminal sessions.",
+    "capabilities": [
+      "Task dispatch to agent runtimes",
+      "Run review and history",
+      "Spend tracking across agents",
+      "Multi-runtime support (OpenClaw, Claude Code, Codex)"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/builderz-labs/mission-control"
+  },
+  {
+    "slug": "mobile-agent",
+    "name": "Mobile Agent",
+    "logo": "/logos/mobile-agent.png",
+    "company": "Mobile Agent",
+    "tagline": "On-device Android AI agent that runs fully offline with MCP and memory",
+    "description": "Mobile Agent by TecnicalBot is an open-source AI agent built specifically for mobile devices that runs entirely on the phone. It adds MCP tool support and persistent memory so the agent can learn across sessions. Everything executes locally, which keeps data on-device instead of in the cloud.",
+    "capabilities": [
+      "Fully on-device execution, works offline",
+      "MCP tool integration",
+      "Persistent memory across sessions",
+      "Built for mobile-first workflows"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/tecnicalbot/mobile-agent"
+  },
+  {
+    "slug": "mobile-agent-x-plug",
+    "name": "Mobile-Agent",
+    "logo": "/logos/mobile-agent-x-plug.png",
+    "company": "X-PLUG",
+    "tagline": "Multi-modal mobile-device agent series that controls phones through vision",
+    "description": "Mobile-Agent from X-PLUG is a series of multi-modal mobile-device agents that control phones through vision: they look at the screen, reason about the UI, and act across apps. The family includes several generations built by the X-PLUG research team under the MIT license. It is widely cited as a reference implementation for vision-driven GUI agents.",
+    "capabilities": [
+      "Vision-driven phone control",
+      "Multi-generational agent family (V1, V2, E)",
+      "Cross-app task execution",
+      "Research-backed methodology"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/x-plug/mobileagent"
+  },
+  {
+    "slug": "modelize-ai",
+    "name": "Modelize.ai",
+    "logo": "/logos/modelize-ai.png",
+    "company": "Modelize.ai",
+    "tagline": "Builds AI workflows and agents on a credit-based platform.",
+    "description": "Modelize.ai is a workflow platform for creating multi-step AI agents and automations, tapping into models like GPT-4, Claude, Gemini, and image generators. Users deploy reusable workflows, run unlimited internet searches, and query an AI assistant. A free Basic plan includes monthly credits, with Pro at $23.99 a month.",
+    "capabilities": [
+      "Visual AI workflow builder",
+      "Multi-model access",
+      "Deployable reusable workflows",
+      "AI assistant queries"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://www.modelize.ai"
+  },
+  {
+    "slug": "monid",
+    "name": "Monid",
+    "logo": "/logos/monid.png",
+    "company": "Monid",
+    "tagline": "Marketplace for agent tools: one API key, pay-per-call access to 2,000+ data endpoints and tools for AI agents.",
+    "description": "Monid is the OpenRouter-style marketplace for agent tools: one API key gives AI agents on-demand, pay-per-call access to hundreds of data endpoints and 2,000+ tools across 70+ providers. Agents can discover endpoints in the catalog, inspect schemas and pricing, then execute calls with costs deducted from a single Monid balance, covering search, scraping, enrichment, social data, media generation and more. The SF startup raised a $2.1M pre-seed and offers free credits to start.",
+    "capabilities": [
+      "Catalog of hundreds of data endpoints",
+      "2,000+ tools across 70+ providers",
+      "Per-call pay-as-you-go billing",
+      "Unified Monid balance, no per-service keys",
+      "MCP server with OAuth",
+      "Official CLI and agent skills"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://monid.ai"
+  },
+  {
+    "slug": "mottle-ai",
+    "name": "Mottle",
+    "logo": "/logos/mottle-ai.png",
+    "company": "Mottle",
+    "tagline": "Custom ChatGPT for your website",
+    "description": "No-code chatbot builder that creates a custom ChatGPT trained on your website content.",
+    "capabilities": [],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://mottle.com"
+  },
+  {
+    "slug": "moveo-ai",
+    "name": "Moveo AI",
+    "logo": "/logos/moveo-ai.png",
+    "company": "Moveo.AI",
+    "tagline": "Conversational AI platform for enterprise customer-support and sales agents.",
+    "description": "Moveo.AI is a conversational AI platform for building and deploying AI agents that automate customer conversations across chat, voice, and email. Its proprietary LLMs are fine-tuned on business conversations, and agents can connect to backend systems to resolve orders, schedule appointments, and qualify leads. It serves enterprises like Kaizen Gaming and Allianz in 20+ languages.",
+    "capabilities": [
+      "No-code conversational AI agent builder",
+      "Proprietary LLMs fine-tuned on business conversations",
+      "Omnichannel deployment: chat, voice, email, WhatsApp",
+      "Backend system integrations and automations",
+      "Analytics dashboard with containment metrics",
+      "Multi-region MCP servers and SDKs"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://moveo.ai"
+  },
+  {
+    "slug": "moveworks",
+    "name": "Moveworks",
+    "logo": "/logos/moveworks.png",
+    "company": "Moveworks",
+    "tagline": "Agentic AI assistant that resolves employee IT, HR and finance requests end-to-end.",
+    "description": "Moveworks is an agentic AI platform positioned as the front door to enterprise work. Employees ask in natural language from Slack, Microsoft Teams or a portal, and the platform's Reasoning Engine interprets intent, searches across disconnected knowledge sources, and executes multi-step actions — resetting passwords, provisioning software, routing approvals and more. With Agent Studio, teams can also build and deploy custom agents on the same foundation.",
+    "capabilities": [
+      "Unified AI assistant embedded in Slack, Microsoft Teams and portals",
+      "Reasoning Engine that interprets intent and plans multi-step actions",
+      "Agent Studio — low-code environment for building custom agents",
+      "AI Agent Marketplace with ready-to-use workflow plugins",
+      "Enterprise search with permission-aware retrieval across knowledge sources",
+      "100+ pre-built enterprise integrations; 100+ languages"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://www.moveworks.com"
+  },
+  {
+    "slug": "muse-by-meta",
+    "name": "Muse by Meta",
+    "logo": "/logos/muse-by-meta.png",
+    "company": "Meta",
+    "tagline": "Meta's personal AI agent that completes tasks on your behalf across apps and services.",
+    "description": "Muse is Meta's personal AI agent, launched September 2026, that carries out long-running tasks rather than just answering chat queries. It runs on its own secure virtual machine with its own browser, governed by a permissions system called Sentinel, and can shop, book, schedule, and act inside connected services like Shopify, Notion, Slack, and Expedia. It is free up to 100 million tokens a week with paid tiers raising the caps, available on iOS, Android, Mac, and the web.",
+    "capabilities": [
+      "Completes multi-step tasks across apps, websites, and connected services",
+      "Secure VM with its own browser, action log, and Sentinel permission system",
+      "Customizable agent name, avatar, and communication style",
+      "Commerce integrations with Shopify, Shop Pay, PayPal, Expedia, and more",
+      "Realtime avatar video conversations and smart glasses support",
+      "Custom email address for forwarding messages and threads"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://muse.ai"
+  },
+  {
+    "slug": "myshell",
+    "name": "MyShell",
+    "logo": "/logos/myshell.png",
+    "company": "MyShell",
+    "tagline": "Build, share, and own AI agents through a no-code creator platform.",
+    "description": "MyShell is a consumer-facing layer for AI agents where anyone can build, share, and own conversational bots. Creators assemble agents from widgets, models, and knowledge sources, publish them in a marketplace, and can monetize usage through the platform's token economy. The service claims millions of registered users and operates freemium with API access for developers.",
+    "capabilities": [
+      "No-code AI agent builder",
+      "Agent marketplace with discovery",
+      "Wallet-based monetization for creators",
+      "Voice and multimodal agent support",
+      "Developer API access"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://myshell.ai"
+  },
+  {
+    "slug": "n8n",
+    "name": "n8n",
+    "logo": "/logos/n8n.png",
+    "company": "n8n",
+    "tagline": "Source-available workflow automation with a visual canvas plus real code — free to self-host, with AI agents built in.",
+    "description": "n8n blends a drag-and-drop workflow canvas with inline JavaScript and Python, so technical teams can automate without hitting no-code ceilings. It ships with AI agent nodes, hundreds of app integrations, and a fair-code license that lets you self-host the Community Edition for free.",
+    "capabilities": [
+      "Visual drag-and-drop workflow canvas",
+      "Inline JavaScript and Python code steps",
+      "AI Agent nodes with human-in-the-loop",
+      "400+ built-in app integrations plus community nodes",
+      "Free self-hosted Community Edition",
+      "SSO/SAML, RBAC, audit logs on paid plans"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://n8n.io"
+  },
+  {
+    "slug": "nanobrowser",
+    "name": "Nanobrowser",
+    "logo": "/logos/nanobrowser.png",
+    "company": "nanobrowser",
+    "tagline": "Open-source, local-first AI web agent that runs as a Chrome/Edge extension.",
+    "description": "Nanobrowser is an open-source Chrome extension that turns your browser into an AI web agent. A multi-agent system of planner, navigator, and validator agents collaborates to extract data, fill forms, and automate repetitive web tasks — all running locally in your browser with your own LLM API keys. It supports OpenAI, Anthropic, Gemini, Ollama, and other providers, keeping your credentials out of any cloud service.",
+    "capabilities": [
+      "Multi-agent web automation (planner, navigator, validator)",
+      "Runs entirely in the browser — local-first and privacy-focused",
+      "BYO API keys for OpenAI, Anthropic, Gemini, Ollama, Groq and more",
+      "Interactive side-panel chat interface",
+      "Conversation history and follow-up questions"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/nanobrowser/nanobrowser"
+  },
+  {
+    "slug": "nanoclaw-python",
+    "name": "nanoClaw (Python)",
+    "logo": "/logos/nanoclaw-python.png",
+    "company": "grishahq",
+    "tagline": "Ultra-lightweight secure Python AI assistant with sandbox, memory, and cron",
+    "description": "nanoClaw is an ultra-lightweight, secure Python AI assistant with a filesystem sandbox, Telegram and Discord integrations, long-term memory, and cron scheduling. It positions itself as an easy-install, OpenClaw-inspired assistant that stays small and auditable. The canonical repository moved from ysz/nanoClaw to grishahq/nanoClaw and the old URL redirects.",
+    "capabilities": [
+      "Filesystem sandbox for safe execution",
+      "Telegram and Discord integration",
+      "Built-in memory and cron scheduling",
+      "Easy install, small footprint"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/grishahq/nanoclaw"
+  },
+  {
+    "slug": "nanonets",
+    "name": "Nanonets",
+    "logo": "/logos/nanonets.png",
+    "company": "Nano Net Technologies, Inc.",
+    "tagline": "No-code AI platform that extracts structured data from invoices and documents, then runs approval workflows against it.",
+    "description": "Nanonets is a no-code AI document processing platform that reads invoices, receipts, contracts and other documents with its OCR-3 extraction model and turns them into structured data. Teams encode their standard operating procedures as workflow rules so agents process, approve and post documents into SAP, Salesforce or QuickBooks automatically. It bills per block execution rather than per seat, and new accounts start with free processing credits to test on real documents.",
+    "capabilities": [
+      "AI OCR-3 document extraction model",
+      "No-code custom model training for unusual document types",
+      "Prebuilt models for invoices, receipts, purchase orders and AP",
+      "Workflow builder with human-in-the-loop approval rules",
+      "Context graphs that combine PDFs, emails and ERP data",
+      "Native connectors for SAP, QuickBooks, Xero, Salesforce, Slack and Snowflake"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://nanonets.com"
+  },
+  {
+    "slug": "naseem",
+    "name": "Naseem",
+    "logo": "/logos/naseem.png",
+    "company": "Naseem",
+    "tagline": "Native Mac AI agent that runs commands, edits files, and drives apps and the iOS Simulator using your own models.",
+    "description": "Naseem is a native Mac AI agent app that acts as an agency harness around your own AI models. Instead of just answering, it inspects your real files, runs commands in your actual terminal, drives Mac apps via Accessibility, and even operates the iOS Simulator. You bring your own provider — Anthropic, OpenAI, Gemini, OpenRouter, Ollama, or fully local MLX — and chats support per-conversation autonomy levels, sub-agents, memory, skills, and MCP servers. It is free to start with a one-time $49 lifetime Pro upgrade and no subscription.",
+    "capabilities": [
+      "Native macOS agent harness written in Swift",
+      "Bring your own models: Anthropic, OpenAI, Gemini, OpenRouter, Ollama, on-device MLX",
+      "Real terminal and diff-based file patching on your actual machine",
+      "Mac computer use via Accessibility (Pro)",
+      "iOS Simulator driving (Pro)",
+      "Sub-agent delegation with visible steps (Pro)"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://ayman3000.github.io/naseem-app"
+  },
+  {
+    "slug": "nekton",
+    "name": "Nekton",
+    "logo": "/logos/nekton.png",
+    "company": "Nekton",
+    "tagline": "AI workflow automation platform that builds automations from plain-text descriptions",
+    "description": "Nekton is an AI automation platform that turns plain-language descriptions into working workflows. Describe what you want automated and it builds the steps, connecting apps and services without manual flow-building. It offers a free tier with 300 flows per month and paid plans from $9/mo.",
+    "capabilities": [
+      "Plain-text to workflow generation",
+      "App and service integrations",
+      "Scheduled and triggered flows",
+      "Usage analytics"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://nekton.ai"
+  },
+  {
+    "slug": "nemoclaw",
+    "name": "NemoClaw",
+    "logo": "/logos/nemoclaw.png",
+    "company": "NVIDIA",
+    "tagline": "NVIDIA's open-source reference stack for running AI agents securely inside OpenShell.",
+    "description": "NemoClaw is NVIDIA's open-source reference stack for running always-on AI agents — OpenClaw, Hermes, or LangChain Deep Agents — more safely inside NVIDIA OpenShell sandboxes. It provides guided onboarding, a hardened blueprint, managed local inference, network policy enforcement, and lifecycle operations through a single CLI. OpenShell acts as the security substrate with gateway-held credentials and deny-by-default network egress.",
+    "capabilities": [
+      "Sandboxed OpenClaw/Hermes/LangChain Deep Agents via OpenShell",
+      "Guided onboarding CLI",
+      "Managed local vLLM inference",
+      "Network policy and credential custody at the gateway",
+      "Agent lifecycle and snapshot management"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/NVIDIA/NemoClaw"
+  },
+  {
+    "slug": "neuraltalk-ai",
+    "name": "NeuralTalk AI",
+    "logo": "/logos/neuraltalk-ai.png",
+    "company": "NeuralTalk AI",
+    "tagline": "No-code AI chatbot platform for businesses.",
+    "description": "NeuralTalk AI is a no-code platform for building AI chatbots for businesses. Companies can create conversational assistants to handle customer questions and support without writing code. It is meant for teams that want to deploy chat automation quickly.",
+    "capabilities": [
+      "No-code chatbot builder",
+      "Business chat automation",
+      "Conversational AI"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://neuraltalk.ai"
+  },
+  {
+    "slug": "nextbrowser",
+    "name": "Nextbrowser",
+    "logo": "/logos/nextbrowser.png",
+    "company": "Nextbrowser",
+    "tagline": "Desktop console for running local AI agents inside managed browser sessions.",
+    "description": "Nextbrowser is an Electron-based desktop app that gives users a visual control panel for running local AI agents - like Codex or Claude Code - inside real, managed browser sessions. It handles profiles, proxy and fingerprint rotation, session management, skills, schedules, and captcha workflows, all observable from one console. The project is open source, with paid plans around $20/month for the hosted service.",
+    "capabilities": [
+      "AI agents in real browser sessions",
+      "Profile and proxy management",
+      "Session live-viewing",
+      "Skills and scheduled work",
+      "Captcha workflow support",
+      "Open-source codebase"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://nextbrowser.com"
+  },
+  {
+    "slug": "nextphone",
+    "name": "NextPhone",
+    "logo": "/logos/nextphone.png",
+    "company": "NextPhone",
+    "tagline": "AI virtual receptionist that answers calls in one ring and books appointments.",
+    "description": "NextPhone is an AI-powered phone automation platform acting as a 24/7 virtual receptionist for service businesses, founded in 2024. It answers every call on the first ring with a conversational AI trained on your website, qualifying leads, collecting job or case details, and booking appointments directly into your calendar or CRM. Calls run in 14 languages with unlimited minutes on a flat monthly rate, and it plugs into 100+ tools including Clio, HubSpot, Salesforce, Google Calendar, and Zapier, with instant human transfer when a caller needs a real person.",
+    "capabilities": [
+      "24/7 AI answering on the first ring",
+      "AI trained on your website for qualified intake",
+      "Appointment booking into calendar or CRM",
+      "14 languages supported",
+      "Unlimited calls on a flat monthly rate",
+      "100+ integrations including Clio, HubSpot, Salesforce, Zapier"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://getnextphone.com"
+  },
+  {
+    "slug": "nexusgpt",
+    "name": "NexusGPT",
+    "logo": "/logos/nexusgpt.png",
+    "company": "Nexus GPT",
+    "tagline": "No-code platform for building and deploying autonomous AI agents across apps and channels.",
+    "description": "NexusGPT is a no-code platform that lets users build, fine-tune, and deploy custom AI agents without writing code. Agents can be trained on documents, connected to over 1,500 tools and plugins, and powered by multiple LLM providers. Once built, agents deploy directly to websites, WhatsApp, Microsoft Teams, and email, making it suitable for sales, support, research, and operations workflows.",
+    "capabilities": [
+      "No-code AI agent builder",
+      "1,500+ tool and plugin marketplace",
+      "Multi-model support (OpenAI, Claude, Mistral, open-source)",
+      "Multi-modal knowledge upload",
+      "Deploy to web, WhatsApp, Teams, and email",
+      "Enterprise-grade security with ISO 42001 compliance"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://gpt.nexus"
+  },
+  {
+    "slug": "ninjo-ai",
+    "name": "Ninjo AI",
+    "logo": "/logos/ninjo-ai.png",
+    "company": "Ninjo AI",
+    "tagline": "AI sales agents for marketing agencies that qualify leads and close deals over DMs.",
+    "description": "Ninjō is an AI agent platform built for marketing agencies: agents sell over Instagram, WhatsApp, Messenger, TikTok, and Telegram DMs, qualifying leads, handling objections, booking calls, and closing sales in each client's voice. Agencies build, test, and tune agents by chatting with Claude or ChatGPT via MCP, using templates validated across production agents.",
+    "capabilities": [
+      "AI agents selling over Instagram, WhatsApp, Messenger, TikTok, Telegram",
+      "MCP-native build and management via Claude and ChatGPT",
+      "Lead qualification and objection handling in each client's voice",
+      "Automated call and appointment booking",
+      "Built-in CRM with agent-driven conversion tracking",
+      "Proven prompt templates and playbooks"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://www.ninjo.ai"
+  },
+  {
+    "slug": "nodetool",
+    "name": "NodeTool",
+    "logo": "/logos/nodetool.png",
+    "company": "NodeTool",
+    "tagline": "Open-source visual canvas for building AI workflows and agents.",
+    "description": "NodeTool is an open-source (AGPL-3.0), agent-first creative workspace: a node canvas, video timeline and sketch editor sharing one surface where every major AI model, cloud or local, can be wired in. An in-app agent builds the workflows for you from a description, and you bring your own API keys so you pay providers at cost with no markup. It runs locally on macOS, Windows and Linux with support for Ollama, MLX and GGUF models.",
+    "capabilities": [
+      "Drag-and-drop node canvas",
+      "Agent-built workflows",
+      "Local LLM support (Ollama, MLX)",
+      "Bring your own API keys",
+      "Video timeline and sketch editor"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://nodetool.ai"
+  },
+  {
+    "slug": "nodey",
+    "name": "Nodey",
+    "logo": "/logos/nodey.png",
+    "company": "Nodey",
+    "tagline": "Mobile command center for n8n: monitor runs, debug with AI, and trigger workflows from NFC or geofences.",
+    "description": "Nodey is a mobile command center for n8n, available on iOS and Android. It connects to self-hosted or n8n Cloud instances to monitor workflow runs, inspect execution errors, and trigger automations from NFC tags, geofences, widgets, and push notifications. Nodey Pro adds AI troubleshooting, failure diagnosis, and an AI workflow builder that generates complete n8n JSON from natural-language descriptions and exports it back to your instance.",
+    "capabilities": [],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://getnodey.com"
+  },
+  {
+    "slug": "norby-ai",
+    "name": "Norby AI",
+    "logo": "/logos/norby-ai.png",
+    "company": "Norby AI",
+    "tagline": "No-code website chatbot that answers from your FAQs and docs, 24/7.",
+    "description": "Norby AI is a lightweight website chatbot for startups, personal brands, and small companies: paste in your product description, documentation, or FAQs, drop a snippet of code on your site, and Norby starts answering customer questions around the clock. There's deliberately little setup — no coding, no training pipeline — which makes it an easy first step into support automation. Plans start around $19/month after a free trial.",
+    "capabilities": [
+      "Website chatbot from pasted FAQs and docs",
+      "No-code setup with a single embed snippet",
+      "24/7 automated customer answers",
+      "Tuned for startups and small businesses",
+      "Customer query responses with NLP"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://norby.io"
+  },
+  {
+    "slug": "notch",
+    "name": "Notch",
+    "logo": "/logos/notch.png",
+    "company": "Notch",
+    "tagline": "Autonomous AI customer-support agents with governed, pay-per-resolution automation.",
+    "description": "Notch is an autonomous AI customer-support platform whose agents resolve tickets end-to-end rather than just deflecting them. Launched in early 2024, it trains on company policies, product data and past tickets, then follows deterministic rules with full auditability — a design aimed at regulated industries like insurance, finance and eCommerce. Its pay-per-resolution model charges only when a case is completely resolved, and the company backs engagements with a 30% autonomous resolution rate within 90 days.",
+    "capabilities": [
+      "Autonomous customer-facing agents for voice, chat, email, SMS and social",
+      "Pay-per-resolution pricing — charged only when a case is fully resolved",
+      "Governed autonomy — deterministic rules, audit trails and escalation controls",
+      "75+ languages with native-quality responses",
+      "End-to-end resolution including back-office execution",
+      "Fully managed service — Notch implements and operates part of your support org"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://www.notch.cx"
+  },
+  {
+    "slug": "olas",
+    "name": "Olas",
+    "logo": "/logos/olas.png",
+    "company": "Olas",
+    "tagline": "Decentralized network for building, deploying, and co-owning autonomous AI agents.",
+    "description": "Olas (formerly Autonolas) is a decentralized protocol where autonomous AI agents run services on blockchains, trade with one another, and earn crypto rewards. Developers use its open-source framework to build agents for trading, prediction markets, and DeFi operations, then deploy them to a shared marketplace where agent-to-agent transactions already number in the millions. The Pearl app serves as a user-facing agent app store with self-custody, letting non-technical users fund, deploy, and manage their own co-owned agents. OLAS tokens power staking, bonding, and developer incentives across the network.",
+    "capabilities": [
+      "Open-source framework for building autonomous AI agents",
+      "Pearl agent app store with Web2 login plus self-custody",
+      "Decentralized mech marketplace for agent-to-agent services",
+      "OLAS staking and bonding for operating services",
+      "Multi-chain deployment across EVM networks"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://olas.network"
+  },
+  {
+    "slug": "omnara",
+    "name": "Omnara",
+    "logo": "/logos/omnara.png",
+    "company": "Omnara",
+    "tagline": "Command center to talk to your AI agents from anywhere.",
+    "description": "Omnara turns coding agents like Claude Code and Codex CLI into communicative teammates you can reach from a web dashboard or mobile app. A lightweight CLI wrapper mirrors your terminal sessions, streams activity logs and git diffs, and pings you when an agent needs a decision. A YC S25 company, it offers 10 free sessions a month with unlimited sessions on the paid plan.",
+    "capabilities": [
+      "Web and mobile agent dashboard",
+      "Real-time activity streaming",
+      "Push notifications for agent input",
+      "Headless and server modes",
+      "Agent templates and SDK"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://omnara.com"
+  },
+  {
+    "slug": "oncallclerk",
+    "name": "OnCallClerk",
+    "logo": "/logos/oncallclerk.png",
+    "company": "OnCallClerk",
+    "tagline": "No-code AI phone agents that answer inbound business calls 24/7.",
+    "description": "OnCallClerk is a no-code AI phone-agent platform that answers inbound business calls around the clock. It books appointments, captures leads, routes urgent calls, filters spam and produces transcripts and summaries, integrating with calendars and CRMs. Setup takes minutes with industry templates and 30+ natural voices, aimed at businesses that want to stop missing calls without hiring receptionists.",
+    "capabilities": [],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://oncallclerk.com"
+  },
+  {
+    "slug": "opal",
+    "name": "Opal",
+    "logo": "/logos/opal.png",
+    "company": "Google",
+    "tagline": "Google Labs' no-code builder for AI mini-apps.",
+    "description": "Opal is Google Labs' no-code builder for creating AI mini-apps with natural language. Users describe what they want, and Opal assembles a visual workflow powered by Google models like Gemini and Imagen, with multi-step processes they can edit, test, and share as web links. It is free and now available in more than 160 countries.",
+    "capabilities": [
+      "Natural-language AI app creation",
+      "Visual workflow editor",
+      "Multi-step processes with Gemini and Imagen",
+      "Shareable app links"
+    ],
+    "difficulty": null,
+    "pricing": "free",
+    "tested": false,
+    "officialUrl": "https://opal.google"
+  },
+  {
+    "slug": "open-interface",
+    "name": "Open Interface",
+    "logo": "/logos/open-interface.png",
+    "company": "Open Interface",
+    "tagline": "Open-source agent that controls your computer using LLMs.",
+    "description": "Open Interface is an open-source project that lets AI agents take control of a computer, using screen capture and mouse/keyboard automation driven by language models. It runs on Windows, macOS, and Linux and is released under the GPL-3.0 license. With over 2,700 GitHub stars, it is one of the more popular community experiments in general computer-use agents.",
+    "capabilities": [
+      "LLM-driven computer control",
+      "Screen capture input",
+      "Mouse and keyboard automation",
+      "Cross-platform support"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/AmberSahdev/Open-Interface"
+  },
+  {
+    "slug": "openclaw",
+    "name": "OpenClaw",
+    "logo": "/logos/openclaw.png",
+    "company": "OpenClaw Foundation",
+    "tagline": "Open-source personal AI assistant that lives in your chat apps",
+    "description": "OpenClaw is a free, open-source personal AI assistant that runs on your own hardware and connects large language models to the software you use every day. A local Gateway process routes messages between chat apps like WhatsApp, Telegram, Slack, Discord, and Signal and your chosen model, letting the agent read files, send emails, run scripts, call APIs, and execute multi-step workflows with persistent memory. It is maintained by the nonprofit OpenClaw Foundation under the MIT license.",
+    "capabilities": [
+      "Self-hosted gateway for chat channels",
+      "Persistent memory across sessions",
+      "Skills and plugin system",
+      "Scheduled jobs and subagents"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://openclaw.ai"
+  },
+  {
+    "slug": "openclaw-mcp",
+    "name": "openclaw-mcp",
+    "logo": "/logos/openclaw-mcp.png",
+    "company": "openclaw-mcp",
+    "tagline": "Secure OAuth2 bridge between Claude.ai and a self-hosted OpenClaw assistant.",
+    "description": "openclaw-mcp is an MCP server that creates a secure bridge between Claude.ai and your self-hosted OpenClaw assistant using OAuth2 authentication. It lets the Claude web app reach into your private agent setup safely. MIT-licensed, it is a focused integration for OpenClaw users.",
+    "capabilities": [
+      "MCP server bridging Claude.ai to self-hosted OpenClaw",
+      "OAuth2 authentication for secure access",
+      "Docker-ready deployment"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/freema/openclaw-mcp"
+  },
+  {
+    "slug": "opencomputer",
+    "name": "OpenComputer",
+    "logo": "/logos/opencomputer.png",
+    "company": "OpenComputer",
+    "tagline": "Pay-as-you-go cloud computers for AI agents — deploy durable sessions that hibernate and resume.",
+    "description": "OpenComputer is a runtime platform for long-running AI agents: define an agent as a TypeScript function, deploy it, and each session gets a real Linux machine with shell, filesystem, packages, and network. Sessions stream, hibernate when idle, and resume where they left off, and billing is pay-as-you-go for model tokens plus machine seconds. The underlying repo is Apache 2.0 open source with self-hosting guides.",
+    "capabilities": [
+      "Every agent session runs on a real Linux machine",
+      "Durable sessions: stream, hibernate when idle, resume with full state",
+      "Deploy agents as TypeScript functions with one CLI command",
+      "Bring your own model keys or subscriptions to cut token costs",
+      "Secrets stay outside the runtime — agents use them without seeing them",
+      "Schedules let agents run themselves unattended"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://opencomputer.dev"
+  },
+  {
+    "slug": "openfang",
+    "name": "openfang",
+    "logo": "/logos/openfang.png",
+    "company": "RightNow AI",
+    "tagline": "Open-source agent operating system in Rust — 30 agents, 40 channels, 38 tools, one binary.",
+    "description": "openfang is an ambitious agent OS written in Rust that ships as a single binary. It bundles dozens of prebuilt agents, scores of channels, and a large toolset for building autonomous workflows. With 18k stars, it is one of the most-watched Rust agent projects on GitHub.",
+    "capabilities": [
+      "Single-binary Rust agent OS",
+      "30 built-in agents and 40 channels",
+      "38 tools for autonomous workflows",
+      "Channel-based multi-agent collaboration"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/RightNow-AI/openfang"
+  },
+  {
+    "slug": "openlegion",
+    "name": "OpenLegion",
+    "logo": "/logos/openlegion.png",
+    "company": "OpenLegion LLC",
+    "tagline": "Source-available multi-agent framework with security and cost controls",
+    "description": "OpenLegion is a self-hosted runtime for fleets of autonomous AI agents, built as a security-first alternative to single-user agent frameworks. Every agent runs in its own isolated Docker container or microVM, API keys live in a central credential vault agents can never see, and per-agent daily and monthly budget caps make runaway spend impossible. Agents coordinate through a shared blackboard and pub/sub events, chat through Telegram, Discord, Slack, or WhatsApp, and self-hosting is free for any use including commercial; managed hosting is available from OpenLegion LLC. It is source-available under the PolyForm Perimeter license — readable and auditable, but not OSI open source.",
+    "capabilities": [
+      "Multi-agent fleets in isolated Docker containers",
+      "Credential vault — agents never hold API keys",
+      "Per-agent budget caps",
+      "Blackboard + pub/sub coordination",
+      "Chat via Telegram, Discord, Slack, WhatsApp",
+      "100+ LLM providers via LiteLLM"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://github.com/openlegion-ai/openlegion"
+  },
+  {
+    "slug": "openmarket-m11",
+    "name": "OpenMarket",
+    "logo": "/logos/openmarket-m11.png",
+    "company": "M11 Labs",
+    "tagline": "M11 Labs' multi-agent marketplace where brand agents compete and a referee verifies claims.",
+    "description": "OpenMarket is a research preview from M11 Labs billed as the world's first multi-agent marketplace for agentic commerce. Shoppers state what they want, brand seller agents argue their case while rival agents challenge weak claims, and an independent M11 referee checks every claim against live evidence in real time. Built on the Universal Commerce Protocol co-developed by Shopify and Google, agents read live catalog data across millions of merchants, and the same scans feed M11's research on how well product claims hold up to machine scrutiny. It is free to use and buy from during the research preview.",
+    "capabilities": [
+      "Competing seller agents arguing for their products",
+      "Independent referee verifying claims against evidence",
+      "Buyer agent that holds the brief but cannot purchase",
+      "Built on the Universal Commerce Protocol",
+      "Live catalog data across 3M+ merchants",
+      "Verifiability Index research on product claims"
+    ],
+    "difficulty": null,
+    "pricing": "free",
+    "tested": false,
+    "officialUrl": "https://m11.ai/openmarket"
+  },
+  {
+    "slug": "openmuse",
+    "name": "OpenMuse",
+    "logo": "/logos/openmuse.png",
+    "company": "CopilotKit",
+    "tagline": "Open-source personal AI agent you self-host — browses the web, runs a real computer, and connects your Gmail and calendar.",
+    "description": "OpenMuse is an open-source personal AI agent from CopilotKit (MIT license) that you run yourself. It drives a real browser via Playwright, works inside its own Docker Linux computer, and connects to Gmail and Google Calendar, with support for any model you choose. It's built for people who want Muse-style agent power without handing their data to a hosted service.",
+    "capabilities": [
+      "Open-source personal AI agent under the MIT license",
+      "Real browser automation powered by Playwright",
+      "Its own Docker Linux computer for executing agent tasks",
+      "Gmail and Google Calendar connectors",
+      "Model-agnostic — works with any model provider you choose",
+      "Self-hosted, so your credentials and data stay under your control"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://www.copilotkit.ai/openmuse"
+  },
+  {
+    "slug": "openserv",
+    "name": "OpenServ",
+    "logo": "/logos/openserv.png",
+    "company": "OpenServ",
+    "tagline": "Enterprise agent infrastructure with a reasoning API for production agents.",
+    "description": "OpenServ provides enterprise-grade agent infrastructure with a reasoning API (SERV) for building and running AI agents at scale. It focuses on reliability, observability and deployment tooling that larger organizations need when agents go into production. The platform pairs managed hosting with the SERV Reasoning API for programmatic agent development.",
+    "capabilities": [
+      "Enterprise AI agent infrastructure",
+      "SERV Reasoning API for agent developers",
+      "Managed agent deployment and hosting",
+      "Observability and monitoring tooling",
+      "Production-grade reliability features"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://openserv.ai"
+  },
+  {
+    "slug": "openworker",
+    "name": "OpenWorker",
+    "logo": "/logos/openworker.png",
+    "company": "OpenWorker",
+    "tagline": "Open-source desktop AI coworker that does finished work inside your everyday tools.",
+    "description": "OpenWorker is an open-source AI coworker that lives on your desktop and delivers finished work — reviewed code, documents, reports, triaged inboxes — instead of just chat. It plugs into 25+ everyday tools like Slack, GitHub, Jira and Gmail, uses your own model keys (or local Ollama), runs scheduled automations, and asks approval before anything consequential.",
+    "capabilities": [
+      "Real deliverables: docs, spreadsheets, reports, web pages",
+      "25+ integrations: GitHub, Slack, Jira, Notion, Linear, HubSpot, Gmail, Calendar",
+      "Terminal and local file access",
+      "Any MCP server plugs in with per-tool control",
+      "Bring-your-own-model: OpenAI, Anthropic, Gemini, local Ollama and more",
+      "Scheduled automations for recurring work"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://openworker.com"
+  },
+  {
+    "slug": "orchesty",
+    "name": "Orchesty",
+    "logo": "/logos/orchesty.png",
+    "company": "Hanaboso",
+    "tagline": "Developer-first, source-available integration infrastructure with governed AI-agent access.",
+    "description": "Orchesty is developer-first infrastructure for building and operating mission-critical system integrations, high-volume asynchronous data flows and governed AI-agent processes. Instead of locking integration logic inside a closed workflow runtime, it provides scalable microservice-based infrastructure with persistent messaging, retries, throttling and scaling, plus observability, tracing, authorization and auditing on top. It is source-available with open-source SDK, connectors and integration components, and its AI ruleset lets coding agents generate new connectors and integrations while teams keep full control of the code.",
+    "capabilities": [
+      "Microservice-based integration infrastructure (not closed workflow runtime)",
+      "Persistent messaging, retries, throttling and scaling",
+      "Observability, tracing, authorization and audit trails",
+      "Source-available; open-source SDK, connectors and components",
+      "AI ruleset for coding agents to build connectors and integrations",
+      "Pulse and MCP access so AI agents use governed business processes"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://orchesty.io"
+  },
+  {
+    "slug": "origon",
+    "name": "Origon",
+    "logo": "/logos/origon.png",
+    "company": "Origon",
+    "tagline": "Infrastructure platform to build, run, observe, and govern AI agents in production.",
+    "description": "Origon bills itself as an agentic operating system: the layer teams use to compose AI systems from root agents, workers, actions, and runtimes, then ship them as one production unit. It includes a visual studio for composing agents, over a hundred one-click connectors, native voice, SMS, WhatsApp, Slack, and Teams channels, and a context-graph memory system so agents carry judgment across sessions. Security and governance sit at the platform core, with traceable decisions, replayable sessions, and OpenTelemetry-compatible observability.",
+    "capabilities": [
+      "Visual agent composer (root agent, workers, actions, runtime)",
+      "100+ one-click connectors",
+      "Native voice, SMS, WhatsApp, Messenger, Slack, Teams channels",
+      "Context-graph AI Datastore memory",
+      "Full observability: transcripts, execution logs, auto-summaries",
+      "Centralized security and governance controls"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://origon.ai"
+  },
+  {
+    "slug": "ornold-mcp",
+    "name": "Ornold MCP",
+    "logo": "/logos/ornold-mcp.png",
+    "company": "Ornold AI",
+    "tagline": "MCP server that lets AI agents control antidetect browsers with vision-first navigation and CAPTCHA solving.",
+    "description": "Ornold MCP is a Model Context Protocol server that lets AI agents take control of antidetect browsers with vision-first navigation. It can work with many browser profiles at once, solve CAPTCHAs automatically, handle fingerprints and proxies, and stay persistent across sessions. A web dashboard with a token system at mcp.ornold.com manages usage, making it a practical bridge between coding agents and real browser workflows.",
+    "capabilities": [],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://github.com/ornold-ai/ornold-mcp"
+  },
+  {
+    "slug": "os-copilot",
+    "name": "OS-Copilot",
+    "logo": "/logos/os-copilot.png",
+    "company": "OS-Copilot",
+    "tagline": "Open-source library for building self-improving generalist computer agents.",
+    "description": "OS-Copilot is an open-source Python library for building generalist agents that operate across an entire operating system — web, terminals, files, multimedia, and third-party apps. Its FRIDAY agent demonstrates self-improvement: learning from interaction to get better at tasks like Excel automation. Accepted at the ICLR 2024 LLM Agents Workshop, it ships tutorials, a frontend, and API deployment tools.",
+    "capabilities": [
+      "Generalist OS-interfacing agent library",
+      "Self-improvement and self-learning mechanisms",
+      "FRIDAY reference agent with vision support",
+      "Frontend UI and API deployment",
+      "Tutorials from beginner to advanced"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/OS-Copilot/OS-Copilot"
+  },
+  {
+    "slug": "osaurus",
+    "name": "Osaurus",
+    "logo": "/logos/osaurus.png",
+    "company": "Osaurus",
+    "tagline": "Free, open-source macOS app that runs privacy-first local AI agents with memory, code execution, and browsing.",
+    "description": "Osaurus is a native macOS harness for local AI models that turns them into working agents: each agent gets its own model, memory, and skills, can read and edit your files, run shell, Python, and Node in an isolated sandbox, and browse the web through its own persistent browser. Everything is stored on the Mac with a privacy filter that scrubs prompts before anything reaches a cloud provider. The individual app is free and MIT licensed; team Workspaces add shared agents and workflows.",
+    "capabilities": [
+      "One agent per job, each with its own model, memory, and skills",
+      "Runs local models or connects to frontier cloud providers",
+      "Sandboxed code execution: shell, Python, and Node",
+      "Agents browse websites and fill forms with a persistent browser",
+      "Scheduled agents for daily journals, inbox summaries, and commits",
+      "Privacy filter scrubs names, emails, and secrets from cloud prompts"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://osaurus.ai"
+  },
+  {
+    "slug": "ottermind",
+    "name": "Ottermind",
+    "logo": "/logos/ottermind.png",
+    "company": "Ottermind AI",
+    "tagline": "Agentic AI workspace turning ideas and files into finished deliverables.",
+    "description": "Ottermind AI is an AI-powered workspace built around agentic, multi-step workflows. It combines AI interaction, file handling, task execution, project context, memory, automation, multi-model access, and content generation to move users from goals and raw source materials to finished deliverables. Its capabilities span presentations, documents, spreadsheets, research, images, videos, websites, long-file analysis, and recurring workflows, with projects synced across web, macOS, Windows, iOS, and Android.",
+    "capabilities": [
+      "Agentic multi-step workflows in one workspace",
+      "Multi-model access",
+      "File handling with project context and memory",
+      "Presentations, docs, spreadsheets, images, videos, websites",
+      "Long-file analysis and recurring workflows",
+      "Cross-device sync across web, desktop, and mobile"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://ottermind.ai"
+  },
+  {
+    "slug": "owl",
+    "name": "OWL",
+    "logo": "/logos/owl.png",
+    "company": "CAMEL-AI",
+    "tagline": "CAMEL-based multi-agent workforce for real-world task automation.",
+    "description": "OWL (Optimized Workforce Learning) is a multi-agent system from the CAMEL-AI community aimed at real-world task automation. It organizes agents into a workforce that plans, delegates, and executes practical tasks end to end. Built on CAMEL's foundations, it pushes the framework toward applied automation rather than pure research.",
+    "capabilities": [
+      "Multi-agent workforce for task automation",
+      "Plan-delegate-execute agent organization",
+      "Built on the CAMEL framework",
+      "Real-world task benchmarks"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/camel-ai/owl"
+  },
+  {
+    "slug": "owl-browser",
+    "name": "Owl Browser",
+    "logo": "/logos/owl-browser.png",
+    "company": "Olib AI",
+    "tagline": "AI-native browser that renders pages for agents and automates the web with stealth and APIs.",
+    "description": "Owl Browser is an AI-native browser built by Olib AI for web automation. Instead of screenshots, it renders pages as OwlMark, a compact handle-addressable text view agents can observe and act on. It ships a stealth Chromium engine, 175+ automation tools over REST, WebSocket and MCP, CAPTCHA solving, and per-context proxy isolation for undetected large-scale automation.",
+    "capabilities": [
+      "OwlMark agent rendering: pages as handle-addressable text instead of screenshots",
+      "175+ automation tools via REST, WebSocket and MCP server",
+      "Stealth Chromium engine with anti-detection fingerprint handling",
+      "Built-in CAPTCHA solver (text, image grid, checkbox, puzzle)",
+      "Per-context proxy pools, geo-targeting and Tor circuit isolation",
+      "On-device vision model for page understanding and natural-language actions"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://www.owlbrowser.net"
+  },
+  {
+    "slug": "paperchat",
+    "name": "PaperChat",
+    "logo": "/logos/paperchat.png",
+    "company": "PaperChat",
+    "tagline": "No-code builder for AI chatbots trained on your own documents and website content.",
+    "description": "PaperChat is a no-code builder for AI chatbots that answer from your own documents and website content. Users upload files or connect a site, and get an embeddable assistant trained on that knowledge. It targets businesses that want instant customer support or lead-capture chat without coding.",
+    "capabilities": [
+      "No-code AI chatbot builder",
+      "Train bots on your documents and website",
+      "Embeddable chat widget",
+      "Lead capture and customer support use cases"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://paperchat.io"
+  },
+  {
+    "slug": "paperclip",
+    "name": "Paperclip",
+    "logo": "/logos/paperclip.png",
+    "company": "Paperclip",
+    "tagline": "Open-source OS for managing teams of AI agents with org charts, budgets, tasks, and governance.",
+    "description": "Paperclip is an open-source control plane for running a team of AI agents like a company. You define the mission and projects, hire agents (Claude Code, Codex, Cursor, OpenClaw and others) into roles with reporting lines, set per-agent monthly budgets that hard-stop runaway loops, and track tasks and decisions from one dashboard. It is self-hosted, MIT licensed, and aimed at developers juggling many agent sessions at once.",
+    "capabilities": [
+      "Agent org charts with roles and hierarchies",
+      "Per-agent budget limits with hard stops",
+      "Shared task system and ticketing",
+      "Heartbeat scheduling and routines",
+      "Approval gates and watchdog agents",
+      "Adapters for Claude Code, Codex, Cursor, OpenClaw"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://paperclip.ing"
+  },
+  {
+    "slug": "parabola",
+    "name": "Parabola",
+    "logo": "/logos/parabola.png",
+    "company": "Parabola",
+    "tagline": "No-code canvas for scheduled data workflows that import, clean, transform and sync data between business apps.",
+    "description": "Parabola is a no-code platform where operations, ecommerce and finance teams build scheduled data workflows on a visual canvas. Instead of trigger-based app automations, its Flows import, clean, enrich and export data — merging reports, deduplicating CSVs or syncing inventory between Shopify and a warehouse. AI-powered steps handle text analysis and classification inside flows, and built-in Tables provide lightweight data storage.",
+    "capabilities": [
+      "Visual drag-and-drop Flow builder with live data preview",
+      "AI-powered steps for categorization and data extraction",
+      "AI PDF parsing for document-heavy data sources",
+      "100+ connectors across APIs, databases and files",
+      "Scheduled runs with flexible timing controls",
+      "Built-in Tables for storing workflow data"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://parabola.io"
+  },
+  {
+    "slug": "parallel-ai",
+    "name": "Parallel AI",
+    "logo": "/logos/parallel-ai.png",
+    "company": "Parallel AI",
+    "tagline": "All-in-one AI automation platform with AI employees, lead gen, content engine, and workflows.",
+    "description": "Parallel AI is an all-in-one business automation platform where you build AI employees on frontier models like GPT, Claude, and Gemini. Those agents qualify leads, draft campaigns, handle support, and run workflows across 1,000+ integrated tools. It also bundles lead generation, a content engine, and multi-channel outreach sequences, with white-label options for agencies.",
+    "capabilities": [
+      "AI employees built on multiple frontier models",
+      "Smart Lists lead generation and outreach sequences",
+      "AI content engine",
+      "Native n8n workflow automation",
+      "White-label capabilities"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://parallellabs.app"
+  },
+  {
+    "slug": "pastesheet",
+    "name": "PasteSheet",
+    "logo": "/logos/pastesheet.png",
+    "company": "PasteSheet",
+    "tagline": "Turn any Google Sheet into a live cached REST API and read-only MCP server for AI agents — no backend, no code.",
+    "description": "PasteSheet turns a Google Sheet into a live, cached REST API with no backend and no code. You paste a public share URL (or connect Google for a restricted sheet) and get a permanent JSON endpoint with filtering, sorting, pagination, full-text search, and aggregations. Every endpoint also doubles as a read-only Model Context Protocol server, so AI agents like Claude, ChatGPT, and Cursor can query your sheet as a native tool.",
+    "capabilities": [
+      "Turn Google Sheets into live cached REST APIs",
+      "Every endpoint is also a read-only MCP server for AI agents",
+      "Typed query engine: filter, search, sort, aggregate via URL params",
+      "Read-only by design — agents can never overwrite your data",
+      "Private endpoints with Bearer keys on paid plans",
+      "AI column mapping and full-text search"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://pastesheet.com"
+  },
+  {
+    "slug": "permaship",
+    "name": "PermaShip",
+    "logo": "/logos/permaship.png",
+    "company": "PermaShip",
+    "tagline": "Autonomous engineering platform with governed AI agents",
+    "description": "PermaShip is an autonomous engineering platform that runs governed AI agents inside sandboxed execution environments. Every action leaves an audit trail, so engineering teams get agent leverage with full oversight. Built for organizations that want AI developers without giving up control.",
+    "capabilities": [
+      "Governed AI engineering agents",
+      "Sandboxed execution",
+      "Full audit trails"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://permaship.ai"
+  },
+  {
+    "slug": "pickaxe",
+    "name": "Pickaxe",
+    "logo": "/logos/pickaxe.png",
+    "company": "Pickaxe",
+    "tagline": "No-code AI tool builder, currently in beta.",
+    "description": "Pickaxe, from the company Pickaxe, lets users build no-code AI tools trained on PDFs and websites. It is still in beta and live.",
+    "capabilities": [
+      "No-code AI tool builder",
+      "Train on PDFs and websites"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://beta.pickaxeproject.com"
+  },
+  {
+    "slug": "picoclaw",
+    "name": "PicoClaw",
+    "logo": "/logos/picoclaw.png",
+    "company": "Sipeed",
+    "tagline": "Ultra-lightweight Go personal assistant that runs on $10 hardware with under 10MB RAM.",
+    "description": "PicoClaw from Sipeed squeezes a personal AI assistant into a tiny Go program that runs on hardware costing a few dollars. It is built for lightweight, highly deployable setups where resources are scarce. At 30k stars, it is the breakout hit of the tiny-agent wave.",
+    "capabilities": [
+      "Under 10MB RAM footprint",
+      "Runs on $10-class hardware",
+      "Go binary with fast startup",
+      "Deployable anywhere"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/sipeed/picoclaw"
+  },
+  {
+    "slug": "pipedream",
+    "name": "Pipedream",
+    "logo": "/logos/pipedream.png",
+    "company": "Pipedream",
+    "tagline": "Developer-first automation: event-driven workflows where you write real Node.js, Python, Go, or Bash code.",
+    "description": "Pipedream is built for developers who want automation with real code: event-driven workflows triggered by HTTP, schedules, or 3,000+ app events, with serverless execution and full code steps. It pairs a generous free tier with deep API connectivity for custom integrations.",
+    "capabilities": [
+      "Write Node.js, Python, Go, or Bash inside workflows",
+      "3,000+ pre-built app integrations",
+      "Event-driven triggers: HTTP, schedules, app events",
+      "Serverless execution with auto-scaling",
+      "Real-time debugging and execution logs",
+      "Reusable components with version control"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://pipedream.com"
+  },
+  {
+    "slug": "pit",
+    "name": "Pit",
+    "logo": "/logos/pit.png",
+    "company": "Pit",
+    "tagline": "AI product team as a service that builds governed, production-grade software for enterprise operations.",
+    "description": "Pit is an AI product team as a service for enterprises: it maps how a company works, then builds and runs custom, production-grade software for business operations. The platform pairs Pit Studio — which learns workflows and generates systems — with Pit Cloud, a governed infrastructure layer with tenant isolation, ISO 27001 compliance, SSO and audit observability. Backed by a16z with customers including Voi, Stena Recycling, Kry and Tre.",
+    "capabilities": [
+      "Pit Studio learns workflows and builds custom systems",
+      "Pit Cloud governed infrastructure with tenant isolation",
+      "ISO 27001 compliance, SSO and role-based access",
+      "Full audit observability of built systems",
+      "Production-grade software, not fragile prototypes",
+      "Integrations pulling data from existing tools"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://www.pit.com"
+  },
+  {
+    "slug": "playwright-mcp",
+    "name": "Playwright MCP",
+    "logo": "/logos/playwright-mcp.png",
+    "company": "Microsoft",
+    "tagline": "Official Model Context Protocol server that lets AI agents drive real browsers through Playwright.",
+    "description": "Playwright MCP is Microsoft's official MCP server that gives large language models and coding agents hands-on control of a web browser. It exposes Playwright's automation power as structured tools — page navigation, clicking, form filling, and accessibility-tree snapshots — so an agent can browse, test, and scrape websites without needing a vision model. It installs in seconds via npx and plugs into VS Code, Cursor, Claude Code, Windsurf, and other MCP clients.",
+    "capabilities": [
+      "MCP server wrapping Playwright browser automation",
+      "Accessibility-tree page snapshots instead of screenshots",
+      "Tools for navigation, clicks, typing, forms, and waiting",
+      "Works with VS Code, Cursor, Claude Code, Windsurf, Gemini CLI and more",
+      "Optional vision, PDF, and devtools capability flags",
+      "Docker image for containerized deployments"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/microsoft/playwright-mcp"
+  },
+  {
+    "slug": "please",
+    "name": "Please",
+    "logo": "/logos/please.png",
+    "company": "Please",
+    "tagline": "Consumer AI assistant that does your to-dos — research, booking and buying — right from the app.",
+    "description": "Please is a consumer AI assistant app that turns to-dos into done. You capture anything by typing, photographing or speaking, and Please works on it for you — looking up websites, recommendations, nearby locations, contact info and prices, or completing bookings and purchases with a tap. It adds collaboration for shared to-dos, a morning brief, and integrations with calendars and reminders. It appears to be the current consumer identity of the team formerly building the MultiOn web agent.",
+    "capabilities": [
+      "AI-powered to-do capture — type, snap a photo or speak",
+      "AI completes tasks for you — looks up sites, prices, recommendations, nearby places",
+      "One-tap research, booking or buying",
+      "Group to-dos and collaboration with friends and family",
+      "Daily morning brief covering weather and priorities",
+      "Connects calendar and Apple Reminders; saves favorites for later"
+    ],
+    "difficulty": null,
+    "pricing": null,
+    "tested": false,
+    "officialUrl": "https://please.ai"
+  },
+  {
+    "slug": "pluno",
+    "name": "Pluno",
+    "logo": "/logos/pluno.png",
+    "company": "Pluno",
+    "tagline": "AI browser extension that automates recurring web workflows",
+    "description": "Pluno is an AI automation agent delivered as a browser extension that discovers recurring browser workflows and takes them over. Formerly known as AwesomeQA, it learns repetitive click patterns and executes them autonomously. The Personal plan runs $49 per month.",
+    "capabilities": [
+      "Recurring workflow detection",
+      "AI browser automation agent",
+      "Chrome extension"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://pluno.ai"
+  },
+  {
+    "slug": "poco-claw",
+    "name": "Poco Claw",
+    "logo": "/logos/poco-claw.png",
+    "company": "poco-ai",
+    "tagline": "OpenClaw-style personal AI assistant with a polished web UI, IM support, and a secure sandbox.",
+    "description": "Poco Claw is a friendlier take on the OpenClaw personal-agent concept. It pairs a Claude Code–powered agent with a polished web interface, built-in messaging-app support, and channel-based team collaboration. Every task executes inside an isolated sandbox container, so autonomous actions stay safe. (Renamed from poco-agent; the old repo URL redirects here.)",
+    "capabilities": [
+      "Polished web UI with light/dark mode and mobile support",
+      "Telegram and DingTalk IM integration",
+      "Sandboxed container execution for every task",
+      "Channel-based team collaboration with persistent agents",
+      "MCP and Skills extensibility plus a built-in browser",
+      "Background execution and scheduled triggers"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://github.com/poco-ai/poco-claw"
+  },
+  {
+    "slug": "polar-browser",
+    "name": "Polar",
+    "logo": "/logos/polar-browser.png",
+    "company": "Polar",
+    "tagline": "AI browser agent that does hours-long knowledge work for you — research, recruiting, sales, ops — operating your real logged-in sites end to end.",
+    "description": "Polar is an AI browser for knowledge workers that takes on long, multi-step web tasks and runs them start to finish, clicking, typing, and navigating sites the way a person would, inside the user's own logged-in accounts. It handles work ranging from quick tasks to jobs lasting hours across research, recruiting, sales, and operations, and prompts can be saved as workflows that re-run on a schedule. Founded by Kevin Jiang, Vishaal Ram, and Howard Zhong, the company announced a $5.7M seed round led by Madrona in July 2026 and says users have run over 4.5 million actions through it.",
+    "capabilities": [
+      "Autonomous multi-step web tasks that run for minutes to hours",
+      "Operates inside your existing logged-in accounts and sessions",
+      "Schedulable workflows (hourly, daily, weekly, or custom)",
+      "Current-tab context for quick hand-offs",
+      "Natural-language task control from any tab",
+      "Built for research, recruiting, sales, and ops work"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://polarbrowser.com"
+  },
+  {
+    "slug": "productbridge",
+    "name": "ProductBridge",
+    "logo": "/logos/productbridge.png",
+    "company": "ProductBridge",
+    "tagline": "AI-native customer support and feedback platform on one customer record.",
+    "description": "ProductBridge is an AI-native customer support and feedback platform for SaaS companies. It automatically collects feedback from Intercom, Slack, G2, Trustpilot, and 20+ sources, deduplicates it with AI semantic matching, builds public roadmaps, and notifies users when requested features ship. Its AI support agent answers from your help center, docs, and feedback boards with cited sources, and can call your own APIs or MCP servers mid-conversation — all on flat pricing with no per-seat fees.",
+    "capabilities": [
+      "AI support agent with cited answers from your docs",
+      "Automatic feedback collection from 20+ sources",
+      "AI semantic duplicate detection and merging",
+      "Public roadmaps and AI-assisted changelogs",
+      "Ship notifications to requesters",
+      "Custom HTTP tools and MCP server connections"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://productbridge.io"
+  },
+  {
+    "slug": "prompt-shuttle",
+    "name": "Prompt Shuttle",
+    "logo": "/logos/prompt-shuttle.png",
+    "company": "Prompt Shuttle",
+    "tagline": "Multi-agent orchestration API with routing across AI providers",
+    "description": "Prompt Shuttle has pivoted into a multi-agent orchestration API that routes work across multiple AI providers instead of locking you into one. It handles model routing, fallbacks, and multi-agent coordination with MCP support, so teams can build agentic workflows on top of whichever models perform best. The idea is infrastructure for the multi-model reality rather than a single-model wrapper.",
+    "capabilities": [
+      "Multi-provider model routing and fallbacks",
+      "Multi-agent orchestration primitives",
+      "MCP support for tool integration",
+      "Usage analytics across providers"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://promptshuttle.com"
+  },
+  {
+    "slug": "pulpsense",
+    "name": "PulpSense",
+    "logo": "/logos/pulpsense.png",
+    "company": "PulpSense",
+    "tagline": "Done-for-you AI automation agency that builds custom sales, marketing, and ops systems for growing businesses.",
+    "description": "PulpSense is a done-for-you AI automation agency that designs and implements bespoke automation systems for growth-stage companies — automated lead nurturing, CRM workflows, hiring pipelines, and self-updating reporting dashboards. Clients begin with a free strategy call, receive a custom ROI roadmap, and the agency says it starts implementation within 24 hours of approval. It targets B2B service businesses, agencies, and SaaS companies that want to scale revenue without adding headcount, and lists certified partnerships with n8n and Make.",
+    "capabilities": [
+      "Custom CRM builds and sales-tracking systems",
+      "Automated lead nurturing and outbound systems",
+      "Bespoke project management systems",
+      "AI-powered hiring and candidate evaluation pipelines",
+      "Service fulfillment automation",
+      "Self-updating reporting dashboards"
+    ],
+    "difficulty": null,
+    "pricing": "paid",
+    "tested": false,
+    "officialUrl": "https://pulpsense.com"
+  },
+  {
+    "slug": "puppyone",
+    "name": "PuppyOne",
+    "logo": "/logos/puppyone.png",
+    "company": "PuppyOne",
+    "tagline": "Git-native file workspace that gives AI agents safe, sandboxed files.",
+    "description": "PuppyOne is a Git-native file workspace built for AI agents, giving each agent its own sandboxed files with per-agent permissions. It connects over MCP, SSH and API, so coding assistants can read, write and organize files without stepping on each other's work. The open-source model makes it a transparent choice for teams building multi-agent development setups.",
+    "capabilities": [
+      "Git-native file workspace for AI agents",
+      "Per-agent sandboxed file permissions",
+      "MCP, SSH and API connectivity",
+      "Versioned file operations through Git",
+      "Open-source codebase"
+    ],
+    "difficulty": null,
+    "pricing": "open-source",
+    "tested": false,
+    "officialUrl": "https://www.puppyone.ai"
+  },
+  {
+    "slug": "quickchat-ai",
+    "name": "Quickchat AI",
+    "logo": "/logos/quickchat-ai.png",
+    "company": "Quickchat AI",
+    "tagline": "Multilingual AI chatbots for support and sales, incl. WhatsApp.",
+    "description": "Quickchat AI builds multilingual AI assistants for customer support and sales, deployable on websites and WhatsApp. Freemium plans start from $9 per month. Good fit for teams needing many languages fast.",
+    "capabilities": [
+      "Multilingual chatbots",
+      "WhatsApp deployment",
+      "GPT-powered answers",
+      "API and integrations"
+    ],
+    "difficulty": null,
+    "pricing": "freemium",
+    "tested": false,
+    "officialUrl": "https://quickchat.ai"
+  }
+]
