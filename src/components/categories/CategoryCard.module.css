@@ -24,47 +24,22 @@
 /* ---------- visual banner ---------- */
 .visual {
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 128px;
+  height: 160px;
   flex: none;
   overflow: hidden;
   border-bottom: 1px solid var(--border);
+  background: #1e1b18;
 }
 
-.watermark {
-  position: absolute;
-  right: -16px;
-  bottom: -24px;
-  color: var(--accent);
-  opacity: 0.08;
-  transform: rotate(-12deg);
-  transition:
-    transform var(--duration-slow) var(--ease-out),
-    opacity var(--duration-slow) var(--ease-out);
-}
-
-.card:hover .watermark {
-  transform: rotate(-6deg) scale(1.08);
-  opacity: 0.14;
-}
-
-.iconBadge {
-  display: grid;
-  place-items: center;
-  width: 64px;
-  height: 64px;
-  border-radius: 20px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  color: var(--accent-text);
-  box-shadow: var(--shadow-card);
+.visualImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   transition: transform var(--duration-slow) var(--ease-out);
 }
 
-.card:hover .iconBadge {
-  transform: scale(1.06) rotate(-4deg);
+.card:hover .visualImage {
+  transform: scale(1.04);
 }
 
 .badge {

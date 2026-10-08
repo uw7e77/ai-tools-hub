@@ -5,21 +5,10 @@ import { toolCountByCategory } from '../../data/lookups'
 import type { Category } from '../../types'
 import { getCategoryTools, subcategoryFacets } from '../../features/category/listing'
 import { PopularBadge } from '../ui/Badge'
-import { CategoryIcon } from '../ui/CategoryIcon'
 import css from './CategoryCard.module.css'
 
 interface CategoryCardProps {
   category: Category
-}
-
-// Deterministic per-category gradient angle — keeps the palette in the
-// accent family while giving each card its own visual identity.
-function gradientAngle(slug: string): number {
-  let hash = 0
-  for (let i = 0; i < slug.length; i++) {
-    hash = (hash * 31 + slug.charCodeAt(i)) % 360
-  }
-  return 120 + (hash % 120)
 }
 
 export function CategoryCard({ category }: CategoryCardProps) {
@@ -28,20 +17,16 @@ export function CategoryCard({ category }: CategoryCardProps) {
     const tools = getCategoryTools(category.slug)
     return subcategoryFacets(tools).slice(0, 4)
   }, [category.slug])
-  const angle = useMemo(() => gradientAngle(category.slug), [category.slug])
 
   return (
     <Link to={`/category/${category.slug}`} className={css.card}>
-      <div
-        className={css.visual}
-        style={{
-          background: `linear-gradient(${angle}deg, var(--accent-soft) 0%, transparent 75%)`,
-        }}
-      >
-        <CategoryIcon name={category.icon} size={120} className={css.watermark} />
-        <span className={css.iconBadge}>
-          <CategoryIcon name={category.icon} size={30} />
-        </span>
+      <div className={css.visual}>
+        <img
+          src={`${import.meta.env.BASE_URL}images/categories/${category.slug}.webp`}
+          alt={`${category.name} illustration`}
+          className={css.visualImage}
+          loading="lazy"
+        />
         {category.featured ? (
           <span className={css.badge}>
             <PopularBadge />
