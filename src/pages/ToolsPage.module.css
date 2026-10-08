@@ -1,0 +1,108 @@
+.hero {
+  margin-top: var(--space-24);
+  margin-bottom: var(--space-8);
+  max-width: 72ch;
+}
+
+.title {
+  font-size: var(--text-h1);
+  line-height: var(--lh-h1);
+  letter-spacing: var(--ls-tight);
+  margin: 0;
+}
+
+.subtitle {
+  color: var(--text-muted);
+  font-size: var(--text-body);
+  line-height: var(--lh-body);
+  margin-top: var(--space-12);
+}
+
+.listing {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-24);
+  margin-top: var(--space-32);
+  scroll-margin-top: calc(var(--nav-height) + var(--space-16));
+}
+
+.sidebar {
+  display: none;
+}
+
+.content {
+  min-width: 0;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-12);
+  margin-bottom: var(--space-20);
+}
+
+.result {
+  color: var(--text-tertiary);
+  font-size: var(--text-caption);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  min-width: 0;
+}
+
+.filtersBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-8);
+  height: 44px;
+  padding-inline: var(--space-12);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--text);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  transition:
+    background-color var(--duration) var(--ease-out),
+    border-color var(--duration) var(--ease-out);
+}
+
+.filtersBtn:hover {
+  background: var(--surface-muted);
+  border-color: var(--border-hover);
+}
+
+@media (max-width: 560px) {
+  .toolbar {
+    flex-direction: column-reverse;
+    align-items: stretch;
+    gap: var(--space-8);
+  }
+
+  .controls {
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1200px) {
+  .listing {
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: var(--space-32);
+  }
+
+  .sidebar {
+    display: block;
+    position: sticky;
+    top: calc(var(--nav-height) + var(--space-16));
+    align-self: start;
+  }
+
+  .filtersBtn {
+    display: none;
+  }
+}

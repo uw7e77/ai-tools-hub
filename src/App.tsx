@@ -14,6 +14,7 @@ import { NotFound } from './pages/NotFound'
 const CategoriesPage = lazy(() => import('./pages/CategoriesPage'))
 const CompaniesPage = lazy(() => import('./pages/CompaniesPage'))
 const TutorialsPage = lazy(() => import('./pages/TutorialsPage'))
+const ToolsPage = lazy(() => import('./pages/ToolsPage'))
 const LaunchesPage = lazy(() => import('./pages/LaunchesPage'))
 const SearchPage = lazy(() => import('./pages/SearchPage'))
 const BookmarksPage = lazy(() => import('./pages/BookmarksPage'))
@@ -143,6 +144,14 @@ function App() {
             element={
               <Suspense fallback={<CategoriesSkeleton />}>
                 <CategoriesPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path="/tools"
+            element={
+              <Suspense fallback={<CategoriesSkeleton />}>
+                <ToolsPage />
               </Suspense>
             }
           />
