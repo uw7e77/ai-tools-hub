@@ -4,6 +4,7 @@ import { AgentsSkeleton } from './components/agents/AgentsSkeleton'
 import { CategoriesSkeleton } from './components/categories/CategoriesSkeleton'
 import { CategorySkeleton } from './components/category/CategorySkeleton'
 import { Footer } from './components/layout/Footer'
+import { BackgroundFX } from './components/layout/BackgroundFX'
 import { Header } from './components/layout/Header'
 import { ToolSkeleton } from './components/tool/ToolSkeleton'
 import { TutorialDetailSkeleton } from './components/tutorial/TutorialDetailSkeleton'
@@ -135,6 +136,7 @@ function App() {
         Skip to content
       </a>
       <ScrollToTop />
+      <BackgroundFX />
       <Header />
       <main id="main">
         <Routes>

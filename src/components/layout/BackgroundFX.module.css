@@ -1,0 +1,63 @@
+.fx {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.orbA,
+.orbB {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(120px);
+  opacity: 0.14;
+  will-change: transform;
+}
+
+.orbA {
+  width: 44vw;
+  height: 44vw;
+  min-width: 420px;
+  min-height: 420px;
+  left: -12vw;
+  top: -14vw;
+  background: radial-gradient(circle, var(--accent) 0%, transparent 70%);
+  animation: driftA 46s ease-in-out infinite alternate;
+}
+
+.orbB {
+  width: 38vw;
+  height: 38vw;
+  min-width: 360px;
+  min-height: 360px;
+  right: -10vw;
+  bottom: -12vw;
+  background: radial-gradient(circle, var(--accent-soft) 0%, transparent 70%);
+  animation: driftB 58s ease-in-out infinite alternate;
+}
+
+@keyframes driftA {
+  from {
+    transform: translate(0, 0) scale(1);
+  }
+  to {
+    transform: translate(9vw, 7vh) scale(1.12);
+  }
+}
+
+@keyframes driftB {
+  from {
+    transform: translate(0, 0) scale(1.08);
+  }
+  to {
+    transform: translate(-8vw, -6vh) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .orbA,
+  .orbB {
+    animation: none;
+  }
+}
