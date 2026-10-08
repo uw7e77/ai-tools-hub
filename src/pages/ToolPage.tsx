@@ -30,16 +30,6 @@ const testedDateFormatter = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
 })
 
-const TABS = [
-  { id: 'overview', label: 'Overview' },
-  { id: 'features', label: 'Features' },
-  { id: 'pros-cons', label: 'Pros & Cons' },
-  { id: 'pricing', label: 'Pricing' },
-  { id: 'tutorial', label: 'Tutorial' },
-  { id: 'alternatives', label: 'Alternatives' },
-  { id: 'faq', label: 'FAQ' },
-] as const
-
 function formatTestedDate(isoDate: string): string {
   return testedDateFormatter.format(new Date(`${isoDate}T00:00:00`))
 }
@@ -310,7 +300,11 @@ export default function ToolPage() {
 
       <nav className={css.tabs} aria-label="Tool sections">
         <div className={cx('container', css.tabList)}>
-          {TABS.map((tab) => (
+          {[
+            { id: 'overview', label: `What is ${tool.name}?` },
+            { id: 'reviews', label: `${tool.name} Reviews` },
+            { id: 'alternatives', label: `${tool.name} Alternatives` },
+          ].map((tab) => (
             <a key={tab.id} className={css.tab} href={`#${tab.id}`}>
               {tab.label}
             </a>
@@ -337,10 +331,7 @@ export default function ToolPage() {
                 <strong>Best for:</strong> {detail.bestFor}
               </p>
             ) : null}
-          </section>
-
-          <section id="features" className={css.section}>
-            <h2>Key features</h2>
+            <h3 className={css.subHeading}>Key features</h3>
             {detail?.features?.length ? (
               <ul className={css.features}>
                 {detail.features.map((item) => (
@@ -353,13 +344,12 @@ export default function ToolPage() {
             ) : (
               <p className={css.missing}>Feature details for {tool.name} are being verified.</p>
             )}
-          </section>
 
           {detail?.pros?.length || detail?.cons?.length ? (
-            <section id="pros-cons" className={css.section}>
+            <>
               {detail.pros.length > 0 ? (
                 <>
-                  <h2>Pros</h2>
+                  <h3 className={css.subHeading}>Pros</h3>
                   <ul className={css.prosList}>
                     {detail.pros.map((item) => (
                       <li key={item}>
@@ -372,7 +362,7 @@ export default function ToolPage() {
               ) : null}
               {detail.cons.length > 0 ? (
                 <>
-                  <h2 className={css.consHeading}>Cons</h2>
+                  <h3 className={css.subHeading}>Cons</h3>
                   <ul className={css.consList}>
                     {detail.cons.map((item) => (
                       <li key={item}>{item}</li>
@@ -380,11 +370,10 @@ export default function ToolPage() {
                   </ul>
                 </>
               ) : null}
-            </section>
+            </>
           ) : null}
 
-          <section id="pricing" className={css.section}>
-            <h2>Pricing</h2>
+          <h3 className={css.subHeading}>Pricing</h3>
             {detail?.pricingTiers?.length ? (
               <div className={css.tableWrap}>
                 <table className={css.table}>
@@ -422,10 +411,8 @@ export default function ToolPage() {
               </p>
               <p>{detail?.pakistanAvailability ?? 'Availability details for Pakistan are coming soon.'}</p>
             </div>
-          </section>
 
-          <section id="tutorial" className={css.section}>
-            <h2>Tutorial</h2>
+            <h3 className={css.subHeading}>Tutorial</h3>
             {toolVideo ? (
               <div className={css.videoEmbed}>
                 <div className={css.videoFrame}>
@@ -479,10 +466,49 @@ export default function ToolPage() {
                 </ButtonAnchor>
               </div>
             </div>
+
+            {company ? (
+              <>
+                <h3 className={css.subHeading}>About {company.name}</h3>
+                <div className={css.company}>
+                  <BrandLogo logo={company.logo} name={company.name} size={48} />
+                  <div>
+                    <p className={css.companyName}>
+                      <Link className={css.companyLink} to={`/company/${company.slug}`}>
+                        {company.name}
+                      </Link>
+                    </p>
+                    {company.mission ? (
+                      <p className={css.companyMission}>{company.mission}</p>
+                    ) : null}
+                    {company.founded != null || company.hq ? (
+                      <p className={css.companyMeta}>
+                        {company.founded != null ? `Founded ${company.founded}` : null}
+                        {company.founded != null && company.hq ? ' · ' : null}
+                        {company.hq ?? ''}
+                      </p>
+                    ) : null}
+                  </div>
+                </div>
+              </>
+            ) : null}
+
+            <h3 className={css.subHeading}>Frequently asked questions</h3>
+            {detail?.faq?.length ? (
+              <FaqAccordion items={detail.faq} />
+            ) : (
+              <p className={css.missing}>FAQs for {tool.name} are coming soon.</p>
+            )}
+          </section>
+
+          <section id="reviews" className={css.section}>
+            <h2>{tool.name} Reviews</h2>
+            <HelpfulVote />
+            <p className={css.missing}>User reviews for {tool.name} are coming soon.</p>
           </section>
 
           <section id="alternatives" className={css.section}>
-            <h2>Alternatives to {tool.name}</h2>
+            <h2>{tool.name} Alternatives</h2>
             {related.length > 0 ? (
               <CardGrid
                 columns={4}
@@ -500,43 +526,6 @@ export default function ToolPage() {
                 </Link>
               </p>
             ) : null}
-          </section>
-
-          {company ? (
-            <section className={css.section}>
-              <h2>About {company.name}</h2>
-              <div className={css.company}>
-                <BrandLogo logo={company.logo} name={company.name} size={48} />
-                <div>
-                  <p className={css.companyName}>
-                    <Link className={css.companyLink} to={`/company/${company.slug}`}>
-                      {company.name}
-                    </Link>
-                  </p>
-                  {company.mission ? (
-                    <p className={css.companyMission}>{company.mission}</p>
-                  ) : null}
-                  {company.founded != null || company.hq ? (
-                    <p className={css.companyMeta}>
-                      {company.founded != null ? `Founded ${company.founded}` : null}
-                      {company.founded != null && company.hq ? ' · ' : null}
-                      {company.hq ?? ''}
-                    </p>
-                  ) : null}
-                </div>
-              </div>
-            </section>
-          ) : null}
-
-          <HelpfulVote />
-
-          <section id="faq" className={css.section}>
-            <h2>Frequently asked questions</h2>
-            {detail?.faq?.length ? (
-              <FaqAccordion items={detail.faq} />
-            ) : (
-              <p className={css.missing}>FAQs for {tool.name} are coming soon.</p>
-            )}
           </section>
           </div>
           {featuredSidebar.length > 0 ? (

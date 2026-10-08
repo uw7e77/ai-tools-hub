@@ -173,6 +173,17 @@
   scrollbar-width: none;
 }
 
+@media (min-width: 768px) {
+  .tabList {
+    justify-content: space-between;
+  }
+
+  .tab {
+    flex: 1;
+    text-align: center;
+  }
+}
+
 .tabList::-webkit-scrollbar {
   display: none;
 }
@@ -293,6 +304,13 @@
   font-weight: var(--fw-semibold);
 }
 
+.subHeading {
+  margin-top: var(--space-32);
+  margin-bottom: var(--space-16);
+  font-size: var(--text-lead);
+  font-weight: var(--fw-semibold);
+}
+
 .prose {
   color: var(--text-muted);
   font-size: var(--text-body);
@@ -363,10 +381,6 @@
   position: absolute;
   left: var(--space-4);
   color: var(--text-tertiary);
-}
-
-.consHeading {
-  margin-top: var(--space-32);
 }
 
 /* ---------- features ---------- */
