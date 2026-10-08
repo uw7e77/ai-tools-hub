@@ -32,6 +32,7 @@ const testedDateFormatter = new Intl.DateTimeFormat('en-US', {
 const TABS = [
   { id: 'overview', label: 'Overview' },
   { id: 'features', label: 'Features' },
+  { id: 'pros-cons', label: 'Pros & Cons' },
   { id: 'pricing', label: 'Pricing' },
   { id: 'tutorial', label: 'Tutorial' },
   { id: 'alternatives', label: 'Alternatives' },
@@ -141,7 +142,7 @@ export default function ToolPage() {
 
   usePageMeta({
     title: tool
-      ? `${tool.name} — Rating, Pricing & Alternatives | AIToolsHub`
+      ? `${tool.name} Review: Features, Pricing & Alternatives | AIToolsHub`
       : 'Tool not found | AIToolsHub',
     description: tool
       ? tool.rating != null && tool.reviewCount != null
@@ -309,7 +310,7 @@ export default function ToolPage() {
       <div className="container">
         <div className={css.content}>
           <section id="overview" className={css.section}>
-            <h2>Overview</h2>
+            <h2>What is {tool.name}?</h2>
             {detail?.overview?.length ? (
               detail.overview.map((paragraph) => (
                 <p key={paragraph.slice(0, 32)} className={css.prose}>
@@ -323,29 +324,6 @@ export default function ToolPage() {
               <p className={css.bestFor}>
                 <strong>Best for:</strong> {detail.bestFor}
               </p>
-            ) : null}
-            {detail?.pros?.length || detail?.cons?.length ? (
-              <div className={css.prosCons}>
-                <div className={css.prosConsCard}>
-                  <h3>Pros</h3>
-                  <ul>
-                    {detail.pros.map((item) => (
-                      <li key={item}>
-                        <Check size={16} aria-hidden="true" />
-                        {item}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-                <div className={css.prosConsCard}>
-                  <h3>Cons</h3>
-                  <ul>
-                    {detail.cons.map((item) => (
-                      <li key={item}>{item}</li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
             ) : null}
           </section>
 
@@ -364,6 +342,34 @@ export default function ToolPage() {
               <p className={css.missing}>Feature details for {tool.name} are being verified.</p>
             )}
           </section>
+
+          {detail?.pros?.length || detail?.cons?.length ? (
+            <section id="pros-cons" className={css.section}>
+              {detail.pros.length > 0 ? (
+                <>
+                  <h2>Pros</h2>
+                  <ul className={css.prosList}>
+                    {detail.pros.map((item) => (
+                      <li key={item}>
+                        <Check size={18} aria-hidden="true" />
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              ) : null}
+              {detail.cons.length > 0 ? (
+                <>
+                  <h2 className={css.consHeading}>Cons</h2>
+                  <ul className={css.consList}>
+                    {detail.cons.map((item) => (
+                      <li key={item}>{item}</li>
+                    ))}
+                  </ul>
+                </>
+              ) : null}
+            </section>
+          ) : null}
 
           <section id="pricing" className={css.section}>
             <h2>Pricing</h2>
