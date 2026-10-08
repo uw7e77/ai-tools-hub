@@ -1,47 +1,84 @@
 .card {
   display: flex;
   flex-direction: column;
-  gap: var(--space-16);
   width: 100%;
   height: 100%;
-  padding: var(--space-24);
+  overflow: hidden;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-card);
   transition:
-    transform var(--duration) var(--ease-out),
+    transform var(--duration-slow) var(--ease-out),
     border-color var(--duration) var(--ease-out),
-    box-shadow var(--duration) var(--ease-out);
+    box-shadow var(--duration-slow) var(--ease-out);
 }
 
 .card:hover {
-  transform: translateY(-2px);
-  border-color: var(--border-hover);
-  box-shadow: var(--shadow-card);
+  transform: translateY(-4px);
+  border-color: var(--accent);
+  box-shadow:
+    var(--shadow-card),
+    0 12px 32px -12px var(--accent-soft);
 }
 
-.top {
+/* ---------- visual banner ---------- */
+.visual {
+  position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: var(--space-12);
+  justify-content: center;
+  height: 128px;
+  flex: none;
+  overflow: hidden;
+  border-bottom: 1px solid var(--border);
 }
 
-.icon {
+.watermark {
+  position: absolute;
+  right: -16px;
+  bottom: -24px;
+  color: var(--accent);
+  opacity: 0.08;
+  transform: rotate(-12deg);
+  transition:
+    transform var(--duration-slow) var(--ease-out),
+    opacity var(--duration-slow) var(--ease-out);
+}
+
+.card:hover .watermark {
+  transform: rotate(-6deg) scale(1.08);
+  opacity: 0.14;
+}
+
+.iconBadge {
   display: grid;
   place-items: center;
-  width: 44px;
-  height: 44px;
-  flex: none;
-  border-radius: var(--radius-input);
-  background: var(--accent-soft);
-  color: var(--accent-soft-text);
+  width: 64px;
+  height: 64px;
+  border-radius: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--accent-text);
+  box-shadow: var(--shadow-card);
+  transition: transform var(--duration-slow) var(--ease-out);
 }
 
+.card:hover .iconBadge {
+  transform: scale(1.06) rotate(-4deg);
+}
+
+.badge {
+  position: absolute;
+  top: var(--space-12);
+  right: var(--space-12);
+}
+
+/* ---------- body ---------- */
 .body {
   display: flex;
   flex-direction: column;
   gap: var(--space-8);
+  padding: var(--space-20) var(--space-20) 0;
 }
 
 .name {
@@ -62,14 +99,42 @@
   font-size: var(--text-caption);
 }
 
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-8);
+  margin: var(--space-8) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-4) var(--space-8);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface-muted);
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: var(--fw-medium);
+  white-space: nowrap;
+}
+
+.chipCount {
+  color: var(--text-tertiary);
+  font-weight: var(--fw-regular);
+}
+
+/* ---------- footer ---------- */
 .footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: var(--space-8);
   margin-top: auto;
-  padding-top: var(--space-16);
-  border-top: 1px solid var(--border);
+  padding: var(--space-16) var(--space-20) var(--space-20);
 }
 
 .count {
@@ -87,6 +152,6 @@
 }
 
 .card:hover .arrow {
-  transform: translateX(3px);
+  transform: translateX(6px);
   color: var(--accent-text);
 }
