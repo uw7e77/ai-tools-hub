@@ -497,6 +497,39 @@
   color: var(--text);
 }
 
+/* ---------- tool preview (no tutorial fallback) ---------- */
+
+.toolPreview {
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+}
+
+.toolPreviewImage {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: top;
+  background: var(--surface-muted);
+}
+
+.toolPreviewBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-16);
+  padding: var(--space-16) var(--space-20);
+  border-top: 1px solid var(--border);
+}
+
+.toolPreviewLabel {
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+}
+
 /* ---------- tutorial ---------- */
 
 .videoEmbed {

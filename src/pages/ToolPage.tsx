@@ -430,42 +430,62 @@ export default function ToolPage() {
                 </p>
               </div>
             ) : null}
-            <div className={css.video}>
-              <div className={css.videoPlaceholder} aria-hidden="true">
-                <PlayCircle size={48} />
-              </div>
-              <div className={css.videoMeta}>
-                {tutorial ? (
-                  <>
-                    <p className={css.videoTitle}>
-                      <Link className={css.videoLink} to={`/tutorial/${tutorial.slug}`}>
-                        {tutorial.title}
-                      </Link>
-                    </p>
-                    <p className={css.videoDetail}>
-                      {tutorial.difficulty} · {tutorial.durationMinutes} min · {tutorial.category}
-                    </p>
-                  </>
-                ) : (
-                  <p className={css.videoTitle}>A step-by-step {tool.name} walkthrough is coming soon.</p>
-                )}
-                {tutorial ? (
-                  <ButtonLink to={`/tutorial/${tutorial.slug}`}>
-                    Open tutorial
+            {toolVideo || tutorial ? (
+              <div className={css.video}>
+                <div className={css.videoPlaceholder} aria-hidden="true">
+                  <PlayCircle size={48} />
+                </div>
+                <div className={css.videoMeta}>
+                  {tutorial ? (
+                    <>
+                      <p className={css.videoTitle}>
+                        <Link className={css.videoLink} to={`/tutorial/${tutorial.slug}`}>
+                          {tutorial.title}
+                        </Link>
+                      </p>
+                      <p className={css.videoDetail}>
+                        {tutorial.difficulty} · {tutorial.durationMinutes} min · {tutorial.category}
+                      </p>
+                    </>
+                  ) : null}
+                  {tutorial ? (
+                    <ButtonLink to={`/tutorial/${tutorial.slug}`}>
+                      Open tutorial
+                      <ArrowRight size={16} aria-hidden="true" />
+                    </ButtonLink>
+                  ) : null}
+                  <ButtonAnchor
+                    href={tool.officialUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    variant="secondary"
+                  >
+                    Open {tool.name}
                     <ArrowRight size={16} aria-hidden="true" />
-                  </ButtonLink>
-                ) : null}
-                <ButtonAnchor
-                  href={tool.officialUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  variant="secondary"
-                >
-                  Open {tool.name}
-                  <ArrowRight size={16} aria-hidden="true" />
-                </ButtonAnchor>
+                  </ButtonAnchor>
+                </div>
               </div>
-            </div>
+            ) : (
+              <div className={css.toolPreview}>
+                <img
+                  src={`https://s0.wp.com/mshots/v1/${encodeURIComponent(tool.officialUrl)}?w=1280`}
+                  alt={`${tool.name} website preview`}
+                  className={css.toolPreviewImage}
+                  loading="lazy"
+                />
+                <div className={css.toolPreviewBar}>
+                  <span className={css.toolPreviewLabel}>Live preview of {tool.name}</span>
+                  <ButtonAnchor
+                    href={tool.affiliateUrl ?? tool.officialUrl}
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                  >
+                    Try {tool.name} now
+                    <ArrowRight size={16} aria-hidden="true" />
+                  </ButtonAnchor>
+                </div>
+              </div>
+            )}
 
             {company ? (
               <>
