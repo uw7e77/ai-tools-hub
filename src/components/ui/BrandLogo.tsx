@@ -30,10 +30,13 @@ interface BrandLogoProps {
 
 // Generated data emits full public paths ("/logos/<slug>.png"); some callers
 // still pass a bare slug. Accept both so we never build "/logos//logos/x.png".
+// BASE_URL-aware so the site also works under a subpath (e.g. GitHub Pages).
+const BASE = import.meta.env.BASE_URL || '/'
 function resolveLogoSrc(logo: string): string {
-  if (logo.startsWith('/')) return logo
-  const file = logo.includes('.') ? logo : `${logo}.png`
-  return `/logos/${file}`
+  const path = logo.startsWith('/')
+    ? logo
+    : `/logos/${logo.includes('.') ? logo : `${logo}.png`}`
+  return `${BASE.replace(/\/$/, '')}${path}`
 }
 
 export function BrandLogo({ logo, name, size = 44, className }: BrandLogoProps) {
