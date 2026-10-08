@@ -26,7 +26,7 @@
   {
     "slug": "n8n",
     "youtubeId": "GIZzRGYpCbM",
-    "title": "n8n Course for Beginners – Build Complex Workflows & Master AI Integration",
+    "title": "n8n Course for Beginners \u2013 Build Complex Workflows & Master AI Integration",
     "channel": "GavinLon"
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "slug": "github-copilot",
-    "youtubeId": "Db6oVPYHfyw",
-    "title": "GitHub Copilot in VS Code: Install, Set Up & Test (Windows & Mac)",
-    "channel": null
+    "youtubeId": "vdBxfFVXnc0",
+    "title": "Get Started with GitHub Copilot in VS Code (2025)",
+    "channel": "Visual Studio Code"
   },
   {
     "slug": "replit",
@@ -105,13 +105,13 @@
     "slug": "langchain",
     "youtubeId": "nnDWvRLeAoM",
     "title": "LangChain Tutorial for Beginners | Build Your First AI App",
-    "channel": null
+    "channel": "MLTut"
   },
   {
     "slug": "make",
     "youtubeId": "rwWMIThwDl0",
     "title": "13min Complete Beginner's Guide Make.com",
-    "channel": null
+    "channel": "Armand Plihon"
   },
   {
     "slug": "capcut-ai",

@@ -50,7 +50,7 @@ export const toolVideos: ToolVideo[] = [
     slug: 'make',
     youtubeId: 'rwWMIThwDl0',
     title: "13min Complete Beginner's Guide Make.com",
-    channel: null,
+    channel: 'Armand Plihon',
   },
   {
     slug: 'cursor',
@@ -60,9 +60,9 @@ export const toolVideos: ToolVideo[] = [
   },
   {
     slug: 'github-copilot',
-    youtubeId: 'Db6oVPYHfyw',
-    title: 'GitHub Copilot in VS Code: Install, Set Up & Test (Windows & Mac)',
-    channel: null,
+    youtubeId: 'vdBxfFVXnc0',
+    title: 'Get Started with GitHub Copilot in VS Code (2025)',
+    channel: 'Visual Studio Code',
   },
   {
     slug: 'replit',
@@ -122,7 +122,7 @@ export const toolVideos: ToolVideo[] = [
     slug: 'langchain',
     youtubeId: 'nnDWvRLeAoM',
     title: 'LangChain Tutorial for Beginners | Build Your First AI App',
-    channel: null,
+    channel: 'MLTut',
   },
   {
     slug: 'capcut-ai',
