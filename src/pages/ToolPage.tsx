@@ -2,6 +2,7 @@ import { ArrowRight, Check, MonitorSmartphone, PlayCircle, ThumbsDown, ThumbsUp 
 import { useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { ToolCard } from '../components/cards/ToolCard'
+import { ToolSkeleton } from '../components/tool/ToolSkeleton'
 import { NewsletterCTA } from '../components/home/NewsletterCTA'
 import { NewBadge, PricingBadge, TestedBadge } from '../components/ui/Badge'
 import { BookmarkButton } from '../components/ui/BookmarkButton'
@@ -18,6 +19,7 @@ import { toolDetails } from '../data/toolDetails'
 import { tutorials } from '../data/tutorials'
 import { toolVideoBySlug } from '../data/toolVideos'
 import { getCategoryTools, PRICING_LABELS, sortTools } from '../features/category/listing'
+import { useToolDetailsReady } from '../features/db/useLazyDetails'
 import { usePageMeta } from '../features/seo/usePageMeta'
 import type { ToolSlug } from '../types'
 import { cx } from '../utils/cx'
@@ -59,6 +61,7 @@ function HelpfulVote() {
 
 export default function ToolPage() {
   const { slug } = useParams()
+  const detailsReady = useToolDetailsReady()
   const tool = useMemo(() => (slug ? toolBySlug.get(slug as ToolSlug) : undefined), [slug])
   const detail = tool ? toolDetails[tool.slug] : undefined
   const category = tool ? categoryBySlug.get(tool.category) : undefined
@@ -144,6 +147,10 @@ export default function ToolPage() {
     path: `/tool/${slug ?? ''}`,
     jsonLd,
   })
+
+  if (tool && !detailsReady) {
+    return <ToolSkeleton />
+  }
 
   if (!tool) {
     return (

@@ -128,7 +128,22 @@ function ScrollToTop() {
   return null
 }
 
+const AdminShell = lazy(() => import('./admin/AdminShell'))
+
 function App() {
+  const { pathname } = useLocation()
+
+  // The admin panel has its own shell (no public header/footer).
+  if (pathname.startsWith('/admin')) {
+    return (
+      <ErrorBoundary>
+        <Suspense fallback={<CategoriesSkeleton />}>
+          <AdminShell />
+        </Suspense>
+      </ErrorBoundary>
+    )
+  }
+
   return (
     <>
       <a className="skip-link" href="#main">
@@ -156,7 +171,6 @@ function App() {
               </Suspense>
             }
           />
-          <Route path="/tools" element={<Navigate to="/" replace />} />
           <Route path="/category/:slug" element={<CategoryRoute />} />
           <Route path="/tool/:slug" element={<ToolRoute />} />
           <Route path="/agents" element={<AgentsRoute />} />

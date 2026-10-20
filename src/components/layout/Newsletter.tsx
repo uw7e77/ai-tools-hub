@@ -5,11 +5,22 @@ import css from './Newsletter.module.css'
 
 export function Newsletter() {
   const [email, setEmail] = useState('')
-  const [subscribed, setSubscribed] = useState(false)
+  const [subscribed, setSubscribed] = useState(() => {
+    try {
+      return localStorage.getItem('aitoolshub:newsletter-email') !== null
+    } catch {
+      return false
+    }
+  })
   const inputId = useId()
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
+    try {
+      localStorage.setItem('aitoolshub:newsletter-email', email)
+    } catch {
+      // storage unavailable — still show the confirmation for this session
+    }
     setSubscribed(true)
   }
 
@@ -22,7 +33,8 @@ export function Newsletter() {
       </p>
       {subscribed ? (
         <p className={css.success} role="status">
-          You&apos;re on the list. Check your inbox to confirm your subscription.
+          You&apos;re on the list. The weekly digest launches soon — we saved your email on this
+          device and the first issue will land in your inbox when we go live.
         </p>
       ) : (
         <form className={css.form} onSubmit={handleSubmit}>

@@ -1,0 +1,246 @@
+/* Shared styles for admin pages (tables, forms, stat cards). */
+
+.pageHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-16);
+  margin-bottom: var(--space-24);
+}
+
+.pageTitle {
+  font-size: var(--text-subtitle);
+}
+
+.pageSub {
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  margin-top: var(--space-4);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-8);
+  padding: var(--space-8) var(--space-16);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--text);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn:hover {
+  border-color: var(--border-hover);
+}
+
+.btnPrimary {
+  background: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  border-color: transparent;
+}
+
+.btnPrimary:hover {
+  background: var(--btn-primary-bg-hover);
+}
+
+.btnDanger:hover {
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+.statGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: var(--space-16);
+  margin-bottom: var(--space-32);
+}
+
+.statCard {
+  padding: var(--space-20);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+}
+
+.statValue {
+  font-size: var(--text-title);
+  font-weight: var(--fw-semibold);
+}
+
+.statLabel {
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  margin-top: var(--space-4);
+}
+
+.panel {
+  padding: var(--space-24);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  margin-bottom: var(--space-24);
+}
+
+.panelTitle {
+  font-size: var(--text-lead);
+  font-weight: var(--fw-semibold);
+  margin-bottom: var(--space-16);
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-12);
+  margin-bottom: var(--space-16);
+}
+
+.searchInput,
+.select {
+  padding: var(--space-12);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-input);
+  background: var(--surface);
+  color: var(--text);
+  font-size: var(--text-body);
+}
+
+.searchInput {
+  flex: 1;
+  min-width: 220px;
+}
+
+.tableWrap {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-caption);
+}
+
+.table th,
+.table td {
+  padding: var(--space-12) var(--space-16);
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+
+.table th {
+  color: var(--text-tertiary);
+  font-weight: var(--fw-medium);
+  white-space: nowrap;
+}
+
+.table tr:last-child td {
+  border-bottom: 0;
+}
+
+.cellName {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  font-weight: var(--fw-medium);
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.cellMuted {
+  color: var(--text-muted);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-16);
+  max-width: 640px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+}
+
+.field input,
+.field select,
+.field textarea {
+  padding: var(--space-12);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-input);
+  background: var(--surface);
+  color: var(--text);
+  font-size: var(--text-body);
+  font-weight: var(--fw-regular);
+}
+
+.field textarea {
+  min-height: 90px;
+  resize: vertical;
+}
+
+.formRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-12);
+  margin-top: var(--space-8);
+}
+
+.banner {
+  padding: var(--space-12) var(--space-16);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius-input);
+  background: var(--accent-soft);
+  color: var(--accent-soft-text);
+  font-size: var(--text-caption);
+  margin-bottom: var(--space-16);
+}
+
+.empty {
+  padding: var(--space-32);
+  text-align: center;
+  color: var(--text-muted);
+}
+
+.barRow {
+  display: grid;
+  grid-template-columns: 170px 1fr 60px;
+  align-items: center;
+  gap: var(--space-12);
+  padding-block: var(--space-4);
+  font-size: var(--text-caption);
+}
+
+.barTrack {
+  height: 8px;
+  border-radius: var(--radius-pill);
+  background: var(--surface-muted);
+  overflow: hidden;
+}
+
+.barFill {
+  height: 100%;
+  border-radius: var(--radius-pill);
+  background: var(--accent);
+}
+
+.pager {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  margin-top: var(--space-16);
+  color: var(--text-muted);
+  font-size: var(--text-caption);
+}

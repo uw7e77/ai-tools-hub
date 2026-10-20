@@ -2,6 +2,7 @@ import { ArrowRight, Check, PlayCircle, ThumbsDown, ThumbsUp, Wrench } from 'luc
 import { useMemo, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { AgentCard } from '../components/cards/AgentCard'
+import { AgentsSkeleton } from '../components/agents/AgentsSkeleton'
 import { NewsletterCTA } from '../components/home/NewsletterCTA'
 import { NewBadge, PricingBadge, TestedBadge } from '../components/ui/Badge'
 import { BookmarkButton } from '../components/ui/BookmarkButton'
@@ -14,6 +15,7 @@ import { FaqAccordion } from '../components/ui/FaqAccordion'
 import { agentDetails } from '../data/agentDetails'
 import { agentBySlug } from '../data/lookups'
 import { siteUrl } from '../data/site'
+import { useAgentDetailsReady } from '../features/db/useLazyDetails'
 import { usePageMeta } from '../features/seo/usePageMeta'
 import type { AgentSlug } from '../types'
 import css from './AgentDetailPage.module.css'
@@ -54,6 +56,7 @@ function HelpfulVote() {
 
 export default function AgentDetailPage() {
   const { slug } = useParams()
+  const detailsReady = useAgentDetailsReady()
   const agent = useMemo(() => (slug ? agentBySlug.get(slug as AgentSlug) : undefined), [slug])
   const detail = agent ? agentDetails[agent.slug] : undefined
   const alternatives = useMemo(() => {
@@ -82,6 +85,10 @@ export default function AgentDetailPage() {
     path: `/agent/${slug ?? ''}`,
     jsonLd,
   })
+
+  if (agent && !detailsReady) {
+    return <AgentsSkeleton />
+  }
 
   if (!agent) {
     return (
